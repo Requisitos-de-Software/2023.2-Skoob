@@ -28,6 +28,8 @@ theme:
     - navigation.section
 
 nav:
+  - Home:
+    - index.md
   - Planejamento:
     - planejamento/modelo_artefato_apresentação.md
 
