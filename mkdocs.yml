@@ -1,10 +1,15 @@
+repo_name: 2023.2-Grupo-06
+repo_url: https://github.com/Requisitos-de-Software/2023.2-Grupo06
+
 site_name: Grupo-06
+nav:
+  - Home: index.md
+  - Planejamento:
+    - "Modelo de Artefato de Apresentação": planejamento/modelo_artefato_apresentação.md
 
 theme:
   name: material
   language: pt
-  logo: img/logo.png
-  favicon: img/logo.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -26,12 +31,3 @@ theme:
   features:
     - tabs
     - navigation.section
-
-nav:
-  - Home: index.md
-  - Planejamento:
-    - "Modelo de Artefato de Apresentação": planejamento/modelo_artefato_apresentação.md
-
-
-repo_name: 2023.2-Grupo-06
-repo_url: https://github.com/Requisitos-de-Software/2023.2-Grupo06
