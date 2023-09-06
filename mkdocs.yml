@@ -1,7 +1,5 @@
-repo_name: 2023.2-Grupo-06
-repo_url: https://github.com/Requisitos-de-Software/2023.2-Grupo06
-
 site_name: Grupo-06
+site_url: https://github.com/Requisitos-de-Software/2023.2-Grupo06
 theme:
   name: material
   features:
