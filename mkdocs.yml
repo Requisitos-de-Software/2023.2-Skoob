@@ -2,21 +2,29 @@ repo_name: 2023.2-Grupo-06
 repo_url: https://github.com/Requisitos-de-Software/2023.2-Grupo06
 
 site_name: Grupo-06
-nav:
-  - Home: index.md
-  - Planejamento:
-    - "Modelo de Artefato de Apresentação": planejamento/modelo_artefato_apresentação.md
-
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
   language: pt
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: grey
+    - scheme: default
       toggle:
-        icon: material/brightness-7
-        name: Tema escuro
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -24,6 +32,12 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Tema claro
+#nav:
+ # - Home: index.md
+  #- Planejamento:
+   # - "Modelo de Artefato de Apresentação": planejamento/modelo_artefato_apresentação.md
+
+
   font:
     text: "Inter"
     code: "sans-serif"
