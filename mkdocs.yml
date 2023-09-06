@@ -1,5 +1,32 @@
 site_name: Grupo-06
 
+theme:
+  name: material
+  language: pt
+  logo: img/logo.png
+  favicon: img/logo.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: grey
+      toggle:
+        icon: material/brightness-7
+        name: Tema escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      toggle:
+        icon: material/brightness-4
+        name: Tema claro
+  font:
+    text: "Inter"
+    code: "sans-serif"
+
+  features:
+    - tabs
+    - navigation.section
+
 nav:
   - Planejamento:
     - planejamento/modelo_artefato_apresentação.md
