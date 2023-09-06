@@ -28,10 +28,10 @@ theme:
     - navigation.section
 
 nav:
-  - Home:
-    - index.md
+  - Home: index.md
   - Planejamento:
-    - planejamento/modelo_artefato_apresentação.md
+    - "Modelo de Artefato de Apresentação": planejamento/modelo_artefato_apresentação.md
+
 
 repo_name: 2023.2-Grupo-06
 repo_url: https://github.com/Requisitos-de-Software/2023.2-Grupo06
