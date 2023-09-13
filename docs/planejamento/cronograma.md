@@ -64,22 +64,21 @@ A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2 (Elicitaç
 </div>
 
 ### Ponto de Controle 3
-A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 2, além de seus autores, revisores e datas de entrega.
+A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de seus autores, revisores e datas de entrega.
 
 |           Atividade           | Entrega | Revisão |        Autor(es)         | Revisor(es)  |
 | :---------------------------: | :-----: | :-----: | :----------------------: | :----------: |
-|           Use case            |  17/09  |  18/09  |     Rafael Fernandes     |  Jefferson   |
-|            Léxico             |  17/09  |  18/09  |          Todos           |    Todos     |
-|           Use Case            |  17/09  |  18/09  |       Ana Caroline       |    Shaíne    |
-|   Especificação Suplementar   |  17/09  |  18/09  | Jefferson, Shaíne e Yago | Ana Caroline |
-|                               |  17/09  |  18/09  |    Jefferson e Shaíne    |     Yago     |
-|            GitPage            |  17/09  |  18/09  |          Rafael          |    Todos     |
-|             Atas              |  17/09  |  18/09  |           Yago           |    Todos     |
-| Rich Pictures dos Integrantes |  17/09  |  18/09  |       Ana e Rafael       |     Yago     |
-|     Cronograma Realizado      |  17/09  |  18/09  |    Jefferson e Shaíne    |     Yago     |
+|           Use case            |  10/10  |  12/10  |     Ana Caroline e Shaíne     |  Jefferson   |
+|            Especificação Suplementar             |  11/10  |  15/10  |          Yago           |    Rafael     |
+|           Cenários            | 20/10   |  21/10  |       Rafael       |    Shaíne    |
+|   Léxico   |  20/10  |  22/10  | Jefferson, Shaíne e Yago | Ana Caroline |
+|           Gravação do vídeo de apresentação            |  23/10  |  23/10   | Todos | Todos
+|           Revisão de artefatos           |  24/10  |  24/10  |          Todos          |    Todos     |
+
+
 
 <div style="text-align: center">
-<p> Tabela 4: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
+<p> Tabela 4: Ponto de controle 3. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
 
 ### Ponto de Controle 4
@@ -120,6 +119,21 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 2, além de 
 <p> Tabela 6: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
 </div>
 
+
+### Ponto de Controle 6
+A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 6, além de seus autores, revisores e datas de entrega.
+
+|           Atividade           | Entrega | Revisão |        Autor(es)         | Revisor(es)  |
+| :---------------------------: | :-----: | :-----: | :----------------------: | :----------: |
+|           Backward From           |  16/11  |  18/11  |     Ana Caroline e Shaíne     |  Jefferson, Rafael e Yago  |
+|            Forward From            |  17/11  |  19/11  |          Jefferson, Rafael e Yago           |    Ana Caroline e Shaíne     |
+|           Gravação do vídeo de apresentação           |  20/11  |  20/11  |       Todos       |    Todos    |
+|   Revisão de artefatos  |  20/11  |  20/11  | Todos | Todos |
+
+
+<div style="text-align: center">
+<p> Tabela 7: Ponto de controle 6. (Fonte: Shaíne Oliveira, 2023).</p>
+</div>
 ### Exemplo Imagem
 
 <a id="a" href="#aa">![image](img/imagem.png)</a>
@@ -135,5 +149,6 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 2, além de 
 
 | Versão | Data de execução | Data de revisão |      Descrição      |                                                 Autor(es)                                                 | Revisor(es)  |
 | :----: | :--------------: | :-------------: | :-----------------: | :-------------------------------------------------------------------------------------------------------: | :----------: |
-| `1.0`  |    11/09/2023    |   16/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6), [Shaíne]() e [Yago Passos](https://github.com/yagompassos) | Ana Caroline |
+| `1.0`  |    11/09/2023    |   16/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6), [Shaíne](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) | Ana Caroline |
+| `1.1`  |    12/09/2023    |   16/09/2023    | Atualização dos cronogramas de ponto de controle | [Shaíne](https://github.com/ShaineOliveira) | Rafael |
 
