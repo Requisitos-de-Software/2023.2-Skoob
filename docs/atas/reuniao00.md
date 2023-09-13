@@ -17,7 +17,7 @@ Os artefatos da primeira entrega, que compõem o [Planejamento do Projeto](link)
 |  Heatmap  |  17/09   | [Jefferson](https://github.com/Frans6), [Yago](https://github.com/yagompassos) e [Shaine]()  |
 |Cronograma|  17/09  | [Jefferson](https://github.com/Frans6), [Yago](https://github.com/yagompassos) e [Shaine]() | 
 |Ferramentas |  17/09  |   [Ana]()   |
-|Apps individuais|  17/09  |   [Ana]() e [Rafael]()   |
+|Apps individuais|  17/09  |   [Ana]() e [Rafael](https://github.com/Rafael-gc)   |
 |Atas das reuniões|  17/09  |   [Yago](https://github.com/yagompassos)   |
 |Página das apresentações|  17/09  |   [Shaine]()   |
 |Metodologia e Política de commit|  17/09  |   [Jefferson](https://github.com/Frans6) e [Yago](https://github.com/yagompassos)   |
@@ -28,10 +28,10 @@ Os artefatos da primeira entrega, que compõem o [Planejamento do Projeto](link)
 
 ## Dados da reunião
 ### Participantes
-- Ana Caroline Campos Rocha
+- [Ana Caroline Campos Rocha](https://github.com/anaaroch)
 - [Jefferson França Santos](https://github.com/Frans6)
-- Rafael Fernandes Amancio
-- Shaine Aparecida Cardoso de Oliveira
+- [Rafael Fernandes Amancio](https://github.com/Rafael-gc)
+- [Shaine Aparecida Cardoso de Oliveira](https://github.com/shaineOliveira)
 - [Yago Milagres Passos](https://github.com/yagompassos)
 
 ### Data e Horário
