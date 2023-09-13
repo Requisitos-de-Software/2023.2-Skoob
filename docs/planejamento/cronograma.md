@@ -150,5 +150,5 @@ A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 | Versão | Data de execução | Data de revisão |      Descrição      |                                                 Autor(es)                                                 | Revisor(es)  |
 | :----: | :--------------: | :-------------: | :-----------------: | :-------------------------------------------------------------------------------------------------------: | :----------: |
 | `1.0`  |    11/09/2023    |   16/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6), [Shaíne](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) | Ana Caroline |
-| `1.1`  |    12/09/2023    |   16/09/2023    | Atualização dos cronogramas de ponto de controle | [Shaíne](https://github.com/ShaineOliveira) | Rafael |
+| `1.1`  |    12/09/2023    |   16/09/2023    | Atualização dos cronogramas de ponto de controle 3 e 6 | [Shaíne](https://github.com/ShaineOliveira) | Rafael |
 
