@@ -23,7 +23,7 @@ Seguir este cronograma nos ajudará a nos prepararmos adequadamente para cumprir
 
 
 <div style="text-align: center">
-<p> Tabela 1: Cronograma geral. (Fonte: Jefferson França, 2023).</p>
+<p> Tabela 1: Cronograma geral. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
 
 ### Ponto de Controle 1
@@ -50,15 +50,15 @@ Seguir este cronograma nos ajudará a nos prepararmos adequadamente para cumprir
 ### Ponto de Controle 2
 A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2 (Elicitação – Técnicas e Priorização), além de seus autores, revisores e datas de entrega.
 
-|                Atividade                | Entrega | Revisão |        Autor(es)         | Revisor(es)  |
-| :-------------------------------------: | :-----: | :-----: | :----------------------: | :----------: |
-|           Perfil dos usuários           |  17/09  |  18/09  |         Rafael e         |  Jefferson   |
-|         Técnicas de elecitação          |  17/09  |  18/09  |          Todos           |    Todos     |
-|       Técnicas priorização usadas       |  17/09  |  18/09  |          Ana e           |    Shaíne    |
-|        Especificação Suplementar        |  17/09  |  18/09  | Jefferson, Shaíne e Yago | Ana Caroline |
-|             Atas de reunião             |  17/09  |  18/09  |           Yago           |    Todos     |
-|        Gravação da apresentação         |  17/09  |  18/09  |       Ana e Rafael       |     Yago     |
-| Correções do ponto de controle anterior |  17/09  |  18/09  |    Jefferson e Shaíne    |     Yago     |
+|                Atividade                | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+| :-------------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
+|             Atas de reunião             |  17/09  |  18/09  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+| Correções do ponto de controle anterior |  17/09  |  18/09  |               Jefferson e Shaíne               |                      Yago                      |
+|        Especificação Suplementar        |  17/09  |  18/09  |                   Ana e Yago                   |                  Ana Caroline                  |
+|           Perfil dos usuários           |  17/09  |  18/09  |                 Rafael e Yago                  |                   Jefferson                    |
+|         Técnicas de elicitação          |  17/09  |  18/09  |                Jefferson e Ana                 | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|       Técnicas priorização usadas       |  17/09  |  18/09  |                Shaíne e Rafael                 |                     Shaíne                     |
+|          Vídeo de apresentação          |  17/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 
 <div style="text-align: center">
 <p> Tabela 3: Cronograma detalhado da segunda entrega. (Fonte: Jefferson França, 2023).</p>
@@ -67,16 +67,14 @@ A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2 (Elicitaç
 ### Ponto de Controle 3
 A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de seus autores, revisores e datas de entrega.
 
-|             Atividade             | Entrega | Revisão |        Autor(es)         | Revisor(es)  |
-| :-------------------------------: | :-----: | :-----: | :----------------------: | :----------: |
-|             Use case              |  10/10  |  12/10  |  Ana Caroline e Shaíne   |  Jefferson   |
-|     Especificação Suplementar     |  11/10  |  15/10  |           Yago           |    Rafael    |
-|             Cenários              |  20/10  |  21/10  |          Rafael          |    Shaíne    |
-|              Léxico               |  20/10  |  22/10  | Jefferson, Shaíne e Yago | Ana Caroline |
-| Gravação do vídeo de apresentação |  23/10  |  23/10  |          Todos           |    Todos     |
-|       Revisão de artefatos        |  24/10  |  24/10  |          Todos           |    Todos     |
-
-
+|                Atividade                | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+| :-------------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
+|              Casos de uso               |  10/10  |  12/10  |             Ana Caroline e Shaíne              |                   Jefferson                    |
+|                Cenários                 |  20/10  |  21/10  |                     Rafael                     |                     Shaíne                     |
+| Correções do ponto de controle anterior |  24/10  |  24/10  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|        Especificação Suplementar        |  11/10  |  15/10  |                      Yago                      |                     Rafael                     |
+|                 Léxico                  |  20/10  |  22/10  |            Jefferson, Shaíne e Yago            |                  Ana Caroline                  |
+|          Vídeo de apresentação          |  23/10  |  23/10  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 
 <div style="text-align: center">
 <p> Tabela 4: Cronograma detalhado da terceira entrega. (Fonte: Shaíne Oliveira, 2023).</p>
@@ -88,7 +86,7 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 2, além de 
 |       Atividade       | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :-------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |         Atas          |  17/09  |  18/09  |                      Yago                      |                  Ana Caroline                  |
-|        Backlog        |  17/09  |  18/09  |            Jefferson e Ana Caroline            |                     Todos                      |
+|        Backlog        |  17/09  |  18/09  |            Jefferson e Ana Caroline            | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 |     NFR Framework     |  17/09  |  18/09  |                 Rafael e Yago                  |                     Shaíne                     |
 |        GitPage        |  17/09  |  18/09  |                     Rafael                     | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 | Histórias de usuário  |  17/09  |  18/09  |            Ana, Jefferson e Shaíne             |                   Jefferson                    |
@@ -99,35 +97,35 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 2, além de 
 <p> Tabela 5: Cronograma detalhado da quarta entrega. (Fonte: Jefferson França, 2023).</p>
 </div>
 
-### Ponto de Controle 5
+### Ponto de Controle 5.1
 A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 2, além de seus autores, revisores e datas de entrega.
 
-|           Atividade           | Entrega | Revisão |        Autor(es)         | Revisor(es)  |
-| :---------------------------: | :-----: | :-----: | :----------------------: | :----------: |
-|           Cenários            |  17/09  |  18/09  |     Rafael Fernandes     |  Jefferson   |
-|            Léxico             |  17/09  |  18/09  |          Todos           |    Todos     |
-|           Use Case            |  17/09  |  18/09  |       Ana Caroline       |    Shaíne    |
-|   Especificação Suplementar   |  17/09  |  18/09  | Jefferson, Shaíne e Yago | Ana Caroline |
-|                               |  17/09  |  18/09  |    Jefferson e Shaíne    |     Yago     |
-|            GitPage            |  17/09  |  18/09  |          Rafael          |    Todos     |
-|             Atas              |  17/09  |  18/09  |           Yago           |    Todos     |
-| Rich Pictures dos Integrantes |  17/09  |  18/09  |       Ana e Rafael       |     Yago     |
-|     Cronograma Realizado      |  17/09  |  18/09  |    Jefferson e Shaíne    |     Yago     |
+|           Atividade           | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+| :---------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
+|           Cenários            |  17/09  |  18/09  |                Rafael Fernandes                |                   Jefferson                    |
+|            Léxico             |  17/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|           Use Case            |  17/09  |  18/09  |                  Ana Caroline                  |                     Shaíne                     |
+|   Especificação Suplementar   |  17/09  |  18/09  |            Jefferson, Shaíne e Yago            |                  Ana Caroline                  |
+|                               |  17/09  |  18/09  |               Jefferson e Shaíne               |                      Yago                      |
+|            GitPage            |  17/09  |  18/09  |                     Rafael                     | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|             Atas              |  17/09  |  18/09  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+| Rich Pictures dos Integrantes |  17/09  |  18/09  |                  Ana e Rafael                  |                      Yago                      |
+|     Cronograma Realizado      |  17/09  |  18/09  |               Jefferson e Shaíne               |                      Yago                      |
 
 <div style="text-align: center">
 <p> Tabela 6: Cronograma detalhado da sexta entrega. (Fonte: Jefferson França, 2023).</p>
 </div>
 
 
-### Ponto de Controle 6
+### Ponto de Controle 5.2
 A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 6, além de seus autores, revisores e datas de entrega.
 
-|             Atividade             | Entrega | Revisão |        Autor(es)         |       Revisor(es)        |
-| :-------------------------------: | :-----: | :-----: | :----------------------: | :----------------------: |
-|           Backward From           |  16/11  |  18/11  |  Ana Caroline e Shaíne   | Jefferson, Rafael e Yago |
-|           Forward From            |  17/11  |  19/11  | Jefferson, Rafael e Yago |  Ana Caroline e Shaíne   |
-| Gravação do vídeo de apresentação |  20/11  |  20/11  |          Todos           |          Todos           |
-|       Revisão de artefatos        |  20/11  |  20/11  |          Todos           |          Todos           |
+|       Atividade       | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+| :-------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
+|     Backward From     |  16/11  |  18/11  |             Ana Caroline e Shaíne              |            Jefferson, Rafael e Yago            |
+|     Forward From      |  17/11  |  19/11  |            Jefferson, Rafael e Yago            |             Ana Caroline e Shaíne              |
+| Revisão de artefatos  |  20/11  |  20/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+| Vídeo de apresentação |  20/11  |  20/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 
 
 <div style="text-align: center">
