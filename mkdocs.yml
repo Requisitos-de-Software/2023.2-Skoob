@@ -10,3 +10,6 @@ nav:
   - Atas: 
     - Reunião 00: atas/reuniao00.md
     - Reunião 01: atas/reuniao01.md
+  - Planejamento:
+    - Ferramentas: planejamento/ferramentas.md
+    - Lista de Aplicativos: planejamento/lista_de_aplicativos.md
