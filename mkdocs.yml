@@ -7,6 +7,7 @@ theme:
         - navigation.tabs
 
 nav:
+  - Início: index.md
   - Atas: 
     - Reunião 00: atas/reuniao00.md
     - Reunião 01: atas/reuniao01.md
