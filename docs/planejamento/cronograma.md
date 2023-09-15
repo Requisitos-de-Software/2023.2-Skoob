@@ -54,6 +54,7 @@ A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2 (Elicitaç
 | :-------------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |             Atas de reunião             |  02/10  |  03/10  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 | Correções do ponto de controle anterior |  02/10  |  03/10  |               Jefferson e Shaíne               |                      Yago                      |
+|          Cronograma Realizado           |  02/10  |  03/10  |               Jefferson e Shaíne               |                     Rafael                     |
 |        Especificação Suplementar        |  02/10  |  03/10  |                   Ana e Yago                   |                  Ana Caroline                  |
 |           Perfil dos usuários           |  02/10  |  03/10  |                 Rafael e Yago                  |                   Jefferson                    |
 |         Técnicas de elicitação          |  02/10  |  03/10  |                Jefferson e Ana                 | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
@@ -85,12 +86,12 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de 
 
 |       Atividade       | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :-------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
-|         Atas          |  17/09  |  18/09  |                      Yago                      |                  Ana Caroline                  |
-|        Backlog        |  17/09  |  18/09  |            Jefferson e Ana Caroline            | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-|     NFR Framework     |  17/09  |  18/09  |                 Rafael e Yago                  |                     Shaíne                     |
-|        GitPage        |  17/09  |  18/09  |                     Rafael                     | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-| Histórias de usuário  |  17/09  |  18/09  |            Ana, Jefferson e Shaíne             |                   Jefferson                    |
-| Vídeo de apresentação |  18/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|         Atas          |  03/11  |  04/11  |                      Yago                      |                  Ana Caroline                  |
+|        Backlog        |  03/11  |  04/11  |            Jefferson e Ana Caroline            |                     Shaíne                     |
+|        GitPage        |  03/11  |  04/11  |                     Shaíne                     | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+| Histórias de usuário  |  03/11  |  04/11  |            Ana, Jefferson e Shaíne             |                   Jefferson                    |
+|     NFR Framework     |  03/11  |  04/11  |                 Rafael e Yago                  |                      Yago                      |
+| Vídeo de apresentação |  03/11  |  04/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 
 
 <div style="text-align: center">
@@ -102,9 +103,9 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além d
 
 |           Atividade           | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :---------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
-| Verificação dos Requisistos 1 |  10/11  |  11/11  |          Jefferson, Ana e Rafael               |                 Rafael e Yago                  |
-|   Validação de requisitos 1   |  10/11  |  11/11  |               Shaine e Yago                    |             Jefferson, Ana e Shaine            |
-|    Vídeo de apresentação      |  10/11  |  11/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+| Verificação dos Requisistos 1 |  10/11  |  11/11  |            Jefferson, Ana e Rafael             |                 Rafael e Yago                  |
+|   Validação de requisitos 1   |  10/11  |  11/11  |                 Shaine e Yago                  |            Jefferson, Ana e Shaine             |
+|     Vídeo de apresentação     |  10/11  |  11/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 |     Revisão de artefatos      |  10/11  |  11/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 
 <div style="text-align: center">
@@ -117,9 +118,9 @@ A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além d
 
 |           Atividade           | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :---------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
-| Verificação dos Requisistos 1 |  27/11  |  28/11  |             Rafael, Ana e Shaine               |                Rafael e Yago                   |
-|   Validação de requisitos 1   |  27/11  |  28/11  |              Jefferson e Yago                  |            Jefferson, Ana e Shaine             |
-|    Vídeo de apresentação      |  27/11  |  28/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+| Verificação dos Requisistos 1 |  27/11  |  28/11  |              Rafael, Ana e Shaine              |                 Rafael e Yago                  |
+|   Validação de requisitos 1   |  27/11  |  28/11  |                Jefferson e Yago                |            Jefferson, Ana e Shaine             |
+|     Vídeo de apresentação     |  27/11  |  28/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 |     Revisão de artefatos      |  27/11  |  28/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 
 
@@ -132,7 +133,7 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 
 |       Atividade       | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :-------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
-|     Backward From     |  16/11  |  18/11  |            Ana Caroline, Shaíne e Yago         |            Jefferson, Rafael e Yago            |
+|     Backward From     |  16/11  |  18/11  |          Ana Caroline, Shaíne e Yago           |            Jefferson, Rafael e Yago            |
 |     Forward From      |  17/11  |  19/11  |               Jefferson, Rafael                |             Ana Caroline e Shaíne              |
 | Revisão de artefatos  |  20/11  |  20/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 | Vídeo de apresentação |  20/11  |  20/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
@@ -142,11 +143,15 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 <p> Tabela 8: Cronograma detalhado da entrega final. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
 
-### Exemplo Imagem
+### Heatmap
 
-<a id="a" href="#aa">![image](img/imagem.png)</a>
+Na Figura 1, apresentamos a disponibilidade dos membros do grupo para reuniões eventuais. Utilizamos um heatmap para auxiliar na seleção do horário mais adequado para as reuniões.
+
+As reuniões foram agendadas para todas as segundas-feiras às 21:30h, visando a discussão de pontos importantes relacionados ao projeto.
+
+<a id="a" href="#aa">![image](img/heatmap.png)</a>
 <div style="text-align: center">
-<p>Figura 1 - Exemplo de Imagem. (Fonte: Jefferson França. 2023)</p>
+<p>Figura 1 - Disponibilidade dos integrantes, Heatmap. (Fonte: Jefferson França. 2023)</p>
 </div>
 
 ## Bibliografia
@@ -159,3 +164,4 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 | :----: | :--------------: | :-------------: | :----------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :----------: |
 | `1.0`  |    11/09/2023    |   16/09/2023    |                  Criação do artefato                   | [Jefferson França](https://github.com/Frans6), [Shaíne](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) | Ana Caroline |
 | `1.1`  |    12/09/2023    |   16/09/2023    | Atualização dos cronogramas de ponto de controle 3 e 6 |                                                [Shaíne](https://github.com/ShaineOliveira)                                                 |    Rafael    |
+| `1.2`  |    15/09/2023    |   16/09/2023    |    Atualização dos cronogramas e adição do heatmap     |                       [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos)                        |    Rafael    |
