@@ -48,7 +48,7 @@ O Skoob é uma plataforma de mídia social dedicada aos amantes da leitura, perm
 </center>
 
 
-<div style="text-align: left">
+<div style="text-align: center">
   <p> Tabela 1: Equipe de trabalho (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
 
