@@ -1,4 +1,4 @@
-# Ata 06/09
+# Ata de reunião - 06/09
 
 ## Introdução
 Essa ata compreende os temas abordados na reunião do dia 06/09, que tinha como intuito discutir o planejamento do projeto e a primeia entrega do trabalho.
@@ -44,4 +44,4 @@ Os artefatos da primeira entrega, que compõem o [Planejamento do Projeto](link)
 
 | Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    06/09/2023    |   19/05/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | - |
+| `1.0`  |    06/09/2023    |   19/05/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |

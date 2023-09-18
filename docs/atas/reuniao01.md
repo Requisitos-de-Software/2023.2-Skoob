@@ -1,6 +1,6 @@
-# Ata 12/09
+# Ata de Reunião - 12/09
 
-## Introdução
+## Introdução e Objetivo
 Essa ata compreende os temas abordados na reunião do dia 12/09, que tinha como intuito discutir os aplicativos estudados individualmente, entre aqueles que os estudantes fizeram o Rich Picture, qual seria o escolhido para o projeto em equipe.
 
 ## Discussão
@@ -35,9 +35,17 @@ A chamada se estendeu para que os alunos Shaine, Jefferson e Yago pudessem desen
 - Início de reunião: 20:40h
 - Fim de reunião: 21:01h
 
+## Gravação da Reunião
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/watch?v=Vmhu8fMmJvw" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div style="text-align: center">
+<p> Vídeo 1: Gravação da Reunião. (Fonte: Grupo 6. 2023).</p>
+</div>
+
 
 ## Histórico de Versão
 
 | Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    12/09/2023    |   19/05/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | - |
+| `1.0`  |    12/09/2023    |   19/05/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |
