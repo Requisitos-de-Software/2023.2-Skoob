@@ -8,6 +8,9 @@ theme:
 
 nav:
   - Início: index.md
+  - Planejamento: 
+    - Cronograma: planejamento/cronograma.md
+    - Feramentas: planejamento/ferramentas.md
   - Atas: 
     - Reunião 00: atas/reuniao00.md
     - Reunião 01: atas/reuniao01.md
