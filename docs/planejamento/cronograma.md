@@ -39,7 +39,7 @@ Seguir este cronograma nos ajudará a nos prepararmos adequadamente para cumprir
 |             GitPage              |  17/09  |  18/09  |                     Rafael                     | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 |             Heatmap              |  17/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 |   Modelo Padrão para Artefatos   |  17/09  |  18/09  |                   Jefferson                    |                     Shaíne                     |
-| Metodologia e Política de Commit |  17/09  |  18/09  |                Jefferson e Yago                |                   Jefferson                    |
+| Metodologia e Política de Commit |  17/09  |  18/09  |                Jefferson e Yago                |                  Ana Caroline                  |
 |  Rich Pictures dos Integrantes   |  17/09  |  18/09  |                  Ana e Rafael                  |                      Yago                      |
 |      Vídeo de apresentação       |  18/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 
