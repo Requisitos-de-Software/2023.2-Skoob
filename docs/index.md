@@ -1,10 +1,8 @@
-# Sobre
+# Skoob
 
-Aqui ficarão as informações sobre o projeto.
+O Skoob é uma plataforma de mídia social dedicada aos amantes da leitura, permitindo que você organize sua coleção de livros, classificando-os como "para ler", "em leitura" ou "lidos". Além disso, você tem a possibilidade de estabelecer metas de leitura, registrar seu histórico de leituras, escrever resenhas detalhadas e atribuir avaliações aos livros, entre outras funcionalidades.
 
 ## Equipe
-
-Aqui ficarão as informações sobre os integrantes.
 
 <center>
 <table style="margin-left: auto; margin-right: auto;">
@@ -54,3 +52,4 @@ Aqui ficarão as informações sobre os integrantes.
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 07/09/2023 | `1.0`  | Versão inicial de documento | [Rafael Fernandes](https://github.com/Rafael-gc) | 15/09/2023 | [Shaíne Oliveira](https://github.com/ShaineOliveira) |
 | 15/09/2023 | `1.1`  | Atualização de documento | [Shaíne Oliveira](https://github.com/ShaineOliveira) | 17/09/2023 | [Ana Caroline](https://github.com/anaaroch) |
+| 18/09/2023 | `1.2`  | Atualizando nome do projeto | [Shaíne Oliveira](https://github.com/ShaineOliveira) | 18/09/2023 | [Ana Caroline](https://github.com/anaaroch) |
