@@ -14,7 +14,8 @@ theme:
 nav:
   - Início: index.md
   - Planejamento: 
-    - Cronograma: planejamento/cronograma.md
+    - Cronograma planejado: planejamento/cronograma.md
+    - Cronograma executado: planejamento/cronograma_executado.md
     - Feramentas: planejamento/ferramentas.md
   - Atas: 
     - Reunião 00: atas/reuniao00.md
