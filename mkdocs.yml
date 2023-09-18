@@ -22,7 +22,10 @@ theme:
   
   name: material
   features:
+    - toc.integrate
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
 
 nav:
   - Início: index.md
