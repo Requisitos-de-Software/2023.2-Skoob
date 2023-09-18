@@ -2,9 +2,14 @@ site_name: Skoob
 repo_url: https://github.com/Requisitos-de-Software/2023.2-Skoob
 
 theme:
+  palette:
+    - primary: blue
+
+  logo: planejamento/img/logos/skoob2.png
+  
   name: material
   features:
-        - navigation.tabs
+    - navigation.tabs
 
 nav:
   - Início: index.md
