@@ -37,7 +37,7 @@ A chamada se estendeu para que os alunos Shaine, Jefferson e Yago pudessem desen
 
 ## Gravação da Reunião
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/watch?v=Vmhu8fMmJvw" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Vmhu8fMmJvw" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <div style="text-align: center">
 <p> Vídeo 1: Gravação da Reunião. (Fonte: Grupo 6. 2023).</p>
