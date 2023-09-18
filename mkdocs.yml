@@ -1,15 +1,23 @@
-site_name: Grupo-06
-repo_url: https://github.com/Requisitos-de-Software/2023.2-Grupo06
+site_name: Skoob
+repo_url: https://github.com/Requisitos-de-Software/2023.2-Skoob
 
 theme:
+  palette:
+    - primary: blue
+
+  logo: planejamento/img/logos/skoob2.png
+  
   name: material
   features:
-        - navigation.tabs
+    - navigation.tabs
 
 nav:
+  - Início: index.md
+  - Planejamento: 
+    - Cronograma planejado: planejamento/cronograma.md
+    - Cronograma executado: planejamento/cronograma_executado.md
+    - Feramentas: planejamento/ferramentas.md
+    - Lista de Aplicativos: planejamento/lista_de_aplicativos.md
   - Atas: 
     - Reunião 00: atas/reuniao00.md
     - Reunião 01: atas/reuniao01.md
-  - Planejamento:
-    - Ferramentas: planejamento/ferramentas.md
-    - Lista de Aplicativos: planejamento/lista_de_aplicativos.md
