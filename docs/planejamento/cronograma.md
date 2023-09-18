@@ -17,7 +17,7 @@ Seguir este cronograma nos ajudará a nos prepararmos adequadamente para cumprir
 | 3     | Modelagem de requisitos        | Cenários, léxicos, use case e especificação suplementar      | 25/10   | 26/10         |
 | 4     | Modelagem de requisitos - Ágil | Histórias de usuários, backlogs, NFR, framework              | 06/11   | 07/11         |
 | 5.1   | Análise de requisitos          | Verificação e validação I - Grupo + 1                        | 13/11   | 14/11         |
-| 5.2   | Análise de requistos           | Verificação e validação II                                   | 29/11   | 30/           |
+| 5.2   | Análise de requistos           | Verificação e validação II                                   | 29/11   | 30/11         |
 | 6     | Pós-Rastreabilidade            | Gerência II                                                  | 20/11   | 21/11         |
 | 7     | Entrega final                  | Projeto finalizado                                           | 06/12   | 07/12 - 19/12 |
 
