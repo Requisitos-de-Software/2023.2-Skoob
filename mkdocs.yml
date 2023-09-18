@@ -1,9 +1,22 @@
+repo_name: 2023.2-Skoobs
 site_name: Skoob
 repo_url: https://github.com/Requisitos-de-Software/2023.2-Skoob
 
 theme:
   palette:
-    - primary: blue
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+
+  # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/weather-night
+        name: Light mode
 
   logo: planejamento/img/logos/skoob2.png
   
