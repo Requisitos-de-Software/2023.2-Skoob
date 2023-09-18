@@ -4,20 +4,31 @@
 
 A escolha da metodologia de desenvolvimento de software é um passo crítico. Cada metodologia tem suas próprias abordagens e práticas, e a escolha certa deve se basear nas necessidades do projeto e na equipe. Essa decisão afeta diretamente como a equipe trabalha, colabora e se adapta às mudanças durante o desenvolvimento. Portanto, a seleção da metodologia é um artefato crucial para o sucesso do projeto.
 
-## SCRUM
+## A metodologia
 
-Nosso projeto adota a metodologia Scrum, que se baseia em um conjunto de práticas eficazes para o desenvolvimento. Essa abordagem permite que nossa equipe conduza o projeto de forma ágil, sem a necessidade de dominar todas as etapas de uma só vez. Em vez disso, dividimos o projeto em ciclos chamados sprints. Cada sprint é composto por um conjunto de atividades que devem ser concluídas dentro de um prazo determinado. Essa estratégia nos permite ser flexíveis e ágeis nas entregas, adaptando-nos às mudanças à medida que surgem.
+Tendo tudo isso em vista, escolhemos adotar uma adaptação da metodologia Scrum. Essa metodologia se baseia em um conjunto de práticas eficazes para o desenvolvimento. Essa abordagem permite que nossa equipe conduza o projeto de forma ágil, sem a necessidade de dominar todas as etapas de uma só vez. Em vez disso, dividimos o projeto em ciclos chamados sprints. Cada sprint é composto por um conjunto de atividades que devem ser concluídas dentro de um prazo determinado. Essa estratégia nos permite ser flexíveis e ágeis nas entregas, adaptando-nos às mudanças à medida que surgem.
 
-Optamos por adotar uma abordagem Scrum adaptada em nosso projeto, reconhecendo que, embora o Scrum seja uma metodologia valiosa, não o seguiremos rigidamente. Continuaremos a seguir os princípios fundamentais do Scrum, mas com a liberdade de ajustar as práticas e processos conforme necessário para atingir nossos objetivos de maneira eficaz e eficiente.
+### Scrum Adaptado
 
-###
+Ao adaptar o Scrum em nosso projeto, reconhecemos que, embora o Scrum seja uma metodologia valiosa, não há possibilidade de encaixar todas suas características com o projeto da matéria e, portanto, não o seguiremos rigidamente. Continuaremos a seguir os princípios fundamentais do Scrum, mas com a liberdade de ajustar as práticas e processos conforme necessário para atingir nossos objetivos de maneira eficaz e eficiente.
+
+As principais características a serem seguidas viementemente são [2]: 
+- Divisão das entregas em Sprints;
+- Descrição de um [Backlog]() do produto;
+- Utilização de ferramenta de quadro estilo Kanban;
+- Papéis de Scrum Master e Product Owner.
+
+Contudo, os principais fundamentos e indicações que não serão implementadas no projeto [2]:
+- Reuniões em Dailys e Stand-ups;
+- Métricas de Scrum como tabela de conhecimento ou de satisfação.
 
 ## Bibliografia
 
-<a id="aa" href="#a">[1]</a> IMAGEM. Disponível em: [Imagem](https://pt.wikipedia.org/wiki/Imagem). Acesso em: 05 de Setembro de 2023.
+<a id="aa" href="#https://www.atlassian.com/br/agile/scrum">[2]</a> O QUE É O SCRUM E COMO COMEÇAR. Disponível em: https://www.atlassian.com/br/agile/scrum. Acesso em: 18 de Setembro de 2023.
 
 ## Histórico de Versão
 
 | Versão | Data de execução | Data de revisão |              Descrição              |                                           Autor(es)                                           |                 Revisor(es)                 |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------: |
-| `1.0`  |    18/09/2023    |   18/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) | [Shaíne](https://github.com/ShaineOliveira) |
+| `1.0`  |    18/09/2023    |   18/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6)  | [Shaíne](https://github.com/ShaineOliveira) |
+| `1.1`  |    18/09/2023    |   18/09/2023    | Seção de Scrum Adaptado |  [Yago Passos](https://github.com/yagompassos) | [Shaíne](https://github.com/ShaineOliveira) |
