@@ -24,11 +24,21 @@ Após as pesquisas e desenvolvimentos individuais, nos reunimos para realizar um
 Na Figura 1, apresentamos uma visualização do [termo de consentimento](img/Termo_de_Consentimento.pdf) do Skoob. Este documento nos permite compreender que é possível utilizar o aplicativo como base para a execução do projeto.
 
 <div style="text-align: center;">
-  <img src="img/termodeconsentimento.png" alt="image">
+  <img src="../img/termodeconsentimento.png" alt="image">
 </div>
 
 <div style="text-align: center;">
-  <p>Figura 1 - Exemplo de Imagem. (Fonte: Jefferson França. 2023)</p>
+  <p>Figura 1 - Termo de Consentimento. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+Na Figura 2, apresenta-se o "rich picture" que foi elaborado para proporcionar uma compreensão melhor do funcionamento do aplicativo.
+
+<div style="text-align: center;">
+  <img src="../img/rich_pictures/rich_skoob_ana.png" alt="image">
+</div>
+
+<div style="text-align: center;">
+  <p>Figura 1 - Rich Picture aplicativo Skoob. (Fonte: Jefferson França. 2023)</p>
 </div>
 
 ## Bibliografia
