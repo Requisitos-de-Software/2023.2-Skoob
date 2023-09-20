@@ -1,6 +1,6 @@
 # Skoob
 
-O Skoob é uma rede social voltada para leitores no Brasil, que permite que o usuário organize os livros, classificando-os como "para ler", "em leitura", "lidos", "relendo" e "abandonados", de tal forma a criar uma estante virtual personalizada. O usuário também tem a possibilidade de estabelecer metas de leitura, registrar seu histórico de leitura, escrever resenhas detalhadas e atribuir avaliações aos livros, entre outras funcionalidades. Atualmente, o Skoob conta com mais de 8 milhões de usuários cadastrados, sendo disponibilizado gratuitamente para iOS <a id="aa" href="#aa">[1]</a> e Android <a id="aa" href="#bb">[2]</a>, além de ser acessível através do site <a id="aa" href="#cc">[3]</a>. 
+O Skoob é uma rede social voltada para leitores no Brasil, que permite que o usuário organize os livros, classificando-os como "para ler", "em leitura", "lidos", "relendo" e "abandonados", de tal forma a criar uma estante virtual personalizada. O usuário também tem a possibilidade de estabelecer metas de leitura, registrar seu histórico de leitura, escrever resenhas detalhadas e atribuir avaliações aos livros, entre outras funcionalidades. Atualmente, o Skoob conta com mais de 8 milhões de usuários cadastrados, sendo disponibilizado gratuitamente para iOS <a href="#aa">[1]</a> e Android <a href="#bb">[2]</a>, além de ser acessível através do site <a href="#cc">[3]</a>. 
 
 
 <div align="center">
