@@ -1,6 +1,6 @@
 # Skoob
 
-O Skoob é uma rede social voltada para leitores no Brasil, que permite que o usuário organize os livros, classificando-os como "para ler", "em leitura", "lidos", "relendo" e "abandonados", de tal forma a criar uma estante virtual personalizada. O usuário também tem a possibilidade de estabelecer metas de leitura, registrar seu histórico de leitura, escrever resenhas detalhadas e atribuir avaliações aos livros, entre outras funcionalidades. Atualmente, o Skoob conta com mais de 8 milhões de usuários cadastrados, sendo disponibilizado gratuitamente para iOS <a id="aa" href="https://apps.apple.com/br/app/skoob-organize-suas-leituras/id904670263">[1]</a> e Android <a id="aa" href="https://play.google.com/store/apps/details?id=com.gaudium.skoob">[2]</a>, além de ser acessível através do site <a id="aa" href="https://www.skoob.com.br/">[3]</a>. 
+O Skoob é uma rede social voltada para leitores no Brasil, que permite que o usuário organize os livros, classificando-os como "para ler", "em leitura", "lidos", "relendo" e "abandonados", de tal forma a criar uma estante virtual personalizada. O usuário também tem a possibilidade de estabelecer metas de leitura, registrar seu histórico de leitura, escrever resenhas detalhadas e atribuir avaliações aos livros, entre outras funcionalidades. Atualmente, o Skoob conta com mais de 8 milhões de usuários cadastrados, sendo disponibilizado gratuitamente para iOS <a id="aa" href="#aa">[1]</a> e Android <a id="aa" href="#bb">[2]</a>, além de ser acessível através do site <a id="aa" href="#cc">[3]</a>. 
 
 
 <div align="center">
@@ -56,8 +56,8 @@ Na figura 3, apresenta-se a legenda do rich picture do aplicativo escolhido para
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> SKOOB IOS. Disponível em: [App Store](https://apps.apple.com/br/app/skoob-organize-suas-leituras/id904670263). Acesso em: 20 de Setembro de 2023.<br>
-<a id="aa" href="#a">[2]</a> SKOOB ANDROID. Disponível em: [Google Play](https://play.google.com/store/apps/details?id=com.gaudium.skoob). Acesso em: 15 de Setembro de 2023.<br>
-<a id="aa" href="#a">[3]</a> SKOOB SITE. Disponível em: [Skoob](https://www.skoob.com.br/). Acesso em: 20 de Setembro de 2023.<br>
+<a id="bb" href="#a">[2]</a> SKOOB ANDROID. Disponível em: [Google Play](https://play.google.com/store/apps/details?id=com.gaudium.skoob). Acesso em: 15 de Setembro de 2023.<br>
+<a id="cc" href="#a">[3]</a> SKOOB SITE. Disponível em: [Skoob](https://www.skoob.com.br/). Acesso em: 20 de Setembro de 2023.<br>
 
 
 ## Histórico de Versão
