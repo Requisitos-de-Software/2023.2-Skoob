@@ -7,7 +7,7 @@ Essa ata compreende os temas abordados na reunião do dia 06/09, que tinha como 
 Nessa reunião foi decidido uma data fixa na semana para as reuniões semanais. As reuniões da equipe ocorrerão todas as segundas-feiras às 21h até o final da última entrega. Alterações nessa reunião ou 
 outras reuniões podem surgir em outras datas conforme a necessidade.
 
-Os artefatos da primeira entrega, que compõem o [Planejamento do Projeto](link) foram discutidos e os autores foram decididos conforme a tabela a seguir:
+Os artefatos da primeira entrega, que compõem o [Planejamento do Projeto](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma/) foram discutidos e os autores foram decididos conforme a tabela a seguir:
 
 ### Divisão de tarefas
 

@@ -1,7 +1,7 @@
 # Ata de Reunião - 12/09
 
 ## Introdução e Objetivo
-Essa ata compreende os temas abordados na reunião do dia 12/09, que tinha como intuito discutir os aplicativos estudados individualmente, entre aqueles que os estudantes fizeram o Rich Picture, qual seria o escolhido para o projeto em equipe.
+Essa ata compreende os temas abordados na reunião do dia 12/09, que tinha como intuito discutir os aplicativos estudados individualmente, entre aqueles que os estudantes fizeram o [Rich Picture](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/lista_de_aplicativos/), qual seria o escolhido para o projeto em equipe.
 
 ## Discussão
 Nessa reunião, cada membro compartilhou seu Rich Picture, explicando suas ideias e opiniões sobre o aplicativo. Depois de passar por todos eles, decidimos que iríamos testar os aplicativos, utilizá-los para poder escolher uma opção ideal. Além disso, julgamos cabível pedir a opinião do professor sobre qual aplicativo escolher.

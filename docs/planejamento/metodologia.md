@@ -11,14 +11,14 @@ Tendo tudo isso em vista, escolhemos adotar uma adaptação da metodologia Scrum
 Ao adaptar o Scrum em nosso projeto, reconhecemos que, embora o Scrum seja uma metodologia valiosa, não há possibilidade de encaixar todas suas características com o projeto da matéria e, portanto, não o seguiremos rigidamente. Continuaremos a seguir os princípios fundamentais do Scrum, mas com a liberdade de ajustar as práticas e processos conforme necessário para atingir nossos objetivos de maneira eficaz e eficiente.
 
 As principais características a serem seguidas viementemente são <a id="a" href="#aa">[1]</a>: 
-- Divisão das entregas em Sprints;
-- Papéis de Scrum Master ([Jefferson França](https://github.com/Frans6)) e Product Owner ([Shaíne](https://github.com/ShaineOliveira));
-- Reuniões.
+ - Divisão das entregas em Sprints;
+ - Papéis de Scrum Master ([Jefferson França](https://github.com/Frans6)) e Product Owner ([Shaíne](https://github.com/ShaineOliveira));
+ - Reuniões.
 
 Contudo, os principais fundamentos e indicações que não serão implementadas no projeto <a id="a" href="#aa">[1]</a>:
-- Métricas de Scrum como tabela de conhecimento ou de satisfação.
-- Descrição de um [Backlog]() do produto;
-- Utilização de ferramenta de quadro estilo Kanban;
+ - Métricas de Scrum como tabela de conhecimento ou de satisfação.
+ - Descrição de um [Backlog]() do produto;
+ - Utilização de ferramenta de quadro estilo Kanban;
 
 <!-- ## Políticas
 

@@ -12,8 +12,9 @@ Nesta primeira entrega foi possível fazer todo o cronograma do projeto, ferrame
 O Vídeo 1 corresponde a gravação da primeira entrega da disciplina. Nele, explicamos a fase de planejamento que desenvolvemos, juntamente com seus artefatos.
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/yY1mJ0cZrZA" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-Vídeo 1: Gravação da primeira apresentação. (Fonte: Grupo 6, 2023).
-
+<div style="text-align: center">
+<p> Vídeo 1: Gravação da primeira apresentação. (Fonte: Grupo 6, 2023)..</p>
+</div>
 
 
 

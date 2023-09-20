@@ -19,6 +19,11 @@ Na fase inicial do projeto da disciplina de Requisitos de Software, os alunos ti
 
 Após as pesquisas e desenvolvimentos individuais, nos reunimos para realizar uma análise abrangente dos aplicativos escolhidos. Durante essa análise em grupo, alinhamos nossos interesses e prioridades, o que culminou na escolha final do aplicativo Skoob como base para o desenvolvimento do projeto.
 
+## Critério de escolha do aplicativo
+A partir da análise de todos os rich pictures, o grupo decidiu continuar o projeto com o aplicativo Skoob, partindo dos seguintes motivos:
+ - É um aplicativo de fácil uso;
+ - Funciona como uma rede social, dessa forma conecta muitas pessoas; 
+
 ## Termo de Consentimento Skoob
 
 Na Figura 1, apresentamos uma visualização do [termo de consentimento](img/Termo_de_Consentimento.pdf) do Skoob. Este documento nos permite compreender que é possível utilizar o aplicativo como base para a execução do projeto.
@@ -31,14 +36,27 @@ Na Figura 1, apresentamos uma visualização do [termo de consentimento](img/Ter
   <p>Figura 1 - Termo de Consentimento. (Fonte: Jefferson França. 2023)</p>
 </div>
 
-Na Figura 2, apresenta-se o "rich picture" que foi elaborado para proporcionar uma compreensão melhor do funcionamento do aplicativo.
+## Rich picture 
+Na Figura 2, apresenta-se o "rich picture" que foi elaborado para proporcionar uma compreensão melhor do funcionamento do aplicativo escolhido.
 
 <div style="text-align: center;">
   <img src="../img/rich_pictures/rich_skoob_ana.png" alt="image">
 </div>
 
 <div style="text-align: center;">
-  <p>Figura 1 - Rich Picture aplicativo Skoob. (Fonte: Jefferson França. 2023)</p>
+  <p>Figura 2 - Rich Picture aplicativo Skoob. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+### Legenda
+
+Na figura 3, apresenta-se a legenda do rich picture do aplicativo escolhido para entendimento do mesmo.
+
+<div style="text-align: left;">
+  <img src="../img/rich_pictures/legendaSkoob.png" alt="image">
+</div>
+
+<div style="text-align: center;">
+  <p>Figura 3 - Legenda do Rich Picture aplicativo Skoob. (Fonte: Ana Caroline. 2023)</p>
 </div>
 
 ## Bibliografia
@@ -55,4 +73,5 @@ Na Figura 2, apresenta-se o "rich picture" que foi elaborado para proporcionar u
 | :----: | :--------------: | :-------------: | :-------------------------------: | :-------------------------------------------: | :--------------------------------------------: |
 | `1.0`  |    15/09/2023    |   15/09/2023    | Adição dos aplicativos analisados |   [Ana Rocha](https://github.com/anaaroch)    | [Rafael Amancio](https://github.com/Rafael-gc) |
 | `1.1`  |    15/09/2023    |   15/09/2023    | Adição do termo de consentimento | [Jefferson França](https://github.com/Frans6) | [Rafael Amancio](https://github.com/Rafael-gc) |
+| `1.2`  |    20/09/2023    |   20/09/2023    | Adição de critérios de escolha do aplicativo| [Shaíne](https://github.com/ShaineOliveira) | [Rafael Amancio](https://github.com/Rafael-gc) |
 

@@ -10,7 +10,7 @@ Seguir este cronograma nos ajudará a nos prepararmos adequadamente para cumprir
 
 ### Cronograma Geral
 
-| Etapa | Título                         | Descrição                                                    | Entrega | Apresentação  |
+| Etapa | Título                         | Descrição                                                    | Data limite de entrega | Apresentação  |
 | ----- | ------------------------------ | ------------------------------------------------------------ | ------- | ------------- |
 | 1     | Planejamento                   | Ferramentas, escolha e descrição do aplicativo, rich picture | 20/09   | 21/09         |
 | 2     | Elicitação de requisitos       | Perfil do usuário, técnicas de elicitação, priorização       | 04/10   | 05/10         |
@@ -28,7 +28,7 @@ Seguir este cronograma nos ajudará a nos prepararmos adequadamente para cumprir
 
 ### Ponto de Controle 1
 
-|            Atividade             | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+|            Atividade             | Data limite de entrega | Data limite de revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |          Apresentações           |  17/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 |               Atas               |  17/09  |  18/09  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
@@ -50,7 +50,7 @@ Seguir este cronograma nos ajudará a nos prepararmos adequadamente para cumprir
 ### Ponto de Controle 2
 A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2 (Elicitação – Técnicas e Priorização), além de seus autores, revisores e datas de entrega.
 
-|                Atividade                | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+|                Atividade                | Data limite de entrega | Data limite de revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :-------------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |             Atas de reunião             |  02/10  |  03/10  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 | Correções do ponto de controle anterior |  02/10  |  03/10  |               Jefferson e Shaíne               |                      Yago                      |
@@ -68,7 +68,7 @@ A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2 (Elicitaç
 ### Ponto de Controle 3
 A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de seus autores, revisores e datas de entrega.
 
-|                Atividade                | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+|                Atividade                | Data limite de entrega | Data limite de revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :-------------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |              Casos de uso               |  10/10  |  12/10  |             Ana Caroline e Shaíne              |                   Jefferson                    |
 |                Cenários                 |  20/10  |  21/10  |                     Rafael                     |                     Shaíne                     |
@@ -84,7 +84,7 @@ A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de 
 ### Ponto de Controle 4
 A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de seus autores, revisores e datas de entrega.
 
-|       Atividade       | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+|       Atividade       | Data limite de entrega | Data limite de revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :-------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |         Atas          |  03/11  |  04/11  |                      Yago                      |                  Ana Caroline                  |
 |        Backlog        |  03/11  |  04/11  |            Jefferson e Ana Caroline            |                     Shaíne                     |
@@ -101,7 +101,7 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de 
 ### Ponto de Controle 5.1
 A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além de seus autores, revisores e datas de entrega.
 
-|           Atividade           | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+|           Atividade           | Data limite de entrega | Data limite de revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :---------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 | Verificação dos Requisistos 1 |  10/11  |  11/11  |            Jefferson, Ana e Rafael             |                 Rafael e Yago                  |
 |   Validação de requisitos 1   |  10/11  |  11/11  |                 Shaine e Yago                  |            Jefferson, Ana e Shaine             |
@@ -116,7 +116,7 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além d
 ### Ponto de Controle 5.2
 A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além de seus autores, revisores e datas de entrega.
 
-|           Atividade           | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+|           Atividade           | Data limite de entrega | Data limite de revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :---------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 | Verificação dos Requisistos 1 |  27/11  |  28/11  |              Rafael, Ana e Shaine              |                 Rafael e Yago                  |
 |   Validação de requisitos 1   |  27/11  |  28/11  |                Jefferson e Yago                |            Jefferson, Ana e Shaine             |
@@ -131,7 +131,7 @@ A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além d
 ### Ponto de Controle 6
 A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de seus autores, revisores e datas de entrega.
 
-|       Atividade       | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+|       Atividade       | Data limite de entrega | Data limite de revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :-------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |     Backward From     |  16/11  |  18/11  |          Ana Caroline, Shaíne e Yago           |            Jefferson, Rafael e Yago            |
 |     Forward From      |  17/11  |  19/11  |               Jefferson, Rafael                |             Ana Caroline e Shaíne              |
@@ -162,6 +162,7 @@ As reuniões foram agendadas para todas as segundas-feiras às 21:30h, visando a
 
 | Versão | Data de execução | Data de revisão |                       Descrição                        |                                                                 Autor(es)                                                                  | Revisor(es)  |
 | :----: | :--------------: | :-------------: | :----------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :----------: |
-| `1.0`  |    11/09/2023    |   16/09/2023    |                  Criação do artefato                   | [Jefferson França](https://github.com/Frans6), [Shaíne](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) | Ana Caroline |
-| `1.1`  |    12/09/2023    |   16/09/2023    | Atualização dos cronogramas de ponto de controle 3 e 6 |                                                [Shaíne](https://github.com/ShaineOliveira)                                                 |    Rafael    |
-| `1.2`  |    15/09/2023    |   16/09/2023    |    Atualização dos cronogramas e adição do heatmap     |                       [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos)                        |    Rafael    |
+| `1.0`  |    11/09/2023    |   16/09/2023    |                  Criação do artefato                   | [Jefferson França](https://github.com/Frans6), [Shaíne](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch)    | [Rafael Amancio](https://github.com/Rafael-gc) |
+| `1.1`  |    12/09/2023    |   16/09/2023    | Atualização dos cronogramas de ponto de controle 3 e 6 |                                                [Shaíne](https://github.com/ShaineOliveira)                                                 |    [Rafael Amancio](https://github.com/Rafael-gc)   |
+| `1.2`  |    15/09/2023    |   16/09/2023    |    Atualização dos cronogramas e adição do heatmap     |                       [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos)                        |   [Rafael Amancio](https://github.com/Rafael-gc)    |
+| `1.2.1`  |    20/09/2023    |   20/09/2023    |    Atualização dos cronogramas      |                      [Shaíne](https://github.com/ShaineOliveira)                       |   [Ana Rocha](https://github.com/anaaroch)    | [Rafael Amancio](https://github.com/Rafael-gc)   |
