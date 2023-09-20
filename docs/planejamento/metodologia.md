@@ -40,7 +40,7 @@ Exemplo:
 
 ## Bibliografia
 
-<a id="aa" href="#a">[1]</a> O QUE É O SCRUM E COMO COMEÇAR. Disponível em: https://www.atlassian.com/br/agile/scrum. Acesso em: 18 de Setembro de 2023.
+<a id="aa" href="#a">[1]</a> O QUE É O SCRUM E COMO COMEÇAR. Disponível em: <https://www.atlassian.com/br/agile/scrum>. Acesso em: 18 de Setembro de 2023.
 
 ## Histórico de Versão
 
