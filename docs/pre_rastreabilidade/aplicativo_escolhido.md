@@ -57,7 +57,7 @@ Na figura 3, apresenta-se a legenda do rich picture do aplicativo escolhido para
 
 <a id="aa" href="#a">[1]</a> SKOOB IOS. Disponível em: [App Store](https://apps.apple.com/br/app/skoob-organize-suas-leituras/id904670263). Acesso em: 20 de Setembro de 2023.<br>
 <a id="aa" href="#a">[2]</a> SKOOB ANDROID. Disponível em: [Google Play](https://play.google.com/store/apps/details?id=com.gaudium.skoob). Acesso em: 15 de Setembro de 2023.<br>
-<a id="aa" href="#a">[2]</a> SKOOB SITE. Disponível em: [Skoob](https://www.skoob.com.br/). Acesso em: 15 de Setembro de 2023.<br>
+<a id="aa" href="#a">[3]</a> SKOOB SITE. Disponível em: [Skoob](https://www.skoob.com.br/). Acesso em: 20 de Setembro de 2023.<br>
 
 
 ## Histórico de Versão
