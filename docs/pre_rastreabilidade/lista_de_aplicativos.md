@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Na fase inicial do projeto da disciplina de Requisitos de Software, os alunos tiveram a oportunidade de escolher, individualmente, um aplicativo governamental ou de código aberto. O objetivo era obter diferentes sugestões para o aplicativo que o grupo utilizaria como base para o desenvolvimento do projeto ao longo da disciplina. Cada membro do grupo realizou uma pesquisa sobre vários aplicativos, resultando na seleção de um aplicativo por pessoa. Com base nessas escolhas, cada integrante desenvolveu um Rich Picture do aplicativo escolhido.
+Na fase inicial do projeto da disciplina de Requisitos de Software, os alunos tiveram a oportunidade de escolher, individualmente, um aplicativo governamental ou de código aberto. O objetivo era obter diferentes sugestões para o aplicativo que o grupo utilizaria como base para o desenvolvimento do projeto ao longo da disciplina. Cada membro do grupo realizou uma pesquisa sobre vários aplicativos, resultando na seleção de um aplicativo por pessoa. Com base nessas escolhas, cada integrante desenvolveu um Rich Picture do aplicativo escolhido, que podem ser consultados na Tabela 1.
 
 ## Lista de Aplicativos Analisados
 
@@ -14,49 +14,7 @@ Na fase inicial do projeto da disciplina de Requisitos de Software, os alunos ti
 | Shaine Oliveira e Yago Passos | [Detran-DF](https://play.google.com/store/apps/details?id=br.com.mesotec.detrandf&hl=pt_BR&gl=US) | O aplicativo serve para fornecer aos motoristas e proprietários de veículos do Distrito Federal uma série de funcionalidades relacionadas à documentação e aos serviços de trânsito. | <img src="../img/logos/logo_detrandf.png" alt="Skoob" width="50"/> | [Rich Picture - Shaine](img/rich_pictures/rich_detran_shaine.png) <br>e<br> [Rich Picture - Yago](img/rich_pictures/rich_detran_yago.png) |
 
 <div style="text-align: center">
-<p> Tabela 1: Tabela de aplicativos analisados. (Fonte: Ana Rocha, 2023).</p>
-</div>
-
-Após as pesquisas e desenvolvimentos individuais, nos reunimos para realizar uma análise abrangente dos aplicativos escolhidos. Durante essa análise em grupo, alinhamos nossos interesses e prioridades, o que culminou na escolha final do aplicativo Skoob como base para o desenvolvimento do projeto.
-
-## Critério de escolha do aplicativo
-A partir da análise de todos os rich pictures, o grupo decidiu continuar o projeto com o aplicativo Skoob, partindo dos seguintes motivos:
- - É um aplicativo de fácil uso;
- - Funciona como uma rede social, dessa forma conecta muitas pessoas; 
-
-## Termo de Consentimento Skoob
-
-Na Figura 1, apresentamos uma visualização do [termo de consentimento](img/Termo_de_Consentimento.pdf) do Skoob. Este documento nos permite compreender que é possível utilizar o aplicativo como base para a execução do projeto.
-
-<div style="text-align: center;">
-  <img src="../img/termodeconsentimento.png" alt="image">
-</div>
-
-<div style="text-align: center;">
-  <p>Figura 1 - Termo de Consentimento. (Fonte: Jefferson França. 2023)</p>
-</div>
-
-## Rich picture 
-Na Figura 2, apresenta-se o "rich picture" que foi elaborado para proporcionar uma compreensão melhor do funcionamento do aplicativo escolhido.
-
-<div style="text-align: center;">
-  <img src="../img/rich_pictures/rich_skoob_ana.png" alt="image">
-</div>
-
-<div style="text-align: center;">
-  <p>Figura 2 - Rich Picture aplicativo Skoob. (Fonte: Jefferson França. 2023)</p>
-</div>
-
-### Legenda
-
-Na figura 3, apresenta-se a legenda do rich picture do aplicativo escolhido para entendimento do mesmo.
-
-<div style="text-align: left;">
-  <img src="../img/rich_pictures/legendaSkoob.png" alt="image">
-</div>
-
-<div style="text-align: center;">
-  <p>Figura 3 - Legenda do Rich Picture aplicativo Skoob. (Fonte: Ana Caroline. 2023)</p>
+  <p> Tabela 1: Tabela de aplicativos analisados. (Fonte: Ana Rocha, 2023).</p>
 </div>
 
 ## Bibliografia
@@ -72,6 +30,5 @@ Na figura 3, apresenta-se a legenda do rich picture do aplicativo escolhido para
 | Versão | Data de execução | Data de revisão |             Descrição             |                   Autor(es)                   |                  Revisor(es)                   |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :-------------------------------------------: | :--------------------------------------------: |
 | `1.0`  |    15/09/2023    |   15/09/2023    | Adição dos aplicativos analisados |   [Ana Rocha](https://github.com/anaaroch)    | [Rafael Amancio](https://github.com/Rafael-gc) |
-| `1.1`  |    15/09/2023    |   15/09/2023    | Adição do termo de consentimento | [Jefferson França](https://github.com/Frans6) | [Rafael Amancio](https://github.com/Rafael-gc) |
-| `1.2`  |    20/09/2023    |   20/09/2023    | Adição de critérios de escolha do aplicativo| [Shaíne](https://github.com/ShaineOliveira) | [Rafael Amancio](https://github.com/Rafael-gc) |
+| `1.1`  |    20/09/2023    |   20/09/2023    | Atualização do artefato | [Ana Rocha](https://github.com/anaaroch) | [Shaíne Oliveira](https://github.com/ShaineOliveira) |
 
