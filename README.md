@@ -3,7 +3,7 @@
 O Skoob é uma plataforma de mídia social dedicada aos amantes da leitura, permitindo que você organize sua coleção de livros, classificando-os como "para ler", "em leitura", "lidos", "relendo" e "abandonados". Além disso, você tem a possibilidade de estabelecer metas de leitura, registrar seu histórico de leituras, escrever resenhas detalhadas e atribuir avaliações aos livros, entre outras funcionalidades.
 
 <div align="center">
-  <img src="./docs/img/logo_skoobB.svg" alt="Skoob" width="200"/>
+  <img src="./docs/img/logo_skoobPeB.svg" alt="Skoob" width="200"/>
 </div>
 
 ## Equipe
