@@ -42,6 +42,7 @@ Seguir este cronograma nos ajudará a nos prepararmos adequadamente para cumprir
 | Metodologia e Política de Commit |  17/09  |  18/09  |                Jefferson e Yago                |                  Ana Caroline                  |
 |  Rich Pictures dos Integrantes   |  17/09  |  18/09  |                  Ana e Rafael                  |                      Yago                      |
 |      Vídeo de apresentação       |  18/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|      Correções da Entrega 1      |  26/09  |  27/09  | Rafael, Shaíne e Yago | Todos |
 
 <div style="text-align: center">
 <p> Tabela 2: Cronograma detalhado da primeira entrega. (Fonte: Jefferson França, 2023).</p>
@@ -54,12 +55,12 @@ A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2 (Elicitaç
 | :-------------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |             Atas de reunião             |  02/10  |  03/10  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 | Correções do ponto de controle anterior |  02/10  |  03/10  |               Jefferson e Shaíne               |                      Yago                      |
-|          Cronograma Realizado           |  02/10  |  03/10  |               Jefferson e Shaíne               |                     Rafael                     |
-|        Especificação Suplementar        |  02/10  |  03/10  |                   Ana e Yago                   |                  Ana Caroline                  |
+|          Cronograma Realizado           |  02/10  |  03/10  |               Jefferson e Shaíne               |                     Rafael           |                 
 |           Perfil dos usuários           |  02/10  |  03/10  |                 Rafael e Yago                  |                   Jefferson                    |
 |         Técnicas de elicitação          |  02/10  |  03/10  |                Jefferson e Ana                 | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 |       Técnicas priorização usadas       |  02/10  |  03/10  |                Shaíne e Rafael                 |                     Shaíne                     |
 |          Vídeo de apresentação          |  02/10  |  03/10  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|      Correções da Entrega 2      |  11/10  |  13/10  | Todos | Todos |
 
 <div style="text-align: center">
 <p> Tabela 3: Cronograma detalhado da segunda entrega. (Autor: Yago Passos, 2023).</p>
@@ -76,6 +77,7 @@ A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de 
 |        Especificação Suplementar        |  11/10  |  15/10  |                      Yago                      |                     Rafael                     |
 |                 Léxico                  |  20/10  |  22/10  |            Jefferson, Shaíne e Yago            |                  Ana Caroline                  |
 |          Vídeo de apresentação          |  23/10  |  23/10  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|      Correções da Entrega 3      |  30/10  |  03/11  | Todos | Todos |
 
 <div style="text-align: center">
 <p> Tabela 4: Cronograma detalhado da terceira entrega. (Fonte: Shaíne Oliveira, 2023).</p>
@@ -92,6 +94,7 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de 
 | Histórias de usuário  |  03/11  |  04/11  |            Ana, Jefferson e Shaíne             |                   Jefferson                    |
 |     NFR Framework     |  03/11  |  04/11  |                 Rafael e Yago                  |                      Yago                      |
 | Vídeo de apresentação |  03/11  |  04/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|      Correções da Entrega 4      |  09/11  |  13/11  | Todos | Todos |
 
 
 <div style="text-align: center">
@@ -107,6 +110,7 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além d
 |   Validação de requisitos 1   |  10/11  |  11/11  |                 Shaine e Yago                  |            Jefferson, Ana e Shaine             |
 |     Vídeo de apresentação     |  10/11  |  11/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 |     Revisão de artefatos      |  10/11  |  11/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|      Correções da Entrega 5.1      |  17/11  |  21/11  | Todos | Todos |
 
 <div style="text-align: center">
 <p> Tabela 6: Cronograma detalhado da sexta entrega. (Autor: Yago Passos, 2023).</p>
@@ -122,6 +126,7 @@ A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além d
 |   Validação de requisitos 1   |  27/11  |  28/11  |                Jefferson e Yago                |            Jefferson, Ana e Shaine             |
 |     Vídeo de apresentação     |  27/11  |  28/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 |     Revisão de artefatos      |  27/11  |  28/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|      Correções da Entrega 5.2      |  30/11  |  02/11  | Todos | Todos |
 
 
 <div style="text-align: center">
@@ -137,6 +142,7 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 |     Forward From      |  17/11  |  19/11  |               Jefferson, Rafael                |             Ana Caroline e Shaíne              |
 | Revisão de artefatos  |  20/11  |  20/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 | Vídeo de apresentação |  20/11  |  20/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|      Correções da Entrega 6      |  21/12  |  23/12  | Todos | Todos |
 
 
 <div style="text-align: center">
@@ -166,3 +172,4 @@ As reuniões foram agendadas para todas as segundas-feiras às 21:30h, visando a
 | `1.1`  |    12/09/2023    |   16/09/2023    | Atualização dos cronogramas de ponto de controle 3 e 6 |                                                [Shaíne](https://github.com/ShaineOliveira)                                                 |    [Rafael Amancio](https://github.com/Rafael-gc)   |
 | `1.2`  |    15/09/2023    |   16/09/2023    |    Atualização dos cronogramas e adição do heatmap     |                       [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos)                        |   [Rafael Amancio](https://github.com/Rafael-gc)    |
 | `1.2.1`  |    20/09/2023    |   20/09/2023    |    Atualização dos cronogramas      |                      [Shaíne](https://github.com/ShaineOliveira)                       |   [Ana Rocha](https://github.com/anaaroch)    | [Rafael Amancio](https://github.com/Rafael-gc)   |
+| `1.3`  |    02/10/2023    |   03/10/2023    |    Atualização dos cronogramas      |                      [Shaíne](https://github.com/ShaineOliveira)                       |   [Ana Rocha](https://github.com/anaaroch)    | [Rafael Amancio](https://github.com/Rafael-gc)   |
