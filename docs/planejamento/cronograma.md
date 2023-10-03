@@ -55,12 +55,16 @@ A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2 (Elicitaç
 | :-------------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |             Atas de reunião             |  02/10  |  03/10  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 | Correções do ponto de controle anterior |  02/10  |  03/10  |               Jefferson e Shaíne               |                      Yago                      |
-|          Cronograma Realizado           |  02/10  |  03/10  |               Jefferson e Shaíne               |                     Rafael           |                 
+|          Cronograma Realizado           |  02/10  |  03/10  |               Jefferson e Shaíne               |                     Rafael                     |                 
 |           Perfil dos usuários           |  02/10  |  03/10  |                 Rafael e Yago                  |                   Jefferson                    |
-|         Técnicas de elicitação          |  02/10  |  03/10  |                Jefferson e Ana                 | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-|       Técnicas priorização usadas       |  02/10  |  03/10  |                Shaíne e Rafael                 |                     Shaíne                     |
+|                 Moscow                  |  02/10  |  03/10  |                Rafael e Shaíne                 | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|            First things first           |  02/10  |  03/10  |                   Yago e Ana                   | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|            Three-Level Scale            |  02/10  |  03/10  |                Jefferson e Yago                | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|              Brainstorming              |  02/10  |  03/10  |               Rafael e Jefferson               |                     Shaíne                     |
+|                Entrevista               |  02/10  |  03/10  |                  Ana e Shaíne                  |                     Shaíne                     |
+|                Observação               |  02/10  |  03/10  |                 Yago e Jefferson               |                     Shaíne                     |
 |          Vídeo de apresentação          |  02/10  |  03/10  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-|      Correções da Entrega 2      |  11/10  |  13/10  | Todos | Todos |
+|          Correções da Entrega 2         |  11/10  |  13/10  | Todos | Todos |
 
 <div style="text-align: center">
 <p> Tabela 3: Cronograma detalhado da segunda entrega. (Autor: Yago Passos, 2023).</p>
