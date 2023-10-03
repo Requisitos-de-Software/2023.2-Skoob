@@ -30,18 +30,18 @@ Seguir este cronograma nos ajudará a nos prepararmos adequadamente para cumprir
 
 |            Atividade             | Data limite de entrega | Data limite de revisão |                   Autor(es)                    |                  Revisor(es)                   |
 | :------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
-|          Apresentações           |  17/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|          Apresentações           |  17/09  |  18/09  | Todos | Todos |
 |               Atas               |  17/09  |  18/09  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 |            Cronograma            |  17/09  |  18/09  |            Jefferson, Shaíne e Yago            |                  Ana Caroline                  |
 |       Cronograma Realizado       |  17/09  |  18/09  |               Jefferson e Shaíne               |                     Rafael                     |
 |              Equipe              |  17/09  |  18/09  |                Rafael Fernandes                |                   Jefferson                    |
 |           Ferramentas            |  17/09  |  18/09  |                  Ana Caroline                  |                     Shaíne                     |
 |             GitPage              |  17/09  |  18/09  |                     Rafael                     | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-|             Heatmap              |  17/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|             Heatmap              |  17/09  |  18/09  | Todos | Todos |
 |   Modelo Padrão para Artefatos   |  17/09  |  18/09  |                   Jefferson                    |                     Shaíne                     |
 | Metodologia e Política de Commit |  17/09  |  18/09  |                Jefferson e Yago                |                  Ana Caroline                  |
 |  Rich Pictures dos Integrantes   |  17/09  |  18/09  |                  Ana e Rafael                  |                      Yago                      |
-|      Vídeo de apresentação       |  18/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|      Vídeo de apresentação       |  18/09  |  18/09  | Todos | Todos |
 |      Correções da Entrega 1      |  26/09  |  27/09  | Rafael, Shaíne e Yago | Todos |
 
 <div style="text-align: center">
@@ -63,7 +63,7 @@ A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2 (Elicitaç
 |              Brainstorming              |  02/10  |  03/10  |               Rafael e Jefferson               |                     Shaíne                     |
 |                Entrevista               |  02/10  |  03/10  |                  Ana e Shaíne                  |                     Shaíne                     |
 |                Observação               |  02/10  |  03/10  |                 Yago e Jefferson               |                     Shaíne                     |
-|          Vídeo de apresentação          |  02/10  |  03/10  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|          Vídeo de apresentação          |  02/10  |  03/10  | Todos | Todos |
 |          Correções da Entrega 2         |  11/10  |  13/10  | Todos | Todos |
 
 <div style="text-align: center">
@@ -77,10 +77,10 @@ A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de 
 | :-------------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |              Casos de uso               |  10/10  |  12/10  |             Ana Caroline e Shaíne              |                   Jefferson                    |
 |                Cenários                 |  20/10  |  21/10  |                     Rafael                     |                     Shaíne                     |
-| Correções do ponto de controle anterior |  24/10  |  24/10  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+| Correções do ponto de controle anterior |  24/10  |  24/10  | Todos | Todos |
 |        Especificação Suplementar        |  11/10  |  15/10  |                      Yago                      |                     Rafael                     |
 |                 Léxico                  |  20/10  |  22/10  |            Jefferson, Shaíne e Yago            |                  Ana Caroline                  |
-|          Vídeo de apresentação          |  23/10  |  23/10  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|          Vídeo de apresentação          |  23/10  |  23/10  | Todos | Todos |
 |      Correções da Entrega 3      |  30/10  |  03/11  | Todos | Todos |
 
 <div style="text-align: center">
@@ -94,10 +94,10 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de 
 | :-------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |         Atas          |  03/11  |  04/11  |                      Yago                      |                  Ana Caroline                  |
 |        Backlog        |  03/11  |  04/11  |            Jefferson e Ana Caroline            |                     Shaíne                     |
-|        GitPage        |  03/11  |  04/11  |                     Shaíne                     | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|        GitPage        |  03/11  |  04/11  |                     Shaíne                     | Todos |
 | Histórias de usuário  |  03/11  |  04/11  |            Ana, Jefferson e Shaíne             |                   Jefferson                    |
 |     NFR Framework     |  03/11  |  04/11  |                 Rafael e Yago                  |                      Yago                      |
-| Vídeo de apresentação |  03/11  |  04/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+| Vídeo de apresentação |  03/11  |  04/11  | Todos | Todos |
 |      Correções da Entrega 4      |  09/11  |  13/11  | Todos | Todos |
 
 
@@ -112,8 +112,8 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além d
 | :---------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 | Verificação dos Requisistos 1 |  10/11  |  11/11  |            Jefferson, Ana e Rafael             |                 Rafael e Yago                  |
 |   Validação de requisitos 1   |  10/11  |  11/11  |                 Shaine e Yago                  |            Jefferson, Ana e Shaine             |
-|     Vídeo de apresentação     |  10/11  |  11/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-|     Revisão de artefatos      |  10/11  |  11/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|     Vídeo de apresentação     |  10/11  |  11/11  | Todos | Todos |
+|     Revisão de artefatos      |  10/11  |  11/11  | Todos | Todos |
 |      Correções da Entrega 5.1      |  17/11  |  21/11  | Todos | Todos |
 
 <div style="text-align: center">
@@ -128,8 +128,8 @@ A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além d
 | :---------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 | Verificação dos Requisistos 1 |  27/11  |  28/11  |              Rafael, Ana e Shaine              |                 Rafael e Yago                  |
 |   Validação de requisitos 1   |  27/11  |  28/11  |                Jefferson e Yago                |            Jefferson, Ana e Shaine             |
-|     Vídeo de apresentação     |  27/11  |  28/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-|     Revisão de artefatos      |  27/11  |  28/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|     Vídeo de apresentação     |  27/11  |  28/11  | Todos | Todos |
+|     Revisão de artefatos      |  27/11  |  28/11  | Todos | Todos |
 |      Correções da Entrega 5.2      |  30/11  |  02/11  | Todos | Todos |
 
 
@@ -144,8 +144,8 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 | :-------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
 |     Backward From     |  16/11  |  18/11  |          Ana Caroline, Shaíne e Yago           |            Jefferson, Rafael e Yago            |
 |     Forward From      |  17/11  |  19/11  |               Jefferson, Rafael                |             Ana Caroline e Shaíne              |
-| Revisão de artefatos  |  20/11  |  20/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-| Vídeo de apresentação |  20/11  |  20/11  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+| Revisão de artefatos  |  20/11  |  20/11  | Todos | Todos |
+| Vídeo de apresentação |  20/11  |  20/11  | Todos | Todos |
 |      Correções da Entrega 6      |  21/12  |  23/12  | Todos | Todos |
 
 
