@@ -4,31 +4,64 @@
 
 Um sistema de escala de três níveis é uma abordagem simples e eficaz para classificar requisitos em três categorias distintas. Essas categorias frequentemente são rotuladas como "alto", "médio" e "baixo". A utilidade desse sistema reside na sua capacidade de simplificar a classificação e a tomada de decisões, tornando mais fácil para as pessoas avaliarem e compararem diferentes opções. Para o projeto a técnica será utilizada por um desenvolvedor, que também séra o mediador, e um usuário.
 
+## Metodologia
+
+## Cronograma
+
+Na tabela 1, temos o cronograma detalhado do dia e do horário em que a reunião será realizada e também dos participantes e suas respectivas funções na utilização da técnica.
+
+| Participantes        |    Data    | Hora  |
+| -------------------- | :--------: | :---: |
+| Mendiador: Jefferson |
+| Desenvolvedor: Ana   | 04/10/2023 |  17h  |
+| Usuário:             |
+
+<div style="text-align: center">
+<p> Tabela 1: Cronograma para execução da técnica. (Fonte: Jefferson França, 2023).</p>
+</div>
+
 ## Requisitos Priorizados
 
 ### Legenda das tabelas:
-    - n: Número do Requisito
-    - RFn:  Requisito Funcional
-    - RNFn: Requisito Não Funcional
-    - 
+    - n: Número do Requisito;
+    - RFn:  Requisito Funcional;
+    - RNFn: Requisito Não Funcional;
+    - OBSn: Requisito elicitado por meio de Observação;
+    - BSn: Requisito elicitado por meio de Brainstorming;
+    - ISn: Requisito elicitado por meio de Introspecção.
 
-### Subtítulo - Exemplo de Tabela
+Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-Level Scale.
 
-| Atividade | Entrega | Revisão | Autor(es) | Revisor(es) |
-| :-------: | :-----: | :-----: | :-------: | :---------: |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
+| Tipo  | Descrição |  Id   | Prioridade |
+| :---: | :-------: | :---: | :--------: |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+| texto |   texto   | texto |   texto    |
+
 
 <div style="text-align: center">
-<p> Tabela 1: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
-</div>
-
-### Exemplo Imagem
-
-<a id="a" href="#aa">![image](img/imagem.png)</a>
-<div style="text-align: center">
-<p>Figura 1 - Exemplo de Imagem. (Fonte: Jefferson França. 2023)</p>
+<p> Tabela 2: Priorização dos requisitos utilizando a técnica. (Fonte: Jefferson França, 2023).</p>
 </div>
 
 ## Bibliografia
@@ -37,7 +70,7 @@ Um sistema de escala de três níveis é uma abordagem simples e eficaz para cla
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
-| :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    05/09/2023    |   18/04/2023    | Adição do modelo base dos artefatos |   [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
+| Versão | Data de execução | Data de revisão |      Descrição      |                                           Autor(es)                                            |                                                                  Revisor(es)                                                                   |
+| :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| `1.0`  |    03/10/2023    |   04/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
 
