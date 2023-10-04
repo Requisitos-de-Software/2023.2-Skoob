@@ -9,7 +9,7 @@ Após a elicitação dos requisitos essenciais, precisamos empregar métodos efi
 A técnica de priorização "First Things First" representa uma ferramenta importante na gestão de requisitos, ao considerar cuidadosamente os benefícios, custos e riscos  de cada requisito, onde os mesmo são classificados em diferentes níveis de importância, tendo como resultado uma lista clara e organizada de prioridades para a implementação. São feitas avaliações para determinar os respectivos índices (1-9) para cada indicativo acima descrito, que deve considerar a visão do cliente e do desenvolvedor de forma equilibrada. A partir disso, é possível calcular o valor total, avaliar o custo relativo e determinar o nível de risco associado a cada um. Assim, o cálculo da prioridade para cada requisito permite a construção de uma lista ordenada em ordem decrescente de importância, fornecendo um guia claro para a fase de implementação. Esta abordagem meticulosa e bem estruturada assegura que os recursos sejam alocados de maneira eficiente e direcionados aos elementos cruciais para o sucesso do projeto.
 
 ## Requisitos
-Na tabela 1 são listados os requisitos funcionais elicitados pelo grupo, através dos métodos de [Observaçao](/docs/elicitacao/observacao.md) [Introspecção]() e [Brainstoming](/docs/elicitacao/brainstorming.md).
+Na tabela 1 são listados os requisitos funcionais elicitados pelo grupo, através dos métodos de [Observaçao](../elicitacao/observacao.md), [Introspecção](../elicitacao/introspeccao.md) e [Brainstoming](../elicitacao/brainstorming.md).
 
 Legenda:
 
