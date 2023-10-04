@@ -5,7 +5,6 @@
 A técnica de Introspecção consiste em imaginar o objetivo final do sistema, imaginando e documentando todas as funções que o sistema poderia realizar para ajudar a alcançar esse objetivo. Na prática, o engenheiro de requisitos deve imaginar quais seriam os requisitos, tanto funcionais quanto não funcionais, que o sistema deve possuir para que seja um sucesso e em seguida documentar esses requisitos. O documento de introspecção deverá servir como um guia para o desenvolvimento do software.
 
 
-
 ## Execução
 
 O objetivo da técnica é conseguir imaginar e elicitar o máximo de requisitos referentes ao Escopo e a Profundidade da aplicação. Para isso, todos os integrantes do grupo se reuniram e conversaram sobre o que o sistema deveria fazer.

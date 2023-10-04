@@ -67,6 +67,10 @@ envolvente e divertido?
 - Tem muita informação legal mas pouco divulgada.
 - Sugestões: deixar o ranking visível no perfil da pessoa, medalhas, personalização do passarinho (icone do skoob), criar um avatar como no instagram.
 
+### Gravação da Reunião
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/mLnZGidTMkw" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 ### Legenda das tabelas:
     - n: Número do Requisito;
     - RFn:  Requisito Funcional;
@@ -120,4 +124,4 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 | Versão | Data de execução | Data de revisão |      Descrição      |                                           Autor(es)                                            |                                                                  Revisor(es)                                                                   |
 | :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 | `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
-
+| `1.2`  |    04/10/2023    |   04/10/2023    | Adicionando link da gravação | [Yago Passos](https://github.com/yagompassos) | [Rafael Amancio](https://github.com/Rafael-gc) |
