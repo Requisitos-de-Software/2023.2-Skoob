@@ -75,6 +75,7 @@ Legenda:
 |     BS16      |                         Deve ser possível conquistar prêmios e recompensas a partir de Desafios                  |   Would    |
 |     BS17      |                            Deve ser possível expor prêmios nos perfis e na TimeLine                              |   Would    |
 
+
 <div style="text-align: center">
     <p> Tabela 1: Levantamento de requisitos Moscow. (Fonte: Autor, 2023).</p>
 </div>
