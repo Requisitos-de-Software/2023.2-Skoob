@@ -77,7 +77,7 @@ Legenda:
 
 
 <div style="text-align: center">
-    <p> Tabela 1: Levantamento de requisitos Moscow. (Fonte: Autor, 2023).</p>
+    <p> Tabela 1: Levantamento de requisitos Moscow. (Fonte: Rafael e Shaíne, 2023).</p>
 </div>
 
 ## Bibliografia

@@ -64,6 +64,7 @@ Legenda:
 
 ## Priorização
 Para a priorização adequada dos requisitos de forma condizente com o método First-Things-First, definimos os envolvidos:
+
 - **Gerente:** O papel foi executado por [Ana Rocha](https://github.com/anaaroch_)
 - **Representante dos clientes:** Vitória Monteiro, uma usuária entrevistada.
 - **Representante de desenvolvimento:** [Yago Passos](https://github.com/yagompassos) e [Ana Rocha](https://github.com/anaaroch_)
