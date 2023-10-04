@@ -38,15 +38,18 @@ nav:
   - Atas: 
     - Reunião 00: atas/reuniao00.md
     - Reunião 01: atas/reuniao01.md
+    - Reunião 02: atas/reuniao02.md
+    - Reunião 03: atas/reuniao03.md
   - Pré-rastreabilidade: 
     - Aplicativos Analisados: pre_rastreabilidade/lista_de_aplicativos.md
     - Aplicativo Escolhido: pre_rastreabilidade/aplicativo_escolhido.md
   - Elicitação de Requisitos:
     - Brainstorming: elicitacao/brainstorming.md
     - Observação: elicitacao/observacao.md
+    - Introspecção: elicitacao/introspeccao.md
     - Fist Things First: elicitacao/first_things_first.md
     - Moscow: elicitacao/moscow.md
-    - Perfil do Usuário: elicitacao/perfil_do_usuario.md
     - Three-Level Scale: elicitacao/three_level_scale.md
+    - Perfil do Usuário: elicitacao/perfil_do_usuario.md
   - Entregas: planejamento/entregas.md
 
