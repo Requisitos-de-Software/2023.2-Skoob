@@ -63,17 +63,31 @@ Legenda:
 </div>
 
 ## Priorização
+Para a priorização adequada dos requisitos de forma condizente com o método First-Things-First, definimos os envolvidos:
+- **Gerente:** O papel foi executado por [Ana Rocha](https://github.com/anaaroch_)
+- **Representante dos clientes:** Vitória Monteiro, uma usuária entrevistada.
+- **Representante de desenvolvimento:** [Yago Passos](https://github.com/yagompassos) e [Ana Rocha](https://github.com/anaaroch_)
 
-Na Figura 1 contém a priorização dos requisitos seguindo a técnica de First Things First.
+### Entrevista 
+A primeira etapa da Priorização consistiu em uma entrevista. Nessa entrevista questionamos a representante dos clientes respeito das funcionalidades elicitadas, pedindo que ela fornesesse um número de 1 a 9, estimando o benefício relativo que cada recurso fornece ao cliente. Também foi pedida a mesma métrica para a estimativa da penalidade que o negócio sofreria se o recurso não fosse implementado. <a id="b" href="#bb">[2]</a>
 
+No vídeo 1, destacado a baixo, a entrevista com a representante dos clientes, Vitória Monteiro.
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/xNCw4aAP9tk" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div style="text-align: center">
     <p> Figura 1: Priorização de requisitos - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
+</div>
+
+### Estimativa da parte Técnica
+A segunda etapa foi uma reunião entre os representantes de desenvolvimento, que ao ponderar as funcionalidades, chegaram na priorização representada na Figura 1:
+
+<div style="text-align: center">
+    <p> Vídeo 1: Estimativa da parte do usuário - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
 </div>
 
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> WIEGERS, Karl e BEATTY, Joy. Disponível em: [Software Requirements, Third Edition](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 02 de Outubro de 2023.</br>
-<a id="aa" href="#a">[2]</a> SALES, André Barros. Técnicas de Priorização. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em 04 de outubro de 2023.
+<a id="bb" href="#b">[2]</a> SALES, André Barros. Técnicas de Priorização. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em 04 de outubro de 2023.
 
 ## Histórico de Versão
 
@@ -81,4 +95,5 @@ Na Figura 1 contém a priorização dos requisitos seguindo a técnica de First 
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
 | `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_)    | [Yago Passos](https://github.com/yagompassos) |
 | `1.1`  |    04/10/2023    |   04/10/2023    | Atualização do artefato |   [Ana Rocha](https://github.com/anaaroch_) e [Yago Passos](https://github.com/yagompassos)  | [Jefferson](https://github.com/Frans6), [Shaíne](https://github.com/ShaineOliveira) e [Rafael](https://github.com/Rafael-gc) |
+| `1.2`  |    04/10/2023    |   04/10/2023    | Seção de Priorização |   [Yago Passos](https://github.com/yagompassos)    | [Ana Rocha](https://github.com/anaaroch_) |
 
