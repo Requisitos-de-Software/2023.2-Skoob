@@ -41,6 +41,8 @@ nav:
   - Pré-rastreabilidade: 
     - Aplicativos Analisados: pre_rastreabilidade/lista_de_aplicativos.md
     - Aplicativo Escolhido: pre_rastreabilidade/aplicativo_escolhido.md
-  - Elicitação:
+  - Elicitação de Requisitos:
     - Fist Things First: elicitacao/first_things_first.md
+    - Moscow: elicitacao/moscow.md
   - Entregas: planejamento/entregas.md
+
