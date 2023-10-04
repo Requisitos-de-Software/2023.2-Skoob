@@ -116,6 +116,7 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Elicitação, Modelagem e Análise. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 04 de outubro de 2023.
+
 <a id="aa" href="#a">[2]</a> Brainstorming em Bilheteria Digital. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/brainstorming/. Acesso em 04 de Outubro de 2023.
 
 
