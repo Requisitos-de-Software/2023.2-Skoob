@@ -6,13 +6,17 @@ O brainstorming desempenha um papel fundamental no processo de elicitação de r
 
 ## Metodologia
 
+Utilizando a técnica de brainstorming, o mediador conduziu uma série de perguntas cuidadosamente elaboradas para extrair ideias valiosas do usuário. Embora idealmente essa técnica envolva um grupo de 8 a 12 participantes, devido a restrições de tempo e dificuldades na coordenação de horários, não foi possível contar com mais pessoas. No entanto, as respostas fornecidas pelo usuário foram extremamente satisfatórias.
+
+Uma gravação completa do brainstorming foi realizada, e também elaboramos um [termo de autorização de uso de imagem](../img/termo_de_uso.pdf), o qual foi assinado pelo usuário, permitindo-nos utilizar a gravação.
+
 ## Cronograma
 
 Na tabela 1, temos o cronograma detalhado do dia e do horário em que a reunião será realizada e também dos participantes e suas respectivas funções na utilização da técnica.
 
 | Participantes        |    Data    | Hora  |
 | -------------------- | :--------: | :---: |
-| Mendiador: Ana       |
+| Mediador: Ana        |
 | Desenvolvedor:  Yago | 03/10/2023 |  16h  |
 | Usuário:  Evilly     |
 
@@ -107,7 +111,9 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 
 ## Bibliografia
 
-<a id="aa" href="#a">[1]</a> IMAGEM. Disponível em: [Imagem](https://pt.wikipedia.org/wiki/Imagem). Acesso em: 05 de Setembro de 2023.
+<a id="aa" href="#a">[1]</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Elicitação, Modelagem e Análise. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 04 de outubro de 2023.
+<a id="aa" href="#a">[2]</a> Brainstorming em Bilheteria Digital. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/brainstorming/. Acesso em 04 de Outubro de 2023.
+
 
 ## Histórico de Versão
 

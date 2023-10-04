@@ -6,6 +6,10 @@ Um sistema de escala de três níveis é uma abordagem simples e eficaz para cla
 
 ## Metodologia
 
+A técnica divide os requisitos em três categorias: alto, médio e baixo, com base em sua importância ou prioridade. Isso simplifica o processo de avaliação e permite que a equipe se concentre nos requisitos mais críticos, enquanto também reconhece os menos urgentes. É uma abordagem eficaz para garantir que recursos e esforços sejam direcionados para as áreas mais importantes de um projeto ou tarefa.
+
+Todo o processo de categorização é uma atividade colaborativa que envolve a equipe, e é fundamental que haja consenso entre todos os membros sobre a categoria em que cada requisito deve ser classificado.
+
 ## Cronograma
 
 Na tabela 1, temos o cronograma detalhado do dia e do horário em que a reunião será realizada e também dos participantes e suas respectivas funções na utilização da técnica.
@@ -66,7 +70,7 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 
 ## Bibliografia
 
-<a id="aa" href="#a">[1]</a> IMAGEM. Disponível em: [Imagem](https://pt.wikipedia.org/wiki/Imagem). Acesso em: 05 de Setembro de 2023.
+<a id="aa" href="#a">[1]</a> SALES, André Barros. Técnicas de Priorização. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em 04 de outubro de 2023.
 
 ## Histórico de Versão
 

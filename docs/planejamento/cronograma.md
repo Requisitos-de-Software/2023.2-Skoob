@@ -159,7 +159,7 @@ Na Figura 1, apresentamos a disponibilidade dos membros do grupo para reuniões 
 
 As reuniões foram agendadas para todas as segundas-feiras às 21:30h, visando a discussão de pontos importantes relacionados ao projeto.
 
-<a id="a" href="#aa">![image](img/heatmap.png)</a>
+<a id="a" href="#aa">![image](../img/heatmap.png)</a>
 <div style="text-align: center">
 <p>Figura 1 - Disponibilidade dos integrantes, Heatmap. (Fonte: Jefferson França. 2023)</p>
 </div>
