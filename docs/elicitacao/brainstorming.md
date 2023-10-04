@@ -73,33 +73,32 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 
 |  Id   |                                                     Descrição                                                     | Tipo  | Implementado |
 | :---: | :---------------------------------------------------------------------------------------------------------------: | :---: | :----------: |
-| BS01  |                 Deve ser possível classificar o livro como Lendo/Lido/Quero Ler/Abandonei/Relendo                 | RF01  |     Sim      |
-| BS02  | Deve ser possível ver informações gerais de um livro cadastrado, como sinopse, autor, quantidade de páginas, etc  | RF02  |     Sim      |
-| BS03  |                      Deve ser possível visualizar as minhas resenhas e as de outros usuários                      | RF03  |     Sim      |
-| BS04  |              Deve existir uma timeline onde é possível ver informações sobre pessoas que você segue.              | RF04  |     Sim      |
-| BS05  |                                   Deve existir uma aba de lançamentos de livros                                   | RF05  |     Sim      |
-| BS06  |   Deve ser possível sortear um livro dentre os livros marcados como Quero Ler para a próxima leitura do usuário   | RF06  |     Sim      |
-| BS07  |                          Deve ser possível sortear um livro cadastrado nas metas do ano                           | RF07  |     Sim      |
-| BS08  |                                    Deve ser possível curtir posts da timeline                                     | RF08  |     Sim      |
-| BS09  |                                 Deve ser possível adicionar comentários nos posts                                 | RF09  |     Sim      |
-| BS10  |                             Deve ser possível alterar o tema (escuro/claro/variantes)                             | RF10  |     Sim      |
-| BS11  |                             Deve existir uma aba de notícias sobre editoras e autores                             | RF11  |     Não      |
-| BS12  |                                       Deve haver contato com a equipe Skoob                                       | RF12  |     Não      |
-| BS13  |                          Deve existir um FAQ para guiar os usuários nas funcionalidades                           | RF13  |     Não      |
-| BS14  |                               Deve ser possível postar algo livremente na timeline                                | RF14  |     Não      |
-| BS15  |                                 Deve ser possível alterar o idioma da plataforma                                  | RF15  |     Não      |
-| BS16  |                           Deve existir uma lista de sugestão de acordo com livros lidos                           | RF16  |     Não      |
-| BS17  |                           Deve existir um ranking semanal/mensal de livros mais lidos.                            | RF17  |     Não      |
-| BS18  |                     Deve existir um ranking semanal/mensal de livros mais bem classificados.                      | RF18  |     Não      |
-| BS19  |                     Deve ser possível ver a compatibilidade de gosto literário entre usuários                     | RF19  |     Não      |
-| BS20  |                                  Deve ser possível criar desafios entre amigos.                                   | RF20  |     Não      |
-| BS21  |                                      Deve ser possível compartilhar estantes                                      | RF21  |     Não      |
-| BS22  | Deve ser possível postar fotos e/ou vídeos em formato “stories” para compartilhar ideias e novidades sobre livros | RF22  |     Não      |
-| BS23  |                               Devem ser exibidas mensagens de erro mais intuitivas                                | RF23  |     Não      |
-| BS24  |                        Deve haver recompensas que são obtidas através de desafios e metas.                        | RF24  |     Não      |
-| BS25  |                         Deve haver mais medalhas, que são exibidas no perfil das pessoas                          | RF25  |     Não      |
-| BS26  |                                        Deve haver um ranking entre amigos.                                        | RF26  |     Não      |
-| BS27  |                             Deve ser possível mandar mensagens diretas entre usuários                             | RF27  |     Não      |
+| BS01  | Deve ser possível ver informações gerais de um livro cadastrado, como sinopse, autor, quantidade de páginas, etc  | RF02  |     Sim      |
+| BS02  |                      Deve ser possível visualizar as minhas resenhas e as de outros usuários                      | RF03  |     Sim      |
+| BS03  |              Deve existir uma timeline onde é possível ver informações sobre pessoas que você segue.              | RF04  |     Sim      |
+| BS04  |                                   Deve existir uma aba de lançamentos de livros                                   | RF05  |     Sim      |
+| BS05  |   Deve ser possível sortear um livro dentre os livros marcados como Quero Ler para a próxima leitura do usuário   | RF06  |     Sim      |
+| BS06  |                          Deve ser possível sortear um livro cadastrado nas metas do ano                           | RF07  |     Sim      |
+| BS07  |                                    Deve ser possível curtir posts da timeline                                     | RF08  |     Sim      |
+| BS08  |                                 Deve ser possível adicionar comentários nos posts                                 | RF09  |     Sim      |
+| BS09  |                             Deve ser possível alterar o tema (escuro/claro/variantes)                             | RF10  |     Sim      |
+| BS10  |                             Deve existir uma aba de notícias sobre editoras e autores                             | RF11  |     Não      |
+| BS11  |                                       Deve haver contato com a equipe Skoob                                       | RF12  |     Não      |
+| BS12  |                          Deve existir um FAQ para guiar os usuários nas funcionalidades                           | RF13  |     Não      |
+| BS13  |                               Deve ser possível postar algo livremente na timeline                                | RF14  |     Não      |
+| BS14  |                                 Deve ser possível alterar o idioma da plataforma                                  | RF15  |     Não      |
+| BS15  |                           Deve existir uma lista de sugestão de acordo com livros lidos                           | RF16  |     Não      |
+| BS16  |                           Deve existir um ranking semanal/mensal de livros mais lidos.                            | RF17  |     Não      |
+| BS17  |                     Deve existir um ranking semanal/mensal de livros mais bem classificados.                      | RF18  |     Não      |
+| BS18  |                     Deve ser possível ver a compatibilidade de gosto literário entre usuários                     | RF19  |     Não      |
+| BS19  |                                  Deve ser possível criar desafios entre amigos.                                   | RF20  |     Não      |
+| BS20  |                                      Deve ser possível compartilhar estantes                                      | RF21  |     Não      |
+| BS21  | Deve ser possível postar fotos e/ou vídeos em formato “stories” para compartilhar ideias e novidades sobre livros | RF22  |     Não      |
+| BS22  |                               Devem ser exibidas mensagens de erro mais intuitivas                                | RF23  |     Não      |
+| BS23  |                        Deve haver recompensas que são obtidas através de desafios e metas.                        | RF24  |     Não      |
+| BS24  |                         Deve haver mais medalhas, que são exibidas no perfil das pessoas                          | RF25  |     Não      |
+| BS25  |                                        Deve haver um ranking entre amigos.                                        | RF26  |     Não      |
+| BS26  |                             Deve ser possível mandar mensagens diretas entre usuários                             | RF27  |     Não      |
 
 <div style="text-align: center">
 <p> Tabela 2: Requisitos elicitados através do brainstorming. (Fonte: Jefferson França, 2023).</p>
