@@ -104,5 +104,5 @@ Após analisarmos as respostas, chegamos à conclusão de que o perfil do usuár
 
 | Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato |   [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
+| `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato |  [Ana Rocha](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
 
