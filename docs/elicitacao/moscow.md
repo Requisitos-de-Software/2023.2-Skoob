@@ -41,8 +41,8 @@ Legenda:
 |     IN07      |                                      Deve ser possível dar notas aos livros                                      |    Could   |
 |     IN08      |                        Deve ser possível escrever resenhas dos livros marcados como lidos                        |    Could   |
 |     IN09      |             Deve ser possível marcar os livros como: Lido / Lendo / Quero ler / Abandonei / Relendo              |    Should  |
-|     IN10      |                 Deve ser possível contabilizar os dias lendo livros quando o status for relendo                  |      -     |
-|     IN11      |                                Dve ser possível registrar o histórico de leitura                                 |    Should  |
+|     IN10      |                 Deve ser possível contabilizar os dias lendo livros quando o status for relendo                  |    Should  |
+|     IN11      |                                Deve ser possível registrar o histórico de leitura                                 |    Should  |
 |     IN12      |                                   Deve ser possível adicionar livro a estante                                    |    Must    |
 |     IN13      |                                Deve ser possível criar lista de livros desejados                                 |    Could   |
 |     IN14      |                            Deve ser possível compartilhar a lista de livros desejados                            |    Would   |
