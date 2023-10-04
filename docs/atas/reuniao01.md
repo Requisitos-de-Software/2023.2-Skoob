@@ -1,6 +1,9 @@
 # Ata de Reunião - 12/09
 
-## Introdução e Objetivo
+## Introdução
+A Ata de reunião é um registro formal de um encontro organizacional. Nela, ficam documentadas todas as ações que foram discutidas e decididas no momento [1]. 
+
+## Pauta
 Essa ata compreende os temas abordados na reunião do dia 12/09, que tinha como intuito discutir os aplicativos estudados individualmente, entre aqueles que os estudantes fizeram o [Rich Picture](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/lista_de_aplicativos/), qual seria o escolhido para o projeto em equipe.
 
 ## Discussão
@@ -36,6 +39,7 @@ A chamada se estendeu para que os alunos Shaine, Jefferson e Yago pudessem desen
 - Fim de reunião: 21:01h
 
 ## Gravação da Reunião
+Abaixo, o vídeo 1, da gravação da reunião.
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Vmhu8fMmJvw" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -43,9 +47,13 @@ A chamada se estendeu para que os alunos Shaine, Jefferson e Yago pudessem desen
 <p> Vídeo 1: Gravação da Reunião. (Fonte: Grupo 6. 2023).</p>
 </div>
 
+## Bibliografia
+
+[1] ASANA. Dicas para criar um modelo de ata de reunião. Disponível em: https://asana.com/pt/templates/meeting-minutes. Acesso em 02 de outubro de 2023.
 
 ## Histórico de Versão
 
 | Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    12/09/2023    |   19/05/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |
+| `1.0`  |    12/09/2023    |   18/09/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |
+| `1.1`  |    02/10/2023    |   18/11/2023    | Modificação de estrutura e Bibliografia |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |

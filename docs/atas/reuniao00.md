@@ -1,6 +1,9 @@
-# Ata de reunião - 06/09
+# Ata de Reunião - 06/09
 
 ## Introdução
+A Ata de reunião é um registro formal de um encontro organizacional. Nela, ficam documentadas todas as ações que foram discutidas e decididas no momento [1]. 
+
+## Pauta
 Essa ata compreende os temas abordados na reunião do dia 06/09, que tinha como intuito discutir o planejamento do projeto e a primeia entrega do trabalho.
 
 ## Discussão
@@ -9,17 +12,18 @@ outras reuniões podem surgir em outras datas conforme a necessidade.
 
 Os artefatos da primeira entrega, que compõem o [Planejamento do Projeto](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma/) foram discutidos e os autores foram decididos conforme a tabela a seguir:
 
-### Divisão de tarefas
+## O que foi Definido
+A tabela 1 expõe as divisões definidas para cada artefato a ser elaborado.
 
 | Atividade | Entrega | Autor(es) |
 | :-------: | :-----: | :-------: |
-|Apresentação de Equipe|  17/09  |   [Rafael]()  | 
-|  Heatmap  |  17/09   | [Jefferson](https://github.com/Frans6), [Yago](https://github.com/yagompassos) e [Shaine]()  |
-|Cronograma|  17/09  | [Jefferson](https://github.com/Frans6), [Yago](https://github.com/yagompassos) e [Shaine]() | 
-|Ferramentas |  17/09  |   [Ana]()   |
-|Apps individuais|  17/09  |   [Ana]() e [Rafael](https://github.com/Rafael-gc)   |
+|Apresentação de Equipe|  17/09  |   [Rafael](https://github.com/Rafael-gc) | 
+|  Heatmap  |  17/09   | [Jefferson](https://github.com/Frans6), [Yago](https://github.com/yagompassos) e [Shaine](https://github.com/shaineOliveira)  |
+|Cronograma|  17/09  | [Jefferson](https://github.com/Frans6), [Yago](https://github.com/yagompassos) e [Shaine](https://github.com/shaineOliveira) | 
+|Ferramentas |  17/09  |   [Ana](https://github.com/anaaroch)   |
+|Apps individuais|  17/09  |   [Ana](https://github.com/anaaroch) e [Rafael](https://github.com/Rafael-gc)   |
 |Atas das reuniões|  17/09  |   [Yago](https://github.com/yagompassos)   |
-|Página das apresentações|  17/09  |   [Shaine]()   |
+|Página das apresentações|  17/09  |   [Shaine](https://github.com/shaineOliveira)   |
 |Metodologia e Política de commit|  17/09  |   [Jefferson](https://github.com/Frans6) e [Yago](https://github.com/yagompassos)   |
 
 <div style="text-align: center">
@@ -39,9 +43,12 @@ Os artefatos da primeira entrega, que compõem o [Planejamento do Projeto](https
 - Início de reunião: 20:40h
 - Fim de reunião: 21:15h
 
+## Bibliografia
+[1] ASANA. Dicas para criar um modelo de ata de reunião. Disponível em: https://asana.com/pt/templates/meeting-minutes. Acesso em 02 de outubro de 2023.
 
 ## Histórico de Versão
 
 | Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    06/09/2023    |   19/05/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |
+| `1.0`  |    06/09/2023    |   12/09/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |
+| `1.1`  |    02/10/2023    |   18/11/2023    | Modificação de estrutura e Bibliografia |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |
