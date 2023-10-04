@@ -63,6 +63,10 @@ envolvente e divertido?
 - Tem muita informação legal mas pouco divulgada.
 - Sugestões: deixar o ranking visível no perfil da pessoa, medalhas, personalização do passarinho (icone do skoob), criar um avatar como no instagram.
 
+### Gravação da Reunião
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/6CAvQgKyy9k" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 ### Legenda das tabelas:
     - n: Número do Requisito;
     - RFn:  Requisito Funcional;

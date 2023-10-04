@@ -80,5 +80,5 @@ Na Figura 1 contém a priorização dos requisitos seguindo a técnica de First 
 | Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
 | `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_)    | [Yago Passos](https://github.com/yagompassos) |
-| `1.1`  |    04/10/2023    |   04/10/2023    | Atualização do artefato |   [Ana Rocha](https://github.com/anaaroch_)  e [Yago Passos](https://github.com/yagompassos)  | [Jefferson](https://github.com/Frans6), [Shaíne](https://github.com/ShaineOliveira) e [Rafael](https://github.com/Rafael-gc) |
+| `1.1`  |    04/10/2023    |   04/10/2023    | Atualização do artefato |   [Ana Rocha](https://github.com/anaaroch_) e [Yago Passos](https://github.com/yagompassos)  | [Jefferson](https://github.com/Frans6), [Shaíne](https://github.com/ShaineOliveira) e [Rafael](https://github.com/Rafael-gc) |
 
