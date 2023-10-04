@@ -39,6 +39,7 @@ A chamada se estendeu para que os alunos Shaine, Jefferson e Yago pudessem desen
 - Fim de reunião: 21:01h
 
 ## Gravação da Reunião
+Abaixo, o vídeo 1, da gravação da reunião.
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Vmhu8fMmJvw" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
