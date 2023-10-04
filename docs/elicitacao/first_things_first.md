@@ -74,14 +74,17 @@ A primeira etapa da Priorização consistiu em uma entrevista. Nessa entrevista 
 No vídeo 1, destacado a baixo, a entrevista com a representante dos clientes, Vitória Monteiro.
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/xNCw4aAP9tk" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div style="text-align: center">
-    <p> Figura 1: Priorização de requisitos - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
+    <p> Vídeo 1: Estimativa da parte do usuário - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
 </div>
 
 ### Estimativa da parte Técnica
 A segunda etapa foi uma reunião entre os representantes de desenvolvimento, que ao ponderar as funcionalidades, chegaram na priorização representada na Figura 1:
+<div style="text-align: center;">
+  <img src="../img/priorizacao_ftf.png" alt="image" width="800"/>
+</div>
 
 <div style="text-align: center">
-    <p> Vídeo 1: Estimativa da parte do usuário - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
+    <p> Figura 1: Priorização de requisitos - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
 </div>
 
 ## Bibliografia
