@@ -42,7 +42,10 @@ nav:
     - Aplicativos Analisados: pre_rastreabilidade/lista_de_aplicativos.md
     - Aplicativo Escolhido: pre_rastreabilidade/aplicativo_escolhido.md
   - Elicitação de Requisitos:
+    - Brainstorming: elicitacao/brainstorming.md
+    - Observação: elicitacao/observacao.md
     - Fist Things First: elicitacao/first_things_first.md
     - Moscow: elicitacao/moscow.md
+    - Three-Level Scale: elicitacao/three_level_scale.md
   - Entregas: planejamento/entregas.md
 
