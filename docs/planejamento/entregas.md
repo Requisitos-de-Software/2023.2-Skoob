@@ -18,11 +18,25 @@ O Vídeo 1 corresponde a gravação da primeira entrega da disciplina. Nele, exp
 
 
 
+
+## Entrega 2 (04/10/2023)
+
+### Descrição: 
+Nesta segunda entrega foi possível fazer correções da primeira entrega, elicitar os requisitos usando técnicas de elicitação, estudar o perfil do usuário e priorizar o requisitos.
+
+### Vídeo de apresentação
+O Vídeo 2 corresponde a gravação da segunda entrega da disciplina. Nele, explicamos as técnicas usadas para elicitar e priorizar os requisitos.
+
+colocar vídeo
+
+
+
 ## Histórico de versão
 
 | Versão | Data | Descrição| Autor(es)| Revisor(es)
 |--|--|--|--|--|
 | `1.0`|18/09/2023|Entrega 1| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos
+| `1.2`|04/10/2023|Entrega 2| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos
 
 
 
