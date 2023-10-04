@@ -1,0 +1,118 @@
+# Título
+
+## Introdução
+
+O brainstorming desempenha um papel fundamental no processo de elicitação de requisitos, ajudando a equipe a identificar, explorar e capturar as necessidades e expectativas dos stakeholders. Durante as sessões de elicitação, o brainstorming permite que os participantes gerem ideias e insights valiosos relacionados aos requisitos do projeto. A abordagem colaborativa promove a criatividade, o diálogo e a compreensão compartilhada, resultando na definição mais precisa e abrangente dos requisitos. Neste contexto, o brainstorming é uma ferramenta essencial para promover a comunicação eficaz e a coleta de informações necessárias para o sucesso do projeto.
+
+## Metodologia
+
+## Cronograma
+
+Na tabela 1, temos o cronograma detalhado do dia e do horário em que a reunião será realizada e também dos participantes e suas respectivas funções na utilização da técnica.
+
+| Participantes        |    Data    | Hora  |
+| -------------------- | :--------: | :---: |
+| Mendiador: Ana       |
+| Desenvolvedor:  Yago | 03/10/2023 |  16h  |
+| Usuário:  Evilly     |
+
+<div style="text-align: center">
+<p> Tabela 1: Cronograma para execução da técnica. (Fonte: Jefferson França, 2023).</p>
+</div>
+
+### Perguntas e Respostas
+
+Quais são as funcionalidades que você considera essenciais em um aplicativo voltado para leitores, como o Skoob?
+
+- Tags de opção para classificação de livros e possibilidade de conseguir definir metas para anos diferentes, além da tbr, que possibilita sortear os livros das suas metas para definir a próxima leitura (ver infos dos livros e resenhas).
+
+Quando se trata de eventos literários, que tipo de informações você gostaria de ver sobre eles no aplicativo do Skoob?
+
+- Gostaria de ter mais visibilidade dentro do app, aba de news de literatura.
+  
+Como o aplicativo do Skoob pode oferecer suporte aos usuários em caso de dúvidas ou problemas relacionados a eventos literários?
+
+- Nunca precisou usar o suporte, mas algumas abas que entra tem o ícone de
+interrogação onde é encontrada informações sobre a página.
+
+Que sugestões você tem para tornar o aplicativo do Skoob mais amigável, com um design intuitivo e uma navegação simplificada, garantindo uma experiência agradável para os amantes da leitura?
+
+- O que incomoda um pouco é para ser uma rede social, mas não vê muita interação
+entre os usuários, queria melhorar isso, ex.: stories.
+- A interface é fácil de mexer mas acha que poderia ser mais moderno o design.
+  
+Quais recursos de recomendação de livros poderíamos adicionar para ajudar os usuários a descobrir novas leituras?
+
+- Fazer ranking semanal ou mensal dos livros mais lidos na plataforma, quanto mais
+ela vê um livro, mais ela quer ler.
+
+Quais recursos de conectividade social podemos implementar para que os usuários possam interagir uns com os outros de maneira mais eficaz?
+
+- Stories.
+
+Quais são as principais reclamações ou desafios que os usuários enfrentam atualmente
+com o Skoob, e como podemos resolvê-los?
+
+- Tem um bug específico, onde colocamos a porcentagem de leitura ao registrar um
+histórico.
+
+Quais recursos de gamificação poderíamos implementar para tornar o uso do Skoob mais
+envolvente e divertido?
+
+- Já tem um ranking, mas é pouco incentivado.
+- Tem muita informação legal mas pouco divulgada.
+- Sugestões: deixar o ranking visível no perfil da pessoa, medalhas, personalização do passarinho (icone do skoob), criar um avatar como no instagram.
+
+### Legenda das tabelas:
+    - n: Número do Requisito;
+    - RFn:  Requisito Funcional;
+    - RNFn: Requisito Não Funcional;
+    - BSn: Requisito elicitado por meio de Brainstorming;
+
+Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-Level Scale.
+
+|  Id   |                                                     Descrição                                                     | Tipo  | Implementado |
+| :---: | :---------------------------------------------------------------------------------------------------------------: | :---: | :----------: |
+| BS01  |                 Deve ser possível classificar o livro como Lendo/Lido/Quero Ler/Abandonei/Relendo                 | RF01  |     Sim      |
+| BS02  | Deve ser possível ver informações gerais de um livro cadastrado, como sinopse, autor, quantidade de páginas, etc  | RF02  |     Sim      |
+| BS03  |                      Deve ser possível visualizar as minhas resenhas e as de outros usuários                      | RF03  |     Sim      |
+| BS04  |              Deve existir uma timeline onde é possível ver informações sobre pessoas que você segue.              | RF04  |     Sim      |
+| BS05  |                                   Deve existir uma aba de lançamentos de livros                                   | RF05  |     Sim      |
+| BS06  |   Deve ser possível sortear um livro dentre os livros marcados como Quero Ler para a próxima leitura do usuário   | RF06  |     Sim      |
+| BS07  |                          Deve ser possível sortear um livro cadastrado nas metas do ano                           | RF07  |     Sim      |
+| BS08  |                                    Deve ser possível curtir posts da timeline                                     | RF08  |     Sim      |
+| BS09  |                                 Deve ser possível adicionar comentários nos posts                                 | RF09  |     Sim      |
+| BS10  |                             Deve ser possível alterar o tema (escuro/claro/variantes)                             | RF10  |     Sim      |
+| BS11  |                             Deve existir uma aba de notícias sobre editoras e autores                             | RF11  |     Não      |
+| BS12  |                                       Deve haver contato com a equipe Skoob                                       | RF12  |     Não      |
+| BS13  |                          Deve existir um FAQ para guiar os usuários nas funcionalidades                           | RF13  |     Não      |
+| BS14  |                               Deve ser possível postar algo livremente na timeline                                | RF14  |     Não      |
+| BS15  |                                 Deve ser possível alterar o idioma da plataforma                                  | RF15  |     Não      |
+| BS16  |                           Deve existir uma lista de sugestão de acordo com livros lidos                           | RF16  |     Não      |
+| BS17  |                           Deve existir um ranking semanal/mensal de livros mais lidos.                            | RF17  |     Não      |
+| BS18  |                     Deve existir um ranking semanal/mensal de livros mais bem classificados.                      | RF18  |     Não      |
+| BS19  |                     Deve ser possível ver a compatibilidade de gosto literário entre usuários                     | RF19  |     Não      |
+| BS20  |                                  Deve ser possível criar desafios entre amigos.                                   | RF20  |     Não      |
+| BS21  |                                      Deve ser possível compartilhar estantes                                      | RF21  |     Não      |
+| BS22  | Deve ser possível postar fotos e/ou vídeos em formato “stories” para compartilhar ideias e novidades sobre livros | RF22  |     Não      |
+| BS23  |                               Devem ser exibidas mensagens de erro mais intuitivas                                | RF23  |     Não      |
+| BS24  |                        Deve haver recompensas que são obtidas através de desafios e metas.                        | RF24  |     Não      |
+| BS25  |                         Deve haver mais medalhas, que são exibidas no perfil das pessoas                          | RF25  |     Não      |
+| BS26  |                                        Deve haver um ranking entre amigos.                                        | RF26  |     Não      |
+| BS27  |                             Deve ser possível mandar mensagens diretas entre usuários                             | RF27  |     Não      |
+
+<div style="text-align: center">
+<p> Tabela 2: Requisitos elicitados através do brainstorming. (Fonte: Jefferson França, 2023).</p>
+</div>
+
+
+## Bibliografia
+
+<a id="aa" href="#a">[1]</a> IMAGEM. Disponível em: [Imagem](https://pt.wikipedia.org/wiki/Imagem). Acesso em: 05 de Setembro de 2023.
+
+## Histórico de Versão
+
+| Versão | Data de execução | Data de revisão |      Descrição      |                                           Autor(es)                                            |                                                                  Revisor(es)                                                                   |
+| :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+
