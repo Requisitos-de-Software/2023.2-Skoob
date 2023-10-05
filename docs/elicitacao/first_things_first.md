@@ -78,14 +78,16 @@ No vídeo 1, destacado a baixo, a entrevista com a representante dos clientes, V
     <p> Vídeo 1: Estimativa da parte do usuário - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
 </div>
 
+Aqui contém o documento do [Termo de Consentimento de uso da Imagem](./img/termo_de_consentimento_vitoria.pdf), assinado pela usuária entrevistada.
+
 ### Estimativa da parte Técnica
-A segunda etapa foi uma reunião entre os representantes de desenvolvimento, que ao ponderar as funcionalidades, chegaram na priorização representada na Figura 1:
+A segunda etapa foi uma reunião entre os representantes de desenvolvimento, que ao ponderar as funcionalidades, chegaram na priorização representada na Figura 2:
 <div style="text-align: center;">
   <img src="../img/priorizacao_ftf.png" alt="image" width="800"/>
 </div>
 
 <div style="text-align: center">
-    <p> Figura 1: Priorização de requisitos - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
+    <p> Figura 2: Priorização de requisitos - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
 </div>
 
 ## Bibliografia
