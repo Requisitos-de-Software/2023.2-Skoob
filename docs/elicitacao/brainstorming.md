@@ -6,7 +6,7 @@ O brainstorming desempenha um papel fundamental no processo de elicitação de r
 
 ## Metodologia
 
-Utilizando a técnica de brainstorming, o mediador conduziu uma série de perguntas cuidadosamente elaboradas para extrair ideias valiosas do usuário. Embora idealmente essa técnica envolva um grupo de 8 a 12 participantes, devido a restrições de tempo e dificuldades na coordenação de horários, não foi possível contar com mais pessoas. No entanto, as respostas fornecidas pelo usuário foram extremamente satisfatórias.
+Utilizando a técnica de brainstorming, o mediador conduziu uma série de perguntas cuidadosamente elaboradas para extrair ideias valiosas do usuário. Embora idealmente essa técnica envolva um grupo de 8 a 12 participantes,como diz o livro Interação Humano-Computador (Barbosa e Silva)<a id="a" href="#aa">[3]</a> devido a restrições de tempo e dificuldades na coordenação de horários, não foi possível contar com mais pessoas. No entanto, as respostas fornecidas pelo usuário foram extremamente satisfatórias.
 
 Uma gravação completa do brainstorming foi realizada, e também elaboramos um [termo de autorização de uso de imagem](../img/termo_de_uso.pdf), o qual foi assinado pelo usuário, permitindo-nos utilizar a gravação.
 
@@ -115,9 +115,11 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 
 ## Bibliografia
 
-<a id="aa" href="#a">[1]</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Elicitação, Modelagem e Análise. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 04 de outubro de 2023.
+[1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Elicitação, Modelagem e Análise. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 04 de outubro de 2023.
 
-<a id="aa" href="#a">[2]</a> Brainstorming em Bilheteria Digital. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/brainstorming/. Acesso em 04 de Outubro de 2023.
+[2] Brainstorming em Bilheteria Digital. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/brainstorming/. Acesso em 04 de Outubro de 2023.
+
+<a id="aa" href="#a">[3]</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
 ## Histórico de Versão
