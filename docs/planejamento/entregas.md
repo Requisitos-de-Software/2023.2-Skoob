@@ -29,7 +29,7 @@ O Vídeo 2 corresponde a gravação da segunda entrega da disciplina. Nele, expl
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/UWR8LdWP37k" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div style="text-align: center">
-<p> Vídeo 1: Gravação da primeira apresentação. (Fonte: Grupo 6, 2023)..</p>
+<p> Vídeo 2: Gravação da segunda apresentação. (Fonte: Grupo 6, 2023)..</p>
 </div>
 
 
