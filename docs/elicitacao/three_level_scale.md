@@ -18,15 +18,19 @@ Na tabela 1, temos o cronograma detalhado do dia e do horário em que a reunião
 | -------------------- | :--------: | :---: |
 | Mendiador: Jefferson |
 | Desenvolvedor: Ana   | 04/10/2023 |  17h  |
-| Usuário:             |
-
+| Usuário: Vitória Monteiro      |
 <div style="text-align: center">
 <p> Tabela 1: Cronograma para execução da técnica. (Fonte: Jefferson França, 2023).</p>
 </div>
 
 ### Gravação da Técninca
 
-<iframe width="1000vw" height="650vh" src="http://youtube.com/embed/5C4R6nzaC4U" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+Vídeo 1, da gravação: 
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/5C4R6nzaC4U" title="tecnicatls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align: center">
+    <p> Vídeo 1: Estimativa da parte do usuário - First Things First. (Fonte: Grupo Skoob, 2023).</p>
+</div>
 
 ## Requisitos Priorizados
 
