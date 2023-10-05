@@ -18,7 +18,7 @@ O Vídeo 1 corresponde a gravação da primeira entrega da disciplina. Nele, exp
 
 
 
-
+https://youtu.be/UWR8LdWP37k
 ## Entrega 2 (04/10/2023)
 
 ### Descrição: 
@@ -27,16 +27,20 @@ Nesta segunda entrega foi possível fazer correções da primeira entrega, elici
 ### Vídeo de apresentação
 O Vídeo 2 corresponde a gravação da segunda entrega da disciplina. Nele, explicamos as técnicas usadas para elicitar e priorizar os requisitos.
 
-colocar vídeo
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/UWR8LdWP37k" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align: center">
+<p> Vídeo 1: Gravação da primeira apresentação. (Fonte: Grupo 6, 2023)..</p>
+</div>
 
 
 
 ## Histórico de versão
 
-| Versão | Data | Descrição| Autor(es)| Revisor(es)
-|--|--|--|--|--|
-| `1.0`|18/09/2023|Entrega 1| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos
-| `1.2`|04/10/2023|Entrega 2| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos
+| Versão | Data | Descrição| Autor(es)| Revisor(es)| 
+|   --   |  --  |    --    |    --    |     --     |
+| `1.0`|18/09/2023|Entrega 1| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
+| `1.1`|04/10/2023|Entrega 2| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
+| `1.2`|04/10/2023|Vídeo 2| [Yago Passos](https://github.com/yagompassos)| Todos |
 
 
 
