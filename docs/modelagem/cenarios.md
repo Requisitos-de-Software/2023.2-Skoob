@@ -26,6 +26,45 @@ Dessa forma, os cenários serão representados conforme a tabela 1.
 <p> Tabela 1: Modelo dos cenários. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
 
+## Cenários encontrados
+As tabelas-xx a xx representam os cenários que foram identificados para o aplicativo Skoob. 
+
+
+
+#### **C01: Adicionando um Livro à Estante Pessoal**
+
+| Elemento    | Descrição                                        |
+|-------------|--------------------------------------------------|
+| Título      | Adicionar Livro à Estante                        |
+| Objetivo    | Permitir que os usuários organizem e gerenciem seus livros pessoais. |
+| Contexto    | O usuário está logado em sua conta no aplicativo. Ele está em casa, com acesso à internet. |
+| Recursos    | Smartphone ou computador, conexão com a internet. |
+| Ator        | Usuário do Skoob.                               |
+| Episódios   |  1. O usuário pesquisa um livro. <br>           2. O usuário encontra o livro desejado.<br> 3. O usuário clica no botão "Adicionar à Estante". |
+| Restrições  | O livro deve estar disponível na base de dados do Skoob. |
+| Exceção     | Se o livro não for encontrado, o sistema exibe uma mensagem de erro. |
+
+<div style="text-align: center">
+<p> Tabela 2: Cenário 01. (Fonte: Shaíne Oliveira, 2023).</p>
+</div>
+
+#### **C02: Avaliando um Livro Lido**
+
+| Elemento    | Descrição                                        |
+|-------------|--------------------------------------------------|
+| Título      | Avaliar Livro Lido                               |
+| Objetivo    | Permitir que os usuários avaliem e compartilhem suas opiniões sobre livros lidos. |
+| Contexto    | O usuário está logado em sua conta e deseja avaliar um livro recentemente lido. |
+| Recursos    | Smartphone ou computador, conexão com a internet. |
+| Ator        | Usuário do Skoob.                               |
+| Episódios   | 1. O usuário acessa sua estante pessoal. <br>     2. O usuário seleciona o livro que deseja avaliar. <br>   3. O usuário atribui uma classificação e escreve uma resenha.   <br> 4. O usuário confirma a avaliação.              |
+| Restrições  | O livro deve estar na estante do usuário.       |
+| Exceção     | Se o usuário tentar avaliar um livro que não está em sua estante, o sistema exibe uma mensagem de erro. |
+
+<div style="text-align: center">
+<p> Tabela 3: Cenário 02. (Fonte: Shaíne Oliveira, 2023).</p>
+</div>
+
 ## Bibliografia
 
 [1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
@@ -35,3 +74,4 @@ Dessa forma, os cenários serão representados conforme a tabela 1.
 | Versão | Data       | Descrição                  | Autor(es)     | Revisor(es)     |
 | ------ | ---------- | --------------------       | ------------- | -------------   |
 | `1.0`  | 11/10/2023 | Criação do documento       | Shaíne  | Ana Caroline        |
+| `1.1`  | 11/10/2023 | Adição de dois cenários       | Shaíne  | Ana Caroline        |
