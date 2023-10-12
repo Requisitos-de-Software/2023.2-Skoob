@@ -80,6 +80,9 @@ Legenda:
     <p> Tabela 1: Levantamento de requisitos Moscow. (Fonte: Rafael e Shaíne, 2023).</p>
 </div>
 
+## Conclusão
+A priorização dos requisitos com os usuários do aplicativo Skoob, para fins de documentação, conclui que esse processo é essencial para criar uma documentação clara e eficaz, refletindo as prioridades dos usuários. Essa documentação servirá como uma valiosa referência, garantindo um alinhamento constante com as necessidades dos usuários.
+
 ## Bibliografia
 
 [1] SALES, André Barros. Técnicas de Priorização. Disponível em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em 02 de outubro de 2023.
