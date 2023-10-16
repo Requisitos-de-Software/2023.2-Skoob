@@ -54,7 +54,7 @@ As tabelas-xx a xx representam os cenários que foram identificados para o aplic
 |-------------|--------------------------------------------------|
 | Título      | Avaliar Livro Lido                               |
 | Objetivo    | Permitir que os usuários avaliem e compartilhem suas opiniões sobre livros lidos. |
-| Contexto    | O usuário está logado em sua conta e deseja avaliar um livro recentemente lido. |
+| Contexto    | O usuário, em sua residência, conectado à internet, está logado em sua conta e deseja avaliar um livro recentemente lido. |
 | Recursos    | Smartphone ou computador, conexão com a internet. |
 | Ator        | Usuário do Skoob.                               |
 | Episódios   | 1. O usuário acessa sua estante pessoal. <br>     2. O usuário seleciona o livro que deseja avaliar. <br>   3. O usuário atribui uma classificação e escreve uma resenha.   <br> 4. O usuário confirma a avaliação.              |
@@ -72,7 +72,7 @@ As tabelas-xx a xx representam os cenários que foram identificados para o aplic
 |-------------|--------------------------------------------------|
 | Título      | Realizar Login                                   |
 | Objetivo    | Permitir que os usuários acessem suas contas no aplicativo. |
-| Contexto    | O usuário iniciou o aplicativo Skoob e deseja acessar sua conta. |
+| Contexto    | O usuário, em sua residência, conectado à internet, iniciou o aplicativo Skoob e deseja acessar sua conta. |
 | Recursos    | Smartphone ou computador, conexão com a internet. |
 | Ator        | Usuário do Skoob.                               |
 | Episódios   | 1. O usuário abre o aplicativo Skoob. <br>        2. O usuário clica na opção "Login".   <br>     3. O usuário insere seu nome de usuário e senha.  <br> 4. O usuário clica no botão "Entrar".            |
@@ -91,7 +91,7 @@ As tabelas-xx a xx representam os cenários que foram identificados para o aplic
 |-------------|--------------------------------------------------|
 | Título      | Pesquisar Livros                                 |
 | Objetivo    | Permitir que os usuários encontrem livros de seu interesse no aplicativo. |
-| Contexto    | O usuário está logado em sua conta e deseja encontrar um livro específico. |
+| Contexto    | O usuário, em sua residência, conectado à internet, está logado em sua conta e deseja encontrar um livro específico. |
 | Recursos    | Smartphone ou computador, conexão com a internet. |
 | Ator        | Usuário do Skoob.                               |
 | Episódios   | 1. O usuário acessa a função de pesquisa no aplicativo.<br> 2. O usuário insere o título ou autor do livro desejado na barra de pesquisa. <br> 3. O usuário clica no botão "Pesquisar".   <br>       4. O sistema exibe os resultados da pesquisa.    |
@@ -108,7 +108,7 @@ As tabelas-xx a xx representam os cenários que foram identificados para o aplic
 |-------------|--------------------------------------------------|
 | Título      | Adicionar Comentários em Posts                  |
 | Objetivo    | Permitir que os usuários interajam com as postagens, adicionando comentários. |
-| Contexto    | O usuário está logado em sua conta e deseja interagir com uma postagem. |
+| Contexto    | O usuário, em sua residência, conectado à internet, está logado em sua conta e deseja interagir com uma postagem. |
 | Recursos    | Smartphone ou computador, conexão com a internet. |
 | Ator        | Usuário do Skoob.                               |
 | Episódios   | 1. O usuário navega pelo feed de postagens. <br> 2. O usuário seleciona uma postagem específica. <br> 3. O usuário escreve seu comentário na caixa de texto.<br> 4. O usuário clica no botão "Comentar".          |
@@ -132,3 +132,4 @@ As tabelas-xx a xx representam os cenários que foram identificados para o aplic
 | `1.0`  | 11/10/2023 | Criação do documento       | Shaíne  | Ana Caroline        |
 | `1.1`  | 11/10/2023 | Adição de dois cenários       | Shaíne  | Ana Caroline        |
 | `1.2`  | 12/10/2023 | Adição dos cenários 04 e 05      | Shaíne  | Ana Caroline        |
+| `1.3`  | 16/10/2023 | Atualizando "contexto" dos cenários     | Shaíne  | Ana Caroline        |
