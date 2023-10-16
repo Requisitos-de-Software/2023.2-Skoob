@@ -2,7 +2,14 @@
 
 ## Introdução
 
-Um sistema de escala de três níveis é uma abordagem simples e eficaz para classificar requisitos em três categorias distintas. Essas categorias frequentemente são rotuladas como "alto", "médio" e "baixo". A utilidade desse sistema reside na sua capacidade de simplificar a classificação e a tomada de decisões, tornando mais fácil para as pessoas avaliarem e compararem diferentes opções. Para o projeto a técnica será utilizada por um desenvolvedor, que também séra o mediador, e um usuário.
+Um sistema de escala de três níveis é uma abordagem simples e eficaz para classificar requisitos em três categorias distintas. Essas categorias frequentemente são rotuladas como prioridade "alta", "média" e "baixa". A utilidade desse sistema reside na sua capacidade de simplificar a classificação e a tomada de decisões, tornando mais fácil para as pessoas avaliarem e compararem diferentes opções. Para o projeto a técnica será utilizada por um desenvolvedor, que também séra o mediador, e um usuário. A Figura 1 ilustra a divisão das categorias desta técnica.
+
+<div style="text-align: center;">
+  <img src="../img/priorizacao_tls.png" alt="image" width="800"/>
+</div>
+<div style="text-align: center">
+    <p> Figura 1: Priorização de requisitos - Three-Level Scale. (Fonte: SALES, André Barros <a href="#aa">[1]</a>, 2023).</p>
+</div>
 
 ## Metodologia
 
@@ -113,4 +120,4 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 | :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 | `1.0`  |    03/10/2023    |   04/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
 | `1.0`  |    04/10/2023    |   04/10/2023    | Adição do vídeo | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
-
+| `1.1`  |    16/10/2023    |   17/10/2023    | Atualização da introdução | [Ana Rocha](https://github.com/anaaroch) | [Jefferson França](https://github.com/Frans6) |
