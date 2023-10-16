@@ -90,6 +90,9 @@ A segunda etapa foi uma reunião entre os representantes de desenvolvimento, que
     <p> Figura 2: Priorização de requisitos - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
 </div>
 
+### Conclusão
+Em resumo, a técnica de priorização "First Things First" se mostrou uma ferramenta importante na gestão dos requisitos que elicitamos, permitindo uma abordagem bem definida para determinar a importância de cada funcionalidade, nos proporcionando uma lista clara e organizada de prioridades para a implementação, o que permite uma alocação eficiente de recursos.
+
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> WIEGERS, Karl e BEATTY, Joy. Disponível em: [Software Requirements, Third Edition](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 02 de Outubro de 2023.</br>
@@ -102,4 +105,5 @@ A segunda etapa foi uma reunião entre os representantes de desenvolvimento, que
 | `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_)    | [Yago Passos](https://github.com/yagompassos) |
 | `1.1`  |    04/10/2023    |   04/10/2023    | Atualização do artefato |   [Ana Rocha](https://github.com/anaaroch_) e [Yago Passos](https://github.com/yagompassos)  | [Jefferson](https://github.com/Frans6), [Shaíne](https://github.com/ShaineOliveira) e [Rafael](https://github.com/Rafael-gc) |
 | `1.2`  |    04/10/2023    |   04/10/2023    | Seção de Priorização |   [Yago Passos](https://github.com/yagompassos)    | [Ana Rocha](https://github.com/anaaroch_) |
+| `1.3`  |    16/10/2023    |   17/10/2023    | Elaboração da Conclusão | [Ana Rocha](https://github.com/anaaroch_) | [Yago Passos](https://github.com/yagompassos) |
 
