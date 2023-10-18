@@ -44,6 +44,7 @@ nav:
     - Aplicativos Analisados: pre_rastreabilidade/lista_de_aplicativos.md
     - Aplicativo Escolhido: pre_rastreabilidade/aplicativo_escolhido.md
   - Elicitação de Requisitos:
+    - Requisitos Elicitados: elicitacao/requisitos.md
     - Brainstorming: elicitacao/brainstorming.md
     - Observação: elicitacao/observacao.md
     - Introspecção: elicitacao/introspeccao.md
