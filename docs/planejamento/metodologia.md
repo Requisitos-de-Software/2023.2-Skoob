@@ -21,6 +21,7 @@ As principais características a serem seguidas viementemente são <a id="a" hre
 Contudo, os principais fundamentos e indicações que não serão implementadas no projeto <a id="a" href="#aa">[1]</a>:
 
  - Métricas de Scrum como tabela de conhecimento ou de satisfação.
+ - Reuniões Diárias ou de modelo [_Stand-up_](https://blog.cronapp.io/stand-up-meeting-o-que-e-e-como-realizar-uma-daily-scrum/)
 
 ### Quadro Kanban
 Do japonês, Kanban é literalmente traduzido como quadro de sinal ou sinal visual <a id="aa" href="#a">[2]</a>. Em engenharia de Software, Kanban é uma estratégia para otimizar o fluxo de valor para partes interessadas através de um processo que utiliza um sistema visual <a id="aa" href="#a">[3]</a>.
@@ -45,6 +46,10 @@ Exemplo:
 
 </br>
 
+## Conclusão 
+
+A adaptação da metodologia Scrum para o nosso projeto é uma escolha estratégica que nos permite manter um equilíbrio entre estrutura e flexibilidade. Ao seguir os princípios fundamentais do Scrum e adaptá-los conforme necessário, nossa equipe está posicionada para alcançar os objetivos do projeto de maneira eficiente e eficaz. A implementação do quadro Kanban também nos proporciona uma visão clara do fluxo de trabalho e contribui para a organização e acompanhamento das atividades. Além disso, ao estabelecer políticas claras, como a de commits, garantimos uma padronização no registro de alterações, facilitando a rastreabilidade e o entendimento do histórico de versões. Com essas práticas e abordagens, estamos confiantes de que seremos capazes de enfrentar os desafios do projeto com agilidade, transparência e qualidade.
+
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> O QUE É O SCRUM E COMO COMEÇAR. Disponível em: <https://www.atlassian.com/br/agile/scrum>. Acesso em: 18 de Setembro de 2023.
@@ -61,3 +66,4 @@ Exemplo:
 | `1.1`  |    18/09/2023    |   18/09/2023    | Seção de Scrum Adaptado |  [Yago Passos](https://github.com/yagompassos) | [Shaíne](https://github.com/ShaineOliveira) |
 | `1.2`  |    29/09/2023    |   03/10/2023    | Seção de Políticas | [Jefferson França](https://github.com/Frans6)  | [Yago Passos](https://github.com/yagompassos) |
 | `1.3`  |    03/10/2023    |   04/10/2023    | Seção do Kanban |  [Yago Passos](https://github.com/yagompassos) | [Jefferson França](https://github.com/Frans6) |
+| `1.4`  |    17/10/2023    |   18/10/2023    | Seção de Conclusão |  [Yago Passos](https://github.com/yagompassos) | [Jefferson França](https://github.com/Frans6) |

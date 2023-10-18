@@ -46,4 +46,5 @@ Após efetivada a análise, foram definidas as principais funcionalidades e requ
 | Versão | Data de execução | Data de revisão |      Descrição      |                 Autor(es)                      |                     Revisor(es)                        |
 | :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------: | :----------------------------------------------------: |
 | `1.0`  |    03/10/2023    |   04/10/2023    | Criação do artefato | [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+| `1.1`  |    17/10/2023    |   18/10/2023    | Seção de Conclusão | [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
 

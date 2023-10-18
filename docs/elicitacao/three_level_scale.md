@@ -110,6 +110,10 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 <p> Tabela 2: Priorização dos requisitos utilizando a técnica. (Fonte: Jefferson França, 2023).</p>
 </div>
 
+## Conclusão
+
+A técnica de Three-Level Scale foi instrumental para priorizar os requisitos de forma clara e eficiente, garantindo que a equipe direcionasse seus esforços para as áreas mais cruciais do projeto. Ao categorizar os requisitos em alto, médio e baixo, pudemos estabelecer uma hierarquia clara de necessidades, facilitando a tomada de decisões em relação ao desenvolvimento. A colaboração entre o mediador, o desenvolvedor e o usuário foi fundamental para assegurar que os requisitos fossem avaliados de maneira justa e imparcial. Com base na priorização estabelecida, estamos prontos para avançar com um foco renovado nas funcionalidades mais críticas e fundamentais para o sucesso do projeto.
+
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> SALES, André Barros. Técnicas de Priorização. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em 04 de outubro de 2023.
@@ -119,5 +123,6 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 | Versão | Data de execução | Data de revisão |      Descrição      |                                           Autor(es)                                            |                                                                  Revisor(es)                                                                   |
 | :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 | `1.0`  |    03/10/2023    |   04/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
-| `1.0`  |    04/10/2023    |   04/10/2023    | Adição do vídeo | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
-| `1.1`  |    16/10/2023    |   17/10/2023    | Atualização da introdução | [Ana Rocha](https://github.com/anaaroch) | [Jefferson França](https://github.com/Frans6) |
+| `1.1`  |    04/10/2023    |   04/10/2023    | Adição do vídeo | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+| `1.2`  |    16/10/2023    |   17/10/2023    | Atualização da introdução | [Ana Rocha](https://github.com/anaaroch) | [Jefferson França](https://github.com/Frans6) |
+| `1.3`  |    17/10/2023    |   18/10/2023    | Seção de Conclusão | [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch) |
