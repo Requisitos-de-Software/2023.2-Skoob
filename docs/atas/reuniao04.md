@@ -4,7 +4,7 @@
 A Ata de reunião é um registro formal de um encontro organizacional. Nela, ficam documentadas todas as ações que foram discutidas e decididas no momento [1]. 
 
 ## Pauta
-A reunião de numero 4 teve como intuito discutir as divisões de trabalho para a terceira entrega. Essa é uma etapa muito importante pois o grupo irá apresentar em sala de aula nessa entrega. 
+A reunião de número 4 teve como intuito discutir as divisões de trabalho para a terceira entrega. Essa é uma etapa muito importante pois o grupo irá apresentar em sala de aula nessa entrega. 
 
 ## Discussão
 O trabalho que deve ser feito para a entrega pode ser dividido em 2 grandes partes: Os novos artefatos para a entrega e as correções de artefatos anteriores. A primeira parte consiste em: 
