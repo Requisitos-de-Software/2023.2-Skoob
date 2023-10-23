@@ -96,7 +96,7 @@ Em resumo, a técnica de priorização "First Things First" se mostrou uma ferra
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> WIEGERS, Karl e BEATTY, Joy. Disponível em: [Software Requirements, Third Edition](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 02 de Outubro de 2023.</br>
-<a id="bb" href="#b">[2]</a> SALES, André Barros. Técnicas de Priorização. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em 04 de outubro de 2023.
+<a id="bb" href="#b">[2]</a> SALES, André. Técnicas de Priorização. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em 04 de outubro de 2023.
 
 ## Histórico de Versão
 
