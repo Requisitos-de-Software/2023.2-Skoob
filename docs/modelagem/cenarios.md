@@ -8,6 +8,7 @@ Esses cenários desempenham um papel crucial na fase de levantamento de requisit
 ## Metodologia
 
 A metodologia para criar cenários envolve a identificação de partes interessadas, coleta de informações, definição do escopo, identificação de cenários, descrição detalhada, validação, documentação e uso. Essa abordagem flexível adapta-se às necessidades do projeto, com a participação ativa das partes interessadas.
+Os cenários do aplicativo Skoob foram criados com base nas técnicas de priorização (Moscow, Three-Level Scale e First Things First) utilizadas na elicitação de requisitos.
 Dessa forma, os cenários serão representados conforme a tabela 1.
 
 
@@ -27,7 +28,7 @@ Dessa forma, os cenários serão representados conforme a tabela 1.
 </div>
 
 ## Cenários encontrados
-As tabelas-xx a xx representam os cenários que foram identificados para o aplicativo Skoob. 
+As tabelas 2 a  representam os cenários que foram identificados para o aplicativo Skoob. 
 
 
 
@@ -157,7 +158,7 @@ As tabelas-xx a xx representam os cenários que foram identificados para o aplic
 
 
 
-**C08: Criando uma Meta de Leitura para o Ano**
+#### **C08: Criando uma Meta de Leitura para o Ano**
 
 | Elemento    | Descrição                                        |
 |-------------|--------------------------------------------------|
@@ -174,6 +175,75 @@ As tabelas-xx a xx representam os cenários que foram identificados para o aplic
 <p> Tabela 9: Cenário 08. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
 
+#### **C09: Cadastro/Login com Credenciais do Facebook**
+
+| Elemento    | Descrição                                        |
+|-------------|--------------------------------------------------|
+| Título      | Cadastro/Login com Credenciais do Facebook       |
+| Objetivo    | Permitir que os usuários cadastrem-se e façam login no aplicativo Skoob usando suas credenciais do Facebook. |
+| Contexto    | O usuário está interessado em se cadastrar ou fazer login no aplicativo Skoob e possui uma conta válida no Facebook. O usuário está em qualquer local com acesso à internet. |
+| Recursos    | Dispositivo com acesso à internet, conta válida no Facebook. |
+| Ator        | Usuário do Skoob.                               |
+| Episódios   | 1. O usuário acessa a tela de cadastro ou login no aplicativo Skoob. <br> 2. O usuário opta pela opção "Cadastrar/Login com o Facebook". <br>3. O sistema redireciona o usuário para a página de login do Facebook. <br>4. O usuário insere suas credenciais de login do Facebook (ID e senha). <br>5. O Facebook autentica as credenciais do usuário e autoriza o acesso ao Skoob. <br>6. O usuário é redirecionado de volta ao aplicativo Skoob, agora logado com suas credenciais do Facebook. |
+| Restrições  | O usuário deve ter uma conta válida no Facebook, e as credenciais do Facebook devem ser corretas. |
+| Exceção     | Se as credenciais do Facebook estiverem incorretas, o sistema exibe uma mensagem de erro. Se o usuário não tiver uma conta no Facebook, o sistema informa que a opção não está disponível para ele. |
+
+<div style="text-align: center">
+<p> Tabela 10: Cenário 09. (Fonte: Shaíne Oliveira, 2023).</p>
+</div>
+
+#### **C10: Visualizando Informações Gerais de um Livro Cadastrado**
+
+| Elemento    | Descrição                                        |
+|-------------|--------------------------------------------------|
+| Título      | Visualizar Informações Gerais de um Livro Cadastrado |
+| Objetivo    | Permitir que os usuários acessem e visualizem informações detalhadas sobre um livro cadastrado, como sinopse, autor, quantidade de páginas, etc. |
+| Contexto    | O usuário está logado em sua conta no aplicativo Skoob, com acesso à internet, e deseja obter informações detalhadas sobre um livro específico. |
+| Recursos    | Smartphone, tablet ou computador, conexão com a internet. |
+| Ator        | Usuário do Skoob.                               |
+| Episódios   | 1. O usuário pesquisa um livro específico no aplicativo Skoob. <br>2. O usuário encontra o livro desejado nos resultados da pesquisa. <br>3. O usuário clica no título do livro para acessar a página de detalhes do livro. <br>       4. O sistema exibe informações gerais, como sinopse, autor, quantidade de páginas e outras informações relevantes sobre o livro. |
+| Restrições  | O livro deve estar cadastrado na base de dados do Skoob, e o usuário deve ter permissão para acessar suas informações. |
+| Exceção     | Se o livro não estiver cadastrado na base de dados ou o usuário não tiver permissão para acessar as informações, o sistema exibe uma mensagem indicando a indisponibilidade dos detalhes. |
+
+<div style="text-align: center">
+<p> Tabela 11: Cenário 10. (Fonte: Shaíne Oliveira, 2023).</p>
+</div>
+
+#### **C11: Acessando a Aba de Lançamentos de Livros**
+
+| Elemento    | Descrição                                        |
+|-------------|--------------------------------------------------|
+| Título      | Acessar a Aba de Lançamentos de Livros            |
+| Objetivo    | Permitir que os usuários acessem a seção dedicada aos lançamentos de livros no aplicativo Skoob. |
+| Contexto    | O usuário está logado em sua conta no aplicativo Skoob, com acesso à internet, e deseja explorar os lançamentos mais recentes de livros. |
+| Recursos    | Smartphone, tablet ou computador, conexão com a internet. |
+| Ator        | Usuário do Skoob.                               |
+| Episódios   | 1. O usuário abre o aplicativo Skoob.     <br> 2. O usuário navega pela barra de menu ou guias na interface do aplicativo. <br> 3. O usuário seleciona a guia "Lançamentos" ou "Novos Livros". <br> 4. O sistema exibe uma lista dos livros mais recentes lançados no mercado. |
+| Restrições  | A guia de "Lançamentos" deve estar disponível e ser acessível para o usuário. |
+| Exceção     | Se a guia de "Lançamentos" não estiver disponível ou o usuário não tiver permissão para acessá-la, o sistema informa que a função não está disponível para ele. |
+
+<div style="text-align: center">
+<p> Tabela 12: Cenário 11. (Fonte: Shaíne Oliveira, 2023).</p>
+</div>
+
+#### **C12: Utilizando o FAQ para Guiar Usuários nas Funcionalidades**
+
+| Elemento    | Descrição                                        |
+|-------------|--------------------------------------------------|
+| Título      | Utilizar o FAQ para Guiar Usuários nas Funcionalidades |
+| Objetivo    | Permitir que os usuários acessem o FAQ (Frequently Asked Questions - Perguntas Frequentes) no aplicativo Skoob para obter informações e orientações sobre as funcionalidades do sistema. |
+| Contexto    | O usuário está logado em sua conta no aplicativo Skoob, com acesso à internet, e deseja obter informações sobre como usar as funcionalidades do aplicativo. |
+| Recursos    | Smartphone, tablet ou computador, conexão com a internet. |
+| Ator        | Usuário do Skoob.                               |
+| Episódios   | 1. O usuário abre o aplicativo Skoob.   <br> 2. O usuário navega pela barra de menu ou guias na interface do aplicativo. <br> 3. O usuário localiza a guia "FAQ" ou "Perguntas Frequentes" e clica nela. <br> 4. O sistema exibe uma lista de perguntas frequentes e respostas relacionadas às funcionalidades do aplicativo. <br> 5. O usuário seleciona uma pergunta que corresponde à sua dúvida ou interesse. <br>6. O sistema exibe a resposta detalhada à pergunta do usuário. |
+| Restrições  | A guia "FAQ" deve estar disponível e ser acessível para o usuário. As perguntas frequentes devem estar atualizadas e relevantes. |
+| Exceção     | Se a guia "FAQ" não estiver disponível ou o usuário não encontrar a resposta desejada, ele pode optar por entrar em contato com o suporte ao cliente para obter ajuda adicional. |
+
+
+<div style="text-align: center">
+<p> Tabela 13: Cenário 12. (Fonte: Shaíne Oliveira, 2023).</p>
+</div>
+
 
 
 
@@ -188,8 +258,9 @@ As tabelas-xx a xx representam os cenários que foram identificados para o aplic
 
 | Versão | Data       | Descrição                  | Autor(es)     | Revisor(es)     |
 | ------ | ---------- | --------------------       | ------------- | -------------   |
-| `1.0`  | 11/10/2023 | Criação do documento       | Shaíne  | Ana Caroline        |
-| `1.1`  | 11/10/2023 | Adição de dois cenários       | Shaíne  | Ana Caroline        |
-| `1.2`  | 12/10/2023 | Adição dos cenários 04 e 05      | Shaíne  | Ana Caroline        |
-| `1.3`  | 16/10/2023 | Atualizando "contexto" dos cenários     | Shaíne  | Ana Caroline        |
-| `1.4`  | 18/10/2023 | Adiciona novos cenários     | Shaíne  | Ana Caroline        |
+| `1.0`  | 11/10/2023 | Criação do documento       | [Shaíne](https://github.com/ShaineOliveira)  | [Ana Caroline](https://github.com/anaaroch)        |
+| `1.1`  | 11/10/2023 | Adição de dois cenários       | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)         |
+| `1.2`  | 12/10/2023 | Adição dos cenários 04 e 05      | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)        |
+| `1.3`  | 16/10/2023 | Atualizando "contexto" dos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)          |
+| `1.4`  | 18/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)          |
+| `1.5`  | 23/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | Todos      |
