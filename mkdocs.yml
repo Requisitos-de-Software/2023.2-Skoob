@@ -52,5 +52,9 @@ nav:
     - Moscow: elicitacao/moscow.md
     - Three-Level Scale: elicitacao/three_level_scale.md
     - Perfil do Usuário: elicitacao/perfil_do_usuario.md
+  - Modelagem:
+    - Cenários: modelagem/cenarios.md
+    - Especificação Suplementar: modelagem/especificacao_suplementar.md
+    - Léxicos: modelagem/lexico.md
   - Entregas: planejamento/entregas.md
 

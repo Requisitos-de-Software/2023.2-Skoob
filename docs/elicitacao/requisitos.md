@@ -30,22 +30,22 @@ Legenda:
 |     RF16      |                            Deve ser possível compartilhar a lista de livros desejados                            |   IN10     |
 |     RF17      |                                   Deve ser possível pesquisar outros usuários                                    |   IN11     |
 |     RF18      |                          Deve ser possível abrir e analisar o perfil de outros usuários                          |   IN12     |
-|    * RF19 *     |                              Deve ser possível adicionar outros usuários como amigo                              |   IN13     |
+|     RF19      |                              Deve ser possível adicionar outros usuários como amigo                              |   IN13     |
 |    * RF20 *     |                                    Deve ser possível filtrar livros por nota                                     |   IN14     |
-|     RF21      |                                     Deve ser possível filtrar por categoria                                      |   IN15     |
+|    * RF21 *     |                                     Deve ser possível filtrar por categoria                                      |   IN15     |
 |    * RNF22 *    |                A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial                |   IN16     |
 |     RNF23     |                      Deve ser possível fazer cadastro/login com as credenciais do facebook                       |   IN17     |
 |     RN24      |                       Deve ser possível obter o aplicativo em qualquer sistema operacional                       |   IN18     |
 |     RF25      |                                Deve ser possível Criar uma meta de leitura para o ano                            |   BS01     |
-|    * RF26 *     |            Deve ser possível sortear um livro cadastrado nas metas para o ano para a próxima leitura             |   BS02     |
+|     RF26      |            Deve ser possível sortear um livro cadastrado nas metas para o ano para a próxima leitura             |   BS02     |
 |    * RF27 *     |  Deve ser possível sortear um livro dentre os livros marcados como Quero ler para a próxima leitura do usuário   |   BS03     |
 |     RF28      | Deve ser possível ver informações gerais de um livro cadastrado, como sinopse, autor, quantidade de páginas, etc |   BS04     |
 |     RF29      |                                  Deve existir uma aba de lançamentos de livros                                   |   BS05     |
-|     RF30      |                            Deve existir uma aba de notícias sobre editoras e autores                             |   BS06     |
-|     RF31      |                          Deve existir um FAQ para guiar os usuários nas funcionalidades                          |   BS07     |
+|    * RF30 *     |                            Deve existir uma aba de notícias sobre editoras e autores                             |   BS06     |
+|    * RF31 *     |                          Deve existir um FAQ para guiar os usuários nas funcionalidades                          |   BS07     |
 |     RF32      |                            Deve ser possível alterar o tema (escuro/claro/variantes)                             |   BS08     |
-|     RF33      |             Deve ser possível visualizar um ranking semanal/mensal de livros mais bem classificados              |   BS09     |
-|     RF34      |                 Deve ser possível visualizar um ranking semanal/mensal de livros mais lidos                      |   BS10     |
+|    * RF33 *     |             Deve ser possível visualizar um ranking semanal/mensal de livros mais bem classificados              |   BS09     |
+|    * RF34 *     |                 Deve ser possível visualizar um ranking semanal/mensal de livros mais lidos                      |   BS10     |
 |    * RF35 *     |                         Deve ser possível postar fotos e/ou vídeos em formato "stories"                          |   BS11     |
 |    * RF36 *     |                                     Deve ser possível compartilhar estantes                                      |   BS12     |
 |     RF37      |                            Deve ser possível realizar desafios dentro da plataforma                              |   BS13     |
