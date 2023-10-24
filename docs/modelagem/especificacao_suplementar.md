@@ -25,7 +25,7 @@ Com base no tópico anterior, o modelo adotado para este artefato é o FURPS+, u
 
 ### Functionality (Funcionalidades)
 
-Os requisitos funcionais são explicitados de forma detalhada nos casos de uso, oferecendo uma visão concreta das operações e interações do sistema com seus usuários e outros elementos do ambiente.
+Os requisitos funcionais são explicitados de forma detalhada nos casos de uso e nos [requisitos elicitados](../elicitacao/requisitos.md), oferecendo uma visão concreta das operações e interações do sistema com seus usuários e outros elementos do ambiente.
 
 ### Usability (Usabilidade)
 
@@ -33,7 +33,7 @@ Engloba a capacidade do sistema de ser facilmente compreendido e utilizado pelos
 
 #### Facilidade de Uso
 
-O Skoob é intuitivo e de fácil navegação. Suas operações são simples e diretas, proporcionando uma experiência de uso sem complicações. Para realizar ações principais, como adicionar um livro à estante, geralmente são necessários cinco cliques.
+O Skoob é intuitivo e de fácil navegação. Suas operações são simples e diretas, proporcionando uma experiência de uso sem complicações. Para realizar ações principais, como adicionar um livro à estante, são necessários no máximo seis cliques.
 
 #### Disponibilidade
 
