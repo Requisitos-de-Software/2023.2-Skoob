@@ -3,7 +3,7 @@
 ## Introdução
 Cenários são como histórias em evolução que descrevem o que acontece em um ambiente específico, destacando as interações entre as pessoas envolvidas. Geralmente, essas interações envolvem o sistema em desenvolvimento e os participantes externos, como usuários ou outros sistemas. A característica mais importante de um cenário é que ele fornece uma representação concreta de uma atividade que os usuários executam ao realizar uma tarefa específica.
 
-Esses cenários desempenham um papel crucial na fase de levantamento de requisitos de sistemas de software. Eles são usados para descrever como os usuários irão utilizar o sistema e como o sistema se conecta com outros sistemas externos. Isso ajuda a entender e identificar novos requisitos de forma eficaz.[¹]
+Esses cenários desempenham um papel crucial na fase de levantamento de requisitos de sistemas de software. Eles são usados para descrever como os usuários irão utilizar o sistema e como o sistema se conecta com outros sistemas externos. Isso ajuda a entender e identificar novos requisitos de forma eficaz.<a id="a" href="#aa">[1]</a>.
 
 ## Metodologia
 
@@ -28,9 +28,7 @@ Dessa forma, os cenários serão representados conforme a tabela 1.
 </div>
 
 ## Cenários encontrados
-As tabelas 2 a  representam os cenários que foram identificados para o aplicativo Skoob. 
-
-
+As tabelas 2 a 13 representam os cenários que foram identificados para o aplicativo Skoob. 
 
 #### **C01: Adicionando um Livro à Estante Pessoal**
 
@@ -59,13 +57,12 @@ As tabelas 2 a  representam os cenários que foram identificados para o aplicati
 | Recursos    | Smartphone ou computador, conexão com a internet. |
 | Ator        | Usuário do Skoob.                               |
 | Episódios   | 1. O usuário acessa sua estante pessoal. <br>     2. O usuário seleciona o livro que deseja avaliar. <br>   3. O usuário atribui uma classificação e escreve uma resenha.   <br> 4. O usuário confirma a avaliação.              |
-| Restrições  | O livro deve estar na estante do usuário.       |
-| Exceção     | Se o usuário tentar avaliar um livro que não está em sua estante, o sistema exibe uma mensagem de erro. |
+| Restrições  | O livro deve estar na estante do usuário e marcado como "lido".       |
+| Exceção     | Se o usuário tentar avaliar um livro que não esteja marcado como "lido" ou não está em sua estante, o sistema exibe uma mensagem de erro. |
 
 <div style="text-align: center">
 <p> Tabela 3: Cenário 02. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
-
 
 #### **C03: Realizando o Login**
 
@@ -76,15 +73,13 @@ As tabelas 2 a  representam os cenários que foram identificados para o aplicati
 | Contexto    | O usuário, em sua residência, conectado à internet, iniciou o aplicativo Skoob e deseja acessar sua conta. |
 | Recursos    | Smartphone ou computador, conexão com a internet. |
 | Ator        | Usuário do Skoob.                               |
-| Episódios   | 1. O usuário abre o aplicativo Skoob. <br>        2. O usuário clica na opção "Login".   <br>     3. O usuário insere seu nome de usuário e senha.  <br> 4. O usuário clica no botão "Entrar".            |
+| Episódios   | 1. O usuário abre o aplicativo Skoob. <br>        2. O usuário clica na opção "Login".   <br>     3. O usuário insere seu email e senha.  <br> 4. O usuário clica no botão "Entrar".            |
 | Restrições  | As credenciais de login devem ser válidas.       |
 | Exceção     | Se as credenciais forem inválidas, o sistema exibe uma mensagem de erro. |
 
 <div style="text-align: center">
 <p> Tabela 4: Cenário 03. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
-
-
 
 #### **C04: Pesquisando Livros**
 
@@ -126,7 +121,7 @@ As tabelas 2 a  representam os cenários que foram identificados para o aplicati
 |-------------|--------------------------------------------------|
 | Título      | Recuperar a Senha                                |
 | Objetivo    | Permitir que os usuários recuperem sua senha em caso de esquecimento. |
-| Contexto    | O usuário, em sua casa com acesso à internet, está logado no aplicativo Skoob, mas esqueceu sua senha de login. |
+| Contexto    | O usuário, em sua casa com acesso à internet, iniciou o aplicativo Skoob e deseja acessar sua conta, mas esqueceu sua senha de login. |
 | Recursos    | Smartphone ou computador, conexão com a internet. |
 | Ator        | Usuário do Skoob.                               |
 | Episódios   | 1. O usuário acessa a tela de login do aplicativo. <br> 2. O usuário clica no link "Esqueci minha senha". <br> 3. O sistema solicita ao usuário seu endereço de e-mail registrado.    <br>  4. O usuário insere seu endereço de e-mail e clica em "Enviar".<br> 5. O sistema envia um e-mail com instruções para redefinir a senha.<br> 6. O usuário acessa sua caixa de entrada de e-mail, segue as instruções e redefine a senha. <br>   7. O sistema confirma a alteração bem-sucedida da senha. |
@@ -137,26 +132,22 @@ As tabelas 2 a  representam os cenários que foram identificados para o aplicati
 <p> Tabela 7: Cenário 06. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
 
-
 #### **C07: Obtendo o Aplicativo em Qualquer Sistema Operacional**
 
 | Elemento    | Descrição                                        |
 |-------------|--------------------------------------------------|
 | Título      | Obtendo o Aplicativo em Qualquer Sistema Operacional |
 | Objetivo    | Permitir que os usuários acessem o aplicativo Skoob em qualquer sistema operacional compatível. |
-| Contexto    | O usuário deseja baixar o aplicativo Skoob em um dispositivo com qualquer sistema operacional compatível (por exemplo, Android, iOS, Windows, macOS), e possui acesso à internet na sua casa. |
+| Contexto    | O usuário deseja baixar o aplicativo Skoob em um dispositivo com qualquer sistema operacional compatível (por exemplo, Android, iOS), e possui acesso à internet na sua casa. |
 | Recursos    | Dispositivo com sistema operacional compatível, conexão com a internet. |
 | Ator        | Usuário do Skoob.                               |
-| Episódios   | 1. O usuário acessa a loja de aplicativos apropriada para o seu sistema operacional (App Store, Google Play Store, Microsoft Store, etc.). <br> 2. O usuário pesquisa por "Skoob" na loja de aplicativos. <br> 3. O usuário localiza o aplicativo Skoob na lista de resultados. <br> 4. O usuário clica no botão "Baixar" ou "Instalar". <br>   5. O sistema inicia o download e instalação do aplicativo no dispositivo do usuário.<br>  6. O aplicativo Skoob é instalado com sucesso no dispositivo do usuário. |
+| Episódios   | 1. O usuário acessa a loja de aplicativos apropriada para o seu sistema operacional (App Store, Google Play Store). <br> 2. O usuário pesquisa por "Skoob" na loja de aplicativos. <br> 3. O usuário localiza o aplicativo Skoob na lista de resultados. <br> 4. O usuário clica no botão "Baixar" ou "Instalar". <br>   5. O sistema inicia o download e instalação do aplicativo no dispositivo do usuário.<br>  6. O aplicativo Skoob é instalado com sucesso no dispositivo do usuário. |
 | Restrições  | O dispositivo do usuário deve ser compatível com o sistema operacional e atender aos requisitos de hardware e software do aplicativo. |
 | Exceção     | Se o dispositivo não for compatível ou não atender aos requisitos mínimos, o usuário não conseguirá baixar e instalar o aplicativo. |
 
 <div style="text-align: center">
 <p> Tabela 8: Cenário 07. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
-
-
-
 
 #### **C08: Criando uma Meta de Leitura para o Ano**
 
@@ -167,9 +158,9 @@ As tabelas 2 a  representam os cenários que foram identificados para o aplicati
 | Contexto    | O usuário, em casa ou em qualquer local com acesso à internet, está logado em sua conta no aplicativo Skoob. |
 | Recursos    | Smartphone, tablet ou computador, conexão com a internet. |
 | Ator        | Usuário do Skoob.                               |
-| Episódios   | 1. O usuário acessa a seção "Metas de Leitura" no aplicativo. <br> 2. O usuário clica no botão "Criar Nova Meta". <br>  3. O sistema solicita ao usuário detalhes da meta, como o número de livros a serem lidos e a data limite para alcançar a meta.<br>  4. O usuário fornece esses detalhes, incluindo o número desejado de livros e a data de conclusão da meta. <br> 5. O sistema confirma a criação da meta.          |
-| Restrições  | A data limite deve ser definida para um período futuro, e o número de livros deve ser um valor inteiro válido. |
-| Exceção     | Se o usuário tentar criar uma meta com data no passado ou inserir informações inválidas, o sistema exibe uma mensagem de erro. |
+| Episódios   | 1. O usuário pesquisa um livro. <br> 2. O usuário encontra o livro desejado.<br> 3. O usuário define o ano em que deseja ler aquele livro. <br> 5. O sistema confirma a adição do livro à meta do ano selecionado.          |
+| Restrições  | O ano deve ser atual ou posterior ao que o usuário se encontra. O livro deve estar disponível na base de dados do Skoob. |
+| Exceção     | Se o usuário tentar criar uma meta para anos anteriores ou se o livro não for encontrado, o sistema exibe uma mensagem de erro. |
 
 <div style="text-align: center">
 <p> Tabela 9: Cenário 08. (Fonte: Shaíne Oliveira, 2023).</p>
@@ -244,15 +235,10 @@ As tabelas 2 a  representam os cenários que foram identificados para o aplicati
 <p> Tabela 13: Cenário 12. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
 
-
-
-
-
-
 ## Bibliografia
 
-[1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. <br>
-[2] VLC. Cenários. Grupo VLC da disciplina Requisitos de Software, disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios. Acesso em: 16 de outubro de 2023.
+<a id="aa" href="#a">[1]</a> CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. <br>
+<a id="bb" href="#a">[2]</a> VLC. Cenários. Grupo VLC da disciplina Requisitos de Software, disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios. Acesso em: 16 de outubro de 2023.
 
 ## Histórico de Versão
 
@@ -264,3 +250,4 @@ As tabelas 2 a  representam os cenários que foram identificados para o aplicati
 | `1.3`  | 16/10/2023 | Atualizando "contexto" dos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)          |
 | `1.4`  | 18/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)          |
 | `1.5`  | 23/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | Todos      |
+| `1.6`  | 23/10/2023 | Correção de cenários     | [Ana Caroline](https://github.com/anaaroch)   |   [Shaíne](https://github.com/ShaineOliveira)    |
