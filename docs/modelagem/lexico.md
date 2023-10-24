@@ -16,16 +16,19 @@ A técnica envolve a criação de um glossário que define os termos específico
 <p> Tabela 1: Exemplo de Léxico. (Fonte: Yago Passos, 2023).</p>
 </div>
 
-A construção de cada léxico foi possível a partir da análise dos requisitos elicitados na seção de [Elicitação](../elicitacao/requisitos)
+A construção de cada léxico foi possível a partir da análise dos requisitos elicitados na seção de [Elicitação](../elicitacao/requisitos).
 
 ## Descrição dos Léxicos
 Abaixo, a Tabela 2 lista os léxicos de **estado**. Esses referem-se aos termos que descrevem as condições, estados ou propriedades do sistema ou dos elementos nele contidos.
 
 |      Nome       |   Autor   |        Noção         |              Impacto            |   Sinônimo(s)   | Classificação |
 | :-------: | :-----: | :-----: | :-------: | :---------: | :---------: |
-| Nome do Léxico 1 |  Nome do Autor |   Símbolos  |    Descrição do efeito    |   Sinônimo(s)   | Verbo/Objeto/Estado | 
-| Nome do Léxico 2 |  Nome do Autor |   Símbolos  |    Descrição do efeito    |   Sinônimo(s)   | Verbo/Objeto/Estado | 
-| Nome do Léxico 3 |  Nome do Autor |   Símbolos  |    Descrição do efeito    |   Sinônimo(s)   | Verbo/Objeto/Estado | 
+| Lido |  Shaíne Oliveira |   Indica que um livro foi lido  |    Mostra as realizações do usuário    |   Concluído   | Estado | 
+| Lendo |  Yago Passos |   Indica que um livro está sendo lido  |    Mostra as realizações do usuário    |   Em andamento   | Estado | 
+| Quero ler |  Yago Passos |   Indica o desejo de ler um livro  |    Mostra as realizações do usuário    |   Meta   | Estado | 
+| Relendo |  Yago Passos |   Indica que um livro está sendo lido novamente |    Mostra as realizações do usuário    |   Em andamento   | Estado | 
+| Abandonei |  Yago Passos |   Indica que o usuário desistiu da leitura de um livro  |    Mostra as realizações do usuário    |   Desisti   | Estado |
+| Usuário Online |  Shaíne Oliveira |   Indica que o usuário está logado em sua conta  |    Usuário tem acesso total ao aplicativo e suas funcionalidades    |   Ativo   | Estado |
 
 <div style="text-align: center">
 <p> Tabela 2: Glossário dos léxicos de estado. (Fonte: Yago Passos, 2023).</p>
@@ -35,28 +38,30 @@ Abaixo, a Tabela 3 lista os léxicos de **objeto**. Esses englobam os termos que
 
 |      Nome       |   Autor   |        Noção         |              Impacto            |   Sinônimo(s)   | Classificação |
 | :-------: | :-----: | :-----: | :-------: | :---------: | :---------: |
-| Nome do Léxico 1 |  Nome do Autor |   Símbolos  |    Descrição do efeito    |   Sinônimo(s)   | Verbo/Objeto/Estado | 
-| Nome do Léxico 2 |  Nome do Autor |   Símbolos  |    Descrição do efeito    |   Sinônimo(s)   | Verbo/Objeto/Estado | 
-| Nome do Léxico 3 |  Nome do Autor |   Símbolos  |    Descrição do efeito    |   Sinônimo(s)   | Verbo/Objeto/Estado | 
+| Livro |  Shaíne Oliveira |   Principal objeto do aplicativo  |    Centro das atividades no Skoob   |   Obra, publicação  | Objeto |
+| Usuário | Yago Passos |   Outros usuários do sistema  |    Interação entre usuários   |   Amigo, seguidor  | Objeto |
+| Lista de desejados | Yago Passos |   Composta de livros que o usuário deseja fazer aquisição  |    Visualização e compartilhamento da lista com o intuito de indicar quais livros o usuário deseja ter posse   |  -  | Objeto |
+| Estante | Ana Rocha |  Composta por livros adicionados pelo usuário  |    Controle e visualização dos livros   |  -  | Objeto |
+| Autor | Ana Rocha |   Autores de livros  |    Acesso à informações sobre o autor e outros livros escritos pelo mesmo    |  Escritor  | Objeto |
 
 <div style="text-align: center">
-<p> Tabela 1: Glossário dos léxicos de objeto. (Fonte: Yago Passos, 2023).</p>
+<p> Tabela 3: Glossário dos léxicos de objeto. (Fonte: Yago Passos, 2023).</p>
 </div>
 
 Abaixo, a Tabela 4 lista os léxicos de **verbo**. Esses consistem em palavras ou frases que descrevem ações que podem ser executadas pelos usuários ou pelo sistema.
 
 |      Nome       |   Autor   |        Noção         |              Impacto            |   Sinônimo(s)   | Classificação |
 | :-------: | :-----: | :-----: | :-------: | :---------: | :---------: |
-| Nome do Léxico 1 |  Nome do Autor |   Símbolos  |    Descrição do efeito    |   Sinônimo(s)   | Verbo/Objeto/Estado | 
-| Nome do Léxico 2 |  Nome do Autor |   Símbolos  |    Descrição do efeito    |   Sinônimo(s)   | Verbo/Objeto/Estado | 
-| Nome do Léxico 3 |  Nome do Autor |   Símbolos  |    Descrição do efeito    |   Sinônimo(s)   | Verbo/Objeto/Estado | 
+| Pesquisar |  Shaíne Oliveira |   O usuário deseja encontrar livros, autores ou usuários  |    Facilita a descoberta de conteúdo no app    |   Buscar   | Verbo | 
+| Definir status do livro |  Ana Rocha |   O usuário etiqueta um livro   |    Permite que outras ações sejam executadas dependendo do status do livro   |   Etiquetar   | Verbo | 
+| Atribuir nota |  Yago Passos |   O usuário avalia um livro com o status "lido"  |    Permite que outros usuário vejam a nota do livro    |  Avaliar   | Verbo | 
+| Escrever resenha |  Yago Passos |   O usuário escreve uma resenha sobre um livro com o status "lido"  |    Permite que outros usuário vejam a resenha do livro    |   Resenhar   | Verbo | 
+| Adicionar amigos |  Yago Passos |   O usuário inicia uma amizade com outro usuário  |    Permite que ambos interajam, pelo feed e chat   |   -   | Verbo | 
+| Registrar histórico de leitura |  Ana Rocha |   O usuário está lendo um livro e deseja registrar em que página do livro se encontra  |    Permite acompanhar o progresso de leitura    |   -   | Verbo | 
 
 <div style="text-align: center">
 <p> Tabela 4: Glossário dos léxicos de verbo. (Fonte: Yago Passos, 2023).</p>
 </div>
-
-### Subtítulo - Exemplo de Tabela
-
 
 ## Conclusão
 
@@ -69,4 +74,5 @@ Abaixo, a Tabela 4 lista os léxicos de **verbo**. Esses consistem em palavras o
 | Versão | Data de execução | Data de revisão |           Descrição          |                  Autor(es)                   |                Revisor(es)                  |
 | :----: | :--------------: | :-------------: | :--------------------------: | :------------------------------------------: | :----------------------------------------: |
 | `1.0`  |    18/10/2023    |   18/10/2023    |    Elaboração do Artefato    | [Yago Passos](https://github.com/yagompassos)| [Ana Rocha](https://github.com/anaaroch) |
+| `1.1`  |    24/10/2023    |   24/10/2023    |    Criação dos Léxicos    | [Yago Passos](https://github.com/yagompassos) e [Ana Rocha](https://github.com/anaaroch) | [Shaíne Oliveira](https://github.com/ShaineOliveira) |
 
