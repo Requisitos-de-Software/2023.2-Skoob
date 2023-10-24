@@ -9,7 +9,7 @@ Diagramas de casos de uso descrevem o que o sistema faz do ponto de vista do usu
 Utilizando o software de diagramação LucidChart, elaboramos os diagramas de casos de uso. Para uma melhor compreensão dos diagramas apresentados neste artefato, foi desenvolvida uma legenda, Figura 1, que esclarece o significado de cada elemento presente nos diagramas.
 
 <p align="center">
-  <img src="legenda.jpeg" alt="Legenda">
+  <img src="img/legenda.jpeg" alt="Legenda">
 </p>
 <div style="text-align: center">
 <p>Figura 1 - Legenda diagramas. (Fonte: Jefferson França. 2023)</p>
@@ -43,7 +43,7 @@ Em um diagrama de casos de uso, um "caso de uso" representa uma funcionalidade o
 ## Casos de Uso
 
 <p align="center">
-  <img src="casos_de_uso.png" alt="Casos de Uso">
+  <img src="img/casos_de_uso.png" alt="Casos de Uso">
 </p>
 <div style="text-align: center">
 <p>Figura 2 - Diagrama de casos de uso. (Fonte: Jefferson França. 2023)</p>
@@ -59,7 +59,7 @@ Em um diagrama de casos de uso, um "caso de uso" representa uma funcionalidade o
 | **Requisitos** | Abrir ambiente de mídias |
 | **Condição de entrada** | Pesquisar o livro desejado |
 | **Fluxo principal** | <ol> <li> O usuário pesquisa um livro no aplicativo. <li> O usuário seleciona o livro desejado na lista de resultados de pesquisa. <li> O usuário define qual etiqueta ele vai atribuir ao livro. <li> O usuário escolhe uma etiqueta (por exemplo, "Lido", "Lendo", "Desejo Ler", etc.). <li> Dependendo da etiqueta escolhida, o sistema pode solicitar informações adicionais relacionadas a essa etiqueta. Por exemplo, se a etiqueta for "Lido", o sistema pode pedir uma avaliação ou uma resenha do livro. <li> O usuário fecha a aba de etiquetagem e o livro é adicionado à estante. </ol> |
-| **Fluxos alternativos** | <ol> <li> O usuário pesquisa um livro no aplicativo. <li> O usuário seleciona o livro desejado na lista de resultados de pesquisa. <li> O usuário define qual etiqueta ele vai atribuir ao livro. <li> O usuário visualiza os detalhes do livro. <li> O usuário escolhe uma etiqueta (por exemplo, "Lido", "Lendo", "Desejo Ler", etc.). <li> Dependendo da etiqueta escolhida, o sistema pode solicitar informações adicionais relacionadas a essa etiqueta. Por exemplo, se a etiqueta for "Lido", o sistema pode pedir uma avaliação ou uma resenha do livro. <li> O usuário fecha a aba de etiquetagem e o livro é adicionado à estante. </ol> |
+| **Fluxos alternativos** | Não há |
 | **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em abrir uma mídia</b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega entre as pastas mostrando mídias disponíveis <li> O usuário escolhe uma mídia <ul> <li> A mídia selecionada abre no aplicativo pausada por padrão </ul> </ol> <b> Fluxo 2: O usuário clicka em abrir um diretorio</b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega mostrando as pastas disponíveis </ol> <b> Fluxo 3: O usuário abre uma stream</b> <ol> <li> O Sistema abre uma janela de configurações da stream <ul> <li> O usuários pode configurar a URL de stream <li>O usuário pode configurar o arquivo <li> O usuário pode configurar a qualidade da stream </ul> <li> O usuário da play na stream </ol> <b>Fluxo 4: O usuário clicka em abrir recentes</b> <ol> <li> O sistema mostra em uma menu de cascata as mídias recentes <li> O usuário escolhe a mídia <li> O sistema inicia a mídia </ol> <b> Fluxo 5: O usuário clicka em salvar uma playlist </b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega entre as pastas disponíveis <li> O usuário escolhe a pasta <li> O usuário salva a playlist em formato de um arquivo </ol>|
 | **Pós condições** | O usuário tem acesso a eventos de playback |
 | **Data da criação** | 15/05/2023 |
