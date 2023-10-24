@@ -33,6 +33,18 @@ O Vídeo 2 corresponde a gravação da segunda entrega da disciplina. Nele, expl
 </div>
 
 
+## Entrega 3 (25/10/2023)
+
+### Descrição: 
+Nesta terceira entrega foi possível fazer correções da segunda entrega, elaborar os artefatos de cenários, léxicos e casos de uso, além da especificação suplementar.
+
+### Vídeo de apresentação
+O Vídeo 3 corresponde a gravação da terceira entrega da disciplina. Nele, explicamos os cenários, léxicos, casos de uso e a especificação suplementar do projeto.
+
+
+Colocar vídeo
+
+
 
 ## Histórico de versão
 
@@ -41,6 +53,7 @@ O Vídeo 2 corresponde a gravação da segunda entrega da disciplina. Nele, expl
 | `1.0`|18/09/2023|Entrega 1| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
 | `1.1`|04/10/2023|Entrega 2| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
 | `1.2`|04/10/2023|Vídeo 2| [Yago Passos](https://github.com/yagompassos)| Todos |
+| `1.3`|23/10/2023|Entrega 3| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
 
 
 
