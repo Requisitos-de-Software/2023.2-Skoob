@@ -64,6 +64,7 @@ Abaixo, a Tabela 4 lista os léxicos de **verbo**. Esses consistem em palavras o
 </div>
 
 ## Conclusão
+O artefato apresentado destaca a importância da técnica de léxicos na engenharia de requisitos, onde a criação de um glossário com termos específicos relacionados ao domínio do problema ajuda a eliminar ambiguidades e promover uma compreensão unificada dos requisitos do sistema. A categorização dos léxicos em verbos, objetos e estados contribui para uma visão abrangente das ações, entidades e condições no contexto da aplicação, facilitando a comunicação entre os membros da equipe de desenvolvimento. Além disso, a precisão e organização na construção dos léxicos asseguram clareza e coerência no entendimento dos termos, evitando mal-entendidos e garantindo uma visão compartilhada do sistema e suas funcionalidades. Em última análise, a técnica de léxicos desempenha um papel crucial no sucesso do projeto de software, estabelecendo uma base sólida para o desenvolvimento eficaz e garantindo uma compreensão clara e unificada dos requisitos entre todos os envolvidos.
 
 ## Bibliografia
 
@@ -75,4 +76,5 @@ Abaixo, a Tabela 4 lista os léxicos de **verbo**. Esses consistem em palavras o
 | :----: | :--------------: | :-------------: | :--------------------------: | :------------------------------------------: | :----------------------------------------: |
 | `1.0`  |    18/10/2023    |   18/10/2023    |    Elaboração do Artefato    | [Yago Passos](https://github.com/yagompassos)| [Ana Rocha](https://github.com/anaaroch) |
 | `1.1`  |    24/10/2023    |   24/10/2023    |    Criação dos Léxicos    | [Yago Passos](https://github.com/yagompassos) e [Ana Rocha](https://github.com/anaaroch) | [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+| `1.2`  |    24/10/2023    |   24/10/2023    |    Adicionada seção de conclusão    | [Rafael Amancio](https://github.com/yagompassos) | [Yago Passos](https://github.com/yagompassos) |
 
