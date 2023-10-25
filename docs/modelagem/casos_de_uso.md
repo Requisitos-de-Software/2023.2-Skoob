@@ -43,7 +43,7 @@ Em um diagrama de casos de uso, um "caso de uso" representa uma funcionalidade o
 ## Casos de Uso
 
 <p align="center">
-  <img src="img/casos_de_uso.png" alt="Casos de Uso">
+  <img src="img/casos_de_uso.jpeg" alt="Casos de Uso">
 </p>
 <div style="text-align: center">
 <p>Figura 2 - Diagrama de casos de uso. (Fonte: Jefferson França. 2023)</p>
@@ -56,17 +56,37 @@ Em um diagrama de casos de uso, um "caso de uso" representa uma funcionalidade o
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta |
 | **Descrição** | Este caso de uso representa a ação de um usuário adicionar um livro à sua estante pessoal no aplicativo Skoob. A estante é onde o usuário pode acompanhar seus livros lidos, em leitura e desejados. |
-| **Requisitos** | Abrir ambiente de mídias |
-| **Condição de entrada** | Pesquisar o livro desejado |
-| **Fluxo principal** | <ol> <li> O usuário pesquisa um livro no aplicativo. <li> O usuário seleciona o livro desejado na lista de resultados de pesquisa. <li> O usuário define qual etiqueta ele vai atribuir ao livro. <li> O usuário escolhe uma etiqueta (por exemplo, "Lido", "Lendo", "Desejo Ler", etc.). <li> Dependendo da etiqueta escolhida, o sistema pode solicitar informações adicionais relacionadas a essa etiqueta. Por exemplo, se a etiqueta for "Lido", o sistema pode pedir uma avaliação ou uma resenha do livro. <li> O usuário fecha a aba de etiquetagem e o livro é adicionado à estante. </ol> |
-| **Fluxos alternativos** | Não há |
-| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em abrir uma mídia</b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega entre as pastas mostrando mídias disponíveis <li> O usuário escolhe uma mídia <ul> <li> A mídia selecionada abre no aplicativo pausada por padrão </ul> </ol> <b> Fluxo 2: O usuário clicka em abrir um diretorio</b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega mostrando as pastas disponíveis </ol> <b> Fluxo 3: O usuário abre uma stream</b> <ol> <li> O Sistema abre uma janela de configurações da stream <ul> <li> O usuários pode configurar a URL de stream <li>O usuário pode configurar o arquivo <li> O usuário pode configurar a qualidade da stream </ul> <li> O usuário da play na stream </ol> <b>Fluxo 4: O usuário clicka em abrir recentes</b> <ol> <li> O sistema mostra em uma menu de cascata as mídias recentes <li> O usuário escolhe a mídia <li> O sistema inicia a mídia </ol> <b> Fluxo 5: O usuário clicka em salvar uma playlist </b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega entre as pastas disponíveis <li> O usuário escolhe a pasta <li> O usuário salva a playlist em formato de um arquivo </ol>|
-| **Pós condições** | O usuário tem acesso a eventos de playback |
-| **Data da criação** | 15/05/2023 |
-| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+| **Requisitos** |  Pesquisar um livro. <br> Selecionar um livro <br> Etiquetar livro  |
+| **Condição de entrada** | Pesquisar o livro desejado. |
+| **Fluxo principal** | <b>Fluxo 1 - FEP1 </b> <ol> <li> O usuário pesquisa um livro no aplicativo. <li> O usuário seleciona o livro desejado na lista de resultados de pesquisa. <li> O usuário define qual etiqueta ele vai atribuir ao livro. <li> O usuário escolhe uma etiqueta (por exemplo, "Lido", "Lendo", "Desejo Ler", etc.). <li> Dependendo da etiqueta escolhida, o sistema pode solicitar informações adicionais relacionadas a essa etiqueta. Por exemplo, se a etiqueta for "Lido", o sistema pode pedir uma avaliação ou uma resenha do livro. <li> O usuário fecha a aba de etiquetagem e o livro é adicionado à estante. </ol> |
+| **Fluxos alternativos** | <b>Fluxo 1 - FEA1 </b><ol> <li> O usuário pesquisa um livro no aplicativo. <li> O usuário seleciona o livro desejado na lista de resultados de pesquisa. <li> O usuário visualiza os detalhes do livros desejado. <li> O usuário define qual etiqueta ele vai atribuir ao livro. <li> O usuário escolhe uma etiqueta (por exemplo, "Lido", "Lendo", "Desejo Ler", etc.). <li> Dependendo da etiqueta escolhida, o sistema pode solicitar informações adicionais relacionadas a essa etiqueta. Por exemplo, se a etiqueta for "Desejo Ler", o sistema pergunta quando ele quer ler. <li> O usuário fecha a aba de etiquetagem e o livro é adicionado à estante. </ol> |
+| **Fluxos de exceção** | <b>Fluxo 1 - FE01 </b> <ol> <li> O usuário pesquisa um livro no aplicativo. <li> O livro não é encontrado pelo sistema </ol>
+| **Pós condições** | O usuário tem o livro adicionado a sua estante. |
+| **Data da criação** | 22/10/2023 |
+| **Rastreabilidade** | OB02, OB03 e IN08 |
 
 <div style="text-align: center">
-<p> Tabela 1: Especificação do caso de uso: Mídia. (Fonte: SANTOS, Mizael. 2023).</p>
+<p> Tabela 1: Especificação do caso de uso: Adicionar Livro à Estante. (Fonte: Jefferson França. 2023).</p>
+</div>
+
+### UC02. Escrever Resenha
+
+| UC02 | Escrever Resenha |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Média |
+| **Descrição** | Este caso de uso representa a ação de um usuário escrever uma resenha de um livro já lido. A resenha é publicada em seu perfil onde outros usuários podem ter acesso. |
+| **Requisitos** | Etiqueta do Livro como "Lido". |
+| **Condição de entrada** | Selecionar livro na estante. |
+| **Fluxo principal** | <b>Fluxo 1 - FEP1 </b> <ol> <li> O usuário navega até seu perfil. <li> O usuário acessa sua estante. <li> O usuário seleciona um livro que possui a etiqueta marcada como "Lido". <li> O usuário clica "Resenha". <li> O usuário clica em "Comente sua leitura". <li> O usuário define um título da resenha e escreve sua resenha.  <li> O usuário publica sua resenha. </ol> |
+| **Fluxos alternativos** | <b>Fluxo 1 - FEP1 </b> <ol> <li> O usuário pesquisa um livro no aplicativo. <li> O usuário seleciona o livro desejado na lista de resultados de pesquisa. <li> O usuário define qual etiqueta ele vai atribuir ao livro. <li> O usuário define a etiqueta como "Lido". <li> O usuário avalia o livro por meio das estrelas. <li> O usuário clica em "Resenha". <li> O usuário clica em "Comente sua leitura". <li> O usuário publica sua resenha</ol> |
+| **Fluxos de exceção** | <b>Fluxo 1 - FE01 </b> <ol> <li> O usuário pesquisa um livro no aplicativo. <li> O livro não é encontrado pelo sistema </ol>
+| **Pós condições** |  |
+| **Data da criação** | 22/10/2023 |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 1: Especificação do caso de uso: Adicionar Livro à Estante. (Fonte: Jefferson França. 2023).</p>
 </div>
 
 ## Bibliografia
