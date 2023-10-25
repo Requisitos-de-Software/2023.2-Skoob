@@ -235,6 +235,11 @@ As tabelas 2 a 13 representam os cenários que foram identificados para o aplica
 <p> Tabela 13: Cenário 12. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
 
+## Conclusão
+A criação de cenários desempenha um papel fundamental na engenharia de requisitos e no desenvolvimento de software, concentrando-se nas interações entre os usuários e o sistema em cenários do mundo real. Isso assegura que os requisitos sejam capturados de forma clara e compreensível. Além disso, os cenários promovem uma compreensão compartilhada, garantindo que todas as partes envolvidas no projeto, incluindo desenvolvedores e partes interessadas, possam se comunicar de forma eficaz e compreender as funcionalidades do sistema.
+
+Uma das principais vantagens dos cenários é a detecção antecipada de problemas. Ao elaborar cenários, é possível identificar requisitos conflitantes, ausentes ou impraticáveis antes do início do desenvolvimento, economizando tempo e recursos. Além disso, a criação de cenários fornece uma documentação clara e viva para o sistema, o que é essencial para o desenvolvimento e manutenção contínua do software.
+
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. <br>
@@ -251,3 +256,4 @@ As tabelas 2 a 13 representam os cenários que foram identificados para o aplica
 | `1.4`  | 18/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)          |
 | `1.5`  | 23/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | Todos      |
 | `1.6`  | 23/10/2023 | Correção de cenários     | [Ana Caroline](https://github.com/anaaroch)   |   [Shaíne](https://github.com/ShaineOliveira)    |
+| `1.7`  | 24/10/2023 | Adiciona conclusão    |[Shaíne](https://github.com/ShaineOliveira)   |  Todos  |
