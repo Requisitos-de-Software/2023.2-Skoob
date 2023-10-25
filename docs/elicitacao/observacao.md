@@ -22,12 +22,12 @@ Após efetivada a análise, foram definidas as principais funcionalidades e requ
 
 | Identificação |                                                    Descrição                                                     |
 | :-----------: | :--------------------------------------------------------------------------------------------------------------: |
-|     RF01      |                                         Deve ser possível realizar login                                         |
-|     RF02      |                                        Deve ser possível pesquisar livros                                        |
-|     RF03      |             Deve ser possível marcar os livros como: Lido / Lendo / Quero ler / Abandonei / Relendo              |
-|     RF04      |             Deve existir uma timeline onde é possível ver atualizações literárias de outros usuários.            |
-|     RF05      |                                Deve ser possível adicionar comentários nos posts                                 |
-|     RF06      |                                    Deve ser possível curtir posts da timeline                                    |
+|     OB01      |                                         Deve ser possível realizar login                                         |
+|     OB02      |                                        Deve ser possível pesquisar livros                                        |
+|     OB03      |             Deve ser possível marcar os livros como: Lido / Lendo / Quero ler / Abandonei / Relendo              |
+|     OB04      |             Deve existir uma timeline onde é possível ver atualizações literárias de outros usuários.            |
+|     OB05      |                                Deve ser possível adicionar comentários nos posts                                 |
+|     OB06      |                                    Deve ser possível curtir posts da timeline                                    |
 
 
 <div style="text-align: center">
@@ -47,4 +47,3 @@ Após efetivada a análise, foram definidas as principais funcionalidades e requ
 | :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------: | :----------------------------------------------------: |
 | `1.0`  |    03/10/2023    |   04/10/2023    | Criação do artefato | [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
 | `1.1`  |    17/10/2023    |   18/10/2023    | Seção de Conclusão | [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
-
