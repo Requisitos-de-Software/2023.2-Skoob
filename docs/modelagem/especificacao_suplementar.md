@@ -114,4 +114,5 @@ Através desta Especificação Suplementar, foram identificados e detalhados alg
 | Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
 | `1.0`  |    23/10/2023    |   24/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch)    | [Rafael Amancio](https://github.com/Rafael-gc) |
+| `1.1`  |    25/10/2023    |   25/10/2023    | Adicionando a conclusão do artefato |   [Ana Rocha](https://github.com/anaaroch)    | Todos |
 
