@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A especificação suplementar exerce a identificação de requisitos do sistema que não foram diretamente abordados na modelagem de casos de uso, de forma que ao integrar ambas as perspectivas, seja possível definir de maneira abrangente todos os requisitos do sistema.
+A especificação suplementar exerce a identificação de requisitos do sistema que não foram diretamente abordados na modelagem de casos de uso e nos [requisitos elicitados](../elicitacao/requisitos.md), de forma que ao integrar ambas as perspectivas, seja possível definir de maneira abrangente todos os requisitos do sistema.
 
 Esse método fundamenta-se nos seguintes critérios:
 
@@ -98,6 +98,10 @@ Esta categoria abrange uma variedade de requisitos, incluindo design, implementa
 #### Design
 
 O aplicativo Skoob segue uma paleta de cores composta predominantemente de azul e branco. Os usuários têm a opção de escolher entre diversos temas, incluindo o tema padrão claro, que faz uso do azul e do branco definido na paleta de cores. Além disso, o Skoob oferece opções de temas escuros, como Dark, Dark Blue, Dark Pink e Dark Gray, para atender às preferências individuais dos usuários. Para os que buscam uma estética mais nostálgica, o tema Old Paper também está disponível. Essa variedade de temas permite uma personalização flexível, proporcionando uma experiência única a cada usuário.
+
+## Conclusão
+
+Através desta Especificação Suplementar, foram identificados e detalhados alguns requisitos, acerca dos cinco critérios definidos no começo deste documento. Com base na metodologia FURPS+, foi possível estabelecer uma visão clara desses requisitos, que asseguram que o aplicativo atenda às espectativas do usuário, proporcionando uma experiência sólida e confiável.
 
 ## Bibliografia
 
