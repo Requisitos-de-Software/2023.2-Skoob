@@ -8,8 +8,9 @@ Esses cenários desempenham um papel crucial na fase de levantamento de requisit
 ## Metodologia
 
 A metodologia para criar cenários envolve a identificação de partes interessadas, coleta de informações, definição do escopo, identificação de cenários, descrição detalhada, validação, documentação e uso. Essa abordagem flexível adapta-se às necessidades do projeto, com a participação ativa das partes interessadas.
-Os cenários do aplicativo Skoob foram criados com base nas técnicas de priorização (Moscow, Three-Level Scale e First Things First) utilizadas na elicitação de requisitos.
-Dessa forma, os cenários serão representados conforme a tabela 1.
+
+Os cenários do aplicativo Skoob foram criados com base no texto estruturado, onde emprega uma linguagem natural, baseada na realidade, com a suposição de que o uso da linguagem usada pelos usuários da aplicação, em vez da linguagem técnica do software, torna mais fácil para os clientes compreenderem e confirmarem os requisitos <a id="a" href="#aa">[1]</a>. Dessa forma, os mesmos foram desenvolvidos a partir dos requisitos priorizados nas técnicas de Moscow, Three-Level Scale e First Things First.
+Assim, os cenários serão representados conforme a tabela 1.
 
 
 | Elemento    | Descrição                                        |
@@ -235,6 +236,11 @@ As tabelas 2 a 13 representam os cenários que foram identificados para o aplica
 <p> Tabela 13: Cenário 12. (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
 
+## Conclusão
+A criação de cenários desempenha um papel fundamental na engenharia de requisitos e no desenvolvimento de software, concentrando-se nas interações entre os usuários e o sistema em cenários do mundo real. Isso assegura que os requisitos sejam capturados de forma clara e compreensível. Além disso, os cenários promovem uma compreensão compartilhada, garantindo que todas as partes envolvidas no projeto, incluindo desenvolvedores e partes interessadas, possam se comunicar de forma eficaz e compreender as funcionalidades do sistema.
+
+Uma das principais vantagens dos cenários é a detecção antecipada de problemas. Ao elaborar cenários, é possível identificar requisitos conflitantes, ausentes ou impraticáveis antes do início do desenvolvimento, economizando tempo e recursos. Além disso, a criação de cenários fornece uma documentação clara e viva para o sistema, o que é essencial para o desenvolvimento e manutenção contínua do software.
+
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. <br>
@@ -251,3 +257,4 @@ As tabelas 2 a 13 representam os cenários que foram identificados para o aplica
 | `1.4`  | 18/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)          |
 | `1.5`  | 23/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | Todos      |
 | `1.6`  | 23/10/2023 | Correção de cenários     | [Ana Caroline](https://github.com/anaaroch)   |   [Shaíne](https://github.com/ShaineOliveira)    |
+| `1.7`  | 24/10/2023 | Adiciona conclusão    |[Shaíne](https://github.com/ShaineOliveira)   |  Todos  |
