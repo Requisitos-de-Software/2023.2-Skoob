@@ -12,10 +12,10 @@ O objetivo da técnica é conseguir imaginar e elicitar o máximo de requisitos 
 Por fim, foram atribuídos ID's únicos para cada requisito, funcional e não funcional, documentado na Tabela 1.
 
 ### Legenda da tabela:
+    - INn: Requisito elicitado por meio de Introspecção;
     - n: Número do Requisito;
     - RF:  Requisito Funcional;
     - RNF: Requisito Não Funcional;
-    - BSn: Requisito elicitado por meio de Brainstorming;
 
 ## Requisitos Elicitados
 
