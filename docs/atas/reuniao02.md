@@ -12,7 +12,7 @@ A reunião serviu para esclarescer algumas concepções erradas que a equipe tev
 ## O que foi Definido
 A tabela 1 expõe as divisões definidas para cada artefato a ser elaborado.
 
-| Artefato  | Responsável |
+| Artefato  | Responsável(eis) |
 | :-------: |  :-------: |
 |  Brainstorming | [Rafael](https://github.com/Rafael-gc) e [Jefferson](https://github.com/Frans6) |
 | Entrevista | [Shaine](https://github.com/shaineOliveira) e [Ana](https://github.com/anaaroch) |
@@ -43,8 +43,8 @@ Além disso, a seguinte lista demonstra as correções que devem ser feitas. Tar
 
 ### Data e Horário
 - Segunda-Feira dia dois de outubro
-- Início de reunião: 20:29h
-- Fim de reunião: 21:11h
+- Início de reunião: 20:29 horas
+- Fim de reunião: 21:11 horas
 
 ## Gravação da Reunião
 Abaixo, o vídeo 1, da gravação da reunião.
