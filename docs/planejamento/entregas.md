@@ -41,7 +41,7 @@ O Vídeo 3 corresponde a gravação da terceira entrega da disciplina. Nele, exp
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/kDwwvS5LHeU" title="Entrega 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div style="text-align: center">
-<p> Vídeo 3: Gravação da segunda apresentação. (Fonte: Grupo 6, 2023)..</p>
+<p> Vídeo 3: Gravação da terceira apresentação. (Fonte: Grupo 6, 2023)..</p>
 </div>
 
 
