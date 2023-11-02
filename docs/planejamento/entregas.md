@@ -54,4 +54,4 @@ O Vídeo 3 corresponde a gravação da terceira entrega da disciplina. Nele, exp
 | `1.1`|04/10/2023|Entrega 2| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
 | `1.2`|04/10/2023|Vídeo 2| [Yago Passos](https://github.com/yagompassos)| Todos |
 | `1.3`|23/10/2023|Entrega 3| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
-| `1.4`|04/10/2023|Adicionando Vídeo 3| [Yago Passos](https://github.com/yagompassos)| Todos |
+| `1.4`|04/11/2023|Adicionando Vídeo 3| [Yago Passos](https://github.com/yagompassos)| Todos |

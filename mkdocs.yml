@@ -59,5 +59,6 @@ nav:
     - Casos de uso: modelagem/casos_de_uso.md
     - Especificação Suplementar: modelagem/especificacao_suplementar.md
     - Léxicos: modelagem/lexico.md
+    - NFR Framework: modelagem/nfr_framework.md
   - Entregas: planejamento/entregas.md
 

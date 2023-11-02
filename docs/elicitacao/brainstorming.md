@@ -105,6 +105,9 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 <p> Tabela 2: Requisitos elicitados através do brainstorming. (Fonte: Jefferson França, 2023).</p>
 </div>
 
+### Conclusão
+
+A aplicação do brainstorming no processo de elicitação de requisitos para o Skoob foi extremamente eficaz, as respostas fornecidas pelo usuário foram valiosas e abrangentes, as ideias geradas durante a sessão forneceram uma base sólida para a definição dos [requisitos funcionais e não funcionais](requisitos.md) do aplicativo, abrangendo desde funcionalidades essenciais até recursos de conectividade social e gamificação.
 
 ## Bibliografia
 
@@ -114,7 +117,6 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 
 <a id="aa" href="#a">[3]</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-
 ## Histórico de Versão
 
 | Versão | Data de execução | Data de revisão |      Descrição      |                                           Autor(es)                                            |                                                                  Revisor(es)                                                                   |
@@ -122,3 +124,4 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 | `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
 | `1.1`  |    04/10/2023    |   04/10/2023    | Adicionando a gravação | [Yago Passos](https://github.com/yagompassos) | [Rafael Amancio](https://github.com/Rafael-gc) |
 | `1.2`  |    24/10/2023    |   25/10/2023    | Alterações na tabela | [Rafael Amancio](https://github.com/Rafael-gc) | [Yago Passos](https://github.com/yagompassos)   |
+| `1.3`  |    02/11/2023    |   04/11/2023    | Adicionando Conclusão | [Ana Rocha](https://github.com/anaaroch) | Todos |
