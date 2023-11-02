@@ -40,8 +40,8 @@ A tabela 1 expõe as divisões definidas para cada artefato a ser elaborado.
 
 ### Data e Horário
 - Quarta-feira dia seis de setembro
-- Início de reunião: 20:40h
-- Fim de reunião: 21:15h
+- Início de reunião: 20:40 horas
+- Fim de reunião: 21:15 horas
 
 ## Bibliografia
 [1] ASANA. Dicas para criar um modelo de ata de reunião. Disponível em: https://asana.com/pt/templates/meeting-minutes. Acesso em 02 de outubro de 2023.

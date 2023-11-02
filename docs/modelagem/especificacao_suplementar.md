@@ -101,7 +101,7 @@ O aplicativo Skoob segue uma paleta de cores composta predominantemente de azul 
 
 ## Conclusão
 
-Através desta Especificação Suplementar, foram identificados e detalhados alguns requisitos, acerca dos cinco critérios definidos no começo deste documento. Com base na metodologia FURPS+, foi possível estabelecer uma visão clara desses requisitos, que asseguram que o aplicativo atenda às espectativas do usuário, proporcionando uma experiência sólida e confiável.
+Através desta Especificação Suplementar, foram identificados e detalhados alguns requisitos, acerca dos cinco critérios definidos. Com base na metodologia FURPS+, foi possível estabelecer uma visão clara desses requisitos, viabilizando que o aplicativo atenda às espectativas do usuário, proporcionando uma experiência sólida e confiável.
 
 ## Bibliografia
 
@@ -114,4 +114,5 @@ Através desta Especificação Suplementar, foram identificados e detalhados alg
 | Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
 | `1.0`  |    23/10/2023    |   24/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch)    | [Rafael Amancio](https://github.com/Rafael-gc) |
+| `1.1`  |    25/10/2023    |   25/10/2023    | Adicionando a conclusão do artefato |   [Ana Rocha](https://github.com/anaaroch)    | Todos |
 

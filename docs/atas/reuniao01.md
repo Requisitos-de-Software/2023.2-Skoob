@@ -35,8 +35,8 @@ A chamada se estendeu para que os alunos Shaine, Jefferson e Yago pudessem desen
 
 ### Data e Horário
 - Terça-feira dia doze de setembro
-- Início de reunião: 20:40h
-- Fim de reunião: 21:01h
+- Início de reunião: 20:40 horas
+- Fim de reunião: 21:01 horas
 
 ## Gravação da Reunião
 Abaixo, o vídeo 1, da gravação da reunião.
