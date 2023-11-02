@@ -70,6 +70,7 @@ A Tabela 4 mostra as atividades do Ponto de Controle 3 e as datas em que foram e
 <div style="text-align: center">
 <p> Tabela 4: Cronograma executado da terceira entrega. (Fonte: , 2023).</p>
 </div>
+
 ## Bibliografia
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/33/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 12 de setembro de 2023.
