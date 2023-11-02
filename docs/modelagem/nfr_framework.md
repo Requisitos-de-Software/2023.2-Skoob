@@ -1,15 +1,12 @@
 # NFR framework
 
 ## Introdução
-NFR é um framework conceitual que se baseia no Softgoal Interdependency Graph (SIG) como modelo principal. Seu principal enfoque está nos requisitos Não-Funcionais do aplicativo. No Framework, softgoals são empregados como metas de caráter vago, desprovidas de critérios de satisfação claramente definidos. Estes softgoals são usados para representar os Requisitos Não-Funcionais e podem se interconectar, demonstrando como um softgoal influencia outro. [¹](#ancora1)
+
+NFR é um framework conceitual que se baseia no Softgoal Interdependency Graph (SIG) como modelo principal. Seu principal enfoque está nos requisitos Não-Funcionais do aplicativo. No Framework, softgoals são empregados como metas de caráter vago, desprovidas de critérios de satisfação claramente definidos. Estes softgoals são usados para representar os Requisitos Não-Funcionais e podem se interconectar, demonstrando como um softgoal influencia outro. <a href="#aa">[1]</a>
 
 ### Requisitos Não Funcionais Elicitados
 
-<p></p>
-
 Abaixo, na tabela 1, estão os [requisitos não funcionais](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/requisitos/) elicitados pela equipe.
-
-<p></p>
 
 | ID | Requisito | Fonte |
 |----|-----------|-------|
@@ -17,14 +14,13 @@ Abaixo, na tabela 1, estão os [requisitos não funcionais](https://requisitos-d
 |RNF02| Deve ser possível fazer cadastro/login com as credenciais do facebook	|  [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)|
 |RNF03| Deve ser possível obter o aplicativo em qualquer sistema operacional| [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)|
 
-
-<div align="center">
-Tabela 1: Requisitos Não Funcionais Elicitados, Autor(a): Shaíne
+<div style="text-align: center;">
+    Tabela 1: Requisitos Não Funcionais Elicitados, Autor(a): Shaíne
 </div>
 
 ### Softgoals
 
-Os softgoals são separados em 3 tipos: [¹](#ancora1)
+Os softgoals são separados em 3 tipos: <a href="#aa">[1]</a>
 
 - NFR Softgoal: Um requisito não-funcional que é avaliado durante a análise para determinar sua inclusão ou exclusão no projeto. Esses requisitos são considerados como critérios de qualidade e são avaliados para assegurar que o produto final atenda aos padrões desejados, servindo como indicadores de qualidade.
 
@@ -40,7 +36,7 @@ Além disso, cada um desses softgoals pode ser detalhado ou subdividido em sub-r
 
 - Decomposição de Afirmação (Claims): Essa técnica possibilita a reafirmação ou negação de justificativas específicas do projeto, oferecendo uma abordagem mais detalhada da argumentação.
 
-- Priorização: Esta técnica envolve a subdivisão de um softgoal em outro softgoal do mesmo tipo e tópico, mas com uma prioridade associada, permitindo uma hierarquia de importância entre os requisitos. [¹](#ancora1)
+- Priorização: Esta técnica envolve a subdivisão de um softgoal em outro softgoal do mesmo tipo e tópico, mas com uma prioridade associada, permitindo uma hierarquia de importância entre os requisitos. <a href="#aa">[1]</a>
 
 | Contribuição       | Descrição  | Notação    |  
 | ------------------ | ---------- | ---------- |
@@ -55,43 +51,33 @@ Além disso, cada um desses softgoals pode ser detalhado ou subdividido em sub-r
 | *OR* | “Pai” é satisfeito se somente um dos “filhos” é satisfeito sob a perspectiva dos envolvidos |OR|    
 | *EQUAL* | Ambos compartilham o mesmo label| =| 
 
-<div align="center">
-Tabela 2: Contribuições, Autor(a): Shaíne 
+<div style="text-align: center;">
+    Tabela 2: Contribuições, Autor(a): Shaíne 
 </div>
- 
  
 ## Legendas
 
 ### Softgoals
 
-<div align="center">
-  
-<img src="../modelagem/img/legenda_framework.png">
-  
+<div style="text-align: center;">
+    <img src="../img/legenda_framework.png" alt="image" width="500"/>
 </div>
 
-<div align="center">
- Figura 1: Legenda Softgoals,  Fonte: Shaíne
+<div style="text-align: center;">
+    Figura 1: Legenda Softgoals,  Fonte: Shaíne
 </div>
-
 
 ### Rótulos
 
-<div align="center">
-  
-<img src="../modelagem/img/rotulos.png">
-  
+<div style="text-align: center;">
+    <img src="../img/rotulos.png" alt="image" width="900"/>
 </div>
 
-<div align="center">
- Figura 2: Rótulos, Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados.¹
+<div style="text-align: center;">
+    Figura 2: Rótulos, Fonte: NFR4ES - Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. <a href="#aa">[1]</a>
 </div>
 
-<p></p>
-
-Descrição: [¹](#ancora1)
-
-<p></p>
+Descrição: <a href="#aa">[1]</a>
 
 - Satisfeito: Reflete que um requisito não funcional tem um impacto positivo na realização de outro requisito, resultando em contentamento.
 - Fracamente satisfeito: Indica uma relação de impacto positivo, porém menos pronunciada do que a condição de "satisfeito".
@@ -103,7 +89,6 @@ Descrição: [¹](#ancora1)
 ## NFR
  Foram feitos 3 tipos de NFR: Portabilidade, Interoperabilidade e Segurança.
 
-
 ## NFR-1 Portabilidade
 
 ### Requisito de Portabilidade
@@ -112,31 +97,29 @@ Descrição: [¹](#ancora1)
 |-----|-----------|
 |RNF01| Deve ser possível obter o aplicativo em qualquer sistema operacional|
 
-
-
-<div align="center">
-Tabela 3: Requisito de Portabilidade, Autor(a): Shaíne 
+<div style="text-align: center;">
+    Tabela 3: Requisito de Portabilidade, Autor(a): Shaíne 
 </div>
 
 ### Sem Propagação
-<div align="center">
-<img src="../modelagem/img/portabilidade_semPropagacao.png">
+
+<div style="text-align: center;">
+    <img src="../img/portabilidade_semPropagacao.png" alt="image" width="500"/>
 </div>
 
-<div align="center">
-Figura 3: NFR-1 Portabilidade, Autor(a): Shaíne </figcaption>
+<div style="text-align: center;">
+    Figura 3: NFR-1 Portabilidade, Autor(a): Shaíne
 </div>
 
- ### Com Propagação
+### Com Propagação
 
- <div align="center">
-<img src="../modelagem/img/portabilidade_propagacao.png">
- </div>
+<div style="text-align: center;">
+    <img src="../img/portabilidade_propagacao.png" alt="image" width="500"/>
+</div>
  
- <div align="center">
-Figura 4: NFR-1 Portabilidade com Propagação, Autor(a): Shaíne 
+<div style="text-align: center;">
+    Figura 4: NFR-1 Portabilidade com Propagação, Autor(a): Shaíne 
 </div>
-
 
 ### Cartões de Especificação
 
@@ -150,12 +133,9 @@ Figura 4: NFR-1 Portabilidade com Propagação, Autor(a): Shaíne
 | Conflito              | Custo elevado. |
 | Historia              | 01 de nov. 2023 |
 
-
-<div align="center">
+<div style="text-align: center;">
 Tabela 4: Cartão de Especificação - Sistema Operacional, Autor(a): Shaíne 
 </div>
-<p></p>
-
 
 ## NFR-2 Interoperabilidade
 
@@ -165,31 +145,29 @@ Tabela 4: Cartão de Especificação - Sistema Operacional, Autor(a): Shaíne
 |-----|-----------|
 |RNF02| Deve ser possível fazer cadastro/login com as credenciais do Facebook|
 
-
-
-<div align="center">
+<div style="text-align: center;">
 Tabela 5: Requisito de Interoperabilidade, Autor(a): Shaíne 
 </div>
 
 ### Sem Propagação
-<div align="center">
-<img src="../modelagem/img/interoperabilidade_semPropagacao.png">
+
+<div style="text-align: center;">
+    <img src="../img/interoperabilidade_semPropagacao.png" alt="image" width="200"/>
 </div>
 
-<div align="center">
-Figura 5: NFR-2 Interoperabilidade, Autor(a): Shaíne </figcaption>
+<div style="text-align: center;">
+    Figura 5: NFR-2 Interoperabilidade, Autor(a): Shaíne
 </div>
 
- ### Com Propagação
+### Com Propagação
 
- <div align="center">
-<img src="../modelagem/img/interoperabilidade_comPropagacao.png">
- </div>
+<div style="text-align: center;">
+    <img src="../img/interoperabilidade_semPropagacao.png" alt="image" width="200"/>
+</div>
  
- <div align="center">
-Figura 6: NFR-2 Interoperabilidade com Propagação, Autor(a): Shaíne 
+ <div style="text-align: center;">
+    Figura 6: NFR-2 Interoperabilidade com Propagação, Autor(a): Shaíne 
 </div>
-
 
 ### Cartões de Especificação
 
@@ -203,12 +181,9 @@ Figura 6: NFR-2 Interoperabilidade com Propagação, Autor(a): Shaíne
 | Conflito              |Pode haver resistência dos usuários que não estão acostumados a criar senhas mais complexas. No entanto, a segurança é uma prioridade.|
 | Historia              | 01 de nov. 2023 |
 
-
-<div align="center">
-Tabela 6: Cartão de Especificação - Segurança, Autor(a): Shaíne 
+<div style="text-align: center;">
+    Tabela 6: Cartão de Especificação - Segurança, Autor(a): Shaíne 
 </div>
-<p></p>
-
 
 ## NFR-3 Segurança
 
@@ -218,31 +193,29 @@ Tabela 6: Cartão de Especificação - Segurança, Autor(a): Shaíne
 |-----|-----------|
 |RNF03| A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial|
 
-
-
-<div align="center">
-Tabela 7: Requisito de Segurança, Autor(a): Shaíne 
+<div style="text-align: center;">
+    Tabela 7: Requisito de Segurança, Autor(a): Shaíne 
 </div>
 
 ### Sem Propagação
-<div align="center">
-<img src="../modelagem/img/seguranca_semPropagacao.png">
+
+<div style="text-align: center;">
+    <img src="../img/seguranca_semPropagacao.png" alt="image" width="200"/>
 </div>
 
-<div align="center">
-Figura 7: NFR-3 Segurança, Autor(a): Shaíne </figcaption>
+<div style="text-align: center;">
+    Figura 7: NFR-3 Segurança, Autor(a): Shaíne </figcaption>
 </div>
 
- ### Com Propagação
+### Com Propagação
 
- <div align="center">
-<img src="../modelagem/img/seguranca_comPropagacao.png">
- </div>
+<div style="text-align: center;">
+    <img src="../img/seguranca_comPropagacao.png" alt="image" width="200"/>
+</div>
  
- <div align="center">
-Figura 8: NFR-3 Segurança com Propagação, Autor(a): Shaíne 
+<div style="text-align: center;">
+    Figura 8: NFR-3 Segurança com Propagação, Autor(a): Shaíne 
 </div>
-
 
 ### Cartões de Especificação
 
@@ -256,22 +229,22 @@ Figura 8: NFR-3 Segurança com Propagação, Autor(a): Shaíne
 | Conflito              | Alguns usuários podem achar esse requisito de senha complexo ou difícil de lembrar, mas a segurança é fundamental. |
 | Historia              | 01 de nov. 2023 |
 
-
-<div align="center">
-Tabela 8: Cartão de Especificação - Segurança, Autor(a): Shaíne 
+<div style="text-align: center;">
+    Tabela 8: Cartão de Especificação - Segurança, Autor(a): Shaíne 
 </div>
-<p></p>
 
+### Conclusão
+
+Com a aplicação do NFR framework ao Skoob, através da análise dos softgoals, foi estabelecida uma hierarquia de prioridades, garantindo que os aspectos como segurança, portabilidade e interoperabilidade sejam devidamente atendidos acerca dos [requisitos não funcionais](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/requisitos/), permitindo a definição de critérios de aceitação específicos para cada requisito, assegurando que as metas de qualidade identificadas na [Especificação Suplementar](especificacao_suplementar.md) sejam alcançadas de forma eficaz, resultando em uma experiência mais segura e eficiente para os usuários.
 
 ## Referências
 
-[1] SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf. Acesso em: 1 nov. 2023.
-[2] Requisitos Não-Funcionais. [s.l.: s.n., s.d.]. Disponível em: <https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf>. Acesso em: 1 nov. 2023.
-
-‌
+<a id="aa" href="#a">[1]</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: [Aprender](https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf). Acesso em: 1 nov. 2023.</br>
+<a id="bb" href="#a">[2]</a> Requisitos Não-Funcionais. [s.l.: s.n., s.d.]. Disponível em: [Requirements Engineering Introduction](https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf). Acesso em: 1 nov. 2023.</br>
 
 ## Histórico de versão
 
 | Versão | Data | Descrição| Autor(es) | Revisor(es)
 |--|--|--|--|--|
 |`1.0` | 01/11/2023 | Criação da documentação| [Shaíne](https://github.com/ShaineOliveira) | [Ana Caroline](https://github.com/anaaroch)|
+|`1.1` | 02/11/2023 | Atualização e correção| [Ana Caroline](https://github.com/anaaroch) | [Shaíne](https://github.com/ShaineOliveira) |
