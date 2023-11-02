@@ -113,13 +113,13 @@ Em resumo, a técnica de priorização "First Things First" se mostrou uma ferra
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
+| Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
 | `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_)    | <input type="checkbox" disabled checked /> |
 | `1.1`  |    04/10/2023    |   04/10/2023    | Atualização do artefato |   [Ana Rocha](https://github.com/anaaroch_)  | <input type="checkbox" disabled checked /> |
 | `1.2`  |    04/10/2023    |   04/10/2023    | Seção de Priorização |   [Yago Passos](https://github.com/yagompassos)    | <input type="checkbox" disabled checked /> |
 | `1.3`  |    16/10/2023    |   17/10/2023    | Elaboração da Conclusão | [Ana Rocha](https://github.com/anaaroch_) | <input type="checkbox" disabled checked /> |
-| `1.4`  |    02/11/2023    |   04/11/2023    | Adicionando Cronograma | [Ana Rocha](https://github.com/anaaroch_) |  |
+| `1.4`  |    02/11/2023    |   04/11/2023    | Adicionando Cronograma e implementando novo sistema de revisão | [Ana Rocha](https://github.com/anaaroch_) |  |
 
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |

@@ -23,7 +23,7 @@ Na tabela 1, temos o cronograma detalhado do dia e do horário em que a reunião
 
 | Participantes        |    Data    | Hora  |
 | -------------------- | :--------: | :---: |
-| Mendiador: Jefferson |
+| Mediador: Jefferson |
 | Desenvolvedor: Ana   | 04/10/2023 |  17h  |
 | Usuário: Vitória Monteiro      |
 <div style="text-align: center">
