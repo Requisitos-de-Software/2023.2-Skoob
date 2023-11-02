@@ -252,5 +252,5 @@ Com a aplicação do NFR framework ao Skoob, através da análise dos softgoals,
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   24/10/2023   |    `1.0`    |    Revisão por inspeção    |  [Ana Rocha](https://github.com/anaaroch) |
+|   02/11/2023   |    `1.0`    |    Revisão por inspeção    |  [Ana Rocha](https://github.com/anaaroch) |
 
