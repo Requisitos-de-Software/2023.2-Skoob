@@ -9,7 +9,7 @@ Esses cenários desempenham um papel crucial na fase de levantamento de requisit
 
 A metodologia para criar cenários envolve a identificação de partes interessadas, coleta de informações, definição do escopo, identificação de cenários, descrição detalhada, validação, documentação e uso. Essa abordagem flexível adapta-se às necessidades do projeto, com a participação ativa das partes interessadas.
 
-Os cenários do aplicativo Skoob foram criados com base no texto estruturado, onde emprega uma linguagem natural, baseada na realidade, com a suposição de que o uso da linguagem usada pelos usuários da aplicação, em vez da linguagem técnica do software, torna mais fácil para os clientes compreenderem e confirmarem os requisitos <a id="a" href="#aa">[1]</a>. Dessa forma, os mesmos foram desenvolvidos a partir dos requisitos priorizados nas técnicas de Moscow, Three-Level Scale e First Things First.
+Os cenários do aplicativo Skoob foram criados com base no texto estruturado, onde emprega uma linguagem natural, baseada na realidade, com a suposição de que o uso da linguagem usada pelos usuários da aplicação, em vez da linguagem técnica do software, torna mais fácil para os clientes compreenderem e confirmarem os requisitos <a id="a" href="#aa">[1]</a>. Dessa forma, os mesmos foram desenvolvidos a partir dos requisitos priorizados nas técnicas de [Moscow](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/moscow/), [Three-Level Scale](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/three_level_scale/) e [First Things First](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/first_things_first/).
 Assim, os cenários serão representados conforme a tabela 1.
 
 
