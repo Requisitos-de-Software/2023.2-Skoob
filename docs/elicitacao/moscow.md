@@ -25,7 +25,7 @@ Menos críticos, com menor retorno sobre o investimento ou não adequados para s
 ## Requisitos
 Na tabela 1 contém a priorização dos requisitos seguindo a técnica de Moscow.
 
-Legenda:
+### Legenda da tabela:
 
 - OB - Observação
 - IN - Introspecção
@@ -74,11 +74,15 @@ Legenda:
 |     BS15      |                          Deve ser possível mandar mensagens diretas entre usuários                               |   Could    |
 |     BS16      |                         Deve ser possível conquistar prêmios e recompensas a partir de Desafios                  |   Would    |
 |     BS17      |                            Deve ser possível expor prêmios nos perfis e na TimeLine                              |   Would    |
+|     BS18      |   Deve ser possível receber recomendações de livros com base nas preferências literárias dos usuários            |   Could    |
 
 
 <div style="text-align: center">
-    <p> Tabela 1: Levantamento de requisitos Moscow. (Fonte: Autor, 2023).</p>
+    <p> Tabela 1: Levantamento de requisitos Moscow. (Fonte: Rafael e Shaíne, 2023).</p>
 </div>
+
+## Conclusão
+A priorização dos requisitos com os usuários do aplicativo Skoob, para fins de documentação, conclui que esse processo é essencial para criar uma documentação clara e eficaz, refletindo as prioridades dos usuários. Essa documentação servirá como uma valiosa referência, garantindo um alinhamento constante com as necessidades dos usuários.
 
 ## Bibliografia
 

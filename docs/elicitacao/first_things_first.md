@@ -8,8 +8,21 @@ Após a elicitação dos requisitos essenciais, precisamos empregar métodos efi
 
 A técnica de priorização "First Things First" representa uma ferramenta importante na gestão de requisitos, ao considerar cuidadosamente os benefícios, custos e riscos  de cada requisito, onde os mesmo são classificados em diferentes níveis de importância, tendo como resultado uma lista clara e organizada de prioridades para a implementação. São feitas avaliações para determinar os respectivos índices (1-9) para cada indicativo acima descrito, que deve considerar a visão do cliente e do desenvolvedor de forma equilibrada. A partir disso, é possível calcular o valor total, avaliar o custo relativo e determinar o nível de risco associado a cada um. Assim, o cálculo da prioridade para cada requisito permite a construção de uma lista ordenada em ordem decrescente de importância, fornecendo um guia claro para a fase de implementação. Esta abordagem meticulosa e bem estruturada assegura que os recursos sejam alocados de maneira eficiente e direcionados aos elementos cruciais para o sucesso do projeto.
 
+## Cronograma
+
+Na tabela 1, temos o cronograma detalhado do dia e do horário em que a reunião será realizada e também dos participantes e suas respectivas funções na utilização da técnica.
+
+| Participantes        |    Data    | Hora  |
+| -------------------- | :--------: | :---: |
+| Mediador: Ana |
+| Desenvolvedor: Shaíne   | 04/10/2023 |  17h  |
+| Usuário: Vitória Monteiro      |
+<div style="text-align: center">
+<p> Tabela 1: Cronograma para execução da técnica. (Fonte: Ana Rocha, 2023).</p>
+</div>
+
 ## Requisitos
-Na tabela 1 são listados os requisitos funcionais elicitados pelo grupo, através dos métodos de [Observaçao](../elicitacao/observacao.md), [Introspecção](../elicitacao/introspeccao.md) e [Brainstoming](../elicitacao/brainstorming.md).
+Na tabela 2 são listados os requisitos funcionais elicitados pelo grupo, através dos métodos de [Observaçao](../elicitacao/observacao.md), [Introspecção](../elicitacao/introspeccao.md) e [Brainstoming](../elicitacao/brainstorming.md).
 
 Legenda:
 
@@ -59,11 +72,12 @@ Legenda:
 |     BS17      |                            Deve ser possível expor prêmios nos perfis e na TimeLine                              |
 
 <div style="text-align: center">
-    <p> Tabela 1: Elicitação de requisitos. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
+    <p> Tabela 2: Elicitação de requisitos. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
 </div>
 
 ## Priorização
 Para a priorização adequada dos requisitos de forma condizente com o método First-Things-First, definimos os envolvidos:
+
 - **Gerente:** O papel foi executado por [Ana Rocha](https://github.com/anaaroch_)
 - **Representante dos clientes:** Vitória Monteiro, uma usuária entrevistada.
 - **Representante de desenvolvimento:** [Yago Passos](https://github.com/yagompassos) e [Ana Rocha](https://github.com/anaaroch_)
@@ -77,26 +91,39 @@ No vídeo 1, destacado a baixo, a entrevista com a representante dos clientes, V
     <p> Vídeo 1: Estimativa da parte do usuário - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
 </div>
 
+Aqui contém o documento do [Termo de Consentimento de uso da Imagem](./img/termo_de_consentimento_vitoria.pdf), assinado pela usuária entrevistada.
+
 ### Estimativa da parte Técnica
-A segunda etapa foi uma reunião entre os representantes de desenvolvimento, que ao ponderar as funcionalidades, chegaram na priorização representada na Figura 1:
+A segunda etapa foi uma reunião entre os representantes de desenvolvimento, que ao ponderar as funcionalidades, chegaram na priorização representada na Figura 2:
 <div style="text-align: center;">
   <img src="../img/priorizacao_ftf.png" alt="image" width="800"/>
 </div>
 
 <div style="text-align: center">
-    <p> Figura 1: Priorização de requisitos - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
+    <p> Figura 2: Priorização de requisitos - First Things First. (Fonte: Ana Rocha e Yago Passos, 2023).</p>
 </div>
+
+### Conclusão
+Em resumo, a técnica de priorização "First Things First" se mostrou uma ferramenta importante na gestão dos requisitos que elicitamos, permitindo uma abordagem bem definida para determinar a importância de cada funcionalidade, nos proporcionando uma lista clara e organizada de prioridades para a implementação, o que permite uma alocação eficiente de recursos.
 
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> WIEGERS, Karl e BEATTY, Joy. Disponível em: [Software Requirements, Third Edition](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 02 de Outubro de 2023.</br>
-<a id="bb" href="#b">[2]</a> SALES, André Barros. Técnicas de Priorização. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em 04 de outubro de 2023.
+<a id="bb" href="#b">[2]</a> SALES, André. Técnicas de Priorização. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em 04 de outubro de 2023.
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
+| Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_)    | [Yago Passos](https://github.com/yagompassos) |
-| `1.1`  |    04/10/2023    |   04/10/2023    | Atualização do artefato |   [Ana Rocha](https://github.com/anaaroch_) e [Yago Passos](https://github.com/yagompassos)  | [Jefferson](https://github.com/Frans6), [Shaíne](https://github.com/ShaineOliveira) e [Rafael](https://github.com/Rafael-gc) |
-| `1.2`  |    04/10/2023    |   04/10/2023    | Seção de Priorização |   [Yago Passos](https://github.com/yagompassos)    | [Ana Rocha](https://github.com/anaaroch_) |
+| `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_)    | <input type="checkbox" disabled checked /> |
+| `1.1`  |    04/10/2023    |   04/10/2023    | Atualização do artefato |   [Ana Rocha](https://github.com/anaaroch_)  | <input type="checkbox" disabled checked /> |
+| `1.2`  |    04/10/2023    |   04/10/2023    | Seção de Priorização |   [Yago Passos](https://github.com/yagompassos)    | <input type="checkbox" disabled checked /> |
+| `1.3`  |    16/10/2023    |   17/10/2023    | Elaboração da Conclusão | [Ana Rocha](https://github.com/anaaroch_) | <input type="checkbox" disabled checked /> |
+| `1.4`  |    02/11/2023    |   04/11/2023    | Adicionando Cronograma e implementando novo sistema de revisão | [Ana Rocha](https://github.com/anaaroch_) |  |
 
+### Revisão (V&V)
+| Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
+| :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
+|   04/10/2023   |    `1.1`    |    Revisão por inspeção    |  [Yago Passos](https://github.com/yagompassos) |
+|   04/10/2023   |    `1.2`    |    Revisão por inspeção    |  [Ana Rocha](https://github.com/anaaroch) |
+|   18/10/2023   |    `1.3`    |    Revisão por inspeção    |  [Yago Passos](https://github.com/yagompassos) |

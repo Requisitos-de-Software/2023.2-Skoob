@@ -27,8 +27,8 @@ Concluidos a introspeção e o brainstorming, analisamos, ponderamos e listamos 
 
 ### Data e Horário
 - Terça-Feira dia três de outubro
-- Início de reunião: 20:16h
-- Fim de reunião: 22:18h
+- Início de reunião: 20:16 horas
+- Fim de reunião: 22:18 horas
 
 ## Gravação da Reunião
 

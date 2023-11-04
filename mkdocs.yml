@@ -1,4 +1,4 @@
-repo_name: 2023.2-Skoobs
+repo_name: 2023.2-Skoob
 site_name: Skoob
 repo_url: https://github.com/Requisitos-de-Software/2023.2-Skoob
 
@@ -19,6 +19,7 @@ theme:
         name: Light mode
 
   logo: planejamento/img/logos/skoob2.png
+  favicon: planejamento/img/logos/skoob2.png
   
   name: material
   features:
@@ -40,16 +41,25 @@ nav:
     - Reunião 01: atas/reuniao01.md
     - Reunião 02: atas/reuniao02.md
     - Reunião 03: atas/reuniao03.md
+    - Reunião 04: atas/reuniao04.md
+    - Reunião 05: atas/reuniao05.md
   - Pré-rastreabilidade: 
     - Aplicativos Analisados: pre_rastreabilidade/lista_de_aplicativos.md
     - Aplicativo Escolhido: pre_rastreabilidade/aplicativo_escolhido.md
   - Elicitação de Requisitos:
+    - Requisitos Elicitados: elicitacao/requisitos.md
     - Brainstorming: elicitacao/brainstorming.md
     - Observação: elicitacao/observacao.md
     - Introspecção: elicitacao/introspeccao.md
-    - Fist Things First: elicitacao/first_things_first.md
+    - First Things First: elicitacao/first_things_first.md
     - Moscow: elicitacao/moscow.md
     - Three-Level Scale: elicitacao/three_level_scale.md
     - Perfil do Usuário: elicitacao/perfil_do_usuario.md
+  - Modelagem:
+    - Cenários: modelagem/cenarios.md
+    - Casos de uso: modelagem/casos_de_uso.md
+    - Especificação Suplementar: modelagem/especificacao_suplementar.md
+    - Léxicos: modelagem/lexico.md
+    - NFR Framework: modelagem/nfr_framework.md
   - Entregas: planejamento/entregas.md
 

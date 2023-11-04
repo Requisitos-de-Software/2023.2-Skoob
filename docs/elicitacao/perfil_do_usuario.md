@@ -2,6 +2,8 @@
 
 ## Introdução
 
+Um perfil de usuário é uma representação detalhada das características, necessidades e preferências de quem vai usar um sistema ou produto. Elicitar requisitos através desses perfis ajuda a equipe de desenvolvimento a entender e atender melhor as expectativas dos usuários, garantindo um produto mais eficaz e satisfatório.
+
 ## Metodologia
 
 Com o objetivo de compreender melhor o perfil dos usuários do Skoob, adotamos a abordagem de realizar um questionário. Inicialmente, tentamos buscar informações relevantes em documentos existentes, porém, não obtivemos êxito nessa busca. Posteriormente, entramos em contato com a equipe do Skoob por meio de e-mail, na esperança de obter algumas informações, mas, infelizmente, não recebemos resposta.
@@ -104,5 +106,6 @@ Após analisarmos as respostas, chegamos à conclusão de que o perfil do usuár
 
 | Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato |   [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
+| `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato |  [Ana Rocha](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
+| `1.1`  |    04/10/2023    |   04/10/2023    | Adicionando introdução |  [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
 

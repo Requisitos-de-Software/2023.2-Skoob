@@ -1,4 +1,4 @@
-# Título
+# Brainstorming
 
 ## Introdução
 
@@ -6,7 +6,7 @@ O brainstorming desempenha um papel fundamental no processo de elicitação de r
 
 ## Metodologia
 
-Utilizando a técnica de brainstorming, o mediador conduziu uma série de perguntas cuidadosamente elaboradas para extrair ideias valiosas do usuário. Embora idealmente essa técnica envolva um grupo de 8 a 12 participantes, devido a restrições de tempo e dificuldades na coordenação de horários, não foi possível contar com mais pessoas. No entanto, as respostas fornecidas pelo usuário foram extremamente satisfatórias.
+Utilizando a técnica de brainstorming, o mediador conduziu uma série de perguntas cuidadosamente elaboradas para extrair ideias valiosas do usuário. Embora idealmente essa técnica envolva um grupo de 8 a 12 participantes,como diz o livro Interação Humano-Computador (Barbosa e Silva)<a id="a" href="#aa">[3]</a> devido a restrições de tempo e dificuldades na coordenação de horários, não foi possível contar com mais pessoas. No entanto, as respostas fornecidas pelo usuário foram extremamente satisfatórias.
 
 Uma gravação completa do brainstorming foi realizada, e também elaboramos um [termo de autorização de uso de imagem](../img/termo_de_uso.pdf), o qual foi assinado pelo usuário, permitindo-nos utilizar a gravação.
 
@@ -73,52 +73,50 @@ envolvente e divertido?
 
 ### Legenda das tabelas:
     - n: Número do Requisito;
-    - RFn:  Requisito Funcional;
-    - RNFn: Requisito Não Funcional;
+    - RF:  Requisito Funcional;
+    - RNF: Requisito Não Funcional;
     - BSn: Requisito elicitado por meio de Brainstorming;
 
 Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-Level Scale.
 
-|  Id   |                                                     Descrição                                                     | Tipo  | Implementado |
-| :---: | :---------------------------------------------------------------------------------------------------------------: | :---: | :----------: |
-| BS01  | Deve ser possível ver informações gerais de um livro cadastrado, como sinopse, autor, quantidade de páginas, etc  | RF02  |     Sim      |
-| BS02  |                      Deve ser possível visualizar as minhas resenhas e as de outros usuários                      | RF03  |     Sim      |
-| BS03  |              Deve existir uma timeline onde é possível ver informações sobre pessoas que você segue.              | RF04  |     Sim      |
-| BS04  |                                   Deve existir uma aba de lançamentos de livros                                   | RF05  |     Sim      |
-| BS05  |   Deve ser possível sortear um livro dentre os livros marcados como Quero Ler para a próxima leitura do usuário   | RF06  |     Sim      |
-| BS06  |                          Deve ser possível sortear um livro cadastrado nas metas do ano                           | RF07  |     Sim      |
-| BS07  |                                    Deve ser possível curtir posts da timeline                                     | RF08  |     Sim      |
-| BS08  |                                 Deve ser possível adicionar comentários nos posts                                 | RF09  |     Sim      |
-| BS09  |                             Deve ser possível alterar o tema (escuro/claro/variantes)                             | RF10  |     Sim      |
-| BS10  |                             Deve existir uma aba de notícias sobre editoras e autores                             | RF11  |     Não      |
-| BS11  |                                       Deve haver contato com a equipe Skoob                                       | RF12  |     Não      |
-| BS12  |                          Deve existir um FAQ para guiar os usuários nas funcionalidades                           | RF13  |     Não      |
-| BS13  |                               Deve ser possível postar algo livremente na timeline                                | RF14  |     Não      |
-| BS14  |                                 Deve ser possível alterar o idioma da plataforma                                  | RF15  |     Não      |
-| BS15  |                           Deve existir uma lista de sugestão de acordo com livros lidos                           | RF16  |     Não      |
-| BS16  |                           Deve existir um ranking semanal/mensal de livros mais lidos.                            | RF17  |     Não      |
-| BS17  |                     Deve existir um ranking semanal/mensal de livros mais bem classificados.                      | RF18  |     Não      |
-| BS18  |                     Deve ser possível ver a compatibilidade de gosto literário entre usuários                     | RF19  |     Não      |
-| BS19  |                                  Deve ser possível criar desafios entre amigos.                                   | RF20  |     Não      |
-| BS20  |                                      Deve ser possível compartilhar estantes                                      | RF21  |     Não      |
-| BS21  | Deve ser possível postar fotos e/ou vídeos em formato “stories” para compartilhar ideias e novidades sobre livros | RF22  |     Não      |
-| BS22  |                               Devem ser exibidas mensagens de erro mais intuitivas                                | RF23  |     Não      |
-| BS23  |                        Deve haver recompensas que são obtidas através de desafios e metas.                        | RF24  |     Não      |
-| BS24  |                         Deve haver mais medalhas, que são exibidas no perfil das pessoas                          | RF25  |     Não      |
-| BS25  |                                        Deve haver um ranking entre amigos.                                        | RF26  |     Não      |
-| BS26  |                             Deve ser possível mandar mensagens diretas entre usuários                             | RF27  |     Não      |
+|  Id         |                                                     Descrição                                                    | Tipo  |
+| :---------: | :--------------------------------------------------------------------------------------------------------------: | :---: |
+|     BS01    |                                Deve ser possível Criar uma meta de leitura para o ano                            |  RF   |
+|     BS02    |            Deve ser possível sortear um livro cadastrado nas metas para o ano para a próxima leitura             |  RF   |
+|     BS03    |  Deve ser possível sortear um livro dentre os livros marcados como Quero ler para a próxima leitura do usuário   |  RF   |
+|     BS04    | Deve ser possível ver informações gerais de um livro cadastrado, como sinopse, autor, quantidade de páginas, etc |  RF   |
+|     BS05    |                                  Deve existir uma aba de lançamentos de livros                                   |  RF   |
+|     BS06    |                            Deve existir uma aba de notícias sobre editoras e autores                             |  RF   |
+|     BS07    |                          Deve existir um FAQ para guiar os usuários nas funcionalidades                          |  RF   |
+|     BS08    |                            Deve ser possível alterar o tema (escuro/claro/variantes)                             |  RF   |
+|     BS09    |             Deve ser possível visualizar um ranking semanal/mensal de livros mais bem classificados              |  RF   |
+|     BS10    |                 Deve ser possível visualizar um ranking semanal/mensal de livros mais lidos                      |  RF   |
+|     BS11    |                         Deve ser possível postar fotos e/ou vídeos em formato "stories"                          |  RF   |
+|     BS12    |                                     Deve ser possível compartilhar estantes                                      |  RF   |
+|     BS13    |                            Deve ser possível realizar desafios dentro da plataforma                              |  RF   |
+|     BS14    |                                  Deve ser possível criar desafios entre amigos                                   |  RF   |
+|     BS15    |                          Deve ser possível mandar mensagens diretas entre usuários                               |  RF   |
+|     BS16    |                         Deve ser possível conquistar prêmios e recompensas a partir de Desafios                  |  RF   |
+|     BS17    |                            Deve ser possível expor prêmios nos perfis e na TimeLine                              |  RF   |
+|     BS18    |   Deve ser possível receber recomendações de livros com base nas preferências literárias dos usuários            |  RF   |
+|     BS19      |   O Skoob deve ser capaz de interoperar com outras plataformas de redes sociais, permitindo aos usuários compartilhar conteúdo.          |   RNF   |
+
 
 <div style="text-align: center">
 <p> Tabela 2: Requisitos elicitados através do brainstorming. (Fonte: Jefferson França, 2023).</p>
 </div>
 
+### Conclusão
+
+A aplicação do brainstorming no processo de elicitação de requisitos para o Skoob foi extremamente eficaz, as respostas fornecidas pelo usuário foram valiosas e abrangentes, as ideias geradas durante a sessão forneceram uma base sólida para a definição dos [requisitos funcionais e não funcionais](requisitos.md) do aplicativo, abrangendo desde funcionalidades essenciais até recursos de conectividade social e gamificação.
 
 ## Bibliografia
 
-<a id="aa" href="#a">[1]</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Elicitação, Modelagem e Análise. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 04 de outubro de 2023.
+[1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Elicitação, Modelagem e Análise. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 04 de outubro de 2023.
 
-<a id="aa" href="#a">[2]</a> Brainstorming em Bilheteria Digital. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/brainstorming/. Acesso em 04 de Outubro de 2023.
+[2] Brainstorming em Bilheteria Digital. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/brainstorming/. Acesso em 04 de Outubro de 2023.
 
+<a id="aa" href="#a">[3]</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versão
 
@@ -126,3 +124,5 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 | :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 | `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
 | `1.1`  |    04/10/2023    |   04/10/2023    | Adicionando a gravação | [Yago Passos](https://github.com/yagompassos) | [Rafael Amancio](https://github.com/Rafael-gc) |
+| `1.2`  |    24/10/2023    |   25/10/2023    | Alterações na tabela | [Rafael Amancio](https://github.com/Rafael-gc) | [Yago Passos](https://github.com/yagompassos)   |
+| `1.3`  |    02/11/2023    |   04/11/2023    | Adicionando Conclusão | [Ana Rocha](https://github.com/anaaroch) | Todos |

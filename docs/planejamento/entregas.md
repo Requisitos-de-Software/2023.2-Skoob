@@ -11,13 +11,10 @@ Nesta primeira entrega foi possível fazer todo o cronograma do projeto, ferrame
 ### Vídeo de apresentação
 O Vídeo 1 corresponde a gravação da primeira entrega da disciplina. Nele, explicamos a fase de planejamento que desenvolvemos, juntamente com seus artefatos.
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/DsT5NLfh2j8" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/DsT5NLfh2j8" title="Entrega 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div style="text-align: center">
 <p> Vídeo 1: Gravação da primeira apresentação. (Fonte: Grupo 6, 2023)..</p>
 </div>
-
-
-
 
 ## Entrega 2 (04/10/2023)
 
@@ -27,16 +24,34 @@ Nesta segunda entrega foi possível fazer correções da primeira entrega, elici
 ### Vídeo de apresentação
 O Vídeo 2 corresponde a gravação da segunda entrega da disciplina. Nele, explicamos as técnicas usadas para elicitar e priorizar os requisitos.
 
-colocar vídeo
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/UWR8LdWP37k" title="Entrega 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align: center">
+<p> Vídeo 2: Gravação da segunda apresentação. (Fonte: Grupo 6, 2023)..</p>
+</div>
+
+
+## Entrega 3 (25/10/2023)
+
+### Descrição: 
+Nesta terceira entrega foi possível fazer correções da segunda entrega, elaborar os artefatos de cenários, léxicos e casos de uso, além da especificação suplementar.
+
+### Vídeo de apresentação
+O Vídeo 3 corresponde a gravação da terceira entrega da disciplina. Nele, explicamos os cenários, léxicos, casos de uso e a especificação suplementar do projeto.
+
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/kDwwvS5LHeU" title="Entrega 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align: center">
+<p> Vídeo 3: Gravação da terceira apresentação. (Fonte: Grupo 6, 2023)..</p>
+</div>
 
 
 
 ## Histórico de versão
 
-| Versão | Data | Descrição| Autor(es)| Revisor(es)
-|--|--|--|--|--|
-| `1.0`|18/09/2023|Entrega 1| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos
-| `1.2`|04/10/2023|Entrega 2| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos
-
-
-
+| Versão | Data | Descrição| Autor(es)| Revisor(es)| 
+|   --   |  --  |    --    |    --    |     --     |
+| `1.0`|18/09/2023|Entrega 1| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
+| `1.1`|04/10/2023|Entrega 2| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
+| `1.2`|04/10/2023|Vídeo 2| [Yago Passos](https://github.com/yagompassos)| Todos |
+| `1.3`|23/10/2023|Entrega 3| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
+| `1.4`|04/11/2023|Adicionando Vídeo 3| [Yago Passos](https://github.com/yagompassos)| Todos |
