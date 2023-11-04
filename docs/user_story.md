@@ -49,7 +49,7 @@
   - **Validez:**
 
 - ### Adicionar livro à estante
-    - **ID:** US02
+    - **ID:** US03
     - **Origem:** [OB03](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/requisitos.md)
     - **Descrição:** Eu, como usuário, desejo escolher um livro da lista de livvros da plataforma e adicioná-lo à minha estante, escolhendo uma etiqueta de acordo com meu desenvolvimento com o livro.
     - **Motivo:** Quero ter acesso a uma lista de livros que tenho, tive, ou quero ter contato, para salvar minhas preferências e poder interagir sobre livros lidos ou em processo de leitura.
@@ -59,7 +59,7 @@
     
 - ### Sorteio e recomendaçoes
 
-  - **ID:** US03
+  - **ID:** US04
   - **Origem:** [BS03](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/requisitos.md)
   - **Descrição:** Eu, como usuário, quero ter a opção de sortear um livro aleatoriamente da minha lista de livros marcados como "Quero Ler"
   - **Motivo:** Quero que o sistema me ajude a escolher qual será minha próxima leitura com base nos livros que demonstrei interesse. 
@@ -70,7 +70,45 @@
     - O sistema deve garantir que o sorteio seja verdadeiramente aleatório e imparcial
   - **Validez:**
 
-- ### Interação entre usuários
+- ### Feedback dos livros
+  - **ID:** US05
+  - **Origem:** [IN04, IN05](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/requisitos.md)
+  - **Descrição:** Eu, como usuário, desejo poder dar notas a e comentar sobre os livros que tenho na estante como lidos.
+  - **Motivo:** Quero interagir com outros leitores sobre os livros que conheço e ser capaz de ver os feedbacks já existentes sobre os mesmos.
+  - **Critérios de Aceitação**:
+    - O usuário deve ser capaz de adicionar um título curto para sua resenha
+    - Deve ser possível adicionar classificações (por exemplo, em estrelas) à resenha indicando a avaliação do livro.
+    - O usuário deve ter a opção de salvar a resenha como rascunho antes de publicá-la
+    - Outros usuários devem ser capazes de interagir com resenhas (como curtir, comentar ou denunciar)
+  - **Validez:**
+  
+- ### Ranking de Livros
+  - **ID:** US06
+  - **Origem:** [BS09, BS10](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/requisitos.md)
+  - **Descrição:** Eu, como usuário, desejo ter acesso a um ranking semanal e mensal que categoriza livros de acordo com sua popularidade ou qualidade geral
+  - **Motivo:** Quero poder ver quais livros estão em alta, para poder me inspirar ou ter ideias com base no que outros usuários estão lendo e gostando.
+  - **Critérios de Aceitação**:
+    - Deve haver uma seção na plataforma dedicada a rankings de livros mais lidos e mais bem classificados.
+    - Os rankings devem ser atualizados automaticamente em uma base semanal e mensal.
+    - Os rankings devem exibir os títulos dos livros, capas, autores e a quantidade de leituras ou visualizações.
+    - Os usuários devem poder clicar em um livro no ranking para obter mais informações e acessar sua página de detalhes.
+    - Os livros devem ser classificados com base em critérios como classificação média dos usuários, número de avaliações ou popularidade.
+    - A interface do usuário deve ser responsiva e funcionar bem em diferentes dispositivos, como computadores e dispositivos móveis.
+  - **Validez:**
+
+- ### Desafios
+  - ***ID:*** US07
+  - ***Origem:*** [BS13, BS14](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/requisitos.md)
+  - ***Descrição:*** Eu, como usuário, gostaria de participar de desafios propostos pela aplicativo.
+  - ***Motivo:*** Quero poder me divertir e ler ao mesmo tempo, com meus amigos.
+  - **Critérios de Aceitação**:
+    - Deve ser possível convidar amigos da plataforma para participar do desafio por meio de notificações ou convites
+    - Deve haver uma opção para o usuário criar um desafio personalizado a partir da sua conta
+    - Os usuários devem receber notificações quando forem convidados para um desafio e quando um desafio for concluído
+    - Os desafios podem ser concluídos individualmente ou em competições contra outros usuários, dependendo do tipo de desafio
+  - **Validez:**
+
+  - ### Interação entre usuários
   - **Id**
   - **Origem:**
   - **Descrição:**
@@ -78,7 +116,7 @@
   - **Critérios de Aceitação**:
   - **Validez:**
   
-- ### Interação entre usuários
+  - ### Interação entre usuários
   - **Id**
   - **Origem:**
   - **Descrição:**
