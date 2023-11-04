@@ -19,6 +19,7 @@ theme:
         name: Light mode
 
   logo: planejamento/img/logos/skoob2.png
+  favicon: planejamento/img/logos/skoob2.png
   
   name: material
   features:
