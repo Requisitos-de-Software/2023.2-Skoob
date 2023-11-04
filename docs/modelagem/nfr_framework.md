@@ -181,11 +181,7 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 ### Com Propagação
 
 <div style="text-align: center;">
-<<<<<<< HEAD
     <img src="../img/interoperabilidade_comPropagacao.png" alt="image" width="500"/>
-=======
-    <img src="../img/interoperabilidade_semPropagacao.png" alt="image" width="500"/>
->>>>>>> 547cd739e7aede64b28add5de374fa497b1b7250
 </div>
  
  <div style="text-align: center;">
