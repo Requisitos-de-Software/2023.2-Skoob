@@ -171,7 +171,7 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 ### Sem Propagação
 
 <div style="text-align: center;">
-    <img src="../img/interoperabilidade_semPropagacao.png" alt="image" width="200"/>
+    <img src="../img/interoperabilidade_semPropagacao.png" alt="image" width="500"/>
 </div>
 
 <div style="text-align: center;">
@@ -181,7 +181,7 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 ### Com Propagação
 
 <div style="text-align: center;">
-    <img src="../img/interoperabilidade_semPropagacao.png" alt="image" width="200"/>
+    <img src="../img/interoperabilidade_semPropagacao.png" alt="image" width="500"/>
 </div>
  
  <div style="text-align: center;">
@@ -234,7 +234,7 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 ### Sem Propagação
 
 <div style="text-align: center;">
-    <img src="../img/seguranca_semPropagacao.png" alt="image" width="200"/>
+    <img src="../img/seguranca_semPropagacao.png" alt="image" width="500"/>
 </div>
 
 <div style="text-align: center;">
@@ -244,7 +244,7 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 ### Com Propagação
 
 <div style="text-align: center;">
-    <img src="../img/seguranca_comPropagacao.png" alt="image" width="200"/>
+    <img src="../img/seguranca_comPropagacao.png" alt="image" width="500"/>
 </div>
  
 <div style="text-align: center;">
