@@ -99,6 +99,7 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 |     BS16    |                         Deve ser possível conquistar prêmios e recompensas a partir de Desafios                  |  RF   |
 |     BS17    |                            Deve ser possível expor prêmios nos perfis e na TimeLine                              |  RF   |
 |     BS18    |   Deve ser possível receber recomendações de livros com base nas preferências literárias dos usuários            |  RF   |
+|     BS19      |   O Skoob deve ser capaz de interoperar com outras plataformas de redes sociais, permitindo aos usuários compartilhar conteúdo.          |   RNF   |
 
 
 <div style="text-align: center">
