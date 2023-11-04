@@ -2,6 +2,8 @@
 
 ## Introdução
 
+O backlog do produto é uma lista organizada de tarefas e melhorias priorizadas que guiam o desenvolvimento de um software. Ele é uma ferramenta fundamental para manter o foco nas necessidades dos usuários, alinhar os esforços de desenvolvimento com os objetivos de negócios e tomar decisões informadas sobre o que desenvolver a seguir. Vamos explorar como criar, gerenciar e usar eficazmente o backlog do produto para alcançar o sucesso no desenvolvimento de software.
+
 ## Corpo do Artefato
 
 ### Subtítulo - Exemplo de Tabela
