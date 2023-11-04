@@ -13,9 +13,12 @@ Abaixo, na tabela 1, estão os [requisitos não funcionais](https://requisitos-d
 |RNF01| A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial| [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)|
 |RNF02| Deve ser possível fazer cadastro/login com as credenciais do facebook	|  [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)|
 |RNF03| Deve ser possível obter o aplicativo em qualquer sistema operacional| [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)|
+|RNF04| Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos| [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)|
+|RNF05| Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos| [Brainstorming](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)|
+|RNF06|  O Skoob deve ser capaz de se adaptar a diferentes tamanhos de tela e resoluções | [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)|
 
 <div style="text-align: center;">
-    Tabela 1: Requisitos Não Funcionais Elicitados, Autor(a): Shaíne
+    Tabela 1: Requisitos Não Funcionais Elicitados, Autor(a): Shaíne e Ana, 2023
 </div>
 
 ### Softgoals
@@ -96,9 +99,10 @@ Descrição: <a href="#aa">[1]</a>
 | ID  | Requisito |
 |-----|-----------|
 |RNF01| Deve ser possível obter o aplicativo em qualquer sistema operacional|
+|RNF06|  O Skoob deve ser capaz de se adaptar a diferentes tamanhos de tela e resoluções |
 
 <div style="text-align: center;">
-    Tabela 3: Requisito de Portabilidade, Autor(a): Shaíne 
+    Tabela 3: Requisito de Portabilidade, Autor(a): Shaíne e Ana, 2023
 </div>
 
 ### Sem Propagação
@@ -129,12 +133,26 @@ Descrição: <a href="#aa">[1]</a>
 | Justificativa         | O aplicativo deve estar disponível em várias plataformas, como iOS e Android, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. |
 | Origem do requisito   | RNF01 |
 | Critério de aceitação | Recurso financeiro disponivel. |
-| Prioridade            | Alta prioridade.  Fonte: [TLS](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/three_level_scale/) |
+| Prioridade            | Alta prioridade.  Fonte: [TLS](./../elicitacao/three_level_scale.md) |
 | Conflito              | Custo elevado. |
 | Historia              | 01 de nov. 2023 |
 
 <div style="text-align: center;">
-Tabela 4: Cartão de Especificação - Sistema Operacional, Autor(a): Shaíne 
+Tabela 4: Cartão de Especificação - Sistema Operacional, Autor(a): Shaíne, 2023
+</div>
+
+| Classificação         | Multiplataforma / Portabilidade | 
+| ----------------------|--|
+| Descrição             | O Skoob deve ser capaz de se adaptar a diferentes tamanhos de tela e resoluções, proporcionando uma experiência de uso consistente e de alta qualidade em dispositivos de diferentes modelos e fabricantes. |
+| Justificativa         | A adaptação a diferentes tamanhos de tela e resoluções é essencial para garantir uma experiência de usuário satisfatória, desde smartphones até tablets. Isso permite que os usuários desfrutem do Skoob em seus dispositivos preferidos, sem comprometer a usabilidade. |
+| Origem do requisito   | RNF06 |
+| Critério de aceitação | O aplicativo deve ser testado em uma variedade de dispositivos com diferentes tamanhos de tela e resoluções, e não deve apresentar problemas de usabilidade ou layout em nenhum deles. |
+| Prioridade            | Média prioridade.  Fonte: [TLS](./../elicitacao/three_level_scale.md) |
+| Conflito              | Pode haver desafios técnicos na implementação da adaptação a diferentes tamanhos de tela, especialmente em dispositivos muito pequenos ou com resoluções muito baixas. No entanto, a prioridade é garantir uma experiência consistente em todas as plataformas. |
+| Historia              | 04 de nov. 2023 |
+
+<div style="text-align: center;">
+Tabela 5: Cartão de Especificação - Portabilidade, Autor(a): Ana, 2023 
 </div>
 
 ## NFR-2 Interoperabilidade
@@ -144,9 +162,10 @@ Tabela 4: Cartão de Especificação - Sistema Operacional, Autor(a): Shaíne
 | ID  | Requisito |
 |-----|-----------|
 |RNF02| Deve ser possível fazer cadastro/login com as credenciais do Facebook|
+|RNF05| O Skoob deve ser capaz de interoperar com outras plataformas de redes sociais, permitindo aos usuários compartilhar conteúdo.|
 
 <div style="text-align: center;">
-Tabela 5: Requisito de Interoperabilidade, Autor(a): Shaíne 
+Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 </div>
 
 ### Sem Propagação
@@ -171,18 +190,32 @@ Tabela 5: Requisito de Interoperabilidade, Autor(a): Shaíne
 
 ### Cartões de Especificação
 
-| Classificação         | Segurança | 
+| Classificação         | Interoperabilidade | 
 | ----------------------|--|
 | Descrição             | As senhas dos usuários devem atender aos seguintes critérios: conter no mínimo um número, pelo menos uma letra maiúscula e pelo menos um caractere especial. |
 | Justificativa         | Esses critérios de senha são necessários para aumentar a segurança das contas de usuário, tornando mais difícil para os invasores adivinharem ou quebrarem senhas. Garantir que esse requisito seja atendido é essencial para proteger a privacidade e os dados dos usuários. |
 | Origem do requisito   | RNF03|
 | Critério de aceitação | O sistema deve validar todas as senhas inseridas pelos usuários para garantir que elas atendam aos critérios de pelo menos um número, uma letra maiúscula e um caractere especial. |
-| Prioridade            | Alta prioridade.  Fonte: [TLS](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/three_level_scale/) |
+| Prioridade            | Alta prioridade.  Fonte: [TLS](./../elicitacao/three_level_scale.md) |
 | Conflito              |Pode haver resistência dos usuários que não estão acostumados a criar senhas mais complexas. No entanto, a segurança é uma prioridade.|
 | Historia              | 01 de nov. 2023 |
 
 <div style="text-align: center;">
-    Tabela 6: Cartão de Especificação - Segurança, Autor(a): Shaíne 
+    Tabela 7: Cartão de Especificação - Interoperabilidade, Autor(a): Shaíne, 2023
+</div>
+
+| Classificação         | Interoperabilidade | 
+| ----------------------|--|
+| Descrição             | O Skoob deve ser capaz de interoperar com outras plataformas de redes sociais, permitindo aos usuários compartilhar conteúdo, de forma integrada e sem problemas. |
+| Justificativa         | Esse requisito visa melhorar a experiência do usuário, permitindo que eles compartilhem informações sobre livros e interajam com outras plataformas sociais. Isso aumentará a visibilidade do Skoob e promoverá a interação dos usuários. |
+| Origem do requisito   | RNF05|
+| Critério de aceitação | O sistema deve permitir que os usuários compartilhem conteúdo do Skoob em outras plataformas de redes sociais, como Facebook, Twitter, Instagram, entre outras. |
+| Prioridade            | Média prioridade.  Fonte: [TLS](./../elicitacao/three_level_scale.md) |
+| Conflito              |Pode haver desafios técnicos na integração com diferentes plataformas de redes sociais, mas os benefícios de interoperabilidade são significativos.|
+| Historia              | 04 de nov. 2023 |
+
+<div style="text-align: center;">
+    Tabela 8: Cartão de Especificação - Interoperabilidade, Autor(a): Ana, 2023
 </div>
 
 ## NFR-3 Segurança
@@ -192,9 +225,10 @@ Tabela 5: Requisito de Interoperabilidade, Autor(a): Shaíne
 | ID  | Requisito |
 |-----|-----------|
 |RNF03| A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial|
+|RNF04| Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos|
 
 <div style="text-align: center;">
-    Tabela 7: Requisito de Segurança, Autor(a): Shaíne 
+    Tabela 9: Requisito de Segurança, Autor(a): Shaíne e Ana, 2023
 </div>
 
 ### Sem Propagação
@@ -225,12 +259,26 @@ Tabela 5: Requisito de Interoperabilidade, Autor(a): Shaíne
 | Justificativa         | Esses critérios de senha são essenciais para aumentar a segurança das contas de usuário. A inclusão de um número, uma letra maiúscula e um caractere especial torna as senhas mais robustas, reduzindo o risco de violações de segurança e acessos não autorizados.|
 | Origem do requisito   | RNF03|
 | Critério de aceitação |O sistema deve validar todas as senhas inseridas pelos usuários para garantir que elas atendam aos critérios de pelo menos um número, uma letra maiúscula e um caractere especial. |
-| Prioridade            | Alta prioridade.  Fonte: [TLS](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/three_level_scale/) |
+| Prioridade            | Alta prioridade.  Fonte: [TLS](./../elicitacao/three_level_scale.md) |
 | Conflito              | Alguns usuários podem achar esse requisito de senha complexo ou difícil de lembrar, mas a segurança é fundamental. |
 | Historia              | 01 de nov. 2023 |
 
 <div style="text-align: center;">
-    Tabela 8: Cartão de Especificação - Segurança, Autor(a): Shaíne 
+    Tabela 10: Cartão de Especificação - Segurança, Autor(a): Shaíne, 2023
+</div>
+
+| Classificação         | Segurança | 
+| ----------------------|--|
+| Descrição             | Os dados do usuário devem ser armazenados de forma eficaz para evitar qualquer vazamento de informações. |
+| Justificativa         | Garantir a eficácia no armazenamento dos dados é crucial para proteger a privacidade e a segurança dos usuários, prevenindo vazamentos indesejados.|
+| Origem do requisito   | RNF04|
+| Critério de aceitação |O sistema deve implementar práticas de segurança robustas para garantir que os dados do usuário sejam protegidos contra acessos não autorizados ou vazamentos. |
+| Prioridade            | Alta prioridade.  Fonte: [TLS](./../elicitacao/three_level_scale.md) |
+| Conflito              | Medidas de segurança adicionais podem aumentar a complexidade do sistema, mas são essenciais para proteger a integridade dos dados. |
+| Historia              | 04 de nov. 2023 |
+
+<div style="text-align: center;">
+    Tabela 11: Cartão de Especificação - Segurança, Autor(a): Ana, 2023 
 </div>
 
 ### Conclusão
@@ -248,6 +296,7 @@ Com a aplicação do NFR framework ao Skoob, através da análise dos softgoals,
 |--|--|--|--|--|--|
 |`1.0` | 01/11/2023 | 02/11/2023  | Criação da documentação| [Shaíne](https://github.com/ShaineOliveira) | <input type="checkbox" disabled checked /> |
 |`1.1` | 02/11/2023 | 03/11/2023  | Atualização e correção | [Ana Caroline](https://github.com/anaaroch) |     |
+|`1.2` | 04/11/2023 | 05/11/2023  | Incrementando o artefato | [Ana Caroline](https://github.com/anaaroch) |     |
 
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |

@@ -80,6 +80,7 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 | BS23  |                         Deve haver mais medalhas, que são exibidas no perfil das pessoas                         | RF23  |   Baixa    |
 | BS24  |                                       Deve haver um ranking entre amigos.                                        | RF24  |   Baixa    |
 | BS25  |                            Deve ser possível mandar mensagens diretas entre usuários                             | RF25  |   Baixa    |
+| BS26  | O Skoob deve ser capaz de interoperar com outras plataformas de redes sociais, permitindo aos usuários compartilhar conteúdo.  | RNF05  |   Média    |
 | OB01  |                                         Deve ser possível realizar login                                         | RF01  |    Alta    |
 | OB02  |                                        Deve ser possível pesquisar livros                                        | RF02  |    Alta    |
 | OB03  |             Deve ser possível marcar os livros como: Lido / Lendo / Quero ler / Abandonei / Relendo              | RF03  |    Alta    |
@@ -103,6 +104,8 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 | IN16  |               A senha deve conter no mínimo um número, uma letra maiúscula e um caractere especial               | RNF01 |    Alta    |
 | IN17  |                      Deve ser possível fazer cadastro/login com as credenciais do Facebook                       | RNF02 |   Média    |
 | IN18  |                       Deve ser possível obter o aplicativo em qualquer sistema operacional                       | RNF03 |    Alta    |
+| IN19  |      Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos                  |   RNF04   |  Alta    |   
+| IN20  |              O Skoob deve ser capaz de se adaptar a diferentes tamanhos de tela e resoluções                       |   RNF06  |  Média    |  
 
 
 

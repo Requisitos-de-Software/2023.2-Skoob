@@ -35,6 +35,8 @@ Na tabela 1 é possível identificar todos os requisitos elicitados e na legenda
 |    * IN16 *  |                A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial               |   RNF  |
 |     IN17    |                      Deve ser possível fazer cadastro/login com as credenciais do facebook                       |   RNF  |
 |     IN18    |                       Deve ser possível obter o aplicativo em qualquer sistema operacional                       |   RNF  |
+|     IN19    |                       Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos                       |   RNF  |
+|     IN20    |              O Skoob deve ser capaz de se adaptar a diferentes tamanhos de tela e resoluções                       |   RNF  |
 |     BS01    |                                Deve ser possível Criar uma meta de leitura para o ano                            |   RF   |
 |     BS02    |            Deve ser possível sortear um livro cadastrado nas metas para o ano para a próxima leitura             |   RF   |
 |    * BS03 *   |  Deve ser possível sortear um livro dentre os livros marcados como Quero ler para a próxima leitura do usuário |   RF   |
@@ -53,6 +55,7 @@ Na tabela 1 é possível identificar todos os requisitos elicitados e na legenda
 |    * BS16 *   |                         Deve ser possível conquistar prêmios e recompensas a partir de Desafios                |   RF   |
 |    * BS17 *   |                            Deve ser possível expor prêmios nos perfis e na TimeLine                            |   RF   |
 |    * BS18 *   |   Deve ser possível receber recomendações de livros com base nas preferências literárias dos usuários          |   RF   |
+|     BS19      |   O Skoob deve ser capaz de interoperar com outras plataformas de redes sociais, permitindo aos usuários compartilhar conteúdo.          |   RNF   |
 
 
 <div style="text-align: center">
