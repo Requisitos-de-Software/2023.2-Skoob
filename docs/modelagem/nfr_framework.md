@@ -112,7 +112,7 @@ Descrição: <a href="#aa">[1]</a>
 </div>
 
 <div style="text-align: center;">
-    Figura 3: NFR-1 Portabilidade, Autor(a): Shaíne
+    Figura 3: NFR-1 Portabilidade, Autor(a): Shaíne e Ana, 2023
 </div>
 
 ### Com Propagação
@@ -122,7 +122,7 @@ Descrição: <a href="#aa">[1]</a>
 </div>
  
 <div style="text-align: center;">
-    Figura 4: NFR-1 Portabilidade com Propagação, Autor(a): Shaíne 
+    Figura 4: NFR-1 Portabilidade com Propagação, Autor(a): Shaíne  e Ana, 2023
 </div>
 
 ### Cartões de Especificação
@@ -175,7 +175,7 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 </div>
 
 <div style="text-align: center;">
-    Figura 5: NFR-2 Interoperabilidade, Autor(a): Shaíne
+    Figura 5: NFR-2 Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 </div>
 
 ### Com Propagação
@@ -185,7 +185,7 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 </div>
  
  <div style="text-align: center;">
-    Figura 6: NFR-2 Interoperabilidade com Propagação, Autor(a): Shaíne 
+    Figura 6: NFR-2 Interoperabilidade com Propagação, Autor(a): Shaíne e Ana, 2023
 </div>
 
 ### Cartões de Especificação
@@ -238,7 +238,7 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 </div>
 
 <div style="text-align: center;">
-    Figura 7: NFR-3 Segurança, Autor(a): Shaíne </figcaption>
+    Figura 7: NFR-3 Segurança, Autor(a): Shaíne e Ana, 2023
 </div>
 
 ### Com Propagação
@@ -248,7 +248,7 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 </div>
  
 <div style="text-align: center;">
-    Figura 8: NFR-3 Segurança com Propagação, Autor(a): Shaíne 
+    Figura 8: NFR-3 Segurança com Propagação, Autor(a): Shaíne  e Ana, 2023
 </div>
 
 ### Cartões de Especificação
