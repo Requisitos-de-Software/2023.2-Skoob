@@ -1,0 +1,172 @@
+- ### Realizar Login com Credenciais de outra Rede Social
+    - **ID:** US01
+    - **Origem:** IN17
+    - **Descrição:**  Eu, como usuário, desejo fazer login na plataforma utilizando minhas credenciais do Google ou do Facebook para acessar facilmente minha conta.
+    - **Motivo:** Para simplificar o processo de login e garantir acesso rápido à minha conta.
+    - **Critérios de Aceitação:**
+        - Deve ser possível conectar a conta do Facebook à conta da plataforma.
+        - Deve ser possível conectar a conta do Google à conta da plataforma.
+        - As informações do perfil devem ser sincronizadas corretamente durante o login.
+
+- ### Recuperar Senha Esquecida
+    - **ID:** US02
+    - **Origem:** IN02
+    - **Descrição:**  Eu, como usuário, desejo ter a opção de recuperar minha senha por meio de um processo de redefinição de senha seguro e eficiente.
+    - **Motivo:** Para garantir o acesso contínuo à minha conta, mesmo em casos de senha esquecida ou perdida.
+    - **Critérios de Aceitação:**
+        - Deve haver um processo de verificação de identidade seguro para redefinir a senha.
+        - O usuário deve receber instruções claras sobre como redefinir a senha com sucesso.
+
+- ### Adicionar Livro à Estante
+    - **ID:** US03
+    - **Origem:** IN08
+    - **Descrição:**  Eu, como usuário, desejo adicionar um livro à minha estante e atribuir um status específico, como "Lido", "Lendo", "Quero ler", "Abandonei" ou "Relendo".
+    - **Motivo:** Para organizar e compartilhar minha lista de leituras e experiências literárias.
+    - **Critérios de Aceitação:**
+        - Deve ser possível atribuir um dos estados especificados a cada livro adicionado à estante.
+        - A atualização do status do livro na estante deve refletir corretamente na interface do usuário.
+
+- ### Filtrar Livros por Nota
+    - **ID:** US04
+    - **Origem:** IN06
+    - **Descrição:**  Eu, como usuário, desejo filtrar os livros com base em sua avaliação de nota para encontrar facilmente os livros mais bem avaliados.
+    - **Motivo:** Para descobrir rapidamente livros bem avaliados e de alta qualidade para leitura.
+    - **Critérios de Aceitação:**
+        - Deve haver uma opção clara para filtrar os livros com base na avaliação de nota.
+        - Os resultados devem ser precisos e refletir as classificações correspondentes.
+
+- ### Filtrar Livros por Categoria
+    - **ID:** US05
+    - **Origem:** IN15
+    - **Descrição:**  Eu, como usuário, desejo filtrar livros por categorias específicas, como gênero literário, para encontrar obras que correspondam aos meus interesses.
+    - **Motivo:** Para explorar facilmente livros de gêneros específicos que se alinhem com meus gostos e preferências.
+    - **Critérios de Aceitação:**
+        - Deve ser possível selecionar diferentes categorias para filtrar os livros.
+        - Os resultados da filtragem devem ser precisos e abranger as categorias escolhidas.
+
+- ### Escrever Resenhas de Livros Lidos
+    - **ID:** US06
+    - **Origem:** IN04, IN05
+    - **Descrição:**  Eu, como usuário, desejo escrever resenhas detalhadas dos livros que já li para compartilhar minhas opiniões e experiências com outros leitores.
+    - **Motivo:** Para contribuir com a comunidade de leitores e ajudar outros usuários a descobrir novos livros com base em minha avaliação e análise.
+    - **Critérios de Aceitação:**
+        - Deve haver uma opção clara para escrever e publicar resenhas na plataforma.
+        - Os usuários devem ter a capacidade de editar ou excluir suas resenhas conforme necessário.
+
+- ### Dar Notas aos Livros Lidos
+    - **ID:** US07
+    - **Origem:** IN05
+    - **Descrição:**  Eu, como usuário, desejo atribuir notas aos livros que li para expressar minha avaliação e classificação pessoal.
+    - **Motivo:** Para fornecer uma avaliação quantitativa dos livros e compartilhar minhas preferências com outros usuários.
+    - **Critérios de Aceitação:**
+        - Deve haver um sistema de classificação clara, como o uso de estrelas, para avaliar os livros.
+        - Os usuários devem ser capazes de visualizar a média de classificações dadas por outros usuários.
+
+- ### Contabilizar Dias de Leitura ao Reler um Livro
+    - **ID:** US08
+    - **Origem:** IN06
+    - **Descrição:**  Eu, como usuário, desejo que os dias de leitura sejam contabilizados quando estou relendo um livro, para manter o registro preciso do meu progresso de leitura.
+    - **Motivo:** Para monitorar o tempo dedicado à leitura de um livro específico, mesmo durante a re-leitura.
+    - **Critérios de Aceitação:**
+        - O sistema deve registrar com precisão os dias de leitura ao reler um livro específico.
+        - Os usuários devem ser capazes de visualizar o histórico de leitura detalhado para cada livro.
+
+- ### Criar Lista de Livros Desejados
+    - **ID:** US09
+    - **Origem:** IN09
+    - **Descrição:**  Eu, como usuário, desejo criar uma lista de livros desejados para registrar os livros que desejo ler no futuro.
+    - **Motivo:** Para manter um registro organizado dos livros que despertaram meu interesse e que pretendo ler posteriormente.
+    - **Critérios de Aceitação:**
+        - Deve haver uma opção clara para adicionar livros à lista de desejos.
+        - Os usuários devem poder acessar e gerenciar facilmente a lista de livros desejados.
+
+- ### Compartilhar Lista de Livros Desejados
+    - **ID:** US10
+    - **Origem:** IN10
+    - **Descrição:** Eu, como usuário, desejo poder compartilhar minha lista de livros desejados com outros usuários para recomendar livros e descobrir novas leituras em potencial.
+    - **Motivo:** Para compartilhar e explorar interesses literários com amigos e a comunidade de leitores.
+    - **Critérios de Aceitação:**
+        - Deve ser possível compartilhar a lista de livros desejados por meio de links ou convites específicos.
+        - Os usuários devem ter opções de privacidade para controlar quem pode acessar sua lista de livros desejados.
+
+- ### Pesquisar Outros Usuários
+    - **ID:** US11
+    - **Origem:** IN11
+    - **Descrição:** Eu, como usuário, desejo pesquisar outros usuários na plataforma para descobrir amigos com interesses literários semelhantes.
+    - **Motivo:** Para expandir minha rede de contatos e interagir com outros leitores na comunidade.
+    - **Critérios de Aceitação:**
+        - Deve haver uma barra de pesquisa intuitiva para procurar outros usuários pelo nome ou nome de usuário.
+        - Os resultados da pesquisa devem ser precisos e abranger os critérios de pesquisa especificados.
+        
+- ### Analisar o Perfil de Outros Usuários
+    - **ID:** US12
+    - **Origem:** IN12
+    - **Descrição:** Eu, como usuário, desejo visualizar e analisar o perfil de outros usuários para conhecer suas preferências literárias, estantes de livros e atividades recentes.
+    - **Motivo:** Para entender melhor os interesses e atividades de leitura de outros usuários na plataforma.
+    - **Critérios de Aceitação:**
+        - Deve ser possível acessar o perfil de outros usuários com facilidade a partir de suas páginas de resultados de pesquisa.
+        - As informações do perfil do usuário devem ser apresentadas de forma clara e organizada.
+
+- ### Adicionar Outros Usuários como Amigos
+    - **ID:** US13
+    - **Origem:** IN13
+    - **Descrição:** Eu, como usuário, desejo adicionar outros usuários como amigos na plataforma para acompanhar suas atualizações e interagir com suas atividades literárias.
+    - **Motivo:** Para fortalecer conexões sociais com outros leitores e compartilhar experiências literárias em uma comunidade engajada.
+    - **Critérios de Aceitação:**
+        - Deve haver uma opção clara para adicionar outros usuários como amigos.
+        - Os usuários devem receber notificações sobre novas solicitações de amizade e confirmações de amizade.
+
+- ### Visualizar Ranking Semanal/Mensal de Livros Mais Bem Classificados
+    - **ID:** US14
+    - **Origem:** BS09
+    - **Descrição:** Eu, como usuário, desejo acessar o ranking semanal/mensal de livros mais bem classificados na plataforma para descobrir novas obras populares e aclamadas.
+    - **Motivo:** Para ficar atualizado com os livros mais populares e bem avaliados entre a comunidade de leitores.
+    - **Critérios de Aceitação:**
+        - Deve haver uma seção claramente designada para visualizar os rankings de livros mais bem classificados.
+        - Os rankings devem ser atualizados regularmente para refletir as mudanças de popularidade e classificação.
+
+- ### Visualizar Ranking Semanal/Mensal de Livros Mais Lidos
+    - **ID:** US15
+    - **Origem:** BS10
+    - **Descrição:** Eu, como usuário, desejo acessar o ranking semanal/mensal de livros mais lidos na plataforma para descobrir tendências de leitura e obras populares entre os usuários.
+    - **Motivo:** Para explorar novos livros com base em sua popularidade e número de leituras registradas.
+    - **Critérios de Aceitação:**
+        - Deve haver uma seção claramente designada para visualizar os rankings de livros mais lidos.
+        - Os rankings devem refletir com precisão a contagem de leituras registradas para cada livro.
+
+- ### Postar Fotos e/ou Vídeos em Formato "Stories"
+    - **ID:** US16
+    - **Origem:** BS11
+    - **Descrição:** Eu, como usuário, desejo poder postar fotos e/ou vídeos em formato de "stories" para compartilhar momentos literários e interagir com outros usuários de maneira envolvente.
+    - **Motivo:** Para compartilhar experiências de leitura de forma visual e estimular a interação social na plataforma.
+    - **Critérios de Aceitação:**
+        - Deve haver uma opção clara para criar e publicar "stories" na plataforma.
+        - Os usuários devem ter a capacidade de visualizar e interagir com as histórias publicadas por outros usuários.
+
+- ### Criar Desafios entre Amigos
+    - **ID:** US17
+    - **Origem:** BS14
+    - **Descrição:** Eu, como usuário, desejo criar desafios de leitura personalizados e convidar meus amigos para participar, incentivando a interação e o engajamento em atividades literárias divertidas.
+    - **Motivo:** Para promover interações sociais e incentivar a leitura entre amigos na plataforma.
+    - **Critérios de Aceitação:**
+        - Deve ser possível criar desafios personalizados com instruções e metas específicas.
+        - Os usuários devem receber notificações sobre os convites para participar de desafios e atualizações do progresso do desafio.
+
+- ### Receber Recomendações de Livros Personalizadas
+    - **ID:** US18
+    - **Origem:** BS18
+    - **Descrição:** Eu, como usuário, desejo receber recomendações de livros personalizadas com base nos meus interesses literários e atividades de leitura anteriores.
+    - **Motivo:** Para descobrir novos livros que correspondam aos meus gostos e preferências pessoais.
+    - **Critérios de Aceitação:**
+        - O sistema deve analisar com precisão minhas preferências literárias e atividades de leitura para gerar recomendações relevantes.
+        - Os usuários devem receber regularmente atualizações e notificações sobre novas recomendações de livros com base em seus perfis.
+        
+- ### Alterar Tema da Interface
+    - **ID:** US19
+    - **Origem:** BS08
+    - **Descrição:** Eu, como usuário, desejo ter a opção de alterar o tema da interface do aplicativo    
+    - **Motivo:**     
+    - **Critérios de Aceitação:**
+        -
+        -
+        

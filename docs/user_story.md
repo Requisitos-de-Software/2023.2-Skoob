@@ -2,19 +2,35 @@
 
 ## Introdução
 
-## Metodologia
+As histórias de usuário desempenham um papel fundamental na metodologia ágil de desenvolvimento de software, oferecendo uma maneira eficaz de capturar requisitos funcionais e prioridades do ponto de vista do usuário.
 
-### Subtítulo - Exemplo de Tabela
+Essas histórias proporcionam uma abordagem centrada no usuário, permitindo que equipes multidisciplinares compreendam e atendam às necessidades dos usuários. Ao definir casos de uso específicos e critérios de aceitação claros, as histórias de usuário fornecem uma base sólida para a criação de produtos e sistemas que atendam às expectativas dos usuários finais.
+
+## Metodologia
+As histórias de usuário foram desenvolvidas tendo em vista a elaboração do [backlog](), onde os avaliadores Jefferson, Rafael e Yago discutiram e tematizaram os requisitos para encontrar seus respectivos Épicos e, assim, seguir modelagem ágil. A gravação desta reunião está presente [aqui]().
+
+Na elaboração de cada história de usuário, mantemos sua estrutura objetiva, curta e detalhada, exemplificada da seguinte forma:
+
+- ### Nome da História
+  - **ID:** Identificação da história (USXX)
+  - **Origem:** Requisito(s) que originaram a históra
+  - **Descrição:** Eu, como ***papel***, desejo ***descrição da funcionalidade desejada***
+  - **Motivo:** O porque dessa história
+  - **Critérios de aceitação**:
+    - Lista dos critérios de aceitação
+  - **Validez:** O usuário validou a história
+
+Após a especificação de cada história, os avaliadores Yago e Jefferson se reuniram com o usuário Thales Vieira, que consentiu com sua participação no projeto, para validar as histórias elaboradas. Dessa forma, a tabela 1 demonstra os papéis de cada avaliador, bem como do entrevistado, na elaboração do Backlog e das histórias de usuário.
 
 |    Função     | Participante |
-| :-----------: | :----------- |
-| Scrum Master  | ----         |
-| Desenvolvedor | ----         |
-| Desenvolvedor | ----         |
-| Product Owner | ----         |
+| :-----------: | :-----------: |
+| Scrum Master  | Jefferson França |
+| Desenvolvedor | Rafael Fernandes |
+| Desenvolvedor | Yago Milagres |
+| Product Owner | Thales Vieira |
 
 <div style="text-align: center">
-<p> Tabela 1: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
+<p> Tabela 1: Relação dos papéis do Scrum. (Fonte: Yago Passos, 2023).</p>
 </div>
 
 ## Especificação das histórias de usuário
@@ -31,7 +47,6 @@
     - O sistema deve verificar se as credenciais são válidas
     - Deve ser possível realizar login com sucesso em diferentes tipos de dispositivos
   - **Validez:**
-
 
 - ### Filtragem de Livros
   - **ID:** US02
@@ -175,13 +190,11 @@
 
 
 
-### Exemplo Imagem
+## Conclusão
 
-<a id="a" href="#aa">![image](img/imagem.png)</a>
+O desenvolvimento das histórias de usuário desempenhou um papel fundamental na definição dos requisitos essenciais para o sucesso do projeto "Skoob". Ao abordar as necessidades e expectativas dos usuários de maneira abrangente, as histórias de usuário fornecem uma estrutura sólida para o desenvolvimento de funcionalidades e recursos que promovem a interação, o engajamento e a satisfação do usuário. 
 
-<div style="text-align: center">
-<p>Figura 1 - Exemplo de Imagem. (Fonte: Jefferson França. 2023)</p>
-</div>
+Ao implementar as histórias de usuário identificadas neste artefato, espera-se que a plataforma "Skoob" atenda às demandas dos usuários de forma eficaz, fornecendo uma experiência enriquecedora e personalizada no mundo da literatura.
 
 ## Bibliografia
 
@@ -189,6 +202,14 @@
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |      Descrição      |                   Autor(es)                   |                  Revisor(es)                  |
-| :----: | :--------------: | :-------------: | :-----------------: | :-------------------------------------------: | :-------------------------------------------: |
-| `1.0`  |    03/11/2023    |   05/11/2023    | Criação do Artefato | [Jefferson França](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
+| Versão | Data de execução | Data prevista de revisão |           Descrição          |                  Autor(es)                   |                Revisado                  |
+| :----: | :--------------: | :-------------: | :--------------------------: | :------------------------------------------: | :----------------------------------------: |
+| `1.0`  |    03/11/2023    |   05/11/2023    |   Criação do Artefato   | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" disabled checked /> |
+| `1.1`  |    04/11/2023    |   04/11/2023    |   Elaboração de Histórias | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" disabled checked /> |
+| `1.2`  |    05/11/2023    |   05/11/2023    |  Seções de Introdução, Metodologia e Conclusão  | [Yago Passos](https://github.com/yagompassos) |  | 
+
+### Revisão (V&V)
+| Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
+| :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
+|   04/11/2023   |    `1.0`   |    Revisão por inspeção    |  [Yago Passos](https://github.com/yagompassos) |
+|   04/11/2023   |    `1.1`    |    Elaboração em pares     |  [Yago Passos](https://github.com/yagompassos) |
