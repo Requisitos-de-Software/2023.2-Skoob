@@ -53,17 +53,29 @@ Nesta quarta entrega foi possível fazer correções da terceira entrega, elabor
 ### Vídeo de apresentação
 O Vídeo 4 corresponde a gravação da quarta entrega da disciplina. Nele, explicamos o Backlog, as Histórias de Usuário e o NFR Framework do projeto.
 
-Acrescentar vídeo aqui.
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/jIFQEJKzOzw" title="Entrega 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align: center">
+<p> Vídeo 4: Gravação da terceira apresentação. (Fonte: Grupo 6, 2023)..</p>
+</div>
 
 
 
 ## Histórico de versão
 
-| Versão | Data | Descrição| Autor(es)| Revisor(es)| 
-|   --   |  --  |    --    |    --    |     --     |
-| `1.0`|18/09/2023|Entrega 1| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
-| `1.1`|04/10/2023|Entrega 2| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
-| `1.2`|04/10/2023|Vídeo 2| [Yago Passos](https://github.com/yagompassos)| Todos |
-| `1.3`|23/10/2023|Entrega 3| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
-| `1.4`|04/11/2023|Adicionando Vídeo 3| [Yago Passos](https://github.com/yagompassos)| Todos |
-| `1.5`|23/10/2023|Entrega 4| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
+| Versão | Data de execução | Data prevista de revisão |                   Descrição                   |                   Autor(es)                   |                  Revisado                  |
+| :----: | :--------------: | :----------------------: | :-------------------------------------------: | :-------------------------------------------: | :----------------------------------------: |
+| `1.0`  |18/09/2023| 25/09/2023 | Entrega 1| [Shaíne Oliveira](https://github.com/ShaineOliveira)| <input type="checkbox" enabled checked /> |
+| `1.1`  |04/10/2023| 15/10/2023 | Entrega 2| [Shaíne Oliveira](https://github.com/ShaineOliveira)|<input type="checkbox" enabled checked /> |
+| `1.1.1`  |04/10/2023| 15/10/2023 | Vídeo 2| [Yago Passos](https://github.com/yagompassos)| <input type="checkbox" enabled checked /> |
+| `1.2`  |23/10/2023| 18/09/2023 | Entrega 3| [Shaíne Oliveira](https://github.com/ShaineOliveira)| <input type="checkbox" enabled checked /> |
+| `1.2.1`  |01/11/2023| 10/11/2023 | Adicionando Vídeo 3| [Yago Passos](https://github.com/yagompassos)|<input type="checkbox" enabled checked /> |
+| `1.3`  |04/11/2023| 18/11/2023 | Entrega 4| [Shaíne Oliveira](https://github.com/ShaineOliveira)|<input type="checkbox" enabled checked /> |
+| `1.3.1`  |06/11/2023| 18/11/2023 | Adicionando Vídeo 4| [Yago Passos](https://github.com/yagompassos)|<input type="checkbox" enabled checked /> |
+
+### Revisão (V&V)
+| Data de Revisão | Cobertura de Versões |       Técnica        |                  Revisor(es)                  |
+| :-------------: | :------------------: | :------------------: | :-------------------------------------------: |
+|   04/10/2023    |    `1.0` e `1.1`     | Revisão por inspeção | [Yago Passos](https://github.com/yagompassos) |
+|   04/11/2023    |        `1.2`         | Revisão por inspeção | [Yago Passos](https://github.com/yagompassos) |
+|   06/11/2023    |        `1.3`         | Revisão por inspeção  | [Yago Passos](https://github.com/yagompassos) |
