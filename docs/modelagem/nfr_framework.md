@@ -14,7 +14,7 @@ Abaixo, na tabela 1, estão os [requisitos não funcionais](https://requisitos-d
 |RNF02| Deve ser possível fazer cadastro/login com as credenciais do facebook	|  [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)|
 |RNF03| Deve ser possível obter o aplicativo em qualquer sistema operacional| [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)|
 |RNF04| Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos| [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)|
-|RNF05| Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos| [Brainstorming](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)|
+|RNF05| O Skoob deve ser capaz de interoperar com outras plataformas de redes sociais, permitindo aos usuários compartilhar conteúdo| [Brainstorming](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)|
 |RNF06|  O Skoob deve ser capaz de se adaptar a diferentes tamanhos de tela e resoluções | [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)|
 
 <div style="text-align: center;">
