@@ -34,6 +34,8 @@
     - **Critérios de Aceitação:**
         - Deve haver uma opção clara para filtrar os livros com base na avaliação de nota.
         - Os resultados devem ser precisos e refletir as classificações correspondentes.
+        - Deve ser possível agregar 2 ou mais especificações em uma só filtragem
+        - Os resultados da pesquisa devem ser atualizados em tempo real a medida que o usuário ajusta o filtro
 
 - ### Filtrar Livros por Categoria
     - **ID:** US05
@@ -43,6 +45,8 @@
     - **Critérios de Aceitação:**
         - Deve ser possível selecionar diferentes categorias para filtrar os livros.
         - Os resultados da filtragem devem ser precisos e abranger as categorias escolhidas.
+        - Deve ser possível agregar 2 ou mais especificações em uma só filtragem
+        - Os resultados da pesquisa devem ser atualizados em tempo real a medida que o usuário ajusta o filtro
 
 - ### Escrever Resenhas de Livros Lidos
     - **ID:** US06
@@ -160,13 +164,28 @@
     - **Critérios de Aceitação:**
         - O sistema deve analisar com precisão minhas preferências literárias e atividades de leitura para gerar recomendações relevantes.
         - Os usuários devem receber regularmente atualizações e notificações sobre novas recomendações de livros com base em seus perfis.
+        - As recomendações de livros devem ser geradas com base nas informações coletadas e em algoritmos de recomendação
+        - Os usuários devem poder visualizar informações detalhadas sobre os livros recomendados, como capa, título, autor, sinopse e avaliações de outros leitores
+
+- ### Sortear livro entre livros "Quero ler"
+    - **ID:** US19
+    - **Origem:** [BS03](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/requisitos.md)
+    - **Descrição:** Eu, como usuário, quero ter a opção de sortear um livro aleatoriamente da minha lista de livros marcados como "Quero Ler"
+    - **Motivo:** Quero que o sistema me ajude a escolher qual será minha próxima leitura com base nos livros que demonstrei interesse. 
+    - **Critérios de Aceitação**:
+        - Deve ser possível sortear um livro dentre os livros marcados como Quero ler para a próxima leitura do usuário
+        - O sistema deve verificar se o usuário tem pelo menos um livro marcado como "Quero Ler"
+        - Se o usuário não tiver pelo menos um livro marcado como "Quero Ler" o sistema deve exibir uma mensagem informativa indicando que não há livro disponíveis para sorteio.
+        - O sistema deve garantir que o sorteio seja verdadeiramente aleatório e imparcial
+  - **Validez:** 
         
 - ### Alterar Tema da Interface
-    - **ID:** US19
+    - **ID:** US20
     - **Origem:** BS08
     - **Descrição:** Eu, como usuário, desejo ter a opção de alterar o tema da interface do aplicativo    
-    - **Motivo:**     
+    - **Motivo:** Para personalizar a experiência de uso de acordo com minhas preferências visuais e para adaptar a interface de acordo com as condições de iluminação do ambiente ou para melhorar a acessibilidade.
     - **Critérios de Aceitação:**
-        -
-        -
-        
+        - Deve haver uma seleção clara de temas disponíveis na seção de configurações da interface.
+        - A mudança de tema deve ser refletida imediatamente em todos os elementos da interface, incluindo cores, fontes e layout.
+        - Os temas disponíveis devem incluir opções de tema claro, tema escuro e outras variantes que possam ser visualmente agradáveis e acessíveis para os usuários.
+        - Os temas selecionados devem ser aplicados consistentemente em todas as telas e páginas do aplicativo.
