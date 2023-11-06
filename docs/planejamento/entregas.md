@@ -45,6 +45,17 @@ O Vídeo 3 corresponde a gravação da terceira entrega da disciplina. Nele, exp
 </div>
 
 
+## Entrega 4 (06/11/2023)
+
+### Descrição: 
+Nesta quarta entrega foi possível fazer correções da terceira entrega, elaborar os artefatos de Backlog, Histórias de Usuário e NFR Framework.
+
+### Vídeo de apresentação
+O Vídeo 4 corresponde a gravação da quarta entrega da disciplina. Nele, explicamos o Backlog, as Histórias de Usuário e o NFR Framework do projeto.
+
+Acrescentar vídeo aqui.
+
+
 
 ## Histórico de versão
 
@@ -55,3 +66,4 @@ O Vídeo 3 corresponde a gravação da terceira entrega da disciplina. Nele, exp
 | `1.2`|04/10/2023|Vídeo 2| [Yago Passos](https://github.com/yagompassos)| Todos |
 | `1.3`|23/10/2023|Entrega 3| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
 | `1.4`|04/11/2023|Adicionando Vídeo 3| [Yago Passos](https://github.com/yagompassos)| Todos |
+| `1.5`|23/10/2023|Entrega 4| [Shaíne Oliveira](https://github.com/ShaineOliveira)| Todos |
