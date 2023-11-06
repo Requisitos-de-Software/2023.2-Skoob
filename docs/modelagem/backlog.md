@@ -9,7 +9,7 @@
 ## Metodologia
 
 &emsp;&emsp; Para a metodologia foi utilizado o Microsoft Excel e o [Miro](https://miro.com/pt/) para organizar o agrupamento dos requisitos por temas. Uma reunião na plataforma Teams foi realizada no dia 03/11/2023, em que participaram os integrantes: [Rafael Amancio](https://github.com/Rafael-gc), [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6). A reunião que deu origem a esse artefato foi gravada (Vídeo 1) e pode ser acessada a seguir: 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/watch?v=zCLlcU7lMGU" title="Tematização dos Requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/zCLlcU7lMGU" title="Tematização dos Requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <div style="text-align: center">
 <p> Vídeo 1: Elaboração inicial do Backlog. (Fonte: Rafael Amancio, 2023).</p>
