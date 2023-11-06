@@ -41,6 +41,8 @@ Além disso, cada um desses softgoals pode ser detalhado ou subdividido em sub-r
 
 - Priorização: Esta técnica envolve a subdivisão de um softgoal em outro softgoal do mesmo tipo e tópico, mas com uma prioridade associada, permitindo uma hierarquia de importância entre os requisitos. <a href="#aa">[1]</a>
 
+Esse refinamento são especificações dos softgoals e são contribuições e existe 10 tipos. Esses são: 
+
 | Contribuição       | Descrição  | Notação    |  
 | ------------------ | ---------- | ---------- |
 | *MAKE*  | FILHO com contribuição tão positiva a ponto de satisfazer o PAI sob a perspectiva dos envolvidos. | ++     | 
