@@ -2,14 +2,18 @@
 
 ## Introdução
 
-<div style="text-align:justify">
-<p>&emsp;&emsp; O Backlog do Produto é uma lista priorizada de itens sobre os quais o time de desenvolvimento trabalhará no decorrer do projeto. Trata-se da lista de funcionalidades e requisitos que deverão ser entregues ao cliente ao longo das Sprints. Ele é atualizado, reordenado e refinado de acordo com o nível de detalhes que é possível de se ter em cada momento do projeto.</p>
-<p>&emsp;&emsp; Os itens do Backlog do Produto são organizados pelo Product Owner de acordo com a ordem em que serão desenvolvidos, de forma a maximizar o retorno ao clientes. Assim, os itens do topo do Backlog são colocados em desenvolvimento primeiro.</p>
-</div>
+&emsp;&emsp; O Backlog do Produto é uma lista priorizada de itens sobre os quais o time de desenvolvimento trabalhará no decorrer do projeto. Trata-se da lista de funcionalidades e requisitos que deverão ser entregues ao cliente ao longo das Sprints. Ele é atualizado, reordenado e refinado de acordo com o nível de detalhes que é possível de se ter em cada momento do projeto.<br>
+&emsp;&emsp; Os itens do Backlog do Produto são organizados pelo Product Owner de acordo com a ordem em que serão desenvolvidos, de forma a maximizar o retorno ao clientes. Assim, os itens do topo do Backlog são colocados em desenvolvimento primeiro.
+
 
 ## Metodologia
-<div style="text-align:justify">
-<p>&emsp;&emsp; Para a metodologia foi utilizado o Microsoft Excel e o [Miro](https://miro.com/pt/) para organizar o agrupamento dos requisitos por temas. Após isso, os resultados foram documentados neste artefato. </p>
+
+&emsp;&emsp; Para a metodologia foi utilizado o Microsoft Excel e o [Miro](https://miro.com/pt/) para organizar o agrupamento dos requisitos por temas. Uma reunião na plataforma Teams foi realizada no dia 03/11/2023, em que participaram os integrantes: [Rafael Amancio](https://github.com/Rafael-gc), [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6). A reunião que deu origem a esse artefato foi gravada (Vídeo 1) e pode ser acessada a seguir: 
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/watch?v=zCLlcU7lMGU" title="Tematização dos Requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div style="text-align: center">
+<p> Vídeo 1: Elaboração inicial do Backlog. (Fonte: Rafael Amancio, 2023).</p>
+</div>     
 
 ### Temas
 
@@ -39,8 +43,8 @@
 
 ### Épico 1 - Acessibilidade
 
-<div style="text-align:justify">
-    <p>&emsp;&emsp; Esse Épico irá classificar todos os requisitos voltados ao acesso do usuário ao Skoob, abrangendo funções de login, cadastro de usuário, ajuda, entre outras. Esses requisitos podem ser visualizados na Tabela 1:</p>
+
+&emsp;&emsp; Esse Épico irá classificar todos os requisitos voltados ao acesso do usuário ao Skoob, abrangendo funções de login, cadastro de usuário, ajuda, entre outras. Esses requisitos podem ser visualizados na Tabela 1:
 
 | ID  | Requisito                                                                            | Rastreabilidade                           |
 | --- | ------------------------------------------------------------------------------------ | ----------------------------------------- |
@@ -57,12 +61,11 @@
 <div align="center">
 <p> <b>Tabela 1</b>: Requisitos do Épico 1 (Fonte: Rafael Amancio, 2023). </p>
 </div>
-</div>
+
 
 ### Épico 2 - Livro
 
-<div style="text-align:justify">
-    <p>&emsp;&emsp; Esse Épico irá classificar todos os requisitos voltados aos livros, abrangendo funções de busca, cadastro, visualização, ranking, entre outras. Esses requisitos podem ser visualizados na Tabela 2:</p>
+&emsp;&emsp; Esse Épico irá classificar todos os requisitos voltados aos livros, abrangendo funções de busca, cadastro, visualização, ranking, entre outras. Esses requisitos podem ser visualizados na Tabela 2:
 
 |      ID     | Requisito                                                                                                        | Rastreabilidade                         |
 | ----------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
@@ -83,13 +86,11 @@
 <div align="center">
 <p> <b>Tabela 2</b>: Requisitos do Épico 2 (Fonte: Rafael Amancio, 2023). </p>
 </div>
-</div>
 
 
 ### Épico 3 - Usuário
 
-<div style="text-align:justify">
-    <p>&emsp;&emsp; Esse Épico irá classificar todos os requisitos voltados aos usuários e suas interações, abrangendo funções de busca, compartilhamento, mensagens diretas, perfil, entre outras. Esses requisitos podem ser visualizados na Tabela 3:</p>
+&emsp;&emsp; Esse Épico irá classificar todos os requisitos voltados aos usuários e suas interações, abrangendo funções de busca, compartilhamento, mensagens diretas, perfil, entre outras. Esses requisitos podem ser visualizados na Tabela 3:
 
 |      ID     | Requisito                                                                                                        | Rastreabilidade                        |
 | ----------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
@@ -108,12 +109,11 @@
 <div align="center">
 <p> <b>Tabela 3</b>: Requisitos do Épico 3 (Fonte: Rafael Amancio, 2023). </p>
 </div>
-</div>
 
 ### Épico 4 - Acompanhamento
 
-<div style="text-align:justify">
-    <p>&emsp;&emsp; Esse Épico irá classificar todos os requisitos voltados ao acompanhamento de leitura, abrangendo funções de tags de livros, estantes, contagem de leitura, entre outras. Esses requisitos podem ser visualizados na Tabela 4:</p>
+
+&emsp;&emsp; Esse Épico irá classificar todos os requisitos voltados ao acompanhamento de leitura, abrangendo funções de tags de livros, estantes, contagem de leitura, entre outras. Esses requisitos podem ser visualizados na Tabela 4:
 
 |      ID     | Requisito                                                                                                        | Rastreabilidade                        |
 | ----------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
@@ -128,12 +128,10 @@
 <div align="center">
 <p> <b>Tabela 4</b>: Requisitos do Épico 4 (Fonte: Rafael Amancio, 2023). </p>
 </div>
-</div>
 
 ### Épico 5 - Entretenimento
 
-<div style="text-align:justify">
-    <p>&emsp;&emsp; Esse Épico irá classificar todos os requisitos voltados ao entretenimento do usuário, abrangendo funções de stories, desafios e conquistas. Esses requisitos podem ser visualizados na Tabela 4:</p>
+&emsp;&emsp; Esse Épico irá classificar todos os requisitos voltados ao entretenimento do usuário, abrangendo funções de stories, desafios e conquistas. Esses requisitos podem ser visualizados na Tabela 4:
 
 |      ID     | Requisito                                                                                                        | Rastreabilidade                        |
 | ----------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
@@ -145,7 +143,6 @@
 
 <div align="center">
 <p> <b>Tabela 4</b>: Requisitos do Épico 5 (Fonte: Rafael Amancio, 2023). </p>
-</div>
 </div>
 
 ## Conclusão
@@ -164,5 +161,6 @@
 ## Histórico de Versão
 
 | Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                 |           Revisor(es)                |
-| :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------: |
+| :----: | :--------------: | :-------------: | :------------------------------: | :--------------------------------------------------: | :--------------------------------: |
 | `1.0`  |    04/11/2023    |   04/11/2023    | Criação do artefato |   [Rafael Amancio](https://github.com/Rafael-gc)    | [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6) |
+| `1.1`  |    06/11/2023    |   06/11/2023    | Correções e adição do vídeo |   [Rafael Amancio](https://github.com/Rafael-gc)    | [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6) |
