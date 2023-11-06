@@ -260,7 +260,7 @@ Após a especificação de cada história, os avaliadores Yago e Jefferson se re
     - Os temas selecionados devem ser aplicados consistentemente em todas as telas e páginas do aplicativo.
   - **Validez:** Validado pelo usuário
 
-### Validação das hisórias de usuário
+### Validação das histórias de usuário
 
 O Vídeo 1, presente a seguir, contém o conteúdo da reunião de validação com o usuário Thales Vieira, que leu e consentiu com o [termo de consentimento e uso de imagem](./img/TERMO%20DE%20AUTORIZAÇÃO%20DE%20USO%20DE%20IMAGEM%20THALES.pdf)
 
