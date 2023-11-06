@@ -295,11 +295,13 @@ Com a aplicação do NFR framework ao Skoob, através da análise dos softgoals,
 | Versão | Data | Data prevista de revisão | Descrição| Autor(es) | Revisado
 |--|--|--|--|--|--|
 |`1.0` | 01/11/2023 | 02/11/2023  | Criação da documentação| [Shaíne](https://github.com/ShaineOliveira) | <input type="checkbox" disabled checked /> |
-|`1.1` | 02/11/2023 | 03/11/2023  | Atualização e correção | [Ana Caroline](https://github.com/anaaroch) |     |
-|`1.2` | 04/11/2023 | 05/11/2023  | Incrementando o artefato | [Ana Caroline](https://github.com/anaaroch) |     |
+|`1.1` | 02/11/2023 | 03/11/2023  | Atualização e correção | [Ana Caroline](https://github.com/anaaroch) |  <input type="checkbox" disabled checked />   |
+|`1.2` | 04/11/2023 | 05/11/2023  | Incrementando o artefato | [Ana Caroline](https://github.com/anaaroch) |  <input type="checkbox" disabled checked />   |
 
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
 |   02/11/2023   |    `1.0`    |    Revisão por inspeção    |  [Ana Rocha](https://github.com/anaaroch) |
+|   06/11/2023   |    `1.2`    |    Revisão por inspeção    |  [Shaíne](https://github.com/ShaineOliveira) |
+
 
