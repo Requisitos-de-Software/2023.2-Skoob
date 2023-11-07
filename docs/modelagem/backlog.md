@@ -3,7 +3,7 @@
 ## Introdução
 
 &emsp;&emsp; O Backlog do Produto é uma lista priorizada de itens sobre os quais o time de desenvolvimento trabalhará no decorrer do projeto. Trata-se da lista de funcionalidades e requisitos que deverão ser entregues ao cliente ao longo das Sprints. Ele é atualizado, reordenado e refinado de acordo com o nível de detalhes que é possível de se ter em cada momento do projeto.<br>
-&emsp;&emsp; Os itens do Backlog do Produto são organizados pelo Product Owner de acordo com a ordem em que serão desenvolvidos, de forma a maximizar o retorno ao clientes. Assim, os itens do topo do Backlog são colocados em desenvolvimento primeiro.
+&emsp;&emsp; Os itens do Backlog do Produto são organizados pelo Product Owner de acordo com a ordem em que serão desenvolvidos, de forma a maximizar o retorno ao clientes. Assim, os itens do topo do Backlog são colocados em desenvolvimento primeiro [1].
 
 
 ## Metodologia
@@ -145,6 +145,37 @@
 <p> <b>Tabela 4</b>: Requisitos do Épico 5 (Fonte: Rafael Amancio, 2023). </p>
 </div>
 
+## Priorização
+
+A Tabela 5 a seguir relaciona os épicos definidos, as histórias de usuário e suas prioridades [2]. 
+
+| História de Usuário   | Épico                  | Prioridade |
+|-----------------------|------------------------|---------------|
+| [US01](user_story.md) | Épico 1: Acessibilidade  | Should       |
+| [US02](user_story.md) | Épico 1: Acessibilidade  | Must       |
+| [US03](user_story.md) | Épico 4: Acompanhamento  | Must       |
+| [US04](user_story.md) | Épico 4: Acompanhamento  | Should       |
+| [US05](user_story.md) | Épico 2: Livro           | Could  |
+| [US06](user_story.md) | Épico 3: Usuário         | Should      |
+| [US07](user_story.md) | Épico 3: Usuário         | Should      |
+| [US08](user_story.md) | Épico 4: Acompanhamento  | Should      |
+| [US09](user_story.md) | Épico 4: Acompanhamento  | Could |
+| [US10](user_story.md) | Épico 3: Usuário         | Would      |
+| [US11](user_story.md) | Épico 3: Usuário         | Could      |
+| [US12](user_story.md) | Épico 3: Usuário         | Could      |
+| [US13](user_story.md) | Épico 3: Usuário         | Could      |
+| [US14](user_story.md) | Épico 2: Livro           | Could      |
+| [US15](user_story.md) | Épico 2: Livro           | Could      |
+| [US16](user_story.md) | Épico 5: Entretenimento  | Could      |
+| [US17](user_story.md) | Épico 5: Entretenimento  | Could      |
+| [US18](user_story.md) | Épico 2: Livro           | Could      |
+| [US19](user_story.md) | Épico 2: Livro           | Should      |
+| [US20](user_story.md) | Épico 1: Acessibilidade  | Could      |
+
+<div align="center">
+<p> <b>Tabela 5</b>: Relação Histórias de Usuário com os Épicos (Fonte: Rafael Amancio, 2023). </p>
+</div>
+
 ## Conclusão
 
 <div style="text-align: justify">
@@ -155,7 +186,7 @@
 
 ## Bibliografia
 
-<a id="aa" href="#a">[1]</a> SALES, André. Modelagem de Requisitos. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692803/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em 04 de novembro de 2023.<br>
+<a id="aa" href="#a">[1]</a> SALES, André. Modelagem de Requisitos. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em 04 de novembro de 2023.<br>
 <a id="aa" href="#a">[2]</a> Equipe 2023.1-VLC . Disponível em: [Github](https://github.com/Requisitos-de-Software/2023.1-VLC). Acesso em 04 de novembro de 2023.<br>
 
 ## Histórico de Versão
@@ -164,3 +195,4 @@
 | :----: | :--------------: | :-------------: | :------------------------------: | :--------------------------------------------------: | :--------------------------------: |
 | `1.0`  |    04/11/2023    |   04/11/2023    | Criação do artefato |   [Rafael Amancio](https://github.com/Rafael-gc)    | [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6) |
 | `1.1`  |    06/11/2023    |   06/11/2023    | Correções e adição do vídeo |   [Rafael Amancio](https://github.com/Rafael-gc)    | [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6) |
+| `1.2`  |    06/11/2023    |   06/11/2023    | Adicionada tabela 5 |   [Rafael Amancio](https://github.com/Rafael-gc)    | - |
