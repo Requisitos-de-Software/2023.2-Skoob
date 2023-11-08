@@ -16,7 +16,7 @@ A primeira é fundamentada nos critérios de avaliação presentes no [plano de 
 A segunda abordagem se apoia na técnica formal de inspeção de Fagan, um processo estruturado que visa identificar e corrigir possíveis erros, falhas e problemas nos artefatos analisados, abrangendo documentos, código-fonte, especificações, entre outros itens relacionados a projetos de desenvolvimento de software. Essa técnica proporciona uma revisão criteriosa e sistemática, contribuindo para a melhoria da qualidade e precisão dos artefatos <a id="b" href="#bb">[2]</a>. A inspeção de Fagan é ilustrada na Figura 1 apresentada abaixo, demonstrando as etapas envolvidas no processo.
 
 <div style="text-align: center;">
-    <img src="/../verificacao/Fagan.png" alt="image" width="900"/>
+    <img src="../../Fagan.png" alt="image" width="900"/>
 </div>
 
 <div style="text-align: center;">
