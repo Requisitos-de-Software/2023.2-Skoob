@@ -48,14 +48,14 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | 8   | O documento especifica qual plataforma o aplicativo pode ser executado?                  | Sim        | Ótimo         |        |
 | 9   | Todos os requisitos podem ser testados (RF e RNF)?                  | Sim        | Ótimo        |      |
 | 10   | A modelagem de especificação suplementar cobre todas as principais características do sistema?                 | Sim        | Ótimo         |                            |
-| 10   | Os requisitos são rastreáveis?             | Sim        | Bom         |  Foi colocado apenas referência ao diagrama de casos de uso, mas o diagrama não engloba todos os requisitos listados na especificação suplementar|
+| 11   | Os requisitos são rastreáveis?             | Sim        | Bom         |  Foi colocado apenas referência ao diagrama de casos de uso, mas o diagrama não engloba todos os requisitos listados na especificação suplementar|
 
 <b>Tabela 1</b>: Perguntas selecionadas. (Fonte: Shaíne Oliveira, 2023)
 
 ## Correções e ajustes sugeridos
 
 O artefato foi muito bem construído, mas não cumpriu de forma "Ótimo" três checklists apresentados na tabela.
-Para isso, é recomendado fazer os ajustes seguindo as observações dos [ID5 - Existe uma metodologia definida no artefato?](#verificacao), [ID7 - O documento especifica o tempo de resposta no Desempenho?](#verificacao) e [ID10 - Os requisitos são rastreáveis?](#verificacao) podendo assim concluir o artefato.
+Para isso, é recomendado fazer os ajustes seguindo as observações dos [ID5 - Existe uma metodologia definida no artefato?](#verificacao), [ID7 - O documento especifica o tempo de resposta no Desempenho?](#verificacao) e [ID11 - Os requisitos são rastreáveis?](#verificacao) podendo assim concluir o artefato.
 
 ## Bibliografia
 
