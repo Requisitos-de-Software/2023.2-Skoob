@@ -42,7 +42,7 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | 1   | Há histórico de versão padronizado?                               | Sim    | Ótimo         |                                                                                                 |
 | 2   | Há autor e revisor no artefato?                                   | Sim    | Ótimo         |                                                                                                 |
 | 3   | Há motivação e critérios de escolha do app?                       | Sim    | Ótimo         |                                                                                                 |
-| 4   | Existe referências bibliográficas?                                | Sim    | Bom           | As referências bibliográficas não estão no padrão ABNT                                          |
+| 4   | Existem referências bibliográficas?                                | Sim    | Bom           | As referências bibliográficas não estão no padrão ABNT                                          |
 | 5   | O aplicativo apresenta uma documentação que permite o estudo?     | Sim    | Ótimo         |                                                                                                 |
 | 6   | O aplicativo não foi utilizado na disciplina em outros semestres? | Sim    | Ótimo         |                                                                                                 |
 | 7   | Possui hiperlinks para outros artefatos caso necessário?          | Não    | Pode melhorar | Poderia ter colocado o link para os termos de uso, já que o mesmo se encontra em outro artefato |
@@ -64,6 +64,6 @@ Para isso, é recomendado fazer os ajustes seguindo as observações dos [ID7 - 
 
 ## Histórico de Versões
 
-| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p>             | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
-| -------------------------- | ---------------------------- | ------------------------------- | ------------------------------------------- | ------------------------------------- | --------------------------------- |
-| 07/11/2023                 | `1.0`                        | Criação de documento            | [Shaíne](https://github.com/ShaineOliveira) | xx/xx/xxxx                            | Ana Caroline                      |
+|    Data    | Versão |            Descrição |                  Autor(es)                  | Data de revisão | Revisor(es) |
+| :--------: | :----: | -------------------: | :-----------------------------------------: | :-------------: | :---------: |
+| 07/11/2023 | `1.0`  | Criação do documento | [Shaíne](https://github.com/ShaineOliveira) |   xx/xx/xxxx    |   Ana Caroline    |
