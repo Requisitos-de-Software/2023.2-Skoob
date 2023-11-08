@@ -63,5 +63,14 @@ nav:
     - NFR Framework: modelagem/nfr_framework.md
     - Backlog: modelagem/backlog.md
     - Histórias de Usuários: modelagem/user_story.md
+  - Verificação:
+    - Entrega 1: 
+      - Aplicativos: verificacao/aplicativos.md
+    - Entrega 2: 
+      - Análise de documentos: verificacao/analise-documentos.md
+      - Personas: verificacao/personas.md
+    - Entrega 3:
+      - Especificação Suplementar: verificacao/especificacao-suplementar.md
   - Entregas: planejamento/entregas.md
+
 

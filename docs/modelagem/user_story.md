@@ -20,14 +20,14 @@ Na elaboração de cada história de usuário, mantemos sua estrutura objetiva, 
     - Lista dos critérios de aceitação
   - **Validez:** O usuário validou a história
 
-Após a especificação de cada história, os avaliadores Yago e Jefferson se reuniram com o usuário Thales Vieira, que consentiu com sua participação no projeto, para validar as histórias elaboradas. Dessa forma, a tabela 1 demonstra os papéis de cada avaliador, bem como do entrevistado, na elaboração do Backlog e das histórias de usuário.
+Após a especificação de cada história, o avaliador Yago se reuniu com o usuário Thales Vieira, que consentiu com sua participação no projeto, para validar as histórias elaboradas. Dessa forma, a tabela 1 demonstra os papéis de cada avaliador, bem como do entrevistado, na elaboração do Backlog e das histórias de usuário.
 
-|    Função     | Participante |
-| :-----------: | :-----------: |
+|    Função     |   Participante   |
+| :-----------: | :--------------: |
 | Scrum Master  | Jefferson França |
 | Desenvolvedor | Rafael Fernandes |
-| Desenvolvedor | Yago Milagres |
-| Product Owner | Thales Vieira |
+| Desenvolvedor |  Yago Milagres   |
+| Product Owner |  Thales Vieira   |
 
 <div style="text-align: center">
 <p> Tabela 1: Relação dos papéis do Scrum. (Fonte: Yago Passos, 2023).</p>
@@ -278,19 +278,23 @@ Ao implementar as histórias de usuário identificadas neste artefato, espera-se
 
 ## Bibliografia
 
-<a id="aa" href="#a">[1]</a> IMAGEM. Disponível em: [Imagem](https://pt.wikipedia.org/wiki/Imagem). Acesso em: 05 de Setembro de 2023.
+[1] VLC. Hitórias de Usuário. Grupo VLC da disciplina Requisitos de Software, disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios. Acesso em: 16 de outubro de 2023.
+
+[2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. 46 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data prevista de revisão |           Descrição          |                  Autor(es)                   |                Revisado                  |
-| :----: | :--------------: | :-------------: | :--------------------------: | :------------------------------------------: | :----------------------------------------: |
-| `1.0`  |    03/11/2023    |   05/11/2023    |   Criação do Artefato   | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" disabled checked /> |
-| `1.1`  |    04/11/2023    |   04/11/2023    |   Elaboração de Histórias | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" disabled checked /> |
-| `1.2`  |    05/11/2023    |   05/11/2023    |  Seções de Introdução, Metodologia e Conclusão  | [Yago Passos](https://github.com/yagompassos) |  | 
-| `1.3`  |    06/11/2023    |   06/11/2023    |  Adicionando a gravação da validação  | [Yago Passos](https://github.com/yagompassos) |  | 
+| Versão | Data de execução | Data prevista de revisão |                   Descrição                   |                   Autor(es)                   |                  Revisado                  |
+| :----: | :--------------: | :----------------------: | :-------------------------------------------: | :-------------------------------------------: | :----------------------------------------: |
+| `1.0`  |    03/11/2023    |        05/11/2023        |              Criação do Artefato              | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" disabled checked /> |
+| `1.1`  |    04/11/2023    |        04/11/2023        |            Elaboração de Histórias            | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" disabled checked /> |
+| `1.2`  |    05/11/2023    |        05/11/2023        | Seções de Introdução, Metodologia e Conclusão | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" disabled checked /> |
+| `1.3`  |    06/11/2023    |        06/11/2023        |      Adicionando a gravação da validação      | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" disabled checked /> |
 
 ### Revisão (V&V)
-| Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
-| :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   04/11/2023   |    `1.0`   |    Revisão por inspeção    |  [Yago Passos](https://github.com/yagompassos) |
-|   04/11/2023   |    `1.1`    |    Elaboração em pares     |  [Yago Passos](https://github.com/yagompassos) |
+| Data de Revisão | Cobertura de Versões |       Técnica        |                  Revisor(es)                  |
+| :-------------: | :------------------: | :------------------: | :-------------------------------------------: |
+|   04/11/2023    |        `1.0`         | Revisão por inspeção | [Yago Passos](https://github.com/yagompassos) |
+|   04/11/2023    |        `1.1`         | Elaboração em pares  | [Yago Passos](https://github.com/yagompassos) |
+|   04/11/2023    |        `1.2`         | Elaboração em pares  | [Jefferson França](https://github.com/Frans6) |
+|   04/11/2023    |        `1.3`         | Elaboração em pares  | [Jefferson França](https://github.com/Frans6) |

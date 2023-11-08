@@ -80,7 +80,7 @@ A Tabela 5 mostra as atividades do Ponto de Controle 4 e as datas em que foram e
 |          Vídeo de apresentação          |  06/11  |  06/11  | Todos | Todos |
 
 <div style="text-align: center">
-<p> Tabela 5: Cronograma detalhado da quarta entrega. (Fonte: Jefferson França, 2023).</p>
+<p> Tabela 5: Cronograma detalhado da quarta entrega. (Autor: Ana Rocha, 2023).</p>
 </div>
 
 ## Bibliografia
