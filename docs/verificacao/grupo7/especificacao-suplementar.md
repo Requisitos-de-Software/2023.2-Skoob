@@ -13,7 +13,7 @@ Para esclarecer, a técnica de verificação, inspirada no processo de Fagan, im
 A verificação por inspeção de Fagan é uma técnica formal e estruturada de revisão de documentos que visa identificar erros, falhas e problemas em artefatos como documentos, código-fonte, especificações e outros itens relacionados a projetos de desenvolvimento de software. O processo envolve etapas que incluem planejamento, visão geral, preparação, inspeção, correção e acompanhamento.<a id="a" href="#aa">[2]</a>. Além disso, para verificar o artefato em questão será baseado também nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf).
 O processo será composto pelo "conteúdo esperado" onde foi realizado um checklist baseado nas perguntas do plano de ensino.<a id="a" href="#aa">[1]</a>.
 
-![Inspeção Fagan](../verificacao/Fagan.png)
+![Inspeção Fagan](../Fagan.png)
 
 <b>Método de Fagan</b>: Inspeção. (Fonte: Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano, 2023)
 
