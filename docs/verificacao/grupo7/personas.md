@@ -36,23 +36,44 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 - Bom (Apresenta parcialmente os requisitos do conteúdo esperado)
 - Pode melhorar (Não apresenta os requisitos do conteúdo esperado)
 
+A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. 
+
 | ID  | Conteúdo                                                                      | Possui     | Qualidade     | Observação                                                                                                                 |
 | --- | ----------------------------------------------------------------------------- | ---------- | ------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Há histórico de versão padronizado?                                           | Sim        | Ótimo         |                                                                                                                            |
 | 2   | Há autor e revisor no artefato?                                               | Sim | Ótimo           |                                                                                         |
 | 3   | Existem referências bibliográficas?                                           | Sim        | Ótimo |                                        
-| 4   | As personas possuem características e descrição como : idade, nome, tarefas, etc?            | Sim        | Ótimo |        |
-| 5   | Existe uma metodologia definida no artefato?                                  | Não        | Pode melhorar | No artefato poderia ter colocado como foi feito todo o processo de planejamento e critérios para escolha das persona, com o nome dos participantes, horários, etc. |                                       |
-| 6   | Existe anti-persona?| Sim        | Ótimo           |   |
-| 7   | As personas apresentam situações a serem utilizadas?                    | Sim        | Ótimo         |                              |
-| 8   | As personas apresentam imagens de pessoas fictícias e padronizadas?                   | Sim        | Bom         |   As imagens das personas estão muito grandes, tornando a navegação do artefato desagradável e fazendo com que ocorra uma perda de atenção das características e descrições                         |
+| 4   | Existe uma metodologia definida no artefato?                                  | Não        | Pode melhorar | No artefato poderia ter colocado como foi feito todo o processo de planejamento e critérios para escolha das persona, com o nome dos participantes, horários, etc. |                                       |
 
-<b>Tabela 1</b>: Perguntas selecionadas. (Fonte: Shaíne Oliveira, 2023)
+
+<b>Tabela 1</b>: Perguntas selecionadas: Formatação do artefato. (Fonte: Shaíne Oliveira, 2023)
+
+A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. 
+
+| ID  | Conteúdo                                                                      | Possui     | Qualidade     | Observação                                                                                                                 |
+| --- | ----------------------------------------------------------------------------- | ---------- | ------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1  | As personas possuem características e descrição como : idade, nome, tarefas, etc?            | Sim        | Ótimo |        |
+| 2   | Existe anti-persona?| Sim        | Ótimo           |   |
+| 3   | As personas apresentam situações a serem utilizadas?                    | Sim        | Ótimo         |                              |
+| 4   | As personas apresentam imagens de pessoas fictícias e padronizadas?                   | Sim        | Bom         |   As imagens das personas estão muito grandes, tornando a navegação do artefato desagradável e fazendo com que ocorra uma perda de atenção das características e descrições                         |
+
+
+<b>Tabela 2</b>: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Shaíne Oliveira, 2023)
+
+
 
 ## Correções e ajustes sugeridos
 
+
+
 O artefato foi muito bem construído, mas não cumpriu de forma "Ótimo" dois checklists apresentados na tabela.
-Para isso, é recomendado fazer os ajustes seguindo as observações dos [ID5 - Existe uma metodologia definida no artefato?](#verificacao) e [ID8 - As personas apresentam imagens de pessoas fictícias e padronizadas?](#verificacao) podendo assim concluir o artefato.
+Para isso, é recomendado fazer os ajustes seguindo as observações:
+#### Referentes a tabela 1:
+
+- [ID4 - Existe uma metodologia definida no artefato?](#verificacao) 
+
+#### Referentes a tabela 2:
+- [ID4 - As personas apresentam imagens de pessoas fictícias e padronizadas?](#verificacao)
 
 ## Bibliografia
 
@@ -62,8 +83,19 @@ Para isso, é recomendado fazer os ajustes seguindo as observações dos [ID5 - 
 
 > [3] Análise de documentos do Grupo 7 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/personas/>. Acesso em 8 novembro de 2023.
 
-## Histórico de Versões
 
-|    Data    | Versão |            Descrição |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | -------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 08/11/2023 | `1.0`  | Criação do documento | [Shaíne](https://github.com/ShaineOliveira) |   xx/xx/xxxx    |   [Jefferson](https://github.com/Frans6)    |
+
+
+## Histórico de Versão
+
+| Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
+| :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
+| `1.0`  |    07/11/2023    |   10/11/2023    | Criação do artefato |   [Shaíne](https://github.com/ShaineOliveira)   | |
+| `2.0`  |    11/11/2023    |   13/11/2023    | Correções no artefato |   [Shaíne](https://github.com/ShaineOliveira)   | |
+
+
+### Revisão (V&V)
+
+| Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
+| :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
+|   xx/xx/xxxx   |    --    |   ---    |  [Jefferson](https://github.com/Frans6)  |

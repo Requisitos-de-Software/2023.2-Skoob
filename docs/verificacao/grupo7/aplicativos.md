@@ -37,22 +37,37 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 - Bom (Apresenta parcialmente os requisitos do conteúdo esperado)
 - Pode melhorar (Não apresenta os requisitos do conteúdo esperado)
 
+A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. 
+
 | ID  | Conteúdo                                                          | Possui | Qualidade     | Observação                                                                                      |
 | --- | ----------------------------------------------------------------- | ------ | ------------- | ----------------------------------------------------------------------------------------------- |
 | 1   | Há histórico de versão padronizado?                               | Sim    | Ótimo         |                                                                                                 |
-| 2   | Há autor e revisor no artefato?                                   | Sim    | Ótimo         |                                                                                                 |
-| 3   | Há motivação e critérios de escolha do app?                       | Sim    | Ótimo         |                                                                                                 |
-| 4   | Existem referências bibliográficas?                                | Sim    | Bom           | As referências bibliográficas não estão no padrão ABNT                                          |
-| 5   | O aplicativo apresenta uma documentação que permite o estudo?     | Sim    | Ótimo         |                                                                                                 |
-| 6   | O aplicativo não foi utilizado na disciplina em outros semestres? | Sim    | Ótimo         |                                                                                                 |
-| 7   | Possui hiperlinks para outros artefatos caso necessário?          | Não    | Pode melhorar | Poderia ter colocado o link para os termos de uso, já que o mesmo se encontra em outro artefato |
+| 2   | Há autor e revisor no artefato?                                   | Sim    | Ótimo         |                                                                              |                                                                                            |
+| 3   | Existem referências bibliográficas?                                | Sim    | Bom           | As referências bibliográficas não estão no padrão ABNT                                                                                                                                       |
+| 4  | Possui hiperlinks para outros artefatos caso necessário?          | Não    | Pode melhorar | Poderia ter colocado o link para os termos de uso, já que o mesmo se encontra em outro artefato |
 
-<b>Tabela 1</b>: Perguntas selecionadas. (Fonte: Shaíne Oliveira, 2023)
+<b>Tabela 1</b>: Perguntas selecionadas: Formatação do artefato. (Fonte: Shaíne Oliveira, 2023)
+
+A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. 
+
+| ID  | Conteúdo                                                          | Possui | Qualidade     | Observação                                                                                      |
+| --- | ----------------------------------------------------------------- | ------ | ------------- | ----------------------------------------------------------------------------------------------- |
+| 1   | O aplicativo apresenta uma documentação que permite o estudo?     | Sim    | Ótimo         |         
+| 2   | Há motivação e critérios de escolha do app?                       | Sim    | Ótimo         |           
+| 3   | O aplicativo apresenta uma documentação que permite o estudo?     | Sim    | Ótimo         |     
+| 4   | O aplicativo não foi utilizado na disciplina em outros semestres? | Sim    | Ótimo         |                                                                                                 |         
+
+<b>Tabela 2</b>: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Shaíne Oliveira, 2023)
 
 ## Correções e ajustes sugeridos
 
 O artefato foi bem elaborado e seguiu quase todos os checklists apresentados na tabela. Porém, faltou apresentar o link para o termo de uso do aplicativo escolhido para facilitar o entendimento do mesmo.
-Para isso, é recomendado fazer os ajustes seguindo as observações dos [ID7 - Possui hiperlinks para outros artefatos caso necessário?](#verificacao) e [ID4 - Existe referências bibliográficas?](#verificacao), adicionando o termo de uso e melhorando o formato das referências bibliográficas para concluir o artefato.
+Para isso, é recomendado fazer os ajustes seguindo as observações:
+#### Referentes a tabela 1:
+- [ID3 - Existem referências bibliográficas?](#verificacao)
+- [ID4 - Possui hiperlinks para outros artefatos caso necessário?](#verificacao)
+
+
 
 ## Bibliografia
 
@@ -62,8 +77,17 @@ Para isso, é recomendado fazer os ajustes seguindo as observações dos [ID7 - 
 
 > [3] Documento de aplicativos escolhidos do Grupo 7 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_1/aplicativos/>. Acesso em 7 novembro de 2023.
 
-## Histórico de Versões
 
-|    Data    | Versão |            Descrição |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | -------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 07/11/2023 | `1.0`  | Criação do documento | [Shaíne](https://github.com/ShaineOliveira) |   xx/xx/xxxx    |   [Ana Caroline](https://github.com/anaaroch)   |
+## Histórico de Versão
+
+| Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
+| :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
+| `1.0`  |    07/11/2023    |   10/11/2023    | Criação do artefato |   [Shaíne](https://github.com/ShaineOliveira)   | |
+| `2.0`  |    11/11/2023    |   13/11/2023    | Correções no artefato |   [Shaíne](https://github.com/ShaineOliveira)   | |
+
+
+### Revisão (V&V)
+
+| Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
+| :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
+|   xx/xx/xxxx   |    --    |   ---    |   [Ana Caroline](https://github.com/anaaroch)    |

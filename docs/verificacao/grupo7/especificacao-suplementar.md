@@ -36,26 +36,47 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 - Bom (Apresenta parcialmente os requisitos do conteúdo esperado)
 - Pode melhorar (Não apresenta os requisitos do conteúdo esperado)
 
+A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. 
+
 | ID  | Conteúdo                                                                      | Possui     | Qualidade     | Observação                                                                                                                 |
 | --- | ----------------------------------------------------------------------------- | ---------- | ------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Há histórico de versão padronizado?                                           | Sim        | Ótimo         |                                                                                                                            |
 | 2   | Há autor e revisor no artefato?                                               | Sim | Ótimo           |                                                                                         |
 | 3   | Existem referências bibliográficas?                                           | Sim        | Ótimo |                                        
-| 4   | Há uma introdução no artefato?            | Sim        | Ótimo |        |
-| 5   | Existe uma metodologia definida no artefato?                                  | Sim        | Bom | No artefato poderia ter colocado como foi feito todo o processo de planejamento e objetivos com a especificação suplementar |                                       |
-| 6   | O artefato segue o modelo FURPS+?| Sim        | Ótimo           |   |
-| 7   | O documento especifica o tempo de resposta no Desempenho?                   | Sim        | Bom         |   Poderia colocar dados mais precisos, pois citar apenas "rápido" não especifica de fato o desempenho. Dessa forma, seria bom colocar tempo em segundos, etc.                           |
-| 8   | O documento especifica qual plataforma o aplicativo pode ser executado?                  | Sim        | Ótimo         |        |
-| 9   | Todos os requisitos podem ser testados (RF e RNF)?                  | Sim        | Ótimo        |      |
-| 10   | A modelagem de especificação suplementar cobre todas as principais características do sistema?                 | Sim        | Ótimo         |                            |
-| 11   | Os requisitos são rastreáveis?             | Sim        | Bom         |  Foi colocado apenas referência ao diagrama de casos de uso, mas o diagrama não engloba todos os requisitos listados na especificação suplementar|
+| 4   | O artefato segue o modelo FURPS+?| Sim        | Ótimo           |   |
+| 5   | Há uma introdução no artefato?            | Sim        | Ótimo |        |
+| 6  | Existe uma metodologia definida no artefato?                                          | Sim        | Bom        |            No artefato poderia ter colocado como foi feito todo o processo de planejamento e objetivos com a especificação suplementar                                                                                                                |
 
-<b>Tabela 1</b>: Perguntas selecionadas. (Fonte: Shaíne Oliveira, 2023)
+<b>Tabela 1</b>: Perguntas selecionadas: Formatação do artefato. (Fonte: Shaíne Oliveira, 2023)
+
+A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. 
+
+
+| ID  | Conteúdo                                                                      | Possui     | Qualidade     | Observação                                                                                                                 |
+| --- | ----------------------------------------------------------------------------- | ---------- | ------------- | -------------------------------------------------------------------------------------------------------------------------- | 
+| 1   | Os requisitos são rastreáveis?             | Sim        | Bom         |  Foi colocado apenas referência ao diagrama de casos de uso, mas o diagrama não engloba todos os requisitos listados na especificação suplementar|
+| 2   | O documento especifica o tempo de resposta no Desempenho?                   | Sim        | Bom         |   Poderia colocar dados mais precisos, pois citar apenas "rápido" não especifica de fato o desempenho. Dessa forma, seria bom colocar tempo em segundos, etc.                           |
+| 3  | O documento especifica qual plataforma o aplicativo pode ser executado?                  | Sim        | Ótimo         |        |
+| 4   | A modelagem de especificação suplementar cobre todas as principais características do sistema?                 | Sim        | Ótimo         |                            |
+| 5   | Todos os requisitos podem ser testados (RF e RNF)?                  | Sim        | Ótimo        |      |
+    
+
+
+<b>Tabela 2</b>: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Shaíne Oliveira, 2023)
 
 ## Correções e ajustes sugeridos
 
 O artefato foi muito bem construído, mas não cumpriu de forma "Ótimo" três checklists apresentados na tabela.
-Para isso, é recomendado fazer os ajustes seguindo as observações dos [ID5 - Existe uma metodologia definida no artefato?](#verificacao), [ID7 - O documento especifica o tempo de resposta no Desempenho?](#verificacao) e [ID11 - Os requisitos são rastreáveis?](#verificacao) podendo assim concluir o artefato.
+Para isso, é recomendado fazer os ajustes seguindo as observações:
+
+#### Referentes a tabela 1:
+- [ID6 - Os requisitos são rastreáveis?](#verificacao)
+
+#### Referentes a tabela 2:
+
+- [ID1 - Os requisitos são rastreáveis?](#verificacao)
+- [ID2 - O documento especifica o tempo de resposta no Desempenho?](#verificacao) 
+
 
 ## Bibliografia
 
@@ -65,8 +86,17 @@ Para isso, é recomendado fazer os ajustes seguindo as observações dos [ID5 - 
 
 > [3] Análise de documentos do Grupo 7 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_3/especificacao_suplementar/>. Acesso em 8 novembro de 2023.
 
-## Histórico de Versões
 
-|    Data    | Versão |            Descrição |                  Autor(es)                  | Data de revisão | Revisor(es) |
-| :--------: | :----: | -------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 08/11/2023 | `1.0`  | Criação do documento | [Shaíne](https://github.com/ShaineOliveira) |   xx/xx/xxxx    |   [Yago](https://github.com/yagompassos)    |
+## Histórico de Versão
+
+| Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
+| :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
+| `1.0`  |    07/11/2023    |   10/11/2023    | Criação do artefato |   [Shaíne](https://github.com/ShaineOliveira)   | |
+| `2.0`  |    11/11/2023    |   13/11/2023    | Correções no artefato |   [Shaíne](https://github.com/ShaineOliveira)   | |
+
+
+### Revisão (V&V)
+
+| Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
+| :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
+|   xx/xx/xxxx   |    --    |   ---    |   [Yago](https://github.com/yagompassos)  |
