@@ -19,11 +19,11 @@ O processo será composto pelo "conteúdo esperado" onde foi realizado um checkl
 
 ## Conteúdo esperado
 
-Espera-se que no artefato encontre todos os aplicativos que foram utilizados para o desenvolvimento do projeto.
+Espera-se que o artefato contenha uma lista de todos os aplicativos utilizados na fase de pré-rastreabilidade.
 
 ### Verificação
 
-Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possui ou não o requisito apresentado nas perguntas e quanto a qualidade, baseada na seguinte classificação:
+Sendo assim, foram elaboradas as tabelas 1 e 2 abaixo relacionando as especificações ideais do artefato, se ele possui ou não o requisito apresentado nas perguntas e quanto a qualidade, baseada na seguinte classificação:
 
 **Possui**
 
@@ -52,10 +52,9 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato.
 
 | ID  | Conteúdo                                                          | Possui | Qualidade     | Observação                                                                                      |
 | --- | ----------------------------------------------------------------- | ------ | ------------- | ----------------------------------------------------------------------------------------------- |
-| 1   | O aplicativo apresenta uma documentação que permite o estudo?     | Sim    | Ótimo         |         
-| 2   | Há motivação e critérios de escolha do app?                       | Sim    | Ótimo         |           
-| 3   | O aplicativo apresenta uma documentação que permite o estudo?     | Sim    | Ótimo         |     
-| 4   | O aplicativo não foi utilizado na disciplina em outros semestres? | Sim    | Ótimo         |                                                                                                 |         
+| 1   | O aplicativo apresenta uma documentação que permite o estudo?     | Sim    | Ótimo         |  |           
+| 2   | Há motivação e critérios de escolha do app?                       | Sim    | Ótimo         |  |      
+| 3   | O aplicativo não foi utilizado na disciplina em outros semestres? | Sim    | Ótimo         |  |         
 
 <b>Tabela 2</b>: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Shaíne Oliveira, 2023)
 
@@ -82,12 +81,12 @@ Para isso, é recomendado fazer os ajustes seguindo as observações:
 
 | Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    07/11/2023    |   10/11/2023    | Criação do artefato |   [Shaíne](https://github.com/ShaineOliveira)   | |
-| `1.1`  |    11/11/2023    |   13/11/2023    | Correções no artefato |   [Shaíne](https://github.com/ShaineOliveira)   | |
+| `1.0`  |    07/11/2023    |   10/11/2023    | Criação do artefato |   [Shaíne](https://github.com/ShaineOliveira)   | <input type="checkbox" enabled checked /> |
+| `1.1`  |    11/11/2023    |   13/11/2023    | Correções no artefato |   [Shaíne](https://github.com/ShaineOliveira)   | <input type="checkbox" enabled checked /> |
 
 
 ### Revisão (V&V)
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   xx/xx/xxxx   |    --    |   ---    |   [Ana Caroline](https://github.com/anaaroch)    |
+|   11/11/2023   |    1.1    |   Revisão por inspeção    |   [Ana Caroline](https://github.com/anaaroch)    |
