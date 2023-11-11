@@ -29,7 +29,15 @@
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
-| :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    05/09/2023    |   18/04/2023    | Adição do modelo base dos artefatos |   [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
+| Versão | Data de execução | Data prevista de revisão |       Descrição      |         Autor(es)      |       Revisado          |
+| :----: | :--------------: | :-------------: | :------------------------: | :----------------: | :-----------: |
+| `1.0`  |    dd/mm/aaaa    |   dd/mm/aaaa    |   Descrição do que foi feito    | Nome do Autor | :heavy_check_mark: |
+| `1.1`  |    dd/mm/aaaa    |   dd/mm/aaaa    |   Descrição do que foi feito    | Nome do Autor | :heavy_check_mark: |
+| `1.2`  |    dd/mm/aaaa    |   dd/mm/aaaa    |   Descrição do que foi feito    | Nome do Autor | :heavy_check_mark: |
 
+### Verificação
+
+| Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
+| :------------: | :-------------: | :--------------------------: |  :---------------: |
+|   dd/mm/aaaa   |    `1.0`   |    Elaboração em pares     |  Nome do Revisor |
+|   dd/mm/aaaa   |  `1.1` e `1.2` |    Revisão por inspeção    |  Nome do Revisor |
