@@ -1,10 +1,10 @@
-# Verificação do artefato ["Ferramentas"](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_1/ferramentas/)
+# Verificação do artefato ["First Things First"](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/FTF/)
 
 ## Introdução
 
 A técnica de verificação de artefatos é uma etapa crítica no processo de avaliação de documentos, projetos ou produtos em várias áreas, incluindo Requisitos de Software. Essa abordagem visa examinar detalhadamente o conteúdo, a estrutura e as características específicas de um artefato para avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos definidos.
 
-Neste contexto, pretendemos aplicar essa técnica ao artefato ["Ferramentas"](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_1/ferramentas/) desenvolvido pelo [Grupo 7](https://requisitos-de-software.github.io/2023.2-DETRAN/).<a id="a" href="#aa">[3]</a>. A verificação é baseada no plano de ensino e nas datas estabelecidas nele.
+Neste contexto, pretendemos aplicar essa técnica ao artefato ["First Things First"](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/FTF/) desenvolvido pelo [Grupo 7](https://requisitos-de-software.github.io/2023.2-DETRAN/).<a id="a" href="#aa">[3]</a>. A verificação é baseada no plano de ensino e nas datas estabelecidas nele.
 
 Para esclarecer, a técnica de verificação, inspirada no processo de Fagan, implica na análise rigorosa e sistemática do artefato em busca de erros, inconsistências, lacunas e não conformidades com os requisitos. É uma etapa essencial para garantir a qualidade e a precisão do artefato, assegurando que ele atenda aos objetivos estabelecidos no contexto do projeto ou documento em questão.
 
@@ -19,7 +19,7 @@ O processo será composto pelo "conteúdo esperado" onde foi realizado um checkl
 
 ## Conteúdo esperado
 
-Espera-se que o artefato contenha uma lista de todas as ferramentas utilizadas durante todo o projeto.
+Espera-se que o artefato contenha introdução, metodologia e resultado da técnica de priorização First Things First.
 
 ### Verificação
 
@@ -43,31 +43,33 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato.
 | --- | ----------------------------------------------------------------- | ------ | ------------- | ----------------------------------------------------------------------------------------------- |
 | 1   | Há histórico de versão padronizado?                               | Sim    | Ótimo         |                                                                                                 |
 | 2   | Há autor e revisor no artefato?                                   | Sim    | Ótimo         |                                                                                                |
-| 3   | Existem referências bibliográficas?                               | Sim    | Ótimo         |                                                                                               |
-| 4  | Possui hiperlinks?                                                 | Sim    | Ótimo         |                                                                                                |
+| 3   | Existem referências bibliográficas?                               | Sim    | Bom           |                                                                                               |
+| 4  | Possui hiperlinks?                                                 | Não    | Pode melhorar | É recomendado ligar os requisitos que foram priorizados com seus artefatos de origem (elicitação). Para realizar isso basta colocar hiperlinks nos ID's de cada requisito.  |
 
 <b>Tabela 1</b>: Perguntas selecionadas: Formatação do artefato. (Fonte: Rafael Amancio, 2023)
 
 A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. 
 
-| ID  | Conteúdo                                                          | Possui | Qualidade     | Observação                                                                                      |
-| --- | ----------------------------------------------------------------- | ------ | ------------- | ----------------------------------------------------------------------------------------------- |
-| 1   | Apresenta um texto fazendo uma introdução do artefato?            | Sim    | Ótimo         |  |           
-| 2   | Apresenta imagens para ilustrar as ferramentas?        | Sim    | Ótimo         |  |           
-| 3   | As finalidades das ferramentas estão especificadas?               | Sim    | Ótimo         |  |      
-| 4   | Apresenta uma breve descrição sobre o que cada ferramenta faz?    | Não    | Pode melhorar | Na ferramenta Lucidchart, por exemplo, seria interessante esclarecer o que a ferramenta oferece (dizer que é um aplicativo de diagramação), e não apenas falar que ela será utilizada na criação do Rich Picture |         
-| 5   | Os nomes e logos das ferramentas condizem com o pesquisado sobre elas?    | Sim    | Ótimo |  |         
+| ID  | Conteúdo                                                                | Possui | Qualidade     | Observação                                                                                      |
+| --- | -----------------------------------------------------------------       | ------ | ------------- | ----------------------------------------------------------------------------------------------- |
+| 1   | Apresenta um texto fazendo uma introdução do artefato?                  | Sim    | Bom           | A introdução ficou muito extensa |           
+| 2   | Apresenta um texto explicando a metodologia da técnica?                 | Sim    | Bom           | Seria interessante criar um tópico chamado Metodologia, separando-a da introdução |           
+| 3   | Há participação do cliente e/ou persona na priorização de requisitos?   | Não    | Pode melhorar | É de extrema importância realizar a priorização utilizando personas ou com contato direto do cliente |
+| 4   | A técnica foi executada de maneira correta?                             | Sim    | Ótimo         |  |
+
 
 <b>Tabela 2</b>: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Rafael Amancio, 2023)
 
 ## Correções e ajustes sugeridos
 
-O artefato foi bem elaborado e seguiu quase todos os checklists apresentados na tabela. Porém, faltou esclarecer a função de cada ferramenta.
-Para isso, é recomendado fazer os ajustes seguindo as observações:
+O artefato apresenta algumas falhas que poderiam ser corrigidas seguindo as observações:
+#### Referentes a tabela 1:
+- ID4 - Possui hiperlinks?
+
 #### Referentes a tabela 2:
-- ID4 - Apresenta uma breve descrição sobre o que cada ferramenta faz?
-
-
+- ID1 - Apresenta um texto fazendo uma introdução do artefato?
+- ID2 - Apresenta um texto explicando a metodologia da técnica?
+- ID3 - Há participação do cliente e/ou persona na priorização de requisitos?
 
 ## Bibliografia
 
@@ -75,7 +77,7 @@ Para isso, é recomendado fazer os ajustes seguindo as observações:
 
 > [2] Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acessado em: 11 de novembro de 2023.
 
-> [3] Documento de ferramentas escolhidos do Grupo 7 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_1/ferramentas/>. Acesso em 11 novembro de 2023.
+> <a id="aa" href="#a">[3]</a> Documento de First Things First escolhido do Grupo 7 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_1/FTF/>. Acesso em 11 novembro de 2023.
 
 
 ## Histórico de Versão
@@ -90,4 +92,4 @@ Para isso, é recomendado fazer os ajustes seguindo as observações:
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   --   |    1.0    |   Revisão por inspeção    |   [Shaíne](https://github.com/ShaineOliveira)    |
+|   --   |    1.0    |   Revisão por inspeção    |   [Ana Caroline](https://github.com/anaaroch)    |
