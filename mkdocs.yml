@@ -43,6 +43,7 @@ nav:
     - Reunião 03: atas/reuniao03.md
     - Reunião 04: atas/reuniao04.md
     - Reunião 05: atas/reuniao05.md
+    - Reunião 06: atas/reuniao06.md
   - Pré-rastreabilidade: 
     - Aplicativos Analisados: pre_rastreabilidade/lista_de_aplicativos.md
     - Aplicativo Escolhido: pre_rastreabilidade/aplicativo_escolhido.md
@@ -64,16 +65,17 @@ nav:
     - Backlog: modelagem/backlog.md
     - Histórias de Usuários: modelagem/user_story.md
   - Verificação:
+    - Revisões: verificacao/revisoes.md
     - Grupo 7:
       - Entrega 1: 
+        - Rich Picture: veverificacao/grupo7/richpicture.md
         - Aplicativos: verificacao/grupo7/aplicativos.md
         - Cronogramas: verificacao/grupo7/cronogramas.md
       - Entrega 2: 
         - Análise de documentos: verificacao/grupo7/analise-documentos.md
         - Personas: verificacao/grupo7/personas.md
+        - Entrevista: verificacao/grupo7/entrevista.md
         - Questionário: verificacao/grupo7/questionario.md
       - Entrega 3:
         - Especificação Suplementar: verificacao/grupo7/especificacao-suplementar.md
   - Entregas: planejamento/entregas.md
-
-
