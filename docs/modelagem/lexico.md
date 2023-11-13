@@ -68,7 +68,7 @@ O artefato apresentado destaca a importância da técnica de léxicos na engenha
 
 ## Bibliografia
 
-<a id="aa" href="#a">[1]</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf). Acesso em: 18 de outubro de 2023.
+> <a id="aa" href="#a">[1]</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf). Acesso em: 18 de outubro de 2023.
 
 ## Histórico de Versão
 

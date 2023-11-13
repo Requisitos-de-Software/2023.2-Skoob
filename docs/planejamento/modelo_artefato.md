@@ -39,5 +39,6 @@
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |
-|   dd/mm/aaaa   |    `1.0`   |    Elaboração em pares     |  Nome do Revisor |
-|   dd/mm/aaaa   |  `1.1` e `1.2` |    Revisão por inspeção    |  Nome do Revisor |
+|   dd/mm/aaaa   |    `1.0`   |    [Elaboração em pares](../verificacao/revisoes.md)      |  Nome do Revisor |
+|   dd/mm/aaaa   |  `1.1` e `1.2` |    [Revisão estática](../verificacao/revisoes.md)   |  Nome do Revisor |
+|   dd/mm/aaaa   |  Todas  |    [Revisão por inspeção](<!-- linkar o artefato de verificação aqui -->)    |  Nome do Revisor |

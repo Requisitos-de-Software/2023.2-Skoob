@@ -69,16 +69,15 @@ No geral, o artefato está condizente com o conteudo, mas precisa de pequenos aj
 - Transformar a seção de Metodologia em seção da legenda.
 - Explicitar na legenda, quais figuras/componentes do rich picture criado cabem naquela descrição
 
-
 ## Bibliografia
 
-> [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 8 de novembro de 2023.
+> <a id="a" href="#aa">[1]</a> SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 8 de novembro de 2023.
 
-> [2] Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acessado em: 8 de novembro de 2023.
+> <a id="a" href="#aa">[2]</a> Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acessado em: 8 de novembro de 2023.
 
-> [3] Rich Picture do Grupo 7 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_1/Rich_picture/>. Acesso em 8 novembro de 2023.
+> <a id="a" href="#aa">[3]</a> Rich Picture do Grupo 7 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_1/Rich_picture/>. Acesso em 8 novembro de 2023.
 
-> [4] linhadecódigo, Técnicas de VV&T - Validação, Verificação e Teste. Dipsonível em: <http://www.linhadecodigo.com.br/artigo/492/tecnicas-de-vvampt-validacao-verificacao-e-teste.aspx/>. Acesso em 8 de novembro de 2023.
+> <a id="a" href="#aa">[4]</a> linhadecódigo, Técnicas de VV&T - Validação, Verificação e Teste. Dipsonível em: <http://www.linhadecodigo.com.br/artigo/492/tecnicas-de-vvampt-validacao-verificacao-e-teste.aspx/>. Acesso em 8 de novembro de 2023.
 
 ## Histórico de Versão
 
@@ -90,4 +89,4 @@ No geral, o artefato está condizente com o conteudo, mas precisa de pequenos aj
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   xx/xx/xxxx   |    `1.0`    |    -    | [Shaíne](https://github.com/ShaineOliveira) |
+|   xx/xx/xxxx   |    `1.0`    |    -    | [Jefferson França](https://github.com/Frans6) |

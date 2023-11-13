@@ -17,8 +17,8 @@ Tabela 1, de Histórico de Versão
 | Versão | Data de execução | Data prevista de revisão |       Descrição      |         Autor(es)      |       Revisado          |
 | :----: | :--------------: | :-------------: | :------------------------: | :----------------: | :-----------: |
 | `1.0`  |    dd/mm/aaaa    |   dd/mm/aaaa    |   Descrição do que foi feito    | Nome do Autor | :heavy_check_mark: |
-| `1.2`  |    dd/mm/aaaa    |   dd/mm/aaaa    |   Descrição do que foi feito    | Nome do Autor | :heavy_check_mark: |
 | `1.1`  |    dd/mm/aaaa    |   dd/mm/aaaa    |   Descrição do que foi feito    | Nome do Autor | :heavy_check_mark: |
+| `1.2`  |    dd/mm/aaaa    |   dd/mm/aaaa    |   Descrição do que foi feito    | Nome do Autor | :heavy_check_mark: |
 
 <div style="text-align: center">
 <p> Tabela 1: Nova tabela de Versionamento. (Fonte: Yago Passos, 2023).</p>
