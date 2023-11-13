@@ -80,10 +80,13 @@ nav:
         - Requisitos Elicitados: verificacao/grupo7/requisitos_elicitados.md
         - First Thing First: verificacao/grupo7/FTF.md
         - Strorytelling: verificacao/grupo7/storytelling.md
+        - MoSCOW: verificacao/grupo7/moscow.md
+        - In or Out: verificacao/grupo7/in_or_out.md
       - Entrega 3:
         - Especificação Suplementar: verificacao/grupo7/especificacao-suplementar.md
         - Casos de uso: verificacao/grupo7/casos-de-uso.md
         - Cenários: verificacao/grupo7/cenarios.md
+        - Léxico: verificacao/grupo7/lexico.md
       - Entrega 4:
         - NFR: verificacao/grupo7/nfr.md
         - Backlog do Produto: verificacao/grupo7/backlog.md
