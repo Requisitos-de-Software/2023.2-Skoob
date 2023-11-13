@@ -92,4 +92,4 @@ O artefato apresenta algumas falhas que poderiam ser corrigidas seguindo as obse
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   --   |    1.0    |   Revisão por inspeção    |   [Ana Caroline](https://github.com/anaaroch)    |
+|   13/11/2023   |    1.0    |   Revisão por inspeção    |   [Ana Caroline](https://github.com/anaaroch)    |
