@@ -92,18 +92,18 @@ Referentes à [Tabela 2](#Tabela2):
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> SALES, André Barros. Plano de ensino da disciplina. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf). Acesso em 08 de novembro de 2023.</br>
-<a id="bb" href="#b">[2]</a> SERRANO, Milena e Mauricio. Slide “Requisitos – Aula 23”. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf). Acesso 08 de novembro de 2023. </br>
+<a id="bb" href="#b">[2]</a> SERRANO, Milene e Mauricio. Slide “Requisitos – Aula 23”. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf). Acesso 08 de novembro de 2023. </br>
 <a id="cc" href="#c">[3]</a> GRUPO 7. Documento do Cronograma do Projeto do Grupo 7 da Disciplina de Requisitos de Software. Disponível em: [Git Page](https://requisitos-de-software.github.io/2023.2-DETRAN/cronograma/cronograma_de_atividades/). Acesso em 08 novembro de 2023.
 
 ## Histórico de Versão
 
 | Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    08/11/2023    |   10/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_)    |  |
+| `1.0`  |    08/11/2023    |   10/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_)    | <input type="checkbox" enabled checked /> |
 
 
 ### Revisão (V&V)
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   xx/xx/xxxx   |    `1.0`    |    -    |  [Shaíne](https://github.com/ShaineOliveira) |
+|   11/11/2023   |    `1.0`    |    Revisão por inspeção    |  [Shaíne](https://github.com/ShaineOliveira) |

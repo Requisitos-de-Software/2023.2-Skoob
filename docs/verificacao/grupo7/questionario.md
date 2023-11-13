@@ -98,7 +98,7 @@ Referentes à [Tabela 2](#Tabela2):
 ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> SALES, André Barros. Plano de ensino da disciplina. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf). Acesso em 08 de novembro de 2023.</br>
-<a id="bb" href="#b">[2]</a> SERRANO, Milena e Mauricio. Slide “Requisitos – Aula 23”. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf). Acesso 08 de novembro de 2023. </br>
+<a id="bb" href="#b">[2]</a> SERRANO, Milene e Mauricio. Slide “Requisitos – Aula 23”. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf). Acesso 08 de novembro de 2023. </br>
 <a id="cc" href="#c">[3]</a> GRUPO 7. Documento do Questionário do Grupo 7 da Disciplina de Requisitos de Software. Disponível em: [Git Page](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/questionario/). Acesso em 08 novembro de 2023.</br>
 <a id="dd" href="#d">[4]</a> Requirements Elicitation. Software Requirements, Third Edition. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692775/mod_resource/content/1/Elicitacao%20de%20Req.pdf). Acesso em 08 de novembro de 2023.</br>
 

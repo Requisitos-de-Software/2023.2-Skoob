@@ -286,10 +286,10 @@ Ao implementar as histórias de usuário identificadas neste artefato, espera-se
 
 | Versão | Data de execução | Data prevista de revisão |                   Descrição                   |                   Autor(es)                   |                  Revisado                  |
 | :----: | :--------------: | :----------------------: | :-------------------------------------------: | :-------------------------------------------: | :----------------------------------------: |
-| `1.0`  |    03/11/2023    |        05/11/2023        |              Criação do Artefato              | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" disabled checked /> |
-| `1.1`  |    04/11/2023    |        04/11/2023        |            Elaboração de Histórias            | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" disabled checked /> |
-| `1.2`  |    05/11/2023    |        05/11/2023        | Seções de Introdução, Metodologia e Conclusão | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" disabled checked /> |
-| `1.3`  |    06/11/2023    |        06/11/2023        |      Adicionando a gravação da validação      | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" disabled checked /> |
+| `1.0`  |    03/11/2023    |        05/11/2023        |              Criação do Artefato              | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" enabled checked /> |
+| `1.1`  |    04/11/2023    |        04/11/2023        |            Elaboração de Histórias            | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" enabled checked /> |
+| `1.2`  |    05/11/2023    |        05/11/2023        | Seções de Introdução, Metodologia e Conclusão | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+| `1.3`  |    06/11/2023    |        06/11/2023        |      Adicionando a gravação da validação      | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
 
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões |       Técnica        |                  Revisor(es)                  |

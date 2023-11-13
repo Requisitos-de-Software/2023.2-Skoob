@@ -91,11 +91,11 @@ A Tabela 5 mostra as atividades do Ponto de Controle 4 e as datas em que foram e
 
 | Versão | Data de execução | Data prevista de revisão |      Descrição      |                                          Autor(es)                                          | Revisado |
 | :----: | :--------------: | :-------------: | :-----------------: | :-----------------------------------------------------------------------------------------: | :---------: |
-| `1.0`  |    15/09/2023    |   16/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Shaíne](https://github.com/ShaineOliveira) |  <input type="checkbox" disabled checked />   | 
-| `1.1`  |    02/10/2023    |   04/10/2023    | Atualização do cronograma executado | [Shaíne](https://github.com/ShaineOliveira) |   <input type="checkbox" disabled checked />    |
-| `1.2`  |    17/10/2023    |   18/10/2023    | Adicionando Tabelas do ponto 2 e 3 | [Yago](https://github.com/yagompassos) |   <input type="checkbox" disabled checked />    |
-| `1.3`  |    02/11/2023    |   04/11/2023    | Corrigindo tabela do ponto 3 e adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |      |
-| `1.4`  |    06/11/2023    |   06/11/2023    | Adicionando Tabela do ponto 4 | [Ana Rocha](https://github.com/anaaroch) |      |
+| `1.0`  |    15/09/2023    |   16/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Shaíne](https://github.com/ShaineOliveira) |  <input type="checkbox" enabled checked />   | 
+| `1.1`  |    02/10/2023    |   04/10/2023    | Atualização do cronograma executado | [Shaíne](https://github.com/ShaineOliveira) |   <input type="checkbox" enabled checked />    |
+| `1.2`  |    17/10/2023    |   18/10/2023    | Adicionando Tabelas do ponto 2 e 3 | [Yago](https://github.com/yagompassos) |   <input type="checkbox" enabled checked />    |
+| `1.3`  |    02/11/2023    |   04/11/2023    | Corrigindo tabela do ponto 3 e adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |  <input type="checkbox" disabled checked />    |
+| `1.4`  |    06/11/2023    |   06/11/2023    | Adicionando Tabela do ponto 4 | [Ana Rocha](https://github.com/anaaroch) |   <input type="checkbox" disabled checked />   |
 
 
 ### Revisão (V&V)
