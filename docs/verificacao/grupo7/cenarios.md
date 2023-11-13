@@ -56,7 +56,7 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato.
 
 | ID  | Conteúdo                                                                      | Possui     | Qualidade     | Observação                                                                                                                 |
 | --- | ----------------------------------------------------------------------------- | ---------- | ------------- | -------------------------------------------------------------------------------------------------------------------------- |                 
-| 1  | Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção?           | Não        | Pode | Os cenários não contém restrições e exceções                       |
+| 1  | Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção?           | Não        | Pode melhorar | Os cenários não contém restrições e exceções                       |
 | 2  | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado?                               | Sim        | Bom | A falta de alguns itens na descrição do cenário acabou afetando o entendimento do contexto (restrições e exceções) |
 | 3   | A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema?                                    | Sim        | Ótimo |                                                                                                            |
 | 4   | Os cenários são priorizadoes com base em sua importância, impacto e frequência de ocorrência? | Sim        | Ótimo           |   |
