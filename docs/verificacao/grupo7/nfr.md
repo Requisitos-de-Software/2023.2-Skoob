@@ -88,10 +88,10 @@ No geral, o artefato está condizente com o conteudo, mas precisa de pequenos aj
 
 | Versão | Data de execução | Data prevista de revisão |      Descrição     |          Autor(es)            |          Revisado            |
 | :----: | :--------------: | :-------------: | :------------------------: | :------------------------: | :------------------: |
-| `1.0`  |    12/11/2023    |   10/11/2023    | Criação do artefato |   [Yago Passos](https://github.com/yagompassos)    |  |
+| `1.0`  |    12/11/2023    |   13/11/2023    | Criação do artefato |   [Yago Passos](https://github.com/yagompassos)    | <input type="checkbox" enabled checked /> |
 
 ### Revisão (V&V)
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   xx/xx/xxxx   |    `1.0`    |    -    | [Ana Rocha](https://github.com/anaaroch_) |
+|  13/11/2023   |    `1.0`    |    Revisão por inspeção    | [Ana Rocha](https://github.com/anaaroch_) |
