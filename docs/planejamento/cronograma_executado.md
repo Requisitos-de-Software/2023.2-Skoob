@@ -72,7 +72,7 @@ A Tabela 5 mostra as atividades do Ponto de Controle 4 e as datas em que foram e
 
 |                Atividade                | Entrega | Revisão |            Autor(es)           |           Revisor(es)            |
 | :-------------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
-|             Atas de reunião             |  /  | /  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|             Atas de reunião             |  31/10  | 06/11  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 |              Backlog               |  04/11  |  06/11  |             Rafael              |                   Yago e Jefferson                    |
 |                Histórias de usuário                 |  06/11  |  06/11  |                     Jefferson e Yago                     |                     Yago Passos                     |
 |        NFR Framework        |  04/11  |  06/11  |                      Ana Caroline e Shaíne                      |                     Rafael                     |
@@ -81,6 +81,20 @@ A Tabela 5 mostra as atividades do Ponto de Controle 4 e as datas em que foram e
 
 <div style="text-align: center">
 <p> Tabela 5: Cronograma detalhado da quarta entrega. (Autor: Ana Rocha, 2023).</p>
+</div>
+
+### Ponto de Controle 5.1
+A Tabela 6 mostra as atividades do Ponto de Controle 5.1 e as datas em que foram executadas, além de seus autores e revisores.
+
+|           Atividade           | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+| :---------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
+| Verificação dos Requisistos 1 |  12/11  |  13/11  |            Todos             |                 Todos                  |
+|   Validação de requisitos 1   |  12/11  |  13/11  |                 Todos                  |            Todos            |
+| Correções do ponto de controle anterior |  13/11  |  13/11  | Todos | Todos |
+|     Vídeo de apresentação     |  13/11  |  13/11  | Todos | Todos |
+
+<div style="text-align: center">
+<p> Tabela 6: Cronograma detalhado da primeira parte da quinta entrega. (Autor: Ana Rocha, 2023).</p>
 </div>
 
 ## Bibliografia
@@ -96,6 +110,7 @@ A Tabela 5 mostra as atividades do Ponto de Controle 4 e as datas em que foram e
 | `1.2`  |    17/10/2023    |   18/10/2023    | Adicionando Tabelas do ponto 2 e 3 | [Yago](https://github.com/yagompassos) |   <input type="checkbox" enabled checked />    |
 | `1.3`  |    02/11/2023    |   04/11/2023    | Corrigindo tabela do ponto 3 e adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |  <input type="checkbox" disabled checked />    |
 | `1.4`  |    06/11/2023    |   06/11/2023    | Adicionando Tabela do ponto 4 | [Ana Rocha](https://github.com/anaaroch) |   <input type="checkbox" disabled checked />   |
+| `1.5`  |    13/11/2023    |   13/11/2023    | Adicionando Tabela do ponto 5.1 | [Ana Rocha](https://github.com/anaaroch) |   <input type="checkbox" disabled checked />   |
 
 
 ### Revisão (V&V)
