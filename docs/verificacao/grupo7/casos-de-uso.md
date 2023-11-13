@@ -91,7 +91,7 @@ O artefato precisa de ajustes. Para isso, é recomendado fazer os ajustes seguin
 
 | Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    13/11/2023    |   13/11/2023    | Criação do artefato |    [Rafael](https://github.com/Rafael-gc)   | |
+| `1.0`  |    13/11/2023    |   13/11/2023    | Criação do artefato |    [Rafael](https://github.com/Rafael-gc)   | <input type="checkbox" enabled checked /> |
 
 
 
@@ -99,4 +99,4 @@ O artefato precisa de ajustes. Para isso, é recomendado fazer os ajustes seguin
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   xx/xx/xxxx   |    --    |   ---    | [Ana Caroline](https://github.com/anaaroch_)   |
+|   13/11/2023   |    1.0    |   Revisão por inspeção    | [Ana Caroline](https://github.com/anaaroch_)   |
