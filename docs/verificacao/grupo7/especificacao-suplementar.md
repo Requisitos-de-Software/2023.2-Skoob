@@ -4,7 +4,7 @@
 
 A técnica de verificação de artefatos é uma etapa crítica no processo de avaliação de documentos, projetos ou produtos em várias áreas, incluindo Requisitos de Software. Essa abordagem visa examinar detalhadamente o conteúdo, a estrutura e as características específicas de um artefato para avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos definidos.
 
-Neste contexto, pretendemos aplicar essa técnica ao artefato ["Especificação Suplementar"](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_3/especificacao_suplementar/) desenvolvido pelo [Grupo 7](https://requisitos-de-software.github.io/2023.2-DETRAN/).<a id="a" href="#aa">[3]</a>. A verificação é baseada no plano de ensino e nas datas estabelecidas nele.
+Neste contexto, pretendemos aplicar essa técnica ao artefato ["Especificação Suplementar"](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_3/especificacao_suplementar/) desenvolvido pelo [Grupo 7](https://requisitos-de-software.github.io/2023.2-DETRAN/) <a id="a" href="#aa">[3]</a>. A verificação é baseada no plano de ensino e nas datas estabelecidas nele.
 
 Para esclarecer, a técnica de verificação, inspirada no processo de Fagan, implica na análise rigorosa e sistemática do artefato em busca de erros, inconsistências, lacunas e não conformidades com os requisitos. É uma etapa essencial para garantir a qualidade e a precisão do artefato, assegurando que ele atenda aos objetivos estabelecidos no contexto do projeto ou documento em questão.
 
@@ -13,13 +13,20 @@ Para esclarecer, a técnica de verificação, inspirada no processo de Fagan, im
 A verificação por inspeção de Fagan é uma técnica formal e estruturada de revisão de documentos que visa identificar erros, falhas e problemas em artefatos como documentos, código-fonte, especificações e outros itens relacionados a projetos de desenvolvimento de software. O processo envolve etapas que incluem planejamento, visão geral, preparação, inspeção, correção e acompanhamento.<a id="a" href="#aa">[2]</a>. Além disso, para verificar o artefato em questão será baseado também nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf).
 O processo será composto pelo "conteúdo esperado" onde foi realizado um checklist baseado nas perguntas do plano de ensino.<a id="a" href="#aa">[1]</a>.
 
-![Inspeção Fagan](../Fagan.png)
+A inspeção de Fagan é ilustrada na Figura 1 apresentada abaixo, demonstrando as etapas envolvidas no processo.
 
-<b>Método de Fagan</b>: Inspeção. (Fonte: Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano, 2023)
+<div style="text-align: center;">
+    <img src="../../Fagan.png" alt="image" width="900"/>
+</div>
+
+<div style="text-align: center">
+<p> Figura 1: <b>Método de Fagan</b>, Inspeção. (Fonte: Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano, 2023)</p>
+</div>
 
 ## Conteúdo esperado
 
 Espera-se que no artefato encontre uma especificação suplementar no modelo FURPS+ com requisitos testáveis e rastreáveis.
+
 ### Verificação
 
 Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possui ou não o requisito apresentado nas perguntas e quanto a qualidade, baseada na seguinte classificação:
@@ -50,7 +57,9 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | 10   | A modelagem de especificação suplementar cobre todas as principais características do sistema?                 | Sim        | Ótimo         |                            |
 | 11   | Os requisitos são rastreáveis?             | Sim        | Bom         |  Foi colocado apenas referência ao diagrama de casos de uso, mas o diagrama não engloba todos os requisitos listados na especificação suplementar|
 
-<b>Tabela 1</b>: Perguntas selecionadas. (Fonte: Shaíne Oliveira, 2023)
+<div style="text-align: center">
+<p> Tabela 1: Perguntas selecionadas. (Fonte: Shaine, 2023).</p>
+</div>
 
 ## Correções e ajustes sugeridos
 
@@ -69,4 +78,5 @@ Para isso, é recomendado fazer os ajustes seguindo as observações dos [ID5 - 
 
 |    Data    | Versão |            Descrição |                  Autor(es)                  | Data de revisão | Revisor(es) |
 | :--------: | :----: | -------------------: | :-----------------------------------------: | :-------------: | :---------: |
-| 08/11/2023 | `1.0`  | Criação do documento | [Shaíne](https://github.com/ShaineOliveira) |   xx/xx/xxxx    |   [Yago](https://github.com/yagompassos)    |
+| 08/11/2023 | `1.0`  | Criação do documento | [Shaíne](https://github.com/ShaineOliveira) |  12/11/2023    |   [Yago](https://github.com/yagompassos)    |
+| 12/11/2023 | `1.1`  | Corrigindo padronização de legendas |[Yago](https://github.com/yagompassos) |  xx/xx/xxxx   |  [Shaíne](https://github.com/ShaineOliveira)   |

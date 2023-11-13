@@ -44,9 +44,9 @@ A adoção de revisões no processo de desenvolvimento do projeto Skoob revela-s
 
 ## Bibliografia
 
-<a id="aa" href="#a">[1]</a> UNIVESP, Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo>. Acesso em: 09 de Novembro de 2023.
+> <a id="aa" href="#a">[1]</a> UNIVESP, Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo>. Acesso em: 09 de Novembro de 2023.
 
-<a id="bb" href="#b">[2]</a> UNIVESP, Gerência e Qualidade de Software - Aula 06 - Técnica de revisão. Disponível em: <https://www.youtube.com/watch?v=nA1BVDd9GUE>. Acesso em: 09 de Novembro de 2023.
+> <a id="bb" href="#b">[2]</a> UNIVESP, Gerência e Qualidade de Software - Aula 06 - Técnica de revisão. Disponível em: <https://www.youtube.com/watch?v=nA1BVDd9GUE>. Acesso em: 09 de Novembro de 2023.
 
 ## Histórico de Versão
 
