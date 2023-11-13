@@ -90,7 +90,7 @@ Para isso, é recomendado fazer os ajustes seguindo as observações:
 
 | Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    13/11/2023    |   13/11/2023    | Criação do artefato |    [Rafael](https://github.com/Rafael-gc)   | |
+| `1.0`  |    13/11/2023    |   13/11/2023    | Criação do artefato |    [Rafael](https://github.com/Rafael-gc)   | <input type="checkbox" enabled checked /> |
 
 
 
@@ -98,4 +98,4 @@ Para isso, é recomendado fazer os ajustes seguindo as observações:
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   xx/xx/xxxx   |    --    |   ---    | [Shaine](https://github.com/ShaineOliveira)   |
+|   13/11/2023   |   `1.0`     |   Revisão por inspeção    | [Shaine](https://github.com/ShaineOliveira)   |

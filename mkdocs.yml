@@ -71,14 +71,19 @@ nav:
         - Rich Picture: veverificacao/grupo7/richpicture.md
         - Aplicativos: verificacao/grupo7/aplicativos.md
         - Cronogramas: verificacao/grupo7/cronogramas.md
+        - Ferramentas: verificacao/grupo7/ferramentas.md
       - Entrega 2: 
         - Análise de documentos: verificacao/grupo7/analise-documentos.md
         - Entrevista: verificacao/grupo7/entrevista.md
         - Personas: verificacao/grupo7/personas.md
         - Questionário: verificacao/grupo7/questionario.md
         - Requisitos Elicitados: verificacao/grupo7/requisitos_elicitados.md
+        - First Thing First: verificacao/grupo7/FTF.md
+        - Strorytelling: verificacao/grupo7/storytelling.md
       - Entrega 3:
         - Especificação Suplementar: verificacao/grupo7/especificacao-suplementar.md
+        - Casos de uso: verificacao/grupo7/casos-de-uso.md
+        - Cenários: verificacao/grupo7/cenarios.md
       - Entrega 4:
         - NFR: verificacao/grupo7/nfr.md
         - Backlog do Produto: verificacao/grupo7/backlog.md
