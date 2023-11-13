@@ -65,7 +65,7 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato.
 O artefato foi bem elaborado e seguiu quase todos os checklists apresentados na tabela. Porém, faltou esclarecer a função de cada ferramenta.
 Para isso, é recomendado fazer os ajustes seguindo as observações:
 #### Referentes a tabela 2:
-- ID4 - Apresenta uma breve descrição sobre o que cada ferramenta faz?
+- [ID4 - Apresenta uma breve descrição sobre o que cada ferramenta faz?](#verificacao)
 
 
 
@@ -90,4 +90,4 @@ Para isso, é recomendado fazer os ajustes seguindo as observações:
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   --   |    1.0    |   Revisão por inspeção    |   [Shaíne](https://github.com/ShaineOliveira)    |
+|  13/11/2023   |    `1.0`    |   Revisão por inspeção    |   [Shaíne](https://github.com/ShaineOliveira)    |
