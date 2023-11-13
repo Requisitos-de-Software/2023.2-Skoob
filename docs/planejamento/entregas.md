@@ -53,10 +53,26 @@ Nesta quarta entrega foi possível fazer correções da terceira entrega, elabor
 ### Vídeo de apresentação
 O Vídeo 4 corresponde a gravação da quarta entrega da disciplina. Nele, explicamos o Backlog, as Histórias de Usuário e o NFR Framework do projeto.
 
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/jIFQEJKzOzw" title="Entrega 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align: center">
+<p> Vídeo 4: Gravação da quarta apresentação. (Fonte: Grupo 6, 2023)..</p>
+</div>
+
+
+
+## Entrega 5 (13/11/2023)
+
+### Descrição: 
+Nesta quinta entrega foi possível fazer correções da quarta entrega e elaborar todos os artefatos de verificação do [Grupo 7](https://requisitos-de-software.github.io/2023.2-DETRAN/).
+
+### Vídeo de apresentação
+O Vídeo 5 corresponde a gravação da quinta entrega da disciplina. Nele, explicamos como foi feito os artefatos de verificação.
+
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/jIFQEJKzOzw" title="Entrega 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div style="text-align: center">
-<p> Vídeo 4: Gravação da terceira apresentação. (Fonte: Grupo 6, 2023)..</p>
+<p> Vídeo 5: Gravação da quinta apresentação. (Fonte: Grupo 6, 2023)..</p>
 </div>
 
 
@@ -72,6 +88,7 @@ encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 | `1.2.1`  |01/11/2023| 10/11/2023 | Adicionando Vídeo 3| [Yago Passos](https://github.com/yagompassos)|<input type="checkbox" enabled checked /> |
 | `1.3`  |04/11/2023| 18/11/2023 | Entrega 4| [Shaíne Oliveira](https://github.com/ShaineOliveira)|<input type="checkbox" enabled checked /> |
 | `1.3.1`  |06/11/2023| 18/11/2023 | Adicionando Vídeo 4| [Yago Passos](https://github.com/yagompassos)|<input type="checkbox" enabled checked /> |
+| `1.4`  |13/11/2023| 13/11/2023 | Entrega 5| [Shaíne Oliveira](https://github.com/ShaineOliveira)| |
 
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões |       Técnica        |                  Revisor(es)                  |
