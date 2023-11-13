@@ -53,29 +53,29 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato.
 A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. 
 
 
-| ID  | Conteúdo                                                                                                                       | Possui     | Qualidade     | Observação                                                                                                                                                   |
-| --- | ------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | Há gravação e os registros da atividade de priorização dos requisitos?                                                         | Incompleto | Pode melhorar | Considerando que a priorização foi realizada por meio do WhatsApp, sugiro disponibilizar os áudios correspondentes ao invés de capturas de tela da conversa. |
-| 2   | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | Não        |               | Existe uma tabela com as informações do usuário                                                                                                              |
-| 3   | Há um grupo de stakeholds?                                                                                                     | Não        |               |                                                                                                                                                              |
-| 4   | O grupo definiou o critério de ser in or out?                                                                                  | Sim        | Ótimo         |                                                                                                                                                              |
-| 5   | Todos os requisitos foram priorizados?                                                                                         | Sim        | Ótimo         |                                                                                                                                                              |
+| ID  | Conteúdo                                                                                          | Possui | Qualidade | Observação |
+| --- | ------------------------------------------------------------------------------------------------- | ------ | --------- | ---------- |
+| 1   | A descrição dos léxicos é coerente e esclarecedora?                                               | Sim    | Ótimo     |            |
+| 2   | O vocabulário mínimo foi apropriadamente adotado nas descrições?                                  | Sim    | Ótimo     |            |
+| 3   | A modelagem apresenta pelo menos uma classificação de verbo, estado e objeto?                     | Sim    | Ótimo     |            |
+| 4   | A modelagem de léxicos abrange todos os termos e conceitos relevantes do domínio em questão?      | Sim    | Ótimo     |            |
+| 5   | A modelagem de léxicos cobre adequadamente as principais funcionalidades e interações do sistema? | Sim    | Ótimo     |            |
+| 6   | A descrição dos léxicos é coerente e esclarecedora?                                               | Sim    | Ótimo     |            |
 
 <b>Tabela 2</b>: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Jefferson França, 2023)
 
 ## Correções e ajustes sugeridos
 
-O artefato está de acordo, mas existem melhorias a serem feitas na parte de metodologia, na gravação da entrevista e uma observação feita no histórico de versão.
+O artefato está de acordo, mas existem melhorias a serem feitas na formatção do artefato.
 É recomendado fazer os ajustes seguindo as observações:
 
 #### Referentes a tabela 1:
 - [ID1 - Há histórico de versão padronizado?](#verificacao)
+- [ID4 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?](#verificacao) 
 
 #### Referentes a tabela 2:
 
-- [ID1 - Há gravação e os registros da atividade de priorização dos requisitos?](#verificacao)
-- [ID2 - Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?](#verificacao) 
-
+Está tudo de acordo, um ótimo artefato.
 
 ## Bibliografia
 
@@ -97,4 +97,4 @@ O artefato está de acordo, mas existem melhorias a serem feitas na parte de met
 
 | Data de Revisão | Cobertura de Versões | Técnica |              Revisor(es)               |
 | :-------------: | :------------------: | :-----: | :------------------------------------: |
-|   xx/xx/xxxx    |          --          |   ---   | [Yago](https://github.com/yagompassos) |
+|   xx/xx/xxxx    |          --          |   ---   | [Rafael Amancio](https://github.com/Rafael-gc) |
