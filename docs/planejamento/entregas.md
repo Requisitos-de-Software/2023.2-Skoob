@@ -93,6 +93,6 @@ encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões |       Técnica        |                  Revisor(es)                  |
 | :-------------: | :------------------: | :------------------: | :-------------------------------------------: |
-|   04/10/2023    |    `1.0` e `1.1`     | Revisão por inspeção | [Yago Passos](https://github.com/yagompassos) |
-|   04/11/2023    |        `1.2`         | Revisão por inspeção | [Yago Passos](https://github.com/yagompassos) |
-|   06/11/2023    |        `1.3`         | Revisão por inspeção  | [Yago Passos](https://github.com/yagompassos) |
+|   04/10/2023    |    `1.0` e `1.1`     | Revisão estática | [Yago Passos](https://github.com/yagompassos) |
+|   04/11/2023    |        `1.2`         | Revisão estática | [Yago Passos](https://github.com/yagompassos) |
+|   06/11/2023    |        `1.3`         | Revisão estática | [Yago Passos](https://github.com/yagompassos) |
