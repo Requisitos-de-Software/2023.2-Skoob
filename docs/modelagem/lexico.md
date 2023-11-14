@@ -68,17 +68,17 @@ O artefato apresentado destaca a importância da técnica de léxicos na engenha
 
 ## Bibliografia
 
-<a id="aa" href="#a">[1]</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf). Acesso em: 18 de outubro de 2023.
+> <a id="aa" href="#a">[1]</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf). Acesso em: 18 de outubro de 2023.
 
 ## Histórico de Versão
 
 | Versão | Data de execução | Data prevista de revisão |           Descrição          |                  Autor(es)                   |                Revisado                  |
 | :----: | :--------------: | :-------------: | :--------------------------: | :------------------------------------------: | :----------------------------------------: |
-| `1.0`  |    18/10/2023    |   18/10/2023    |    Elaboração do Artefato    | [Yago Passos](https://github.com/yagompassos)| <input type="checkbox" disabled checked /> |
-| `1.1`  |    24/10/2023    |   24/10/2023    |    Criação dos Léxicos    | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" disabled checked /> |
-| `1.2`  |    24/10/2023    |   24/10/2023    |    Adicionada seção de conclusão    | [Rafael Amancio](https://github.com/yagompassos) | <input type="checkbox" disabled checked /> |
-| `1.3`  |    26/10/2023    |   30/10/2023    |   Refatorando Léxicos e alterando léxico de usuários   | [Yago Passos](https://github.com/yagompassos) |  | 
-| `1.4`  |    31/10/2023    |   25/11/2023    |  Implementando novo sistema de revisão  | [Yago Passos](https://github.com/yagompassos) |  | 
+| `1.0`  |    18/10/2023    |   18/10/2023    |    Elaboração do Artefato    | [Yago Passos](https://github.com/yagompassos)| <input type="checkbox" enabled checked /> |
+| `1.1`  |    24/10/2023    |   24/10/2023    |    Criação dos Léxicos    | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" enabled checked /> |
+| `1.2`  |    24/10/2023    |   24/10/2023    |    Adicionada seção de conclusão    | [Rafael Amancio](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+| `1.3`  |    26/10/2023    |   30/10/2023    |   Refatorando Léxicos e alterando léxico de usuários   | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" disabled checked /> | 
+| `1.4`  |    31/10/2023    |   25/11/2023    |  Implementando novo sistema de revisão  | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" disabled checked /> | 
 
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
