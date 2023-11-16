@@ -5,7 +5,7 @@
 ## Introdução
 
 
-A rastreabilidade "backward-from" é um conceito fundamental na engenharia de software e gerenciamento de requisitos, que se refere à capacidade de seguir o caminho inverso de um artefato ou item de software para identificar suas origens ou relacionamentos. Essa abordagem de rastreabilidade é especialmente valiosa em projetos de desenvolvimento de software, onde a compreensão da origem e do contexto de requisitos, componentes de software ou mudanças é crucial para garantir a qualidade, a manutenção eficiente e a conformidade com os objetivos do projeto.
+A rastreabilidade "backward-from" é um conceito fundamental na engenharia de software e gerenciamento de requisitos, que se refere à capacidade de seguir o caminho inverso de um artefato ou item de software para identificar suas origens ou relacionamentos. Essa abordagem de rastreabilidade é especialmente valiosa em projetos de desenvolvimento de software, onde a compreensão da origem e do contexto de requisitos, componentes de software ou mudanças é crucial para garantir a qualidade, a manutenção eficiente e a conformidade com os objetivos do projeto.[3]
 
 Para a realização da técnica de backward-from, foi utilizado o modelo de Toranzo, onde as informações a serem rastreadas são classificadas em quatro níveis e seis elos de rastreabilidade. [2]
 
