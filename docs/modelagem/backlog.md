@@ -74,7 +74,7 @@
 |     IN04    |                        Deve ser possível escrever resenhas dos livros marcados como lidos                        |   [IN](../elicitacao/introspeccao.md)   |
 |     IN05    |                                 Deve ser possível dar notas aos livros lidos                                     |   [IN](../elicitacao/introspeccao.md)   |
 |     IN14    |                                    Deve ser possível filtrar livros por nota                                     |   [IN](../elicitacao/introspeccao.md)   |
-|     IN15    |                                     Deve ser possível filtrar por categoria                                      |   [IN](../elicitacao/introspeccao.md)   |
+|     IN15    |                                     Deve ser possível filtrar livros por categoria                               |   [IN](../elicitacao/introspeccao.md)   |
 |     BS02    |            Deve ser possível sortear um livro cadastrado nas metas para o ano para a próxima leitura             |   [BS](../elicitacao/brainstorming.md)  |
 |     BS03    |  Deve ser possível sortear um livro dentre os livros marcados como Quero ler para a próxima leitura do usuário   |   [BS](../elicitacao/brainstorming.md)  |
 |     BS04    | Deve ser possível ver informações gerais de um livro cadastrado, como sinopse, autor, quantidade de páginas, etc |   [BS](../elicitacao/brainstorming.md)  |

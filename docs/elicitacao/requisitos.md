@@ -31,7 +31,7 @@ Na tabela 1 é possível identificar todos os requisitos elicitados e na legenda
 |     IN12    |                          Deve ser possível abrir e analisar o perfil de outros usuários                          |   RF   |
 |     IN13    |                              Deve ser possível adicionar outros usuários como amigo                              |   RF   |
 |    * IN14 *   |                                    Deve ser possível filtrar livros por nota                                   |   RF   |
-|    * IN15 *   |                                     Deve ser possível filtrar por categoria                                    |   RF   |
+|    * IN15 *   |                                     Deve ser possível filtrar livros por categoria                             |   RF   |
 |    * IN16 *  |                A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial               |   RNF  |
 |     IN17    |                      Deve ser possível fazer cadastro/login com as credenciais do facebook                       |   RNF  |
 |     IN18    |                       Deve ser possível obter o aplicativo em qualquer sistema operacional                       |   RNF  |

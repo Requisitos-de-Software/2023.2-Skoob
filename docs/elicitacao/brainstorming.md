@@ -77,7 +77,7 @@ envolvente e divertido?
     - RNF: Requisito Não Funcional;
     - BSn: Requisito elicitado por meio de Brainstorming;
 
-Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-Level Scale.
+Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-Level Scale. <a id="Tabela2"></a>
 
 |  Id         |                                                     Descrição                                                    | Tipo  |
 | :---------: | :--------------------------------------------------------------------------------------------------------------: | :---: |

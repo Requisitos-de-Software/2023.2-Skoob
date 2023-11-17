@@ -52,7 +52,7 @@ Legenda:
 |     IN12      |                          Deve ser possível abrir e analisar o perfil de outros usuários                          |
 |     IN13      |                              Deve ser possível adicionar outros usuários como amigo                              |
 |     IN14      |                                    Deve ser possível filtrar livros por nota                                     |
-|     IN15      |                                     Deve ser possível filtrar por categoria                                      |
+|     IN15      |                                     Deve ser possível filtrar livros por categoria                               |
 |     BS01      |                                Deve ser possível Criar uma meta de leitura para o ano                            |
 |     BS02      |            Deve ser possível sortear um livro cadastrado nas metas para o ano para a próxima leitura             |
 |     BS03      |  Deve ser possível sortear um livro dentre os livros marcados como Quero ler para a próxima leitura do usuário   |
