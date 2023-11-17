@@ -53,7 +53,7 @@ Na tabela 1 contém a priorização dos requisitos seguindo a técnica de Moscow
 |     IN12      |                          Deve ser possível abrir e analisar o perfil de outros usuários                          |   Could    |
 |     IN13      |                              Deve ser possível adicionar outros usuários como amigo                              |   Could    |
 |     IN14      |                                    Deve ser possível filtrar livros por nota                                     |   Could    |
-|     IN15      |                                     Deve ser possível filtrar por categoria                                      |   Could    |
+|     IN15      |                                     Deve ser possível filtrar livros por categoria                                      |   Could    |
 |     IN16      |                A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial                |   Should   |
 |     IN17      |                      Deve ser possível fazer cadastro/login com as credenciais do facebook                       |   Should   |
 |     IN18      |                       Deve ser possível obter o aplicativo em qualquer sistema operacional                       |   Must     |
