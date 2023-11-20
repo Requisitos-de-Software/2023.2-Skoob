@@ -13,6 +13,192 @@ Além disso, a abordagem "forward-from" inclui a rastreabilidade entre requisito
 
 ## Mapeamento
 
+Na Tabela 1, apresentamos uma legenda para facilitar a compreensão dos artefatos que serão discutidos.
+
+| Legenda | Artefato                  |
+| ------- | ------------------------- |
+| US      | História de Usuário       |
+| UC      | Casos de Uso              |
+| C       | Cenários                  |
+| L       | Léxico                    |
+| INT     | Introspecção              |
+| BS      | Brainstorming             |
+| OB      | Observação                |
+| RF      | Requisitos Funcionais     |
+| RNF     | Requisitos não Funcionais |
+
+<div style="text-align: center">
+<p>Tabela 1 - Legenda. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delineando as conexões estabelecidas. Essa análise proporcionará uma visão detalhada das relações entre requisitos específicos e os respectivos artefatos, evidenciando a consistência e integração no âmbito do processo de rastreabilidade forward.
+
+|     ID do requisito     |        Descrição do requisito        |
+| :---------------------: | :----------------------------------: |
+|          Épico          |         Épico de referência          |
+|          Tema           |           Tema do Backlog            |
+|   História de Usuário   |         História de usuário          |
+|         Léxico          |          Léxico relacionado          |
+|      Casos de uso       |       Caso de uso relacionado        |
+|        Cenários         |         Cenário relacionado          |
+| Artefatos de elicitação | Artefatos que elicitaram o requisito |
+|      Implementado       |              Sim ou Não              |
+
+<div style="text-align: center">
+<p>Tabela 2 - Vínculo requisito e artefatos. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          OB01           |                                            Deve ser possível realizar login                                            |
+| :---------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|          Épico          |  [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)  |
+|          Tema           |       [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)       |
+|   História de Usuário   |                                                           --                                                           |
+|         Léxico          |                                               Léxico relacionado (Yago)                                                |
+|      Casos de uso       |                                                           --                                                           |
+|        Cenários         | [C03: Realizando o Login](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md) |
+| Artefatos de elicitação |      [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)      |
+|      Implementado       |                                                          Sim                                                           |
+
+<div style="text-align: center">
+<p>Tabela 3 - Rastreabilidade do OB01. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          OB02           |                                           Deve ser possível pesquisar livros                                           |
+| :---------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|          Épico          |     [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|          Tema           |          [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)           |
+|   História de Usuário   |                                                           --                                                           |
+|         Léxico          |                                               Léxico relacionado (Yago)                                                |
+|      Casos de uso       |        [UC01](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/casos_de_uso.md)         |
+|        Cenários         | [C04: Pesquisando Livros](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md) |
+| Artefatos de elicitação |      [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)      |
+|      Implementado       |                                                          Sim                                                           |
+
+<div style="text-align: center">
+<p>Tabela 4 - Rastreabilidade do OB02. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          OB03           |                Deve ser possível marcar os livros como: Lido / Lendo / Quero ler / Abandonei / Relendo                 |
+| :---------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 4 - Acompanhamento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Acompanhamento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |         [US03](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)          |
+|         Léxico          |                                               Léxico relacionado (Yago)                                                |
+|      Casos de uso       |        [UC01](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/casos_de_uso.md)         |
+|        Cenários         |           [C01](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md)           |
+| Artefatos de elicitação |      [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)      |
+|      Implementado       |                                                          Sim                                                           |
+
+<div style="text-align: center">
+<p>Tabela 5 - Rastreabilidade do OB03. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          OB04           |            Deve existir uma timeline onde é possível ver atualizações literárias de outros usuários.            |
+| :---------------------: | :-------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 3 - Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |      [US12](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)      |
+|         Léxico          |                                            Léxico relacionado (Yago)                                            |
+|      Casos de uso       |                                                       --                                                        |
+|        Cenários         |                                                       --                                                        |
+| Artefatos de elicitação |  [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)   |
+|      Implementado       |                                                       Sim                                                       |
+
+<div style="text-align: center">
+<p>Tabela 6 - Rastreabilidade do OB04. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          OB05           |                                Deve ser possível adicionar comentários nos posts                                |
+| :---------------------: | :-------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 3 - Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |                                                       --                                                        |
+|         Léxico          |                                            Léxico relacionado (Yago)                                            |
+|      Casos de uso       |     [UC05](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/casos_de_uso.md)     |
+|        Cenários         |                                                       --                                                        |
+| Artefatos de elicitação |  [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)   |
+|      Implementado       |                                                       Sim                                                       |
+
+<div style="text-align: center">
+<p>Tabela 7 - Rastreabilidade do OB05. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          OB06           |                                   Deve ser possível curtir posts da timeline                                    |
+| :---------------------: | :-------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 3 - Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |                                                       --                                                        |
+|         Léxico          |                                            Léxico relacionado (Yago)                                            |
+|      Casos de uso       |                                                       --                                                        |
+|        Cenários         |                                                       --                                                        |
+| Artefatos de elicitação |  [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)   |
+|      Implementado       |                                                       Sim                                                       |
+
+<div style="text-align: center">
+<p>Tabela 8 - Rastreabilidade do OB06. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          IN01           |                                         Deve ser possível realizar cadastro                                          |
+| :---------------------: | :------------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |                                                          --                                                          |
+|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|      Casos de uso       |                                                          --                                                          |
+|        Cenários         |                                                          --                                                          |
+| Artefatos de elicitação |   [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)   |
+|      Implementado       |                                                         Sim                                                          |
+
+<div style="text-align: center">
+<p>Tabela 9 - Rastreabilidade do IN01. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          IN02           |                                         Deve ser possível recuperar a senha                                          |
+| :---------------------: | :------------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |        [US02](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)         |
+|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|      Casos de uso       |                                                          --                                                          |
+|        Cenários         |          [C01](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md)          |
+| Artefatos de elicitação |   [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)   |
+|      Implementado       |                                                         Sim                                                          |
+
+<div style="text-align: center">
+<p>Tabela 10 - Rastreabilidade do IN02. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          IN03           |                                       Deve ser possível cadastrar um livro                                       |
+| :---------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|          Épico          |  [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)   |
+|          Tema           |       [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)        |
+|   História de Usuário   |                                                        --                                                        |
+|         Léxico          |                                            Léxico relacionado (Yago)                                             |
+|      Casos de uso       |                                                        --                                                        |
+|        Cenários         |                                                        --                                                        |
+| Artefatos de elicitação | [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md) |
+|      Implementado       |                                                       Sim                                                        |
+
+<div style="text-align: center">
+<p>Tabela 11 - Rastreabilidade do IN03. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          IN04           |                        Deve ser possível escrever resenhas dos livros marcados como lidos                        |
+| :---------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|          Épico          |  [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)   |
+|          Tema           |       [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)        |
+|   História de Usuário   |      [US06](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)       |
+|         Léxico          |                                            Léxico relacionado (Yago)                                             |
+|      Casos de uso       |     [UC02](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/casos_de_uso.md)      |
+|        Cenários         |                                                        --                                                        |
+| Artefatos de elicitação | [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md) |
+|      Implementado       |                                                       Sim                                                        |
+
+<div style="text-align: center">
+<p>Tabela 12 - Rastreabilidade do IN04. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+
 ### Subtítulo - Exemplo de Tabela
 
 | Atividade | Entrega | Revisão | Autor(es) | Revisor(es) |
@@ -44,14 +230,14 @@ Em síntese, a abordagem "forward-from" de rastreabilidade desempenha um papel e
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data prevista de revisão |       Descrição      |         Autor(es)      |       Revisado          |
-| :----: | :--------------: | :-------------: | :------------------------: | :----------------: | :-----------: |
-| `1.0`  |    19/11/2023    |   20/11/2023    |   Elaboração inicial    | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+| Versão | Data de execução | Data prevista de revisão |     Descrição      |                   Autor(es)                   |                 Revisado                  |
+| :----: | :--------------: | :----------------------: | :----------------: | :-------------------------------------------: | :---------------------------------------: |
+| `1.0`  |    19/11/2023    |        20/11/2023        | Elaboração inicial | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
 
 ### Verificação
 
-| Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
-| :------------: | :-------------: | :--------------------------: |  :---------------: |
-|   dd/mm/aaaa   |    `1.0`   |    [Elaboração em pares](../verificacao/revisoes.md)      |  Nome do Revisor |
-|   dd/mm/aaaa   |  `1.1` e `1.2` |    [Revisão estática](../verificacao/revisoes.md)   |  Nome do Revisor |
-|   dd/mm/aaaa   |  Todas  |    [Revisão por inspeção](<!-- linkar o artefato de verificação aqui -->)    |  Nome do Revisor |
+| Data de Revisão | Cobertura de Versões |                                Técnica                                 |   Revisor(es)   |
+| :-------------: | :------------------: | :--------------------------------------------------------------------: | :-------------: |
+|   dd/mm/aaaa    |        `1.0`         |           [Elaboração em pares](../verificacao/revisoes.md)            | Nome do Revisor |
+|   dd/mm/aaaa    |    `1.1` e `1.2`     |             [Revisão estática](../verificacao/revisoes.md)             | Nome do Revisor |
+|   dd/mm/aaaa    |        Todas         | [Revisão por inspeção](<!-- linkar o artefato de verificação aqui -->) | Nome do Revisor |
