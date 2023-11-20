@@ -45,7 +45,7 @@ Os integrantes [Yago Passos](https://github.com/yagompassos) e [Rafael Amancio](
 </div>
 
 ## Conclusão
-A técnica da matriz de rastreabilidade emerge como uma ferramenta essencial no processo de desenvolvimento, proporcionando uma visão abrangente e organizada da relação entre requisitos, componentes e demais elementos do projeto. Ao mapear a trajetória de requisitos desde sua origem até a implementação, a matriz de rastreabilidade facilita a compreensão, monitoramento e verificação do alinhamento entre diferentes fases do ciclo de vida do projeto<a id="cc" href="#c">[1]</a>. 
+A técnica da matriz de rastreabilidade emerge como uma ferramenta essencial no processo de desenvolvimento, proporcionando uma visão abrangente e organizada da relação entre requisitos, componentes e demais elementos do projeto. Ao mapear a trajetória de requisitos desde sua origem até a implementação, a matriz de rastreabilidade facilita a compreensão, monitoramento e verificação do alinhamento entre diferentes fases do ciclo de vida do projeto<a id="cc" href="#c">[2]</a>. 
 
 ## Bibliografia
 
