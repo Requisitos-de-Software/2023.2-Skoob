@@ -48,6 +48,9 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 <p>Tabela 2 - Vínculo requisito e artefatos. (Fonte: Jefferson França. 2023)</p>
 </div>
 
+
+As tabelas de número 3 a 24, contém informações sobre a pós rastreabilidade dos requisitos do projeto.
+
 ### Requisitos Funcionais
 
 |          OB01           |                                            Deve ser possível realizar login                                            |
@@ -55,7 +58,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          |  [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)  |
 |          Tema           |       [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)       |
 |   História de Usuário   |                                                           --                                                           |
-|         Léxico          |                                               Léxico relacionado (Yago)                                                |
+|         Léxico          |                                [Léxico de Estado LE6](../modelagem/lexico.md)                                           |
 |      Casos de uso       |                                                           --                                                           |
 |        Cenários         | [C03: Realizando o Login](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md) |
 | Artefatos de elicitação |      [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)      |
@@ -70,7 +73,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          |     [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |          Tema           |          [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)           |
 |   História de Usuário   |                                                           --                                                           |
-|         Léxico          |                                               Léxico relacionado (Yago)                                                |
+|         Léxico          |                               [Léxico de verbo LV1](../modelagem/lexico.md)                                            |
 |      Casos de uso       |        [UC01](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/casos_de_uso.md)         |
 |        Cenários         | [C04: Pesquisando Livros](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md) |
 | Artefatos de elicitação |      [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)      |
@@ -85,7 +88,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 4 - Acompanhamento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Acompanhamento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |         [US03](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)          |
-|         Léxico          |                                               Léxico relacionado (Yago)                                                |
+|         Léxico          |                                    [Léxico de verbo LV2](../modelagem/lexico.md)                                       |
 |      Casos de uso       |        [UC01](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/casos_de_uso.md)         |
 |        Cenários         |           [C01](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md)           |
 | Artefatos de elicitação |      [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)      |
@@ -100,7 +103,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 3 - Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |      [US12](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)      |
-|         Léxico          |                                            Léxico relacionado (Yago)                                            |
+|         Léxico          |                                                       --                                                        |
 |      Casos de uso       |                                                       --                                                        |
 |        Cenários         |                                                       --                                                        |
 | Artefatos de elicitação |  [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)   |
@@ -115,7 +118,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 3 - Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |                                                       --                                                        |
-|         Léxico          |                                            Léxico relacionado (Yago)                                            |
+|         Léxico          |                                                       --                                                        |
 |      Casos de uso       |     [UC05](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/casos_de_uso.md)     |
 |        Cenários         |                                                       --                                                        |
 | Artefatos de elicitação |  [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)   |
@@ -130,7 +133,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 3 - Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |                                                       --                                                        |
-|         Léxico          |                                            Léxico relacionado (Yago)                                            |
+|         Léxico          |                                                       --                                                        |
 |      Casos de uso       |                                                       --                                                        |
 |        Cenários         |                                                       --                                                        |
 | Artefatos de elicitação |  [Observação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/observacao.md)   |
@@ -145,7 +148,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |                                                          --                                                          |
-|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|         Léxico          |                                                          --                                                          |
 |      Casos de uso       |                                                          --                                                          |
 |        Cenários         |                                                          --                                                          |
 | Artefatos de elicitação |   [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)   |
@@ -160,7 +163,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |        [US02](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)         |
-|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|         Léxico          |                                                          --                                                          |
 |      Casos de uso       |                                                          --                                                          |
 |        Cenários         |          [C01](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md)          |
 | Artefatos de elicitação |   [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)   |
@@ -175,7 +178,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          |  [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)   |
 |          Tema           |       [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)        |
 |   História de Usuário   |                                                        --                                                        |
-|         Léxico          |                                            Léxico relacionado (Yago)                                             |
+|         Léxico          |                               [Léxico de objeto LO1](../modelagem/lexico.md)                                            |
 |      Casos de uso       |                                                        --                                                        |
 |        Cenários         |                                                        --                                                        |
 | Artefatos de elicitação | [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md) |
@@ -190,7 +193,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          |  [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)   |
 |          Tema           |       [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)        |
 |   História de Usuário   |      [US06](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)       |
-|         Léxico          |                                            Léxico relacionado (Yago)                                             |
+|         Léxico          |                               [Léxico de verbo LV4](../modelagem/lexico.md)                                            |
 |      Casos de uso       |     [UC02](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/casos_de_uso.md)      |
 |        Cenários         |                                                        --                                                        |
 | Artefatos de elicitação | [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md) |
@@ -205,7 +208,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          |  [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)   |
 |          Tema           |       [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)        |
 |   História de Usuário   |      [US06](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)       |
-|         Léxico          |                                            Léxico relacionado (Yago)                                             |
+|         Léxico          |                               [Léxico de verbo LV3](../modelagem/lexico.md)                                            |
 |      Casos de uso       |                                                        --                                                        |
 |        Cenários         |        [C02](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md)        |
 | Artefatos de elicitação | [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md) |
@@ -220,7 +223,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 4 - Acompanhamento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Acompanhamento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |         [US08](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)          |
-|         Léxico          |                                               Léxico relacionado (Yago)                                                |
+|         Léxico          |      [Léxico de verbo LV6](../modelagem/lexico.md) e [Léxico de Estado LE4](../modelagem/lexico.md)             |
 |      Casos de uso       |                                                           --                                                           |
 |        Cenários         |                                                           --                                                           |
 | Artefatos de elicitação |    [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)    |
@@ -235,7 +238,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 3 - Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)  |
 |          Tema           |      [Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)       |
 |   História de Usuário   |                                                        --                                                        |
-|         Léxico          |                                            Léxico relacionado (Yago)                                             |
+|         Léxico          |                               [Léxico de verbo LV6](../modelagem/lexico.md)                                            |
 |      Casos de uso       |     [UC04](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/casos_de_uso.md)      |
 |        Cenários         |                                                        --                                                        |
 | Artefatos de elicitação | [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md) |
@@ -250,7 +253,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 4 - Acompanhamento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Acompanhamento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |         [US03](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)          |
-|         Léxico          |                                               Léxico relacionado (Yago)                                                |
+|         Léxico          |      [Léxico de verbo LV2](../modelagem/lexico.md) e [Léxico de Objeto LO4](../modelagem/lexico.md)             |
 |      Casos de uso       |        [UC01](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/casos_de_uso.md)         |
 |        Cenários         |           [C01](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md)           |
 | Artefatos de elicitação |    [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)    |
@@ -265,7 +268,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 3 - Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)  |
 |          Tema           |      [Usuário](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)       |
 |   História de Usuário   |      [US11](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)       |
-|         Léxico          |                                            Léxico relacionado (Yago)                                             |
+|         Léxico          |      [Léxico de verbo LV1](../modelagem/lexico.md) e [Léxico de Objeto LO2](../modelagem/lexico.md)            |
 |      Casos de uso       |     [UC03](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/casos_de_uso.md)      |
 |        Cenários         |                                                        --                                                        |
 | Artefatos de elicitação | [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md) |
@@ -280,7 +283,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          |  [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)   |
 |          Tema           |       [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)        |
 |   História de Usuário   |      [US04](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)       |
-|         Léxico          |                                            Léxico relacionado (Yago)                                             |
+|         Léxico          |                                                       --                                                |
 |      Casos de uso       |                                                        --                                                        |
 |        Cenários         |                                                        --                                                        |
 | Artefatos de elicitação | [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md) |
@@ -295,7 +298,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          |  [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)   |
 |          Tema           |       [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)        |
 |   História de Usuário   |      [US05](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)       |
-|         Léxico          |                                            Léxico relacionado (Yago)                                             |
+|         Léxico          |                                                       --                                               |
 |      Casos de uso       |                                                        --                                                        |
 |        Cenários         |                                                        --                                                        |
 | Artefatos de elicitação | [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md) |
@@ -310,7 +313,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |                                                          --                                                          |
-|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|         Léxico          |                                                          --                                                           |
 |      Casos de uso       |                                                          --                                                          |
 |        Cenários         |                                                          --                                                          |
 | Artefatos de elicitação |   [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)   |
@@ -325,7 +328,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          |   [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)    |
 |          Tema           |        [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)         |
 |   História de Usuário   |       [US19](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)        |
-|         Léxico          |                                             Léxico relacionado (Yago)                                              |
+|         Léxico          |                                       [Léxico de Estado LE3](../modelagem/lexico.md)                               |
 |      Casos de uso       |                                                         --                                                         |
 |        Cenários         |                                                         --                                                         |
 | Artefatos de elicitação | [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md) |
@@ -340,7 +343,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |                                                          --                                                          |
-|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|         Léxico          |                                                          --                                                          |
 |      Casos de uso       |                                                          --                                                          |
 |        Cenários         |          [C12](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md)          |
 | Artefatos de elicitação |  [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md)  |
@@ -355,7 +358,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          |   [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)    |
 |          Tema           |        [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)         |
 |   História de Usuário   |       [US15](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)        |
-|         Léxico          |                                             Léxico relacionado (Yago)                                              |
+|         Léxico          |                                                         --                                                          |
 |      Casos de uso       |                                                         --                                                         |
 |        Cenários         |                                                         --                                                         |
 | Artefatos de elicitação | [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md) |
@@ -370,22 +373,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 5 - Entretenimento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Entretenimento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |         [US16](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)          |
-|         Léxico          |                                               Léxico relacionado (Yago)                                                |
-|      Casos de uso       |                                                           --                                                           |
-|        Cenários         |                                                           --                                                           |
-| Artefatos de elicitação |   [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md)   |
-|      Implementado       |                                                          Não                                                           |
-
-<div style="text-align: center">
-<p>Tabela 22 - Rastreabilidade do BS11. (Fonte: Jefferson França. 2023)</p>
-</div>
-
-|          BS11           |                            Deve ser possível postar fotos e/ou vídeos em formato "stories"                             |
-| :---------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|          Épico          | [Épico 5 - Entretenimento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
-|          Tema           |      [Entretenimento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
-|   História de Usuário   |         [US16](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)          |
-|         Léxico          |                                               Léxico relacionado (Yago)                                                |
+|         Léxico          |                                                          --                                                            |
 |      Casos de uso       |                                                           --                                                           |
 |        Cenários         |                                                           --                                                           |
 | Artefatos de elicitação |   [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md)   |
@@ -402,7 +390,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          |                                                              --                                                               |
 |          Tema           |                                                              --                                                               |
 |   História de Usuário   |                                                              --                                                               |
-|         Léxico          |                                                   Léxico relacionado (Yago)                                                   |
+|         Léxico          |                                                              --                                                             |
 |      Casos de uso       |                                                              --                                                               |
 |        Cenários         |                                                              --                                                               |
 | Artefatos de elicitação |      [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md)       |
@@ -417,7 +405,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 5 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |                                                          --                                                          |
-|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|         Léxico          |                                                          --                                                          |
 |      Casos de uso       |                                                          --                                                          |
 |        Cenários         |                                                          --                                                          |
 | Artefatos de elicitação |   [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)   |
@@ -432,7 +420,7 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 |          Épico          | [Épico 5 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
 |   História de Usuário   |                                                          --                                                          |
-|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|         Léxico          |                                                          --                                              |
 |      Casos de uso       |                                                          --                                                          |
 |        Cenários         |                                                          --                                                          |
 | Artefatos de elicitação |   [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)   |
@@ -460,10 +448,11 @@ Em síntese, a abordagem "forward-from" de rastreabilidade desempenha um papel e
 | :----: | :--------------: | :----------------------: | :----------------: | :-------------------------------------------: | :---------------------------------------: |
 | `1.0`  |    19/11/2023    |        20/11/2023        | Elaboração inicial | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
 | `1.1`  |    19/11/2023    |        20/11/2023        | Atualizando artefato | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" enabled checked /> |
+| `1.2`  |    20/11/2023    |        20/11/2023        | Atualizando tabelas de rastreabilidade | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
 
 ### Verificação
 
-| Data de Revisão | Cobertura de Versões |                         Técnica                             |   Revisor(es)   |
+| Data de Revisão | Cobertura de Versões |                         Técnica                              |   Revisor(es)   |
 | :-------------: | :------------------: | :---------------------------------------------------------: | :-------------: |
 |   19/11/2023    |        `1.0`         |       [Revisão estática](../verificacao/revisoes.md)        | [Jefferson França](https://github.com/Frans6) |
 |   20/11/2023    |        `1.1`         |       [Revisão estática](../verificacao/revisoes.md)        | [Yago Passos](https://github.com/yagompassos) |
