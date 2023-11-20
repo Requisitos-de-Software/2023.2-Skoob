@@ -308,21 +308,6 @@ As tabelas de número 3 a 24, contém informações sobre a pós rastreabilidade
 <p>Tabela 19 - Rastreabilidade do IN15. (Fonte: Jefferson França. 2023)</p>
 </div>
 
-|          IN16           |                  A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial                  |
-| :---------------------: | :------------------------------------------------------------------------------------------------------------------: |
-|          Épico          | [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
-|          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
-|   História de Usuário   |                                                          --                                                          |
-|         Léxico          |                                                          --                                                           |
-|      Casos de uso       |                                                          --                                                          |
-|        Cenários         |                                                          --                                                          |
-| Artefatos de elicitação |   [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)   |
-|      Implementado       |                                                         Não                                                          |
-
-<div style="text-align: center">
-<p>Tabela 19 - Rastreabilidade do IN16. (Fonte: Jefferson França. 2023)</p>
-</div>
-
 |          BS03           |   Deve ser possível sortear um livro dentre os livros marcados como Quero ler para a próxima leitura do usuário    |
 | :---------------------: | :----------------------------------------------------------------------------------------------------------------: |
 |          Épico          |   [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)    |
