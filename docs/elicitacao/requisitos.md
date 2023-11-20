@@ -35,7 +35,7 @@ Na tabela 1 é possível identificar todos os requisitos elicitados e na legenda
 |    * IN16 *  |                A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial               |   RNF  |
 |     IN17    |                      Deve ser possível fazer cadastro/login com as credenciais do facebook                       |   RNF  |
 |     IN18    |                       Deve ser possível obter o aplicativo em qualquer sistema operacional                       |   RNF  |
-|     IN19    |                       Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos                       |   RNF  |
+|     IN19    |                       Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos  |   RNF  |
 |     IN20    |              O Skoob deve ser capaz de se adaptar a diferentes tamanhos de tela e resoluções                       |   RNF  |
 |     BS01    |                                Deve ser possível Criar uma meta de leitura para o ano                            |   RF   |
 |     BS02    |            Deve ser possível sortear um livro cadastrado nas metas para o ano para a próxima leitura             |   RF   |

@@ -60,10 +60,18 @@ A adaptação da metodologia Scrum para o nosso projeto é uma escolha estratég
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |              Descrição              |                                           Autor(es)                                           |                 Revisor(es)                 |
-| :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------: |
-| `1.0`  |    18/09/2023    |   18/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6)  | [Shaíne](https://github.com/ShaineOliveira) |
-| `1.1`  |    18/09/2023    |   18/09/2023    | Seção de Scrum Adaptado |  [Yago Passos](https://github.com/yagompassos) | [Shaíne](https://github.com/ShaineOliveira) |
-| `1.2`  |    29/09/2023    |   03/10/2023    | Seção de Políticas | [Jefferson França](https://github.com/Frans6)  | [Yago Passos](https://github.com/yagompassos) |
-| `1.3`  |    03/10/2023    |   04/10/2023    | Seção do Kanban |  [Yago Passos](https://github.com/yagompassos) | [Jefferson França](https://github.com/Frans6) |
-| `1.4`  |    17/10/2023    |   18/10/2023    | Seção de Conclusão |  [Yago Passos](https://github.com/yagompassos) | [Jefferson França](https://github.com/Frans6) |
+| Versão | Data de execução | Data prevista de revisão |       Descrição      |         Autor(es)      |       Revisado          |
+| :----: | :--------------: | :-------------: | :-----------------------: | :----------------: | :-----------: |
+| `1.0`  |    18/09/2023    |   18/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6)  | <input type="checkbox" enabled checked /> |
+| `1.1`  |    18/09/2023    |   18/09/2023    | Seção de Scrum Adaptado |  [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+| `1.2`  |    29/09/2023    |   03/10/2023    | Seção de Políticas | [Jefferson França](https://github.com/Frans6)  | <input type="checkbox" enabled checked /> |
+| `1.3`  |    03/10/2023    |   04/10/2023    | Seção do Kanban |  [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+| `1.4`  |    17/10/2023    |   18/10/2023    | Seção de Conclusão |  [Yago Passos](https://github.com/yagompassos) | |
+
+### Verificação
+
+| Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
+| :------------: | :-------------: | :--------------------------: |  :---------------: |
+|   01/09/2023   |  `1.0` e `1.1`  |     [Revisão estática](../verificacao/revisoes.md)       | [Shaíne](https://github.com/ShaineOliveira) |
+|   03/10/2023   |      `1.2`      |     [Revisão estática](../verificacao/revisoes.md)       | [Yago Passos](https://github.com/yagompassos) |
+|   10/10/2023   |      `1.3`      |     [Revisão estática](../verificacao/revisoes.md)       | [Jefferson França](https://github.com/Frans6) |
