@@ -94,4 +94,5 @@ nav:
         - Histórias de Usuários: verificacao/grupo7/historias_usuarios.md
   - Pós-rastreabilidade:
     - Backward-From: pos_rastreabilidade/backward.md
+    - Forward-From: pos_rastreabilidade/forward.md
   - Entregas: planejamento/entregas.md
