@@ -463,8 +463,7 @@ Em síntese, a abordagem "forward-from" de rastreabilidade desempenha um papel e
 
 ### Verificação
 
-| Data de Revisão | Cobertura de Versões |                                Técnica                                 |   Revisor(es)   |
-| :-------------: | :------------------: | :--------------------------------------------------------------------: | :-------------: |
-|   dd/mm/aaaa    |        `1.0`         |           [Elaboração em pares](../verificacao/revisoes.md)            | Nome do Revisor |
-|   dd/mm/aaaa    |    `1.1` e `1.2`     |             [Revisão estática](../verificacao/revisoes.md)             | Nome do Revisor |
-|   dd/mm/aaaa    |        Todas         | [Revisão por inspeção](<!-- linkar o artefato de verificação aqui -->) | Nome do Revisor |
+| Data de Revisão | Cobertura de Versões |                         Técnica                             |   Revisor(es)   |
+| :-------------: | :------------------: | :---------------------------------------------------------: | :-------------: |
+|   19/11/2023    |        `1.0`         |       [Revisão estática](../verificacao/revisoes.md)        | [Jefferson França](https://github.com/Frans6) |
+|   20/11/2023    |        `1.1`         |       [Revisão estática](../verificacao/revisoes.md)        | [Yago Passos](https://github.com/yagompassos) |
