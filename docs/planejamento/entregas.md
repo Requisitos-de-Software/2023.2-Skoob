@@ -74,6 +74,21 @@ encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 
+## Entrega 6 (20/11/2023)
+
+### Descrição: 
+Nesta sexta entrega foi possível elaborar os artefatos da Pós-rastreabilidade que são eles: Backward-From, Foward-From e Matriz de Rastreabilidade
+
+### Vídeo de apresentação
+O Vídeo 6 corresponde a gravação da sexta entrega da disciplina. Nele, explicamos como foi feito os artefatos de Pós-rastreabilidade.
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Jk0PC6A4-Ow" title="Entrega 5.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align: center">
+<p> Vídeo 6: Gravação da sexta apresentação. (Fonte: Grupo 6, 2023)..</p>
+</div>
+
+
 
 ## Histórico de versão
 
@@ -88,6 +103,7 @@ encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 | `1.3.1`  |06/11/2023| 18/11/2023 | Adicionando Vídeo 4| [Yago Passos](https://github.com/yagompassos)|<input type="checkbox" enabled checked /> |
 | `1.4`  |13/11/2023| 13/11/2023 | Entrega 5| [Shaíne Oliveira](https://github.com/ShaineOliveira)| <input type="checkbox" enabled checked /> |
 | `1.4.1`  |13/11/2023| 18/11/2023 | Adicionando Vídeo 4| [Yago Passos](https://github.com/yagompassos)| <input type="checkbox" enabled checked /> |
+| `1.5`  |13/11/2023| 18/11/2023 | Entrega 6| [Shaíne Oliveira](https://github.com/ShaineOliveira)| <input type="checkbox" enabled checked /> |
 
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões |       Técnica        |                  Revisor(es)                  |
