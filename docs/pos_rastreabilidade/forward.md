@@ -48,6 +48,8 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 <p>Tabela 2 - Vínculo requisito e artefatos. (Fonte: Jefferson França. 2023)</p>
 </div>
 
+### Requisitos Funcionais
+
 |          OB01           |                                            Deve ser possível realizar login                                            |
 | :---------------------: | :--------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |  [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)  |
@@ -288,24 +290,158 @@ Na tabela 2, apresentaremos a vinculação dos artefatos a cada requisito, delin
 <p>Tabela 18 - Rastreabilidade do IN14. (Fonte: Jefferson França. 2023)</p>
 </div>
 
-
-### Subtítulo - Exemplo de Tabela
-
-| Atividade | Entrega | Revisão | Autor(es) | Revisor(es) |
-| :-------: | :-----: | :-----: | :-------: | :---------: |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
+|          IN15           |                                  Deve ser possível filtrar livros por categoria                                  |
+| :---------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|          Épico          |  [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)   |
+|          Tema           |       [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)        |
+|   História de Usuário   |      [US05](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)       |
+|         Léxico          |                                            Léxico relacionado (Yago)                                             |
+|      Casos de uso       |                                                        --                                                        |
+|        Cenários         |                                                        --                                                        |
+| Artefatos de elicitação | [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md) |
+|      Implementado       |                                                       Não                                                        |
 
 <div style="text-align: center">
-<p> Tabela 1: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
+<p>Tabela 19 - Rastreabilidade do IN15. (Fonte: Jefferson França. 2023)</p>
 </div>
 
-## Direcionamento
+|          IN16           |                  A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial                  |
+| :---------------------: | :------------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |                                                          --                                                          |
+|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|      Casos de uso       |                                                          --                                                          |
+|        Cenários         |                                                          --                                                          |
+| Artefatos de elicitação |   [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)   |
+|      Implementado       |                                                         Não                                                          |
 
-## Requisitos Funcionais
+<div style="text-align: center">
+<p>Tabela 19 - Rastreabilidade do IN16. (Fonte: Jefferson França. 2023)</p>
+</div>
 
-## Requisitos Não Funcionais
+|          BS03           |   Deve ser possível sortear um livro dentre os livros marcados como Quero ler para a próxima leitura do usuário    |
+| :---------------------: | :----------------------------------------------------------------------------------------------------------------: |
+|          Épico          |   [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)    |
+|          Tema           |        [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)         |
+|   História de Usuário   |       [US19](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)        |
+|         Léxico          |                                             Léxico relacionado (Yago)                                              |
+|      Casos de uso       |                                                         --                                                         |
+|        Cenários         |                                                         --                                                         |
+| Artefatos de elicitação | [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md) |
+|      Implementado       |                                                        Não                                                         |
+
+<div style="text-align: center">
+<p>Tabela 20 - Rastreabilidade do BS03. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          BS07           |                            Deve existir um FAQ para guiar os usuários nas funcionalidades                            |
+| :---------------------: | :------------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 1 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |                                                          --                                                          |
+|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|      Casos de uso       |                                                          --                                                          |
+|        Cenários         |          [C12](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/cenarios.md)          |
+| Artefatos de elicitação |  [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md)  |
+|      Implementado       |                                                         Não                                                          |
+
+<div style="text-align: center">
+<p>Tabela 21 - Rastreabilidade do BS07. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          BS10           |                    Deve ser possível visualizar um ranking semanal/mensal de livros mais lidos                     |
+| :---------------------: | :----------------------------------------------------------------------------------------------------------------: |
+|          Épico          |   [Épico 2 - Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)    |
+|          Tema           |        [Livro](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)         |
+|   História de Usuário   |       [US15](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)        |
+|         Léxico          |                                             Léxico relacionado (Yago)                                              |
+|      Casos de uso       |                                                         --                                                         |
+|        Cenários         |                                                         --                                                         |
+| Artefatos de elicitação | [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md) |
+|      Implementado       |                                                        Não                                                         |
+
+<div style="text-align: center">
+<p>Tabela 21 - Rastreabilidade do BS10. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          BS11           |                            Deve ser possível postar fotos e/ou vídeos em formato "stories"                             |
+| :---------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 5 - Entretenimento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Entretenimento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |         [US16](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)          |
+|         Léxico          |                                               Léxico relacionado (Yago)                                                |
+|      Casos de uso       |                                                           --                                                           |
+|        Cenários         |                                                           --                                                           |
+| Artefatos de elicitação |   [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md)   |
+|      Implementado       |                                                          Não                                                           |
+
+<div style="text-align: center">
+<p>Tabela 22 - Rastreabilidade do BS11. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          BS11           |                            Deve ser possível postar fotos e/ou vídeos em formato "stories"                             |
+| :---------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 5 - Entretenimento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Entretenimento](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |         [US16](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/user_story.md)          |
+|         Léxico          |                                               Léxico relacionado (Yago)                                                |
+|      Casos de uso       |                                                           --                                                           |
+|        Cenários         |                                                           --                                                           |
+| Artefatos de elicitação |   [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md)   |
+|      Implementado       |                                                          Não                                                           |
+
+<div style="text-align: center">
+<p>Tabela 22 - Rastreabilidade do BS11. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+### Requisitos Não Funcionais
+
+|          BS19           | O Skoob deve ser capaz de interoperar com outras plataformas de redes sociais, permitindo aos usuários compartilhar conteúdo. |
+| :---------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+|          Épico          |                                                              --                                                               |
+|          Tema           |                                                              --                                                               |
+|   História de Usuário   |                                                              --                                                               |
+|         Léxico          |                                                   Léxico relacionado (Yago)                                                   |
+|      Casos de uso       |                                                              --                                                               |
+|        Cenários         |                                                              --                                                               |
+| Artefatos de elicitação |      [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/brainstorming.md)       |
+|      Implementado       |                                                              Não                                                              |
+
+<div style="text-align: center">
+<p>Tabela 23 - Rastreabilidade do BS19. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          IN16           |                  A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial                  |
+| :---------------------: | :------------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 5 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |                                                          --                                                          |
+|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|      Casos de uso       |                                                          --                                                          |
+|        Cenários         |                                                          --                                                          |
+| Artefatos de elicitação |   [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)   |
+|      Implementado       |                                                         Não                                                          |
+
+<div style="text-align: center">
+<p>Tabela 24 - Rastreabilidade do IN16. (Fonte: Jefferson França. 2023)</p>
+</div>
+
+|          IN18           |                         Deve ser possível obter o aplicativo em qualquer sistema operacional                         |
+| :---------------------: | :------------------------------------------------------------------------------------------------------------------: |
+|          Épico          | [Épico 5 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
+|          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |
+|   História de Usuário   |                                                          --                                                          |
+|         Léxico          |                                              Léxico relacionado (Yago)                                               |
+|      Casos de uso       |                                                          --                                                          |
+|        Cenários         |                                                          --                                                          |
+| Artefatos de elicitação |   [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/elicitacao/introspeccao.md)   |
+|      Implementado       |                                                         Não                                                          |
+
+<div style="text-align: center">
+<p>Tabela 24 - Rastreabilidade do IN18. (Fonte: Jefferson França. 2023)</p>
+</div>
+
 
 ## Conclusão
 
@@ -323,6 +459,7 @@ Em síntese, a abordagem "forward-from" de rastreabilidade desempenha um papel e
 | Versão | Data de execução | Data prevista de revisão |     Descrição      |                   Autor(es)                   |                 Revisado                  |
 | :----: | :--------------: | :----------------------: | :----------------: | :-------------------------------------------: | :---------------------------------------: |
 | `1.0`  |    19/11/2023    |        20/11/2023        | Elaboração inicial | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+| `1.1`  |    19/11/2023    |        20/11/2023        | Atualizando artefato | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" enabled checked /> |
 
 ### Verificação
 
