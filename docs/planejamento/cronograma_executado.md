@@ -97,6 +97,20 @@ A Tabela 6 mostra as atividades do Ponto de Controle 5.1 e as datas em que foram
 <p> Tabela 6: Cronograma detalhado da primeira parte da quinta entrega. (Autor: Ana Rocha, 2023).</p>
 </div>
 
+### Ponto de Controle 6
+A Tabela 7 mostra as atividades do Ponto de Controle 6 e as datas em que foram executadas, além de seus autores e revisores.
+
+|           Atividade           | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+| :---------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
+| Backward-From                 |  18/11  |  20/11  |                   Shaíne e Ana                 |                      Todos                     |
+|   Forward-From                |  18/11  |  20/11  |                 Yago e Jefferson               |                      Todos                     |
+| Matriz de Rastreabilidade     |  20/11  |  20/11  |                   Rafael e Yago                |                      Todos                     |
+|     Vídeo de apresentação     |  20/11  |  20/11  |                       Todos                    |                      Todos                     |
+
+<div style="text-align: center">
+<p> Tabela 7: Cronograma detalhado da sexta entrega. (Autor: Rafael Amancio, 2023).</p>
+</div>
+
 ## Bibliografia
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/33/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 12 de setembro de 2023.
