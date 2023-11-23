@@ -46,7 +46,7 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 
 | ID  | Conteúdo                                                                 | Possui/Atende | Qualidade | Observação                                      |
 | --- | ------------------------------------------------------------------------ | ------------- | --------- | ----------------------------------------------- |
-| 1   | Há histórico de versão padronizado?                                      | Sim           | Ótimo     | -                                               |
+| 1   | Há histórico de versão padronizado?                                      | Sim           | Ótimo     |                                               |
 | 2   | Há autor e revisor no artefato?                                          | Incompleto    | Bom       | Na última versão do artefato não possui revisor |
 | 3   | Existem referências bibliográficas?                                      | Sim           | Ótimo     |                                                 |
 | 4   | Possui hiperlinks para outros artefatos caso necessário?                 | Sim           | Ótimo     |                                                 |
