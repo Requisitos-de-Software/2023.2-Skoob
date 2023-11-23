@@ -79,23 +79,14 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo pa
 
 #### Referentes a tabela 1:
 
-- [ID3 - Possui links para os outros artefatos, caso necessário? ](#Tabela1)
-- [ID4 - O artefato possui bibliografia/referências bibliográficas?](#Tabela1)
-- [ID7- O artefato possui revisor?](#Tabela1)
-
- 
-#### Referentes a tabela 2:
-
-- [ID4 - A rastreabilidade abrange todas as fases do ciclo de vida do projeto, desde a elicitação dos requisitos até a validação e a verificação?  ](#Tabela2)
-- [ID5 -A rastreabilidade permite identificar os impactos de mudanças nos requisitos em outros componentes ou funcionalidades do sistema?   ](#Tabela2)
 
 ## Bibliografia
 
-> <a id="a" href="#aa">[1]</a> SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf>. Acesso em 23 de novembro de 2023.
+> <a id="a" href="#aa">[1]</a> SALES, André Barros. Plano de ensino da disciplina. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf). Acesso em 23 de novembro de 2023.
 
-> <a id="b" href="#bb">[2]</a> Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acessado em: 23 de novembro de 2023.
+> <a id="b" href="#bb">[2]</a> Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf). Acessado em: 23 de novembro de 2023.
 
-> <a id="c" href="#cc">[3]</a> Forward-From do Grupo 6 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/forward/>. Acesso em 23 novembro de 2023.
+> <a id="c" href="#cc">[3]</a> Forward-From do Grupo 6 da Disciplina de Requisitos. Disponível em: [Git Page](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/forward/). Acesso em 23 novembro de 2023.
 
 > <a id="d" href="#dd">[4]</a> linhadecódigo, Técnicas de VV&T - Validação, Verificação e Teste. Dipsonível em: <http://www.linhadecodigo.com.br/artigo/492/tecnicas-de-vvampt-validacao-verificacao-e-teste.aspx/>. Acesso em 23 de novembro de 2023.
 

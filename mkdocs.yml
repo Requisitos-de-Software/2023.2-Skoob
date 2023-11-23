@@ -67,6 +67,16 @@ nav:
     - Histórias de Usuários: modelagem/user_story.md
   - Verificação:
     - Revisões: verificacao/revisoes.md
+    - Grupo 6:
+      - Entrega 1:
+        - Cronograma Planejado: verificacao/grupo6/cronograma_6.md
+        - Ferramentas: verificacao/grupo6/ferramentas_6.md
+      - Entrega 2:
+        - Requisitos Elicitados: verificacao/grupo6/requisitos_6.md
+      - Entrega 4:
+        - Backlog: verificacao/grupo6/backlog_6.md
+      - Entrega 6: 
+        - Forward-from: verificacao/grupo6/forward_6.md
     - Grupo 7:
       - Entrega 1: 
         - Rich Picture: verificacao/grupo7/richpicture.md
