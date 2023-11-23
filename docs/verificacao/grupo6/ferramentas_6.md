@@ -45,7 +45,7 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato.
 | 2   | Há autor e revisor no artefato?              | Sim    | Ótimo         |                                           |
 | 3   | Existem referências bibliográficas?          | Sim    | Ótimo         |                                           |
 | 4   | Possui hiperlinks?                           | Sim    | Ótimo         |                                           |
-| 5   | Todas as referências foram citadas no texto? | Não    | Pode melhorar | Não há nenhuma citação no corpo do texto. |
+| 5   | Todas as referências foram citadas no texto? | Não    | Pode melhorar | Não há nenhuma citação no corpo do texto |
 
 <b>Tabela 1</b>: Perguntas selecionadas: Formatação do artefato. (Fonte: Shaíne Oliveira, 2023)
 
