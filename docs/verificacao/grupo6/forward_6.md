@@ -45,13 +45,13 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 
 | ID  | Descrição do Critério                                                                        | Possui | Qualidade     | Observação                                      |
 | --- | -------------------------------------------------------------------------------------------- | ------ | ------------- | ----------------------------------------------- |
-| 1   | O artefato possui introdução?                                                                |     |  |                                                 |
-| 2   | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? |    |         |                                                 |
-| 3   | Possui links para os outros artefatos, caso necessário?                                      |    |  |  |
-| 4   | O artefato possui bibliografia/referências bibliográficas?                                   |    |         |                             |
-| 5   | O artefato possui histórico de versões?                                                      |    |          |                                                 |
-| 6   | O artefato possui autor?                                                                     |    |         |                                                 |
-| 7   | O artefato possui revisor?                                                                   |    |        |                                                 |
+| 1   | O artefato possui introdução?                                                                | Sim    | Ótimo |                                                 |
+| 2   | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? |  Sim  |    Ótimo     |                                                 |
+| 3   | Possui links para os outros artefatos, caso necessário?                                      | Incompleto   | Bom | Colocar o link para o gitpages e não para o github |
+| 4   | O artefato possui bibliografia/referências bibliográficas?                                   | Sim   |  Bom       |      Poderia ter colocado o link de acesso das referências                       |
+| 5   | O artefato possui histórico de versões?          |  Sim        |    Ótimo                                             |
+| 6   | O artefato possui autor?                                    | Sim   |    Ótimo     |                                                 |
+| 7   | O artefato possui revisor?                |  Sim  |  Bom      |    Até a data em que a verificação foi feita a última versão do artefato não havia sido revisada                                           |
 
 <div style="text-align: center;">
     Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Ana Caroline e Shaíne Oliveira, 2023)
@@ -61,12 +61,12 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 | ID  | Descrição do Critério                                                            | Possui | Qualidade | Observação                                                                                               |
 |----|-------------------------------------------------------------------------------------|--------|-----------|-----------------------------------------------------------------------------------------------------------|
-| 1  |   Os requisitos estão devidamente identificados no artefato?                   |        |           |                                                                                                           |
-| 2  |  Cada requisito no artefato possui uma descrição clara e concisa?             |        |           |                                                                                                           |
-| 3  | No artefato, são citados quais requisitos estão implementados e quais não estão?  |        |           |                                                                                                           |
-| 4  | A rastreabilidade abrange todas as fases do ciclo de vida do projeto, desde a elicitação dos requisitos até a validação e a verificação?                                             |        |           |  |
-| 5  | A rastreabilidade permite identificar os impactos de mudanças nos requisitos em outros componentes ou funcionalidades do sistema?                                           |        |           |  |
-| 6  | A rastreabilidade permite identificar os impactos de mudanças nos requisitos em outros componentes ou funcionalidades do sistema?                                           |        |           |  |
+| 1  |   Os requisitos estão devidamente identificados no artefato?                   | Sim       |   Ótimo        |                                                                                                           |
+| 2  |  Cada requisito no artefato possui uma descrição clara e concisa?  |  Sim      |     Ótimo      |                                                                                                           |
+| 3  | No artefato, são citados quais requisitos estão implementados e quais não estão?  |  Sim      |   Ótimo        |                                                                                                           |
+| 4  | A rastreabilidade abrange todas as fases do ciclo de vida do projeto, desde a elicitação dos requisitos até a validação e a verificação?                                             |  Incompleto |    Bom       | Faltou alguns artefatos como: Backlog, NFR Framework e as técnicas de priorização |
+| 5  | A rastreabilidade permite identificar os impactos de mudanças nos requisitos em outros componentes ou funcionalidades do sistema?                                           | Não       |  Pode melhorar         | Não foi feito o protótipo |
+
 
 
 <div style="text-align: center;">
@@ -79,11 +79,15 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo pa
 
 #### Referentes a tabela 1:
 
-- 
+- [ID3 - Possui links para os outros artefatos, caso necessário? ](#Tabela1)
+- [ID4 - O artefato possui bibliografia/referências bibliográficas?](#Tabela1)
+- [ID7- O artefato possui revisor?](#Tabela1)
+
  
 #### Referentes a tabela 2:
 
-- [IDx -  ](#verificacao)
+- [ID4 - A rastreabilidade abrange todas as fases do ciclo de vida do projeto, desde a elicitação dos requisitos até a validação e a verificação?  ](#Tabela2)
+- [ID5 -A rastreabilidade permite identificar os impactos de mudanças nos requisitos em outros componentes ou funcionalidades do sistema?   ](#Tabela2)
 
 ## Bibliografia
 
@@ -100,6 +104,7 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo pa
 | Versão | Data de execução | Data prevista de revisão |      Descrição     |          Autor(es)            |          Revisado            |
 | :----: | :--------------: | :-------------: | :------------------------: | :------------------------: | :------------------: |
 | `1.0`  |    23/11/2023    |   25/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)    |  |
+| `1.1`  |    23/11/2023    |   25/11/2023    | Preenchimento do checklist |   [Ana Rocha](https://github.com/anaaroch_) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)    |  |
 
 ### Revisão (V&V)
 
