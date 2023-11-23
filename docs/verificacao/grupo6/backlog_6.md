@@ -14,9 +14,7 @@ A verificação, segundo o método de inspeção de Fagan, representa uma aborda
 
 A inspeção de Fagan é ilustrada na Figura 1 apresentada abaixo, demonstrando as etapas envolvidas no processo.
 
-<div style="text-align: center;">
-    <img src="../../Fagan.png" alt="image" width="900"/>
-</div>s
+![Inspeção Fagan](../Fagan.png)
 
 <div style="text-align: center;">
     Figura 1: Método de Fagan: Inspeção. (Fonte: Slide “Requisitos – Aula 23” <a id="b" href="#bb">[2]</a>, 2023)
