@@ -31,7 +31,7 @@ Espera-se que o artefato apresente tabelas com o cronograma planejado para o des
 
 No vídeo 1, destacado abaixo, é realizada a verificação do artefato [cronograma planejado](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma/) conforme o checklist elaborado para tal.
 
-<iframe width="1000vw" height="650vh" src="https://youtu.be/DqNI9t4YImk" title="V&V - Cronograma Planejado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+<iframe width="1000vw" height="650vh" src="https://youtube.com/embed/DqNI9t4YImk" title="V&V - Cronograma Planejado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div style="text-align: center">
 <p> Vídeo 1: Gravação da verificação do Cronograma Planejado. (Fonte: Ana Rocha, 2023).</p>
