@@ -59,7 +59,7 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato.
 | 4   | Apresenta uma breve descrição sobre o que cada ferramenta faz?         | Não    | Pode melhorar | Não possui uma breve descrição em todas as ferramentas |
 | 5   | Os nomes e logos das ferramentas condizem com o pesquisado sobre elas? | Sim    | Ótimo         |                                                        |
 
-<b>Tabela 2</b>: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Rafael Amancio, 2023)
+<b>Tabela 2</b>: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Shaíne Oliveira, 2023)
 
 ## Correções e ajustes sugeridos
 
