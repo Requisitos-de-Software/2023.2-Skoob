@@ -78,7 +78,15 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 O artefato foi analisado com atenção aos checklists apresentados, atendendo parte dos critérios. No entanto, recomenda-se realizar ajustes de acordo com as observações detalhadas nas tabelas específicas de cada ID abaixo.
 
 #### Referentes a tabela 1:
+- [ID3- Possui links para os outros artefatos, caso necessário?](#Tabela1)
+- [ID4- O artefato possui bibliografia/referências bibliográficas? ](#Tabela1)
+- [ID7- O artefato possui revisor?    ](#Tabela1)
 
+
+
+#### Referentes a tabela 2:
+- [ID4 - A rastreabilidade abrange todas as fases do ciclo de vida do projeto, desde a elicitação dos requisitos até a validação e a verificação?](#Tabela2)
+- [ID5 - A rastreabilidade permite identificar os impactos de mudanças nos requisitos em outros componentes ou funcionalidades do sistema?](#Tabela2)
 
 ## Bibliografia
 
