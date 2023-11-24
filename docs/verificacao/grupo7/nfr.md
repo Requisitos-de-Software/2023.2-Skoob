@@ -94,4 +94,4 @@ No geral, o artefato está condizente com o conteudo, mas precisa de pequenos aj
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|  13/11/2023   |    `1.0`    |    Revisão por inspeção    | [Ana Rocha](https://github.com/anaaroch_) |
+|  13/11/2023   |    `1.0`    |    Revisão estática    | [Ana Rocha](https://github.com/anaaroch) |
