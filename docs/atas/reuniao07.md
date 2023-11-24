@@ -10,7 +10,7 @@ A reunião 7 teve natureza de emergência e se deu devido ao tempo reduzido entr
 Durante a reunião, os participantes do grupo 6 observaram que, de acordo com o [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf), a entrega 5.1 é a próxima na programação e refere-se à Verificação e Validação dos artefatos da equipe do grupo 7 no projeto do [Detran](https://requisitos-de-software.github.io/2023.2-DETRAN/). Isso implica que o grupo 6 será responsável por avaliar o grupo 7. Consequentemente, os integrantes do grupo 6 perceberam a necessidade de distribuir os artefatos do projeto do Detran, mencionados em projeto do Detran, entre os avaliadores do Skoob. Essa distribuição implicará que cada membro do grupo 6 ficará encarregado da elaboração de 4 artefatos até segunda-feira, dia 13/11, o que representa um prazo de seis dias após a data da reunião e demandará um esforço considerável.
 
 ## O que foi Definido
-Abaixo, a tabela 1 mostra a relação dos artefatos e seus respectivos responsávies pela análise e verificação. Vale lembrar que, para cada artefado do grupo 7 verificado, o responsável pela verificação deverá elaborar um artefato no nosso projeto, explicitando as etapas, metodologias e conclusões da verificação.
+Abaixo, a tabela 1 mostra a relação dos artefatos e seus respectivos responsávies pela análise e verificação. Vale lembrar que, para cada artefato do grupo 7 verificado, o responsável pela verificação deverá elaborar um artefato no nosso projeto, explicitando as etapas, metodologias e conclusões da verificação.
 
 | Artefato  | Responsável(eis) |
 | :-------: |  :-------: |
@@ -68,4 +68,4 @@ Abaixo, o vídeo 1, da gravação da reunião.
 
 | Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    31/10/2023    |   12/10/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |
+| `1.0`  |    07/11/2023    |   18/11/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |
