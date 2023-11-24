@@ -1,10 +1,10 @@
-# Verificação do artefato ["Metodologia"](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/metodologia/)
+# Verificação do artefato ["First Things First"](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/first_things_first/)
 
 ## Introdução
 
 A técnica de verificação de artefatos é uma etapa crítica no processo de avaliação de documentos, projetos ou produtos em várias áreas, incluindo Requisitos de Software. Essa abordagem visa examinar detalhadamente o conteúdo, a estrutura e as características específicas de um artefato para avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos definidos.
 
-Neste contexto, pretendemos aplicar essa técnica ao artefato ["Metodologia"](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/metodologia/) desenvolvido pelo [Grupo 6](https://requisitos-de-software.github.io/2023.2-Skoob/).<a id="a" href="#aa">[3]</a>. A verificação é baseada no plano de ensino e nas datas estabelecidas nele.
+Neste contexto, pretendemos aplicar essa técnica ao artefato ["First Things First"](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/first_things_first/) desenvolvido pelo [Grupo 6](https://requisitos-de-software.github.io/2023.2-Skoob/).<a id="a" href="#aa">[3]</a>. A verificação é baseada no plano de ensino e nas datas estabelecidas nele.
 
 Para esclarecer, a técnica de verificação, inspirada no processo de Fagan, implica na análise rigorosa e sistemática do artefato em busca de erros, inconsistências, lacunas e não conformidades com os requisitos. É uma etapa essencial para garantir a qualidade e a precisão do artefato, assegurando que ele atenda aos objetivos estabelecidos no contexto do projeto ou documento em questão.
 
@@ -19,7 +19,7 @@ O processo será composto pelo "conteúdo esperado" onde foi realizado um checkl
 
 ## Conteúdo esperado
 
-Espera-se que o artefato explique a metodologia que será utilizada durante todo o projeto.
+Espera-se que o artefato explique a técnica que será aplicada e que apresente seus resultados.
 
 ### Verificação
 
@@ -44,25 +44,31 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato.
 | 1   | Há histórico de versão padronizado?                                   | Sim        | Ótimo         |                                           |
 | 2   | Há autor e revisor no artefato?                                       | Sim        | Ótimo         |                                           |
 | 3   | Existem referências bibliográficas?                                   | Sim        | Ótimo         |                                           |
-| 4   | Possui hiperlinks?                                                    | Sim        | Ótimo         |                                           |
+| 4   | Possui hiperlinks?                                                    | Sim        | Bom           | Os hiperlinks da Ana Rocha no Histórico de Versão apresentam o erro de Página não encontrada. |
 | 5   | Todas as referências foram citadas no texto?                          | Sim        | Ótimo         |                                           |
-| 6   | As imagens/tabelas utilizadas possuem legendas e seguem um padrão?    | Incompleto | Pode melhorar | A imagem exemplo do Kanban apresenta erro |
+| 6   | As imagens/tabelas utilizadas possuem legendas e seguem um padrão?    | Sim        | Ótimo         |                                           |
 
 <b>Tabela 1</b>: Perguntas selecionadas: Formatação do artefato. (Fonte: Rafael Amancio, 2023)
 
 A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato.
 
-| ID  | Conteúdo                                                               | Possui     | Qualidade     | Observação                                             |
-| --- | ---------------------------------------------------------------------- | ------     | ------------- | ------------------------------------------------------ |
-| 1   | Apresenta um texto fazendo uma introdução do artefato?                 | Sim        | Ótimo         |                                                        |
-| 2   | Explica em detalhes a metodologia utilizada?                           | Sim        | Ótimo         |                                                        |
+| ID  | Conteúdo                                                                                        | Possui     | Qualidade     | Observação                                             |
+| --- | ----------------------------------------------------------------------------------------------- | ------     | ------------- | ------------------------------------------------------ |
+| 1   | Apresenta um texto fazendo uma introdução do artefato?                                          | Sim        | Ótimo         |                                                        |
+| 2   | Explica em detalhes a técnica utilizada?                                                        | Sim        | Ótimo         |                                                        |
+| 3   | Há participação do cliente e/ou persona no processo de priorização?                             | Sim        | Ótimo         |                                                        |
+| 4   | Os requisitos estão ordenados em ordem de prioridade?                                           | Sim        | Ótimo         |                                                        |
+| 5   | A tabela possui as colunas de benefício, penalidade, valor, custo, risco e suas porcentagens?   | Sim        | Ótimo         |                                                        |
+| 6   | A fórmula para o cálculo da prioridade está correta?                                            | Sim        | Ótimo         |                                                        |
+| 7   | A realização da técnica foi gravada e disponibilizada?                                          | Sim        | Ótimo         |                                                        |
+| 8   | O artefato apresenta uma conclusão?                                                             | Sim        | Ótimo         |                                                        |
 
 
 <b>Tabela 2</b>: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Rafael Amancio, 2023)
 
 ## Correções e ajustes sugeridos
 
-O artefato foi bem elaborado e seguiu quase todos os checklists apresentados na tabela. Porém, uma imagem apresenta um erro, impedindo a visualização da mesma.
+O artefato foi muito bem elaborado e seguiu todos os checklists apresentados na tabela. Um pequeno ajuste deve ser realizado nos hiperlinks do Histórico de Versão.
 
 ## Bibliografia
 
@@ -82,4 +88,4 @@ O artefato foi bem elaborado e seguiu quase todos os checklists apresentados na 
 
 | Data de Revisão | Cobertura de Versões | Técnica |                  Revisor(es)                   |
 | :-------------: | :------------------: | :-----: | :--------------------------------------------: |
-|   xx/xx/xxxx    |        `1.0`         |   --    | [Shaíne](https://github.com/ShaineOliveira) |
+|   xx/xx/xxxx    |        `1.0`         |   --    | [Ana Rocha](https://github.com/anaaroch) |
