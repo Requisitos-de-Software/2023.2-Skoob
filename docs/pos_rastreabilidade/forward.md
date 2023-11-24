@@ -441,3 +441,4 @@ Em síntese, a abordagem "forward-from" de rastreabilidade desempenha um papel e
 | :-------------: | :------------------: | :---------------------------------------------------------: | :-------------: |
 |   19/11/2023    |        `1.0`         |       [Revisão estática](../verificacao/revisoes.md)        | [Jefferson França](https://github.com/Frans6) |
 |   20/11/2023    |        `1.1`         |       [Revisão estática](../verificacao/revisoes.md)        | [Yago Passos](https://github.com/yagompassos) |
+|   23/11/2023   |    `1.2`    |   [Revisão por inspeção](../verificacao/revisoes.md)    |  [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)|
