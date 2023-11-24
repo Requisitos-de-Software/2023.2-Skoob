@@ -21,8 +21,8 @@ Em cada artefato desse projeto de requisitos sobre o aplicativo Skoob, pode ser 
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |
-|   dd/mm/aaaa   |    `1.0`   |    Nome da Técnica     |  Nome do Revisor |
-|   dd/mm/aaaa   |  `1.1` e `1.2` |    Nome da Técnica     |  Nome do Revisor |
+|   dd/mm/aaaa   |    `1.0`   |    [Nome da Técnica](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)     |  Nome do Revisor |
+|   dd/mm/aaaa   |  `1.1` e `1.2` |    [Nome da Técnica](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)     |  Nome do Revisor |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela das revisões. (Fonte: Yago Passos, 2023).</p>
@@ -35,9 +35,9 @@ Dito isso, no campo da técnica de revisão, a terceira coluna da tabela 2, pode
 
 A primeira técnica, **elaboração por pares**, tem origem na técnica de verificação "programação por pares", apresentada na vídeoaula 05 da Univesp <a id="a" href="#aa">[1]</a>. Consiste na elaboração do artefato em dupla, onde uma pessoa, o autor, escreve o documento *markdown* acompanhado do revisor, em tempo real. Há necessáriamente interação verbal entre eles, para o desenvolvimento do artefato.
 
-A segunda técnica (**revisão estática**) consiste na revisão padrão do artefato, procurando defeitos ou inconsistências, é a forma padrão proposta pelo professor André no início do semestre, utilizada por todos os demais grupos da matéria de Requisitos.
+A segunda técnica: (**revisão estática**) consiste na revisão padrão do artefato, procurando defeitos ou inconsistências, é a forma padrão proposta pelo professor André no início do semestre, utilizada por todos os demais grupos da matéria de Requisitos.
 
-A terceira técnica (**revisão por inspeção**), porém, consiste na execução da [quinta entrega](/docs/verificacao), da verificação e validação. Utilizando de uma metodologia criada por Fagan, a equipe analisa os artefatos a partir de uma checklist, criada pelos próprios membros do grupo <a id="b" href="#bb">[2]</a>. As checklists estão descritas em cada artefato de verificação da etapa de [verificação](/docs/verificacao).
+A terceira técnica: (**revisão por inspeção**), porém, consiste na execução da [quinta entrega](/docs/verificacao), da verificação e validação. Utilizando de uma metodologia criada por Fagan, a equipe analisa os artefatos a partir de uma checklist, criada pelos próprios membros do grupo <a id="b" href="#bb">[2]</a>. As checklists estão descritas em cada artefato de verificação da etapa de [verificação](/docs/verificacao).
 
 ## Conclusão
 A adoção de revisões no processo de desenvolvimento do projeto Skoob revela-se essencial para garantir a consistência e qualidade dos artefatos. A padronização do histórico de versionamento, exemplificada nas Tabelas 1 e 2, proporciona uma visão clara do progresso, reduzindo a propagação de erros e minimizando retrabalhos. As técnicas de revisão, como a elaboração por pares, revisão estática e revisão por inspeção, oferecem abordagens distintas, enriquecendo a qualidade do produto final. Este artefato delineia as escolhas da equipe para a verificação e validação, refletindo nosso comprometimento com a excelência e a transparência ao longo do ciclo de desenvolvimento.
@@ -58,4 +58,4 @@ A adoção de revisões no processo de desenvolvimento do projeto Skoob revela-s
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |
-|   dd/mm/aaaa   |    `1.0`   |   nome da Técnica   |  Nome do Revisor |
+|   dd/mm/aaaa   |    `1.0`   |   [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)  |  Nome do Revisor |
