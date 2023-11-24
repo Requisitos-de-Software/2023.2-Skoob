@@ -1,10 +1,10 @@
-# Verificação do artefato ["In or Out"](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/in_or_out/)
+# Verificação do artefato "[Léxico](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/in_or_out/)"
 
 ## Introdução
 
 A técnica de verificação de artefatos é uma etapa crítica no processo de avaliação de documentos, projetos ou produtos em várias áreas, incluindo Requisitos de Software. Essa abordagem visa examinar detalhadamente o conteúdo, a estrutura e as características específicas de um artefato para avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos definidos.
 
-Neste contexto, pretendemos aplicar essa técnica ao artefato <a id="a" href="#aa">["In or Out"](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/in_or_out/) desenvolvido pelo [Grupo 7](https://requisitos-de-software.github.io/2023.2-DETRAN/) [3]</a>. A verificação é baseada no plano de ensino e nas datas estabelecidas nele.
+Neste contexto, pretendemos aplicar essa técnica ao artefato <a id="a" href="#aa">[Léxico](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/in_or_out/) desenvolvido pelo [Grupo 7](https://requisitos-de-software.github.io/2023.2-DETRAN/) [3]</a>. A verificação é baseada no plano de ensino e nas datas estabelecidas nele.
 
 Para esclarecer, a técnica de verificação, inspirada no processo de Fagan, implica na análise rigorosa e sistemática do artefato em busca de erros, inconsistências, lacunas e não conformidades com os requisitos. É uma etapa essencial para garantir a qualidade e a precisão do artefato, assegurando que ele atenda aos objetivos estabelecidos no contexto do projeto ou documento em questão.
 
@@ -83,8 +83,7 @@ Está tudo de acordo, um ótimo artefato.
 
 > [2] Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acessado em: 11 de novembro de 2023.
 
-> [3] Análise de documentos do Grupo 7 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_3/especificacao_suplementar/>. Acesso em 11 novembro de 2023.
-
+> [3] GRUPO 7. Documento de Léxicos do Grupo 7 da Disciplina de Requisitos. Disponível em: [Git Page](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/). Acesso em 11 novembro de 2023.
 
 ## Histórico de Versão
 
