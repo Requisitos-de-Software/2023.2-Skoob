@@ -90,8 +90,18 @@ A priorização dos requisitos com os usuários do aplicativo Skoob, para fins d
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |      Descrição      |                  Autor(es)                  |                  Revisor(es)                   |
-| :----: | :--------------: | :-------------: | :-----------------: | :-----------------------------------------: | :--------------------------------------------: |
-| `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato | [Shaíne](https://github.com/ShaineOliveira) | [Rafael Amancio](https://github.com/Rafael-gc) |
-| `1.1`  |    03/10/2023    |   04/10/2023    | Priorização de Requisitos | Todos | Todos |
-| `1.2`  |    04/10/2023    |   04/10/2023    | Requisitos de outras técnicas adicionados |  [Rafael Amancio](https://github.com/Rafael-gc) | [Shaíne](https://github.com/ShaineOliveira) |
+| Versão | Data de execução | Data prevista de revisão | Descrição  |   Autor(es)    |  Revisado  |
+| :----: | :--------------: | :----------------------: | :--------: | :------------: | :---------:|
+| `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato | [Shaíne](https://github.com/ShaineOliveira) | <input type="checkbox" enabled checked /> |
+| `1.1`  |    03/10/2023    |   04/10/2023    | Priorização de Requisitos | Todos | <input type="checkbox" enabled checked /> |
+| `1.2`  |    04/10/2023    |   04/10/2023    | Requisitos de outras técnicas adicionados |  [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked /> |
+
+<input type="checkbox" disabled checked />
+
+### Revisão (V&V)
+
+| Data de Revisão | Cobertura de Versões  |   Técnica  |    Revisor(es)    |
+| :-------------: | :-------------------: | :--------: |  :--------------: |
+|   03/10/2023   |    `1.0`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Rafael Amancio](https://github.com/Rafael-gc) |
+|   04/10/2023   |    `1.2`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Shaíne](https://github.com/ShaineOliveira) |
+|   24/11/2023   |    `1.2`    |   [Revisão por inspeção](../verificacao/revisoes.md)    |  [Ana Rocha](https://github.com/anaaroch) |
