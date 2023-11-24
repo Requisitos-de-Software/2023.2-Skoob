@@ -106,7 +106,7 @@ Referentes à [Tabela 2](#Tabela2):
 
 | Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    08/11/2023    |   10/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_)    |  |
+| `1.0`  |    08/11/2023    |   10/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch)    |  |
 
 
 ### Revisão (V&V)

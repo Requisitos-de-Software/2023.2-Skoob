@@ -99,4 +99,4 @@ O artefato precisa de ajustes. Para isso, é recomendado fazer os ajustes seguin
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   13/11/2023   |    1.0    |   Revisão por inspeção    | [Ana Caroline](https://github.com/anaaroch_)   |
+|   13/11/2023   |    1.0    |   Revisão estática    | [Ana Caroline](https://github.com/anaaroch)   |

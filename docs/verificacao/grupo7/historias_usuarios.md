@@ -100,7 +100,7 @@ Referentes à [Tabela 2](#Tabela2):
 
 | Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    11/11/2023    |   13/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_)    | <input type="checkbox" disabled checked /> |
+| `1.0`  |    11/11/2023    |   13/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch)    | <input type="checkbox" disabled checked /> |
 
 <!-- Trocar o "disabled" do checkbox para "enabled" quando realizar a revisão -->
 

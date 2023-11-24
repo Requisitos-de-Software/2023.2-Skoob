@@ -29,7 +29,7 @@ A segunda abordagem se apoia na técnica formal de inspeção de Fagan, um proce
 
 No vídeo 1, destacado abaixo, é realizada a verificação do artefato [forward-from](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/forward/) conforme o checklist elaborado para tal.
 
-<iframe width="1000vw" height="650vh" src="https://youtube.com/embed/IXHU9X-dSQA" title="V&V - Cronograma Planejado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+<iframe width="1000vw" height="650vh" src="https://youtube.com/embed/IXHU9X-dSQA" title="V&V - Forward-from" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div style="text-align: center">
 <p> Vídeo 1: Gravação da verificação do Forward-From. (Fonte: Ana Rocha e Shaíne Oliveira, 2023).</p>
@@ -106,9 +106,9 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo pa
 
 | Versão | Data de execução | Data prevista de revisão |      Descrição     |          Autor(es)            |          Revisado            |
 | :----: | :--------------: | :-------------: | :------------------------: | :------------------------: | :------------------: |
-| `1.0`  |    23/11/2023    |   25/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)    | <input type="checkbox" disabled checked /> |
-| `1.1`  |    23/11/2023    |   25/11/2023    | Preenchimento do checklist |   [Ana Rocha](https://github.com/anaaroch_) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)    | <input type="checkbox" disabled checked /> |
-| `1.2`  |    24/11/2023    |   25/11/2023    | Adicionando vídeo da inspeção |   [Ana Rocha](https://github.com/anaaroch_) | <input type="checkbox" disabled checked /> |
+| `1.0`  |    23/11/2023    |   25/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)    | <input type="checkbox" disabled checked /> |
+| `1.1`  |    23/11/2023    |   25/11/2023    | Preenchimento do checklist |   [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)    | <input type="checkbox" disabled checked /> |
+| `1.2`  |    24/11/2023    |   25/11/2023    | Adicionando vídeo da inspeção |   [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" disabled checked /> |
 
 ### Revisão (V&V)
 

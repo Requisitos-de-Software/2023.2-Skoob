@@ -78,9 +78,9 @@ Legenda:
 ## Priorização
 Para a priorização adequada dos requisitos de forma condizente com o método First-Things-First, definimos os envolvidos:
 
-- **Gerente:** O papel foi executado por [Ana Rocha](https://github.com/anaaroch_)
+- **Gerente:** O papel foi executado por [Ana Rocha](https://github.com/anaaroch)
 - **Representante dos clientes:** Vitória Monteiro, uma usuária entrevistada.
-- **Representante de desenvolvimento:** [Yago Passos](https://github.com/yagompassos) e [Ana Rocha](https://github.com/anaaroch_)
+- **Representante de desenvolvimento:** [Yago Passos](https://github.com/yagompassos) e [Ana Rocha](https://github.com/anaaroch)
 
 ### Entrevista 
 A primeira etapa da Priorização consistiu em uma entrevista. Nessa entrevista questionamos a representante dos clientes respeito das funcionalidades elicitadas, pedindo que ela fornesesse um número de 1 a 9, estimando o benefício relativo que cada recurso fornece ao cliente. Também foi pedida a mesma métrica para a estimativa da penalidade que o negócio sofreria se o recurso não fosse implementado. <a id="b" href="#bb">[2]</a>
@@ -115,11 +115,11 @@ Em resumo, a técnica de priorização "First Things First" se mostrou uma ferra
 
 | Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_)    | <input type="checkbox" enabled checked /> |
-| `1.1`  |    04/10/2023    |   04/10/2023    | Atualização do artefato |   [Ana Rocha](https://github.com/anaaroch_)  | <input type="checkbox" enabled checked /> |
+| `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch)    | <input type="checkbox" enabled checked /> |
+| `1.1`  |    04/10/2023    |   04/10/2023    | Atualização do artefato |   [Ana Rocha](https://github.com/anaaroch)  | <input type="checkbox" enabled checked /> |
 | `1.2`  |    04/10/2023    |   04/10/2023    | Seção de Priorização |   [Yago Passos](https://github.com/yagompassos)    | <input type="checkbox" enabled checked /> |
-| `1.3`  |    16/10/2023    |   17/10/2023    | Elaboração da Conclusão | [Ana Rocha](https://github.com/anaaroch_) | <input type="checkbox" enabled checked /> |
-| `1.4`  |    02/11/2023    |   04/11/2023    | Adicionando Cronograma e implementando novo sistema de revisão | [Ana Rocha](https://github.com/anaaroch_) | <input type="checkbox" disabled checked /> |
+| `1.3`  |    16/10/2023    |   17/10/2023    | Elaboração da Conclusão | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" enabled checked /> |
+| `1.4`  |    02/11/2023    |   04/11/2023    | Adicionando Cronograma e implementando novo sistema de revisão | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" disabled checked /> |
 
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
