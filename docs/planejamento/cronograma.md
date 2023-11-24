@@ -183,8 +183,8 @@ As reuniões foram agendadas para todas as segundas-feiras às 21:30h, visando a
 
 | Data de Revisão | Cobertura de Versões  |   Técnica  |    Revisor(es)    |
 | :-------------: | :-------------------: | :--------: |  :--------------: |
-|   16/09/2023   |    `1.2`    |   Revisão estática    |  [Rafael Amancio](https://github.com/Rafael-gc) |
-|   20/09/2023   |    `1.2.1`    |   Revisão estática    |  [Rafael Amancio](https://github.com/Rafael-gc) |
-|   03/10/2023   |    `1.3`    |   Revisão estática    |  [Rafael Amancio](https://github.com/Rafael-gc) |
-|   24/11/2023   |    `1.3`    |   Revisão por inspeção    |  [Ana Rocha](https://github.com/anaaroch) |
+|   16/09/2023   |    `1.2`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Rafael Amancio](https://github.com/Rafael-gc) |
+|   20/09/2023   |    `1.2.1`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Rafael Amancio](https://github.com/Rafael-gc) |
+|   03/10/2023   |    `1.3`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Rafael Amancio](https://github.com/Rafael-gc) |
+|   23/11/2023   |    `1.3`    |   [Revisão por inspeção](../verificacao/revisoes.md)    |  [Ana Rocha](https://github.com/anaaroch) |
 
