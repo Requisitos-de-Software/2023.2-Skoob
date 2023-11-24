@@ -23,7 +23,17 @@ A segunda abordagem se apoia na técnica formal de inspeção de Fagan, um proce
 
 ## Conteúdo esperado
 
-É esperado que o artefato inclua a lista de requisitos elicitados com suas devidas identificações e descrições, além de seguir a estrutura padrão básica exigida para todos os artefatos.
+É esperado que o artefato inclua a lista de requisitos elicitados com suas devidas identificações e descrições, juntamente com uma análise de pós-rastreabilidade, além de seguir a estrutura padrão básica exigida para todos os artefatos.
+
+## Gravação da verificação
+
+No vídeo 1, destacado abaixo, é realizada a verificação do artefato [forward-from](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/forward/) conforme o checklist elaborado para tal.
+
+<iframe width="1000vw" height="650vh" src="https://youtube.com/embed/IXHU9X-dSQA" title="V&V - Cronograma Planejado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align: center">
+<p> Vídeo 1: Gravação da verificação do Forward-From. (Fonte: Ana Rocha e Shaíne Oliveira, 2023).</p>
+</div>
 
 ## Verificação
 
@@ -45,13 +55,13 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 
 | ID  | Descrição do Critério                                                                        | Possui | Qualidade     | Observação                                      |
 | --- | -------------------------------------------------------------------------------------------- | ------ | ------------- | ----------------------------------------------- |
-| 1   | O artefato possui introdução?                                                                | Sim    | Ótimo |                                                 |
-| 2   | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? |  Sim  |    Ótimo     |                                                 |
-| 3   | Possui links para os outros artefatos, caso necessário?                                      | Incompleto   | Bom | Colocar o link para o gitpages e não para o github |
-| 4   | O artefato possui bibliografia/referências bibliográficas?                                   | Sim   |  Bom       |      Poderia ter colocado o link de acesso das referências                       |
-| 5   | O artefato possui histórico de versões?          |  Sim        |    Ótimo                                             |
-| 6   | O artefato possui autor?                                    | Sim   |    Ótimo     |                                                 |
-| 7   | O artefato possui revisor?                |  Sim  |  Bom      |    Até a data em que a verificação foi feita a última versão do artefato não havia sido revisada                                           |
+| 1   | O artefato possui introdução?  | Sim    | Ótimo |  |
+| 2   | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? |  Sim  |    Ótimo     |    |
+| 3   | Possui links para os outros artefatos, caso necessário? | Incompleto  | Bom | Colocar o link para o gitpages e não para o github |
+| 4   | O artefato possui bibliografia/referências bibliográficas?    | Sim  |  Bom   | Poderia ter colocado o link de acesso das referências  |
+| 5   | O artefato possui histórico de versões? |  Sim   |    Ótimo  |   |
+| 6   | O artefato possui autor? | Sim   |    Ótimo     |     |                                            |
+| 7   | O artefato possui revisor?  |  Sim  |  Bom  | Até a data em que a verificação foi feita a última versão do artefato não havia sido revisada   |
 
 <div style="text-align: center;">
     Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Ana Caroline e Shaíne Oliveira, 2023)
@@ -61,13 +71,11 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 | ID  | Descrição do Critério                                                            | Possui | Qualidade | Observação                                                                                               |
 |----|-------------------------------------------------------------------------------------|--------|-----------|-----------------------------------------------------------------------------------------------------------|
-| 1  |   Os requisitos estão devidamente identificados no artefato?                   | Sim       |   Ótimo        |                                                                                                           |
-| 2  |  Cada requisito no artefato possui uma descrição clara e concisa?  |  Sim      |     Ótimo      |                                                                                                           |
-| 3  | No artefato, são citados quais requisitos estão implementados e quais não estão?  |  Sim      |   Ótimo        |                                                                                                           |
-| 4  | A rastreabilidade abrange todas as fases do ciclo de vida do projeto, desde a elicitação dos requisitos até a validação e a verificação?                                             |  Incompleto |    Bom       | Faltou alguns artefatos como: Backlog, NFR Framework e as técnicas de priorização |
-| 5  | A rastreabilidade permite identificar os impactos de mudanças nos requisitos em outros componentes ou funcionalidades do sistema?                                           | Não       |  Pode melhorar         | Não foi feito o protótipo |
-
-
+| 1  |   Os requisitos estão devidamente identificados no artefato?  | Sim  |  Ótimo   |  |
+| 2  |  Cada requisito no artefato possui uma descrição clara e concisa?  |  Sim   |     Ótimo      |   |
+| 3  | No artefato, são citados quais requisitos estão implementados e quais não estão?  |  Sim  |   Ótimo |  |
+| 4  | A rastreabilidade abrange todas as fases do ciclo de vida do projeto, desde a elicitação dos requisitos até a validação e a verificação?  |  Incompleto |  Bom   | Faltou alguns artefatos como: Backlog, NFR Framework e as técnicas de priorização |
+| 5  | A rastreabilidade permite identificar os impactos de mudanças nos requisitos em outros componentes ou funcionalidades do sistema?   | Não   |  Pode melhorar   | Não foi feito o protótipo |
 
 <div style="text-align: center;">
     Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Ana Caroline e Shaíne Oliveira, 2023)
@@ -78,11 +86,9 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 O artefato foi analisado com atenção aos checklists apresentados, atendendo parte dos critérios. No entanto, recomenda-se realizar ajustes de acordo com as observações detalhadas nas tabelas específicas de cada ID abaixo.
 
 #### Referentes a tabela 1:
-- [ID3- Possui links para os outros artefatos, caso necessário?](#Tabela1)
-- [ID4- O artefato possui bibliografia/referências bibliográficas? ](#Tabela1)
-- [ID7- O artefato possui revisor?    ](#Tabela1)
-
-
+- [ID3 - Possui links para os outros artefatos, caso necessário?](#Tabela1)
+- [ID4 - O artefato possui bibliografia/referências bibliográficas? ](#Tabela1)
+- [ID7 - O artefato possui revisor?](#Tabela1)
 
 #### Referentes a tabela 2:
 - [ID4 - A rastreabilidade abrange todas as fases do ciclo de vida do projeto, desde a elicitação dos requisitos até a validação e a verificação?](#Tabela2)
@@ -96,14 +102,13 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo pa
 
 > <a id="c" href="#cc">[3]</a> Forward-From do Grupo 6 da Disciplina de Requisitos. Disponível em: [Git Page](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/forward/). Acesso em 23 novembro de 2023.
 
-> <a id="d" href="#dd">[4]</a> linhadecódigo, Técnicas de VV&T - Validação, Verificação e Teste. Dipsonível em: <http://www.linhadecodigo.com.br/artigo/492/tecnicas-de-vvampt-validacao-verificacao-e-teste.aspx/>. Acesso em 23 de novembro de 2023.
-
 ## Histórico de Versão
 
 | Versão | Data de execução | Data prevista de revisão |      Descrição     |          Autor(es)            |          Revisado            |
 | :----: | :--------------: | :-------------: | :------------------------: | :------------------------: | :------------------: |
-| `1.0`  |    23/11/2023    |   25/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)    |  |
-| `1.1`  |    23/11/2023    |   25/11/2023    | Preenchimento do checklist |   [Ana Rocha](https://github.com/anaaroch_) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)    |  |
+| `1.0`  |    23/11/2023    |   25/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch_) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)    | <input type="checkbox" disabled checked /> |
+| `1.1`  |    23/11/2023    |   25/11/2023    | Preenchimento do checklist |   [Ana Rocha](https://github.com/anaaroch_) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)    | <input type="checkbox" disabled checked /> |
+| `1.2`  |    24/11/2023    |   25/11/2023    | Adicionando vídeo da inspeção |   [Ana Rocha](https://github.com/anaaroch_) | <input type="checkbox" disabled checked /> |
 
 ### Revisão (V&V)
 
