@@ -72,10 +72,10 @@ A Tabela 5 mostra as atividades do Ponto de Controle 4 e as datas em que foram e
 
 |                Atividade                | Entrega | Revisão |            Autor(es)           |           Revisor(es)            |
 | :-------------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
-|             Atas de reunião             |  31/10  | 06/11  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-|              Backlog               |  04/11  |  06/11  |             Rafael              |                   Yago e Jefferson                    |
-|                Histórias de usuário                 |  06/11  |  06/11  |                     Jefferson e Yago                     |                     Yago Passos                     |
-|        NFR Framework        |  04/11  |  06/11  |                      Ana Caroline e Shaíne                      |                     Rafael                     |
+|             Atas de reunião             |  31/10  |  06/11  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|                   Backlog               |  04/11  |  06/11  |             Rafael              |              Yago e Jefferson                    |
+|                Histórias de usuário     |  06/11  |  06/11  |           Jefferson e Yago        |           Yago Passos        |
+|                 NFR Framework           |  04/11  |  06/11  |     Ana Caroline e Shaíne       |                     Rafael                     |
 | Correções do ponto de controle anterior |  06/11  |  06/11  | Todos | Todos |
 |          Vídeo de apresentação          |  06/11  |  06/11  | Todos | Todos |
 
@@ -113,7 +113,7 @@ A Tabela 7 mostra as atividades do Ponto de Controle 6 e as datas em que foram e
 
 ## Bibliografia
 
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/33/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 12 de setembro de 2023.
+> [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/33/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 12 de setembro de 2023.
 
 ## Histórico de Versão
 
