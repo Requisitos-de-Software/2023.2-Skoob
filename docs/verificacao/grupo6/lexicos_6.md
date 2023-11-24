@@ -11,7 +11,7 @@ Em termos práticos, a técnica de verificação, inspirada no processo de Fagan
 
 A metodologia adotada para a verificação dos artefatos é composta por duas abordagens distintas, cada uma contribuindo para assegurar a qualidade e integridade do material analisado.
 
-A primeira é fundamentada nos critérios de avaliação presentes no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf) <a id="a" href="#aa">[1]</a> e nos [slides da aula 10](https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf) <a id="d" href="#dd">[4]</a>, fornecendo um direcionamento preciso para a avaliação do conteúdo esperado nos artefatos. Essa etapa se baseia em um checklist elaborado a partir da leitura do plano e da seção "Questionnaires", encontrada na página 127 do livro <a id="d" href="#dd">[4]</a>, abrangendo questionamentos específicos sobre a construção do [Questionário](https://requisitos-de-software.github.io/2023.2-DETRAN/cronograma/cronograma_de_atividades/) <a id="c" href="#cc">[3]</a>.
+A primeira é fundamentada nos critérios de avaliação presentes no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf) <a id="a" href="#aa">[1]</a> e nos [slides da aula 10](https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf) <a id="d" href="#dd">[4]</a>, fornecendo um direcionamento preciso para a avaliação do conteúdo esperado nos artefatos. Essa etapa se baseia em um checklist elaborado a partir da leitura do plano e dos slides, abrangendo questionamentos específicos sobre a construção dos [léxicos](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/lexico/) <a id="c" href="#cc">[3]</a>.
 
 A segunda abordagem se apoia na técnica formal de inspeção de Fagan, um processo estruturado que visa identificar e corrigir possíveis erros, falhas e problemas nos artefatos analisados, abrangendo documentos, código-fonte, especificações, entre outros itens relacionados a projetos de desenvolvimento de software. Essa técnica proporciona uma revisão criteriosa e sistemática, contribuindo para a melhoria da qualidade e precisão dos artefatos <a id="b" href="#bb">[2]</a>. A inspeção de Fagan é ilustrada na Figura 1 apresentada abaixo, demonstrando as etapas envolvidas no processo.
 
@@ -25,7 +25,7 @@ A segunda abordagem se apoia na técnica formal de inspeção de Fagan, um proce
 
 ## Conteúdo esperado
 
-Espera-se que o artefato apresente uma lista de léxicos, com descrições claras , além de seguir a estrutura padrão básica exigida para todos os artefatos.
+Espera-se que o artefato apresente uma lista de léxicos, com descrições claras, além de seguir a estrutura padrão básica exigida para todos os artefatos.
 
 ## Gravação da verificação
 
@@ -85,7 +85,7 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 | 8  | Todos os léxicos possuem classificação, sinônimo, noção e impacto? |  |  |  |
 
 <div style="text-align: center;">
-    Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a>, Slide “Requisitos – Aula 10” <a id="b" href="#bb">[4]</a>, Ana Rocha e Jefferson França, 2023)
+    Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a>, Slide “Requisitos – Aula 10” <a id="d" href="#dd">[4]</a>, Ana Rocha e Jefferson França, 2023)
 </div>
 
 ## Correções e ajustes sugeridos

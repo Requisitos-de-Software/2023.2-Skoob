@@ -103,4 +103,4 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo pa
 
 | Data de Revisão | Cobertura de Versões | Técnica |                  Revisor(es)                   |
 | :-------------: | :------------------: | :-----: | :--------------------------------------------: |
-|   xx/xx/xxxx    |        `1.0`         |   --    | [Ana Caroline](https://github.com/anaaroch) |  
+|   24/11/2023    |        `1.0`         |   [Revisão estática](./../revisoes.md)    | [Ana Caroline](https://github.com/anaaroch) |  
