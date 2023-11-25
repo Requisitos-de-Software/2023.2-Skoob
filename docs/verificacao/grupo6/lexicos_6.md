@@ -31,12 +31,10 @@ Espera-se que o artefato apresente uma lista de léxicos, com descrições clara
 
 No vídeo 1, destacado abaixo, é realizada a verificação do artefato [léxicos](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/lexico/) conforme o checklist elaborado para tal.
 
-<!-- 
-<iframe width="1000vw" height="650vh" src="https://youtube.com/embed/DqNI9t4YImk" title="V&V - Cronograma Planejado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+<iframe width="1000vw" height="650vh" src="https://youtube.com/embed/OlyhnPBKjK4" title="V&V - Léxicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> 
--->
 <div style="text-align: center">
-<p> Vídeo 1: Gravação da verificação do Cronograma Planejado. (Fonte: Ana Rocha, 2023).</p>
+<p> Vídeo 1: Gravação da verificação dos Léxicos. (Fonte: Ana Rocha e Jefferson França, 2023).</p>
 </div>
 
 ## Verificação
@@ -59,13 +57,13 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 
 | ID | Descrição do Critério | Possui | Qualidade | Observação |
 |----|----------------------|---------------------------------|------------------------|----------|
-| 1  | O artefato possui introdução? |  |  |  |
-| 2  | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? |  |  |  |
-| 3  | Possui links para os outros artefatos, caso necessário? |  |  |   |
-| 4  | O artefato possui bibliografia/referências bibliográficas? |  |  |  |
-| 5  | O artefato possui um histórico de versões? |  |  | |
-| 6  | O artefato possui autor? |  |  | |
-| 7  | O artefato possui revisor? |  |  |  |
+| 1  | O artefato possui introdução? | Sim | Ótimo |  |
+| 2  | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? | Sim | Ótimo |  |
+| 3  | Possui links para os outros artefatos, caso necessário? | Sim | Ótimo |   |
+| 4  | O artefato possui bibliografia/referências bibliográficas? | Sim | Ótimo |  |
+| 5  | O artefato possui um histórico de versões? | Sim | Ótimo | |
+| 6  | O artefato possui autor? | Sim | Ótimo | |
+| 7  | O artefato possui revisor? | Sim | Ótimo |  |
 
 <div style="text-align: center;">
     Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a>, 2023)
@@ -75,14 +73,14 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 | ID | Descrição do Critério | Possui | Qualidade | Observação |
 |----|----------------------|---------------------------------|------------------------|----------|
-| 1  | O artefato inclui a metodologia utilizada com sua descrição correspondente? |  |  |  |
-| 2  | Os léxicos estabelecem conexões e associações entre os termos, como sinônimos, antônimos, hiperônimos e hipônimos? |  |  |  |
-| 3  | Todos os léxicos possuem uma definição clara e concisa? |  |  |  |
-| 4  | Os léxicos cobrem as principais funcionalidades e interações do sistema? |  |  |  |
-| 5  | Os léxicos e suas definições são padronizados em todo o artefato? |  |  |  |
-| 6  | Os léxicos possuem relação com outros artefatos do projeto, como diagramas, especificações e casos de uso? |  |  |  |
-| 7  | É apresentado pelo menos um léxico de cada categoria, sendo elas, verbo, estado e objeto? |  |  |  |
-| 8  | Todos os léxicos possuem classificação, sinônimo, noção e impacto? |  |  |  |
+| 1  | O artefato inclui a metodologia utilizada com sua descrição correspondente? | Sim | Ótimo |  |
+| 2  | Os léxicos estabelecem conexões e associações entre os termos, como sinônimos, antônimos, hiperônimos e hipônimos? | Sim | Bom | Nem todos os léxicos tem sinônimos, sugerimos revisar para ver se tem necessidade de adicionar. |
+| 3  | Todos os léxicos possuem uma definição clara e concisa? | Sim | Ótimo |  |
+| 4  | Os léxicos cobrem as principais funcionalidades e interações do sistema? | Sim | Ótimo |  |
+| 5  | Os léxicos e suas definições são padronizados em todo o artefato? | Sim | Ótimo |  |
+| 6  | Os léxicos possuem relação com outros artefatos do projeto, como diagramas, especificações e casos de uso? | Imcompleto | Pode melhorar | Os léxicos são linkados apenas com os artefatos de elicitação de requisitos. Pode ser incluído um texto explicando que algumas ligações dos léxicos podem  observadas no diagrama de [casos de uso](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/casos_de_uso/). |
+| 7  | É apresentado pelo menos um léxico de cada categoria, sendo elas, verbo, estado e objeto? | Sim | Ótimo |  |
+| 8  | Todos os léxicos possuem classificação, sinônimo, noção e impacto? | Sim | Ótimo |  |
 
 <div style="text-align: center;">
     Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a>, Slide “Requisitos – Aula 10” <a id="d" href="#dd">[4]</a>, Ana Rocha e Jefferson França, 2023)
@@ -92,13 +90,10 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 O artefato foi analisado com atenção aos checklists apresentados, atendendo a maioria dos critérios. No entanto, recomenda-se realizar ajustes de acordo com as observações detalhadas nas tabelas específicas de cada ID abaixo.
 
-Referentes à [Tabela 1](#Tabela1):
-
-- [IDX - ](#Tabela1)
-
 Referentes à [Tabela 2](#Tabela2):
 
-- [IDX - ](#Tabela2)
+- [ID2 - Os léxicos estabelecem conexões e associações entre os termos, como sinônimos, antônimos, hiperônimos e hipônimos?](#Tabela2)
+- [ID6 - Os léxicos possuem relação com outros artefatos do projeto, como diagramas, especificações e casos de uso?](#Tabela2)
 
 
 ## Bibliografia
@@ -113,10 +108,11 @@ Referentes à [Tabela 2](#Tabela2):
 | Versão | Data de execução | Data prevista de revisão | Descrição  |   Autor(es)    |  Revisado  |
 | :----: | :--------------: | :----------------------: | :--------: | :------------: | :---------:|
 | `1.0`  |    24/11/2023    |   27/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6) | <input type="checkbox" disabled checked /> |
+| `1.1`  |    24/11/2023    |   27/11/2023    | Execução da inspeção |   [Ana Rocha](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6) | <input type="checkbox" disabled checked /> |
 
 
 ### Revisão (V&V)
 
 | Data de Revisão | Cobertura de Versões  |   Técnica  |    Revisor(es)    |
 | :-------------: | :-------------------: | :--------: |  :--------------: |
-|   xx/xx/xxxx   |    `1.0`    |   -    |  [Yago](https://github.com/yagompassos) |
+|   xx/xx/xxxx   |    `1.1`    |   -    |  [Yago](https://github.com/yagompassos) |
