@@ -122,7 +122,17 @@ A aplicação do brainstorming no processo de elicitação de requisitos para o 
 
 | Versão | Data de execução | Data de revisão |      Descrição      |                                           Autor(es)                                            |                                                                  Revisor(es)                                                                   |
 | :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
-| `1.1`  |    04/10/2023    |   04/10/2023    | Adicionando a gravação | [Yago Passos](https://github.com/yagompassos) | [Rafael Amancio](https://github.com/Rafael-gc) |
-| `1.2`  |    24/10/2023    |   25/10/2023    | Alterações na tabela | [Rafael Amancio](https://github.com/Rafael-gc) | [Yago Passos](https://github.com/yagompassos)   |
-| `1.3`  |    02/11/2023    |   04/11/2023    | Adicionando Conclusão | [Ana Rocha](https://github.com/anaaroch) | Todos |
+| `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked /> |
+| `1.1`  |    04/10/2023    |   04/10/2023    | Adicionando a gravação | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+| `1.2`  |    24/10/2023    |   25/10/2023    | Alterações na tabela | [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked />   |
+| `1.3`  |    02/11/2023    |   04/11/2023    | Adicionando Conclusão | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" enabled checked /> |
+
+
+### Revisão (V&V)
+
+| Data de Revisão | Cobertura de Versões  |   Técnica  |    Revisor(es)    |
+| :-------------: | :-------------------: | :--------: |  :--------------: |
+|   04/10/2023   |    `1.0`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Yago Passos](https://github.com/yagompassos) |
+|   04/10/2023   |    `1.1`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Rafael Amancio](https://github.com/Rafael-gc) |
+|   04/11/2023   |    `1.3`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Yago Passos](https://github.com/yagompassos) |
+|   25/11/2023   |    `1.3`    |   [Revisão por inspeção](../verificacao/revisoes.md)    |  [Ana Rocha](https://github.com/anaaroch) |
