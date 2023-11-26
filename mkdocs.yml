@@ -44,6 +44,7 @@ nav:
     - Reunião 05: atas/reuniao05.md
     - Reunião 06: atas/reuniao06.md
     - Reunião 07: atas/reuniao07.md
+    - Reunião 08: atas/reuniao08.md
   - Pré-rastreabilidade: 
     - Aplicativos Analisados: pre_rastreabilidade/lista_de_aplicativos.md
     - Aplicativo Escolhido: pre_rastreabilidade/aplicativo_escolhido.md
@@ -74,12 +75,17 @@ nav:
       - Entrega 2:
         - Requisitos Elicitados: verificacao/grupo6/requisitos_6.md
         - Brainstorming: verificacao/grupo6/brainstorming_6.md
+        - Introspecção: verificacao/grupo6/introspeccao_6.md
         - MoSCOW: verificacao/grupo6/moscow_6.md
+        - Three-Level Scale: verificacao/grupo6/three_level_scale_6.md
       - Entrega 3:
+        - Casos de Uso: verificacao/grupo6/casos_de_uso_6.md
         - Lexicos: verificacao/grupo6/lexicos_6.md
+        - NFR Framework: verificacao/grupo6/nfr_framework_6.md
       - Entrega 4:
         - Backlog: verificacao/grupo6/backlog_6.md
       - Entrega 6: 
+        - Backward-from: verificacao/grupo6/backward_from_6.md
         - Forward-from: verificacao/grupo6/forward_6.md
         - Matriz de Rastreabilidade: verificacao/grupo6/matriz_6.md
     - Grupo 7:
