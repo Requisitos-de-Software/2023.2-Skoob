@@ -1,10 +1,10 @@
-# Verificação do artefato "[Cronograma executado](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma_executado/)"
+# Verificação do artefato "[Three-Level Scale](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/three_level_scale/)"
 
 ## Introdução
 
 A análise de artefatos desempenha um papel fundamental na avaliação de documentos, projetos e produtos em diversas áreas, incluindo a Engenharia de Requisitos de Software. A abordagem de verificação de artefatos tem por objetivo realizar uma análise minuciosa do conteúdo, estrutura e atributos específicos de um artefato, com o propósito de avaliar sua qualidade, aderência aos requisitos e congruência com os objetivos previamente definidos.
 
-Nesse contexto, o escopo de nossa pesquisa visa à aplicação da técnica de verificação de artefatos ao artefato do [Cronograma executado](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma_executado/), desenvolvido pela nossa equipe, [Grupo 6](https://requisitos-de-software.github.io/2023.2-Skoob/), em seu projeto no contexto do Skoob <a id="a" href="#aa">[3]</a>. Ressalta-se que a realização da verificação está estritamente alinhada com as diretrizes e datas estipuladas no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf) <a id="a" href="#aa">[1]</a>.
+Nesse contexto, o escopo de nossa pesquisa visa à aplicação da técnica de verificação de artefatos ao artefato de [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/), desenvolvido pela nossa equipe, [Grupo 6](https://requisitos-de-software.github.io/2023.2-Skoob/), em seu projeto no contexto do Skoob <a id="a" href="#aa">[3]</a>. Ressalta-se que a realização da verificação está estritamente alinhada com as diretrizes e datas estipuladas no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf) <a id="a" href="#aa">[1]</a>.
 
 Para melhor compreensão, é relevante salientar que a técnica de verificação, inspirada no processo de Fagan, abarca uma análise sistemática e rigorosa do artefato em busca de possíveis erros, inconsistências, omissões e desvios em relação aos requisitos. Essa etapa desempenha um papel crucial na garantia da qualidade e na precisão do artefato, assegurando sua conformidade com os objetivos estabelecidos no contexto do projeto ou documento em análise <a id="d" href="#dd">[4]</a>.
 
@@ -46,15 +46,15 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 
 | ID | Descrição do Critério | Possui | Qualidade | Observação |
 |----|----------------------|---------------------------------|------------------------|----------|
-| 1  | O artefato possui introdução? | Sim | Ótimo |  |
-| 2  | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? | Sim | Ótimo | |
-| 3  | Possui links para os outros artefatos, caso necessário? | Não | Pode melhorar | Pode-se incluir links para os artefatos já elaborados.  |
-| 4  | O artefato possui bibliografia/referências bibliográficas? | Sim | Ótimo |  |
-| 5  | As referências são citadas no texto?             | Não | Pode melhorar | Não faz sentido não citar nada no texto e colocar referências bibliográficas. |
-| 6  | O artefato possui um histórico de versões? | Sim | Ótimo | |
-| 7  | O artefato possui autor? | Sim | Ótimo | |
-| 8  | O artefato possui revisor? | Sim | Ótimo |  |
-| 9  | O Histórico de versão está padronizado de acordo com as mudanças do artefato de [revisoes](../revisoes.md)? | Sim | Ótimo |  |
+| 1  | O artefato possui introdução? | SIm | Bom | Pode ser mais introdutório e descritivo. |
+| 2  | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? | Sim | Ótimo |  |
+| 3  | Possui links para os outros artefatos, caso necessário? | Não | Pode Melhorar  | Procurar artefatos para linkar (exemplo: requisitos elicitados)   |
+| 4  | O artefato possui bibliografia/referências bibliográficas? | Sim  |Ótimo |  |
+| 5  | As referências são citadas no texto?             | Não | Pode melhorar  |  |
+| 6  | O artefato possui um histórico de versões? | Sim | Podem melhorar | Não está padronizado de acordo com as mudanças das [revisoes](../revisoes.md) |
+| 7  | O artefato possui autor? | Sim | Ótimo  |  |
+| 8  | O artefato possui revisor? | Sim | Ótimo  |   |
+| 9  | O Histórico de versão está padronizado de acordo com as mudanças do artefato de [revisoes](../revisoes.md)? | Não | Pode melhorar  |  |
 
 <div style="text-align: center;">
     Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a>, 2023)
@@ -64,10 +64,11 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 | ID | Descrição do Critério | Possui | Qualidade | Observação |
 |----|----------------------|---------------------------------|------------------------|----------|
-| 1  | O cronograma executado apresenta todas as atividades concluídas de todas as etapas do projeto? | Não | Pode melhorar | Existem artefatos feitos pela equipe que não estão presentes, como o de [revisoes](../revisoes.md) |
-| 2  | O cronograma fornece autor, revisor e datas de início e fim para cada artefato das etapas? | Sim | Ótimo | | 
-| 3  | Os nomes dos autores e revisores estão condizentes com os do histórico de versão de cada artefato? | Sim | Ótimo | |
-| 4  | As datas de início e término das atividades estão acertadas com as do desenvolvimento do projeto? | Não | Pode melhorar | O ponto de controle 1 está com as datas todas iguais  |
+| 1  | O artefato explica como é feito a técnica de introspecção? | Incompleto | Pode melhorar | Não fica muito claro |
+| 2  | É explicado como a equipe aplicou a técnica? | Não | Pode melhorar | Não há descrição de como a equipe se reuniu e como foi aplicada a técnica | 
+| 3  | Há na metodologia data, hora e participantes que estiverem presentes na elicitação? | Não | Pode melhorar  | A metodologia está descrita como "Execução", mas não é detalhada o suficiente  |
+| 4  | Há gravação da técnica? | Não | Pode melhorar  |  |
+| 5  | Os resultados da técnica estão bem explicitados? | Sim | Ótimo |  |
 
 <div style="text-align: center;">
     Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a> e Ana Rocha, 2023)
@@ -75,17 +76,20 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 ## Correções e ajustes sugeridos
 
-O artefato foi analisado com atenção aos checklists apresentados, atendendo a maioria dos critérios. No entanto, recomenda-se realizar ajustes de acordo com as observações detalhadas nas tabelas específicas de cada ID abaixo.
+O artefato foi analisado com atenção aos checklists apresentados, atendendo a maioria dos critérios. No entanto, recomenda-se realizar ajustes de acordo com as observações detalhadas nas tabelas específicas abaixo.
 
 Referentes à [Tabela 1](#Tabela1):
 
--  Cada artefato desenvolvido pode ser ligado na tabela de sua etapa referente, facilitando o percurso entre os artefatos do projeto
+- Pode-se linkar o artefato com os de [Requisitos Elicitados](../../elicitacao/requisitos.md).
 - Sempre utilizar as referências no texto, mostrando que a bibliografia foi usada.
+- Padronizar o histórico de versionamento de acordo com [revisoes](../revisoes.md).
 
 Referentes à [Tabela 2](#Tabela2):
 
--  Não apenas os artefatos pedidos em cada entrega precisam ser listados no cornograma, mas os desenvolvidos pela equipe para aprimorar o objeto também.
--  Pode-se acessar os artefatos e avaliar as datas do histórico de versão, para corrigir as datas erradas nas tabelas do cronograma executado
+-  É interessante detalhar o máximo possível como foi feito a técnica do artefato.
+-  Ser mais claro para explicar a técnica, procurar e utilizar outra referência bibliográfica para auxiliar nisso. 
+-  Padronizar o nome "Execução" para "Metodologia", como é em todos os outro artefatos.
+-  Era interessante ter uma gravação da técnica sendo realizada.
 
 
 ## Bibliografia
@@ -109,4 +113,4 @@ Referentes à [Tabela 2](#Tabela2):
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   dd/mm/aaaa   |  `1.1` e `1.2` |    [Revisão estática](../verificacao/revisoes.md)   | [Ana Rocha](https://github.com/anaaroch) |
+|   dd/mm/aaaa   |  `1.0`  |    [Revisão estática](../verificacao/revisoes.md)   | [Rafael Amancio](https://github.com/Rafael-gc) |
