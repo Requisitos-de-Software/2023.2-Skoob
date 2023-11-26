@@ -57,7 +57,7 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 | 9  | O Histórico de versão está padronizado de acordo com as mudanças do artefato de [revisoes](../revisoes.md)? | Sim | Ótimo |  |
 
 <div style="text-align: center;">
-    Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a>, 2023)
+    Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a> e Yago Passos, 2023)
 </div>
 
 A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id="Tabela2"></a>
@@ -70,7 +70,7 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 | 4  | As datas de início e término das atividades estão acertadas com as do desenvolvimento do projeto? | Não | Pode melhorar | O ponto de controle 1 está com as datas todas iguais  |
 
 <div style="text-align: center;">
-    Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a> e Ana Rocha, 2023)
+    Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a> e Yago Passos, 2023)
 </div>
 
 ## Correções e ajustes sugeridos

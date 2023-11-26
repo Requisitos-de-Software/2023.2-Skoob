@@ -57,7 +57,7 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 | 9  | O Histórico de versão está padronizado de acordo com as mudanças do artefato de [revisoes](../revisoes.md)? | Não | Pode melhorar  |  |
 
 <div style="text-align: center;">
-    Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a>, 2023)
+    Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a> e Yago Passos, 2023)
 </div>
 
 A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id="Tabela2"></a>
@@ -71,7 +71,7 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 | 5  | Os resultados da técnica estão bem explicitados? | Sim | Ótimo |  |
 
 <div style="text-align: center;">
-    Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a> e Ana Rocha, 2023)
+    Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a> e Yago Passos, 2023)
 </div>
 
 ## Correções e ajustes sugeridos
@@ -98,7 +98,7 @@ Referentes à [Tabela 2](#Tabela2):
 
 > <a id="b" href="#bb">[2]</a> Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acessado em: 12 de novembro de 2023.
 
-> <a id="c" href="#cc">[3]</a> Cronograma executado do Grupo 6 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma_executado/>. Acesso em 12 novembro de 2023.
+> <a id="c" href="#cc">[3]</a> Introspecção do Grupo 6 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/>. Acesso em 12 novembro de 2023.
 
 > <a id="d" href="#dd">[4]</a> linhadecódigo, Técnicas de VV&T - Validação, Verificação e Teste. Dipsonível em: <http://www.linhadecodigo.com.br/artigo/492/tecnicas-de-vvampt-validacao-verificacao-e-teste.aspx/>. Acesso em 8 de novembro de 2023.
 
