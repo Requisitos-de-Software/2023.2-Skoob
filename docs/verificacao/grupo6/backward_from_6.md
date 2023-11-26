@@ -1,10 +1,10 @@
-# Verificação do artefato "[NFR framework](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/nfr_framework/)"
+# Verificação do artefato "[Backward-From](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/backward/)"
 
 ## Introdução
 
 A análise de artefatos desempenha um papel fundamental na avaliação de documentos, projetos e produtos em diversas áreas, incluindo a Engenharia de Requisitos de Software. A abordagem de verificação de artefatos tem por objetivo realizar uma análise minuciosa do conteúdo, estrutura e atributos específicos de um artefato, com o propósito de avaliar sua qualidade, aderência aos requisitos e congruência com os objetivos previamente definidos.
 
-Nesse contexto, o escopo de nossa pesquisa visa à aplicação da técnica de verificação de artefatos ao artefato de [NFR framework](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/nfr_framework/), [Grupo 6](https://requisitos-de-software.github.io/2023.2-Skoob/), em seu projeto no contexto do Skoob <a id="a" href="#aa">[3]</a>. Ressalta-se que a realização da verificação está estritamente alinhada com as diretrizes e datas estipuladas no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf) <a id="a" href="#aa">[1]</a>.
+Nesse contexto, o escopo de nossa pesquisa visa à aplicação da técnica de verificação de artefatos ao artefato de [Backward-From](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/backward/), em seu projeto no contexto do Skoob <a id="a" href="#aa">[3]</a>. Ressalta-se que a realização da verificação está estritamente alinhada com as diretrizes e datas estipuladas no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf) <a id="a" href="#aa">[1]</a>.
 
 Para melhor compreensão, é relevante salientar que a técnica de verificação, inspirada no processo de Fagan, abarca uma análise sistemática e rigorosa do artefato em busca de possíveis erros, inconsistências, omissões e desvios em relação aos requisitos. Essa etapa desempenha um papel crucial na garantia da qualidade e na precisão do artefato, assegurando sua conformidade com os objetivos estabelecidos no contexto do projeto ou documento em análise <a id="d" href="#dd">[4]</a>.
 
@@ -44,56 +44,38 @@ Com base nisso, foram criadas as Tabela 1 e 2 a seguir, que relaciona as especif
 
 A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a id="Tabela1"></a>
 
-|  | Descrição do Critério | Possui | Qualidade | Observação |
+|    | Descrição do Critério | Possui | Qualidade | Observação |
 |----|----------------------|---------------------------------|------------------------|----------|
-| 1  | O artefato possui introdução?    |  |  |  |
-| 2  | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? |  |  |  |
-| 3  | Possui links para os outros artefatos, caso necessário?                  |  |  |  |
-| 4  | O artefato possui bibliografia/referências bibliográficas?       | | | |
-| 5  | As referências são citadas no texto?             |  |  |  |
-| 6  | O artefato possui um histórico de versões?        | |  |   |
-| 7  | O artefato possui autor?     | | |  |
-| 8  | O artefato possui revisor?   | | |  |
-| 9  | O Histórico de versão está padronizado de acordo com as mudanças do artefato de [revisoes](../revisoes.md)? |  |  |  |
+| 1  | O artefato possui introdução?    | Sim | Ótimo  |  |
+| 2  | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? | Sim | Ótimo  |   |
+| 3  | Possui links para os outros artefatos, caso necessário?                  | Sim | Ótimo  |  |
+| 4  | O artefato possui bibliografia/referências bibliográficas?       | Sim | Ótimo  |  |
+| 5  | As referências são citadas no texto?             | Sim | Ótimo  |  |
+| 6  | O artefato possui um histórico de versões?        | Sim | Ótimo  |   |
+| 7  | O artefato possui autor?     |Sim | Ótimo  |   |
+| 8  | O artefato possui revisor?   |Sim | Ótimo  |   |
+| 9  | O Histórico de versão está padronizado de acordo com as mudanças do artefato de [revisoes](../revisoes.md)? | Sim | Ótimo  |   |
 
 <div style="text-align: center;">
-    Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a>, Yago Passos e Rafael Amancio, 2023)
+    Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a> e Yago Passos, 2023)
 </div>
 
 A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id="Tabela2"></a>
 
-|  | Descrição do Critério | Possui | Qualidade | Observação |
-|----|----------------------|---------------------------------|------------------------|----------|
-| 1  | Esá descrita a definição do RNF?                             |  |  |  |
-| 2  | Existe o cartão de especificação do RNF?                     |  |  |  |
-| 3  | Os softgoals condizem com o contexto?                        |  |  |  |
-| 4  | Softgoals representam metas bem definidas?                   |  |  |  |
-| 5  | Os impactos foram corretamente propagados?                   |  |  |  |
+|     | Descrição do Critério | Possui | Qualidade | Observação |
+|-----|----------------------|---------------------------------|------------------------|----------|
+| 1   | A metodologia de rastreabilidade "backward-from" está detalhada e compreensível?                      |  Sim | Ótimo  |   |
+| 2   | Os quatro níveis e seis elos de rastreabilidade estão claramente apresentados??                       |  Sim | Ótimo  |   |
+| 3   | Os elos entre os requisitos funcionais e não-funcionais estão corretamente identificados na Tabela 3? |  Sim | Ótimo  |  |
+| 4   | Os tipos de elos (Satisfação, Recurso, Agregação) estão aplicados de acordo com a metodologia?        |  Sim | Ótimo  |   |
 
 <div style="text-align: center;">
-    Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a>, Yago Passos e Rafael Amancio, 2023)
+    Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a> e Yago Passos, 2023)
 </div>
 
 ## Correções e ajustes sugeridos
 
-O artefato foi analisado com atenção aos checklists apresentados, atendendo a maioria dos critérios. No entanto, recomenda-se realizar ajustes de acordo com as observações detalhadas nas tabelas específicas abaixo.
-
-Referentes à [Tabela 1](#Tabela1):
-
-- 
-
-Referentes à [Tabela 2](#Tabela2):
-
-- 
-
-## Gravação da Verificação
-Abaixo, o vídeo 1, da gravação da Verificação.
-
-<iframe width="1000vw" height="650vh" src="https://youtube.com/embed/Wrzl6eDfBQs" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<div style="text-align: center">
-<p> Vídeo 1: Verificação do Artefato. (Fonte: Yago Passos. 2023).</p>
-</div>
+O artefato foi analisado com atenção aos checklists apresentados, atendendo todos critérios. Portanto, não há sugestões de ajuste ou melhora.
 
 ## Bibliografia
 
@@ -101,7 +83,7 @@ Abaixo, o vídeo 1, da gravação da Verificação.
 
 > <a id="b" href="#bb">[2]</a> Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acessado em: 12 de novembro de 2023.
 
-> <a id="c" href="#cc">[3]</a> NFR Framework do Grupo 6 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/nfr_framework/>. Acesso em 26 novembro de 2023.
+> <a id="c" href="#cc">[3]</a> Backward From do Grupo 6 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/backward/>. Acesso em 26 novembro de 2023.
 
 > <a id="d" href="#dd">[4]</a> linhadecódigo, Técnicas de VV&T - Validação, Verificação e Teste. Dipsonível em: <http://www.linhadecodigo.com.br/artigo/492/tecnicas-de-vvampt-validacao-verificacao-e-teste.aspx/>. Acesso em 8 de novembro de 2023.
 
@@ -116,4 +98,4 @@ Abaixo, o vídeo 1, da gravação da Verificação.
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   dd/mm/aaaa   |  `1.0`  |    [Revisão estática](../verificacao/revisoes.md)   |  [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)  |
+|   dd/mm/aaaa   |  `1.0`  |    [Revisão estática](../verificacao/revisoes.md)   |  [Shaíne Oliveira](https://github.com/ShaineOliveira_) |
