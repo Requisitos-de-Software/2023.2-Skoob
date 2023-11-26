@@ -48,9 +48,9 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 |----|----------------------|---------------------------------|------------------------|----------|
 | 1  | O artefato possui introdução? | Sim | Ótima  |  |
 | 2  | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? | Sim | Ótimo  |  |
-| 3  | Possui links para os outros artefatos, caso necessário? | Não | Pode melhorar  | Poderia ser linkado ao artefato de [requisitos elicitados](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/requisitos/) |
-| 4  | O artefato possui bibliografia/referências bibliográficas? | Sim | Bom | Poderia ter mais referências. |
-| 5  | As referências são citadas no texto?             | Não | Pode melhorar  | A introdução traz elementos da bibliografia mas não possui citação.  |
+| 3  | Possui links para os outros artefatos, caso necessário? | Não | Ótimo  | Não parece necessário.|
+| 4  | O artefato possui bibliografia/referências bibliográficas? | Sim | Ótimo | |
+| 5  | As referências são citadas no texto?             | Não | Pode melhorar  | O texto do corpo do artefato traz elementos da bibliografia mas não possui citação.  |
 | 6  | O artefato possui um histórico de versões? | Sim | Bom  | Não está padronizado com as mudanças do artefato de [revisoes](../revisoes.md) |
 | 7  | O artefato possui autor? | Sim |Ótimo  |  |
 | 8  | O artefato possui revisor? |Sim |Ótimo  |  |
@@ -68,8 +68,8 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 | 2  | Existe limite do sistema?                           | Sim     | Ótimo |  |
 | 3  | Os atores estão fora da fronteira do sistema?      | Sim    | Ótimo |    |
 | 4  | O ator principal está do lado esquerdo do sistema? | Sim     | Ótimo   |   |
-| 5  | 	Os casos de uso possuem rastreabilidade?          | Sim     | Bom   |  Só faltou colocar os links para melhor rastreabilidade |
-| 6  | 	Os diagramas de caso de uso focam nos requisitos funcionais do sistema?| Sim  | Ótimo    |   |
+| 5  | Os casos de uso possuem rastreabilidade?          | Sim     | Bom   |  Só faltou colocar os links para melhor rastreabilidade |
+| 6  | Os diagramas de caso de uso focam nos requisitos funcionais do sistema?| Sim  | Ótimo    |   |
 
 <div style="text-align: center;">
     Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a> e Yago Passos, 2023)
