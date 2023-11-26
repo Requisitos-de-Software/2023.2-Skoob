@@ -46,15 +46,15 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 
 |  | Descrição do Critério | Possui | Qualidade | Observação |
 |----|----------------------|---------------------------------|------------------------|----------|
-| 1  | O artefato possui introdução?    |  |  |  |
-| 2  | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? |  |  |  |
-| 3  | Possui links para os outros artefatos, caso necessário?                  |  |  |  |
-| 4  | O artefato possui bibliografia/referências bibliográficas?       | | | |
-| 5  | As referências são citadas no texto?             |  |  |  |
-| 6  | O artefato possui um histórico de versões?        | |  |   |
-| 7  | O artefato possui autor?     | | |  |
-| 8  | O artefato possui revisor?   | | |  |
-| 9  | O Histórico de versão está padronizado de acordo com as mudanças do artefato de [revisoes](../revisoes.md)? |  |  |  |
+| 1  | O artefato possui introdução?    | Sim | Ótimo |  |
+| 2  | Todas as tabelas e imagens do artefato possuem legendas, fontes e são introduzidas no texto? | Incompleto | Pode melhorar | As tabelas e figuras precisam ser introduzidas. |
+| 3  | Possui links para os outros artefatos, caso necessário?                  | Sim | Ótimo |  |
+| 4  | O artefato possui bibliografia/referências bibliográficas?       | Sim|  Ótimo | |
+| 5  | As referências são citadas no texto?             | Incompleto | Pode melhorar | Faltou citar a segunda referência no texto. |
+| 6  | O artefato possui um histórico de versões?        | Sim | Ótimo |   |
+| 7  | O artefato possui autor?     | Sim | Ótimo |  |
+| 8  | O artefato possui revisor?   | Sim | Ótimo |  |
+| 9  | O Histórico de versão está padronizado de acordo com as mudanças do artefato de [revisoes](../revisoes.md)? | Sim | Ótimo |  |
 
 <div style="text-align: center;">
     Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a>, Yago Passos e Rafael Amancio, 2023)
@@ -64,11 +64,13 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 |  | Descrição do Critério | Possui | Qualidade | Observação |
 |----|----------------------|---------------------------------|------------------------|----------|
-| 1  | Esá descrita a definição do RNF?                             |  |  |  |
-| 2  | Existe o cartão de especificação do RNF?                     |  |  |  |
-| 3  | Os softgoals condizem com o contexto?                        |  |  |  |
-| 4  | Softgoals representam metas bem definidas?                   |  |  |  |
-| 5  | Os impactos foram corretamente propagados?                   |  |  |  |
+| 1  | O Framework NFR é apresentado de maneira clara e compreensível? | Sim | Ótimo |  | 
+| 2  | Esá descrita a definição do RNF?                             | Sim | Ótimo |  |
+| 3  | Existe o cartão de especificação do RNF?                     | Sim | Ótimo |  |
+| 4  | Os softgoals condizem com o contexto?                        | Sim | Ótimo | Lembrar de alterar o requisito de portabilidade sobre o aplicativo funcionar em qualquer sistema operacional |
+| 5  | Softgoals representam metas bem definidas?                   | Sim | Bom | Os softgoal de Claim estão mais bem definidos do que os outros. |
+| 6  | Os impactos foram corretamente propagados?                   | Sim | Ótimo | No segundo NFR, os softgoals de claim não parecem propagar corretamente para os de operacionalização.  |
+
 
 <div style="text-align: center;">
     Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a>, Yago Passos e Rafael Amancio, 2023)
@@ -80,11 +82,14 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo a 
 
 Referentes à [Tabela 1](#Tabela1):
 
-- 
+- Introduzir no texto todas tabelas e figuras do corpo do artefato.
+- Faltou citar ou remover a segunda referência bibliográfica.
+
 
 Referentes à [Tabela 2](#Tabela2):
 
-- 
+- Corrigir o requisito nao funcional de portabilidade em *todas* as plataformas. Segundo o professor André, esse requisito é muito ambicioso e jamais será satisfeito.
+- Rever propagação do segundo NFR.
 
 ## Gravação da Verificação
 Abaixo, o vídeo 1, da gravação da Verificação.
@@ -109,7 +114,7 @@ Abaixo, o vídeo 1, da gravação da Verificação.
 
 | Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    26/11/2023    |   26/11/2023    | Elaboração do artefato |   [Yago Passos](https://github.com/yagompassos)   | <input type="checkbox" enabled checked /> |
+| `1.0`  |    26/11/2023    |   26/11/2023    | Elaboração do artefato |   [Yago Passos](https://github.com/yagompassos) e [Rafael Amancio](https://github.com/Rafael-gc)   | <input type="checkbox" enabled checked /> |
 
 
 ### Revisão (V&V)
