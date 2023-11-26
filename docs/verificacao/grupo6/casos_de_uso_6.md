@@ -64,12 +64,14 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 | ID | Descrição do Critério | Possui | Qualidade | Observação |
 |----|----------------------|---------------------------------|------------------------|----------|
-| 1  | A modelagem de casos de uso cobre todas as principais funcionalidades e interações do sistema?   | Sim   | Ótimo |  |
+| 1  | A modelagem de casos de uso cobre todas as principais funcionalidades e interações do sistema?   | Sim   | Bom | o nome Compartilhar atividades de leitura, do [UC04](../../modelagem/casos_de_uso.md) não parece descrever bem o que real representa o caso de uso.  |
 | 2  | Existe limite do sistema?                           | Sim     | Ótimo |  |
-| 3  | Os atores estão fora da fronteira do sistema?      | Sim    | Ótimo |    |
+| 3  | Os atores estão fora da fronteira do sistema?      | Sim    | Pode Melhorar | O sistema possui o limite, mas também está representado como um ator, fora do sistema. |
 | 4  | O ator principal está do lado esquerdo do sistema? | Sim     | Ótimo   |   |
 | 5  | Os casos de uso possuem rastreabilidade?          | Sim     | Bom   |  Só faltou colocar os links para melhor rastreabilidade |
-| 6  | Os diagramas de caso de uso focam nos requisitos funcionais do sistema?| Sim  | Ótimo    |   |
+| 6  | Os diagramas de caso de uso focam nos requisitos funcionais do sistema? | Sim  | Bom    | Comentar publicação não parece ser um requisito tão principal ou relevante para ser modelado.  |
+| 7  | O artefato possui metodologia explicando como, quando, onde e quem desenvolveu os casos de uso? | Não | Pode Melhorar |  |
+| 8  | O artefato explica ou linka a(s) ferramenta(s) utilizada(s) para a elaboração dos casos de uso? | Não | Pode Melhorar |  |
 
 <div style="text-align: center;">
     Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Plano de ensino da disciplina <a id="a" href="#aa">[1]</a> e Yago Passos, 2023)
@@ -81,15 +83,16 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo a 
 
 Referentes à [Tabela 1](#Tabela1):
 
-- Pode-se linkar o artefato com os de [Requisitos Elicitados](../../elicitacao/requisitos.md).
 - Sempre utilizar as referências no texto, mostrando que a bibliografia foi usada.
-- Procurar e utilizar outra(s) referência(s) bibliográfica(s) 
 - Padronizar o histórico de versionamento de acordo com [revisoes](../revisoes.md).
 
 Referentes à [Tabela 2](#Tabela2):
 
--  Incluir no Cronograma: todos os participantes da técnica.
-- Ligar as câmeras na gravação da técnica
+- Rever o sistema como um ator fora do sistema em si no diagrama.
+- Adicionar links dos requisitos para facilitar rastreabilidade e comunicação entre artefatos
+- Modelar os requisitos mais importantes da plataforma (UC 01 a 04 são ótimos. Porém o UC05 parece irrelevante)
+- Ser mais descritivo na elaboração do artefato e do seu conteúdo.
+- Linkar o artefato de ferramentas, explicando o que foi utilizado para a elaboração do diagrama
 
 ## Gravação da Verificação
 Abaixo, o vídeo 1, da gravação da Verificação.
