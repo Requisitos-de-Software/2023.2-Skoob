@@ -16,7 +16,7 @@ A inspeção de Fagan é ilustrada na Figura 1 apresentada abaixo, demonstrando 
 
 <div style="text-align: center;">
     <img src="../../Fagan.png" alt="image" width="900"/>
-</div>s
+</div>
 
 <div style="text-align: center;">
     Figura 1: Método de Fagan: Inspeção. (Fonte: Slide “Requisitos – Aula 23” <a id="b" href="#bb">[2]</a>, 2023)

@@ -4,7 +4,7 @@
 
 A análise de artefatos desempenha um papel fundamental na avaliação de documentos, projetos e produtos em diversas áreas, incluindo a Engenharia de Requisitos de Software. A abordagem de verificação de artefatos tem por objetivo realizar uma análise minuciosa do conteúdo, estrutura e atributos específicos de um artefato, com o propósito de avaliar sua qualidade, aderência aos requisitos e congruência com os objetivos previamente definidos.
 
-Nesse contexto, o escopo de nossa pesquisa visa à aplicação da técnica de verificação de artefatos ao artefato de [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/), desenvolvido pela nossa equipe, [Grupo 6](https://requisitos-de-software.github.io/2023.2-Skoob/), em seu projeto no contexto do Skoob <a id="a" href="#aa">[3]</a>. Ressalta-se que a realização da verificação está estritamente alinhada com as diretrizes e datas estipuladas no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf) <a id="a" href="#aa">[1]</a>.
+Nesse contexto, o escopo de nossa pesquisa visa à aplicação da técnica de verificação de artefatos ao artefato de [Three-Level Scale](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/three_level_scale/), desenvolvido pela nossa equipe, [Grupo 6](https://requisitos-de-software.github.io/2023.2-Skoob/), em seu projeto no contexto do Skoob <a id="a" href="#aa">[3]</a>. Ressalta-se que a realização da verificação está estritamente alinhada com as diretrizes e datas estipuladas no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf) <a id="a" href="#aa">[1]</a>.
 
 Para melhor compreensão, é relevante salientar que a técnica de verificação, inspirada no processo de Fagan, abarca uma análise sistemática e rigorosa do artefato em busca de possíveis erros, inconsistências, omissões e desvios em relação aos requisitos. Essa etapa desempenha um papel crucial na garantia da qualidade e na precisão do artefato, assegurando sua conformidade com os objetivos estabelecidos no contexto do projeto ou documento em análise <a id="d" href="#dd">[4]</a>.
 
@@ -16,7 +16,7 @@ A inspeção de Fagan é ilustrada na Figura 1 apresentada abaixo, demonstrando 
 
 <div style="text-align: center;">
     <img src="../../Fagan.png" alt="image" width="900"/>
-</div>s
+</div>
 
 <div style="text-align: center;">
     Figura 1: Método de Fagan: Inspeção. (Fonte: Slide “Requisitos – Aula 23” <a id="b" href="#bb">[2]</a>, 2023)
