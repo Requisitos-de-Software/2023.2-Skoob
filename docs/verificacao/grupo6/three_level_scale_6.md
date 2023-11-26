@@ -95,7 +95,7 @@ Referentes à [Tabela 2](#Tabela2):
 ## Gravação da Verificação
 Abaixo, o vídeo 1, da gravação da Verificação.
 
-<iframe width="1000vw" height="650vh" src="https://youtube.com/embed/Wrzl6eDfBQs" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://youtube.com/embed/yuzum8OihKQ" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <div style="text-align: center">
 <p> Vídeo 1: Verificação do Artefato. (Fonte: Yago Passos. 2023).</p>
