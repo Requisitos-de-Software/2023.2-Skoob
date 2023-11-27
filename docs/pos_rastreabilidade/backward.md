@@ -173,5 +173,6 @@ Em síntese, a aplicação da técnica de rastreabilidade "backward-from" no Sko
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   16/11/2023   |   `1.0`     |   Revisão Estática    | [Ana Caroline](https://github.com/anaaroch)   |
-|   20/11/2023   |   `1.1`     |   Revisão Estática    | [Shaíne](https://github.com/ShaineOliveira)   |
+|   16/11/2023   |   `1.0`     |   [Revisão estática](../verificacao/revisoes.md)    | [Ana Caroline](https://github.com/anaaroch)   |
+|   20/11/2023   |   `1.1`     |   [Revisão estática](../verificacao/revisoes.md)    | [Shaíne](https://github.com/ShaineOliveira)   |
+|   26/11/2023   |    Todas até a data desta revisão     |   [Revisão por inspeção](../verificacao/grupo6/backward_from_6.md.md)    | [Yago Passos](https://github.com/yagompassos)  |

@@ -123,9 +123,15 @@ A técnica de Three-Level Scale foi instrumental para priorizar os requisitos de
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |      Descrição      |                                           Autor(es)                                            |                                                                  Revisor(es)                                                                   |
-| :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| `1.0`  |    03/10/2023    |   04/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
-| `1.1`  |    04/10/2023    |   04/10/2023    | Adição do vídeo | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
-| `1.2`  |    16/10/2023    |   17/10/2023    | Atualização da introdução | [Ana Rocha](https://github.com/anaaroch) | [Jefferson França](https://github.com/Frans6) |
-| `1.3`  |    17/10/2023    |   18/10/2023    | Seção de Conclusão | [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch) |
+| Versão | Data de execução | Data prevista de revisão |       Descrição      |         Autor(es)      |       Revisado          |
+| :----: | :--------------: | :-------------: | :------------------------: | :----------------: | :-----------: |
+| `1.0`  |    03/10/2023    |   04/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked /> |
+| `1.1`  |    04/10/2023    |   04/10/2023    | Adição do vídeo | [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked /> |
+| `1.2`  |    16/10/2023    |   17/10/2023    | Atualização da introdução | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" enabled checked /> |
+| `1.3`  |    17/10/2023    |   18/10/2023    | Seção de Conclusão | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+
+| Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
+| :------------: | :-------------: | :--------------------------: |  :---------------: |
+|   16/10/2023   |    `1.0` e `1.1`   |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)     |  [Ana Rocha](https://github.com/anaaroch) |
+|   16/10/2023   |    `1.2`   |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)     |  [Yago Passos](https://github.com/yagompassos) |
+|  26/11/2023   |  Todas até a data desta revisão  |  [Revisão por inspeção](../verificacao/grupo6/three_level_scale_6.md)   | [Yago Passos](https://github.com/yagompassos) |

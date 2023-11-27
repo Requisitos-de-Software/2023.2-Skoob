@@ -56,8 +56,13 @@ Em resumo, essa técnica serviu de grande ajuda para o desenvolvimento inicial d
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |      Descrição       |                 Autor(es)                      |                     Revisor(es)                        |
-| :----: | :--------------: | :-------------: | :-----------------:  | :--------------------------------------------: | :----------------------------------------------------: |
-| `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato  | [Rafael Amancio](https://github.com/Rafael-gc) | [Shaíne Oliveira](https://github.com/ShaineOliveira)   |
-| `1.1`  |    24/10/2023    |   25/10/2023    | Alterações na tabela | [Rafael Amancio](https://github.com/Rafael-gc) | [Shaíne Oliveira](https://github.com/ShaineOliveira)   |
+| Versão | Data de execução | Data prevista de revisão |       Descrição      |         Autor(es)      |       Revisado          |
+| :----: | :--------------: | :-------------: | :------------------------: | :----------------: | :-----------: |
+| `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato  | [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked />  |
+| `1.1`  |    24/10/2023    |   25/10/2023    | Alterações na tabela | [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked />  |
 
+
+| Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
+| :------------: | :-------------: | :--------------------------: |  :---------------: |
+|   27/10/2023   |    `1.1` e `1.2`   | [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)     |  [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+|   26/11/2023   |  Todas até a data desta revisão  |    [Revisão por inspeção](../verificacao/grupo6/introspeccao_6.md)     | [Yago](https://github.com/yagompassos) |

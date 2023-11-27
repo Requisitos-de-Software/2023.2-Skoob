@@ -303,7 +303,6 @@ Com a aplicação do NFR framework ao Skoob, através da análise dos softgoals,
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   02/11/2023   |    `1.0`    |    Revisão por inspeção    |  [Ana Rocha](https://github.com/anaaroch) |
-|   06/11/2023   |    `1.2`    |    Revisão por inspeção    |  [Shaíne](https://github.com/ShaineOliveira) |
-
-
+|   02/11/2023   |    `1.0`    |    [Revisão estática](../verificacao/revisoes.md)   |  [Ana Rocha](https://github.com/anaaroch) |
+|   06/11/2023   |    `1.2`    |    [Revisão estática](../verificacao/revisoes.md)   |  [Shaíne](https://github.com/ShaineOliveira) |
+|   26/11/2023   |    Todas até a data desta revisão    |    [Revisão por inspeção](../verificacao/grupo6/nfr_framework_6.md)   |  [Yago Passos](https://github.com/yagompassos) e [Rafael Amancio](https://github.com/Rafael-gc) |

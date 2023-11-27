@@ -122,13 +122,14 @@ A Tabela 7 mostra as atividades do Ponto de Controle 6 e as datas em que foram e
 | `1.0`  |    15/09/2023    |   16/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Shaíne](https://github.com/ShaineOliveira) |  <input type="checkbox" enabled checked />   | 
 | `1.1`  |    02/10/2023    |   04/10/2023    | Atualização do cronograma executado | [Shaíne](https://github.com/ShaineOliveira) |   <input type="checkbox" enabled checked />    |
 | `1.2`  |    17/10/2023    |   18/10/2023    | Adicionando Tabelas do ponto 2 e 3 | [Yago](https://github.com/yagompassos) |   <input type="checkbox" enabled checked />    |
-| `1.3`  |    02/11/2023    |   04/11/2023    | Corrigindo tabela do ponto 3 e adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |  <input type="checkbox" disabled checked />    |
-| `1.4`  |    06/11/2023    |   06/11/2023    | Adicionando Tabela do ponto 4 | [Ana Rocha](https://github.com/anaaroch) |   <input type="checkbox" disabled checked />   |
-| `1.5`  |    13/11/2023    |   13/11/2023    | Adicionando Tabela do ponto 5.1 | [Ana Rocha](https://github.com/anaaroch) |   <input type="checkbox" disabled checked />   |
+| `1.3`  |    02/11/2023    |   04/11/2023    | Corrigindo tabela do ponto 3 e adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |  <input type="checkbox" enabled checked />    |
+| `1.4`  |    06/11/2023    |   06/11/2023    | Adicionando Tabela do ponto 4 | [Ana Rocha](https://github.com/anaaroch) |   <input type="checkbox" enabled checked />   |
+| `1.5`  |    13/11/2023    |   13/11/2023    | Adicionando Tabela do ponto 5.1 | [Ana Rocha](https://github.com/anaaroch) |   <input type="checkbox" enabled checked />   |
 
 
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   04/10/2023   |    `1.1`    |    Revisão por inspeção    |  [Rafael Amancio](https://github.com/yagompassos) |
-|   02/11/2023   |    `1.2`    |    Revisão por inspeção    |  [Ana Rocha](https://github.com/anaaroch) |
+|   04/10/2023   |    `1.1`    |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    |  [Rafael Amancio](https://github.com/yagompassos) |
+|   02/11/2023   |    `1.2`    |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    |  [Ana Rocha](https://github.com/anaaroch) |
+|   26/11/2023   |    Todas até a data desta revisão   |    [Revisão por inspeção](../verificacao/grupo6/cronograma_executado_6.md)    |  [Yago Passos](https://github.com/yagompassos) |

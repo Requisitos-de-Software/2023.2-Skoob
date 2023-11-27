@@ -159,8 +159,11 @@ Na Figura 2, é possível analisar o diagrama de casos de uso, no qual estão re
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |      Descrição      |                   Autor(es)                   |                  Revisor(es)                  |
-| :----: | :--------------: | :-------------: | :-----------------: | :-------------------------------------------: | :-------------------------------------------: |
-| `1.0`  |    23/10/2023    |   24/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
-| `1.1`  |    24/10/2023    |   24/10/2023    | Atualização das tabelas | [Jefferson França](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
+| Versão | Data de execução | Data prevista de revisão |       Descrição      |         Autor(es)      |       Revisado          |
+| :----: | :--------------: | :-------------: | :------------------------: | :----------------: | :-----------: |
+| `1.0`  |    23/10/2023    |   24/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" enabled checked /> |
+| `1.1`  |    24/10/2023    |   24/10/2023    | Atualização das tabelas | [Jefferson França](https://github.com/Frans6)| <input type="checkbox" enabled checked /> |
 
+| Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
+| :------------: | :-------------: | :--------------------------: |  :---------------: |
+|   26/11/2023   |   Todas até a data desta revisão  |    [Revisão por Inspeção](../verificacao/grupo6/casos_de_uso_6.md)     |  [Yago Passos](https://github.com/yagompassos) |
