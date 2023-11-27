@@ -1,10 +1,10 @@
-# Verificação do artefato ["Aplicativo Escolhido"](https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/aplicativo_escolhido/)
+# Verificação do artefato ["Aplicativos Analisados"](https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/lista_de_aplicativos/)
 
 ## Introdução
 
 A análise de artefatos desempenha um papel fundamental na avaliação de documentos, projetos e produtos em diversas áreas, incluindo a Engenharia de Requisitos de Software. A abordagem de verificação de artefatos tem por objetivo realizar uma análise minuciosa do conteúdo, estrutura e atributos específicos de um artefato, com o propósito de avaliar sua qualidade, aderência aos requisitos e congruência com os objetivos previamente definidos.
 
-Nesse contexto, o escopo de nossa pesquisa visa à aplicação da técnica de verificação de artefatos ao artefato do [Aplicativo Escolhido](https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/aplicativo_escolhido/), desenvolvido pelo [Grupo 6](https://requisitos-de-software.github.io/2023.2-Skoob/) em seu projeto no contexto do Skoob <a id="a" href="#aa">[3]</a>. Ressalta-se que a realização da verificação está estritamente alinhada com as diretrizes e datas estipuladas no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf) <a id="a" href="#aa">[1]</a>.
+Nesse contexto, o escopo de nossa pesquisa visa à aplicação da técnica de verificação de artefatos ao artefato do [Aplicativos Analisados](https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/lista_de_aplicativos/), desenvolvido pelo [Grupo 6](https://requisitos-de-software.github.io/2023.2-Skoob/) em seu projeto no contexto do Skoob <a id="a" href="#aa">[3]</a>. Ressalta-se que a realização da verificação está estritamente alinhada com as diretrizes e datas estipuladas no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf) <a id="a" href="#aa">[1]</a>.
 
 Para melhor compreensão, é relevante salientar que a técnica de verificação, inspirada no processo de Fagan, abarca uma análise sistemática e rigorosa do artefato em busca de possíveis erros, inconsistências, omissões e desvios em relação aos requisitos. Essa etapa desempenha um papel crucial na garantia da qualidade e na precisão do artefato, assegurando sua conformidade com os objetivos estabelecidos no contexto do projeto ou documento em análise <a id="d" href="#dd">[4]</a>.
 
@@ -44,13 +44,13 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a id="Tabela1"></a>
 
-| ID  | Conteúdo                                                                    | Possui/Atende | Qualidade | Observação |
-| --- | --------------------------------------------------------------------------- | ------------- | --------- | ---------- |
-| 1   | Há histórico de versão padronizado?                                         | Sim           | Ótimo     |            |
-| 2   | Há autor e revisor no artefato?                                             | Sim           | Ótimo     |            |
-| 3   | Existem referências bibliográficas?                                         | Sim           | Ótimo     |            |
-| 4   | Possui hiperlinks para outros artefatos caso necessário?                    | Sim           | Ótimo     |            |
-| 5   | As tabelas e as imagens possuem legenda, fonte e são introduzidas no texto? | Sim           | Ótimo     |            |
+| ID  | Conteúdo                                                    | Possui/Atende | Qualidade | Observação |
+| --- | ----------------------------------------------------------- | ------------- | --------- | ---------- |
+| 1   | Há histórico de versão padronizado?                         | Sim           | Ótimo     |            |
+| 2   | Há autor e revisor no artefato?                             | Sim           | Ótimo     |            |
+| 3   | Existem referências bibliográficas?                         | Sim           | Ótimo     |            |
+| 4   | Possui hiperlinks para outros artefatos caso necessário?    | Sim           | Ótimo     |            |
+| 5   | A tabela possui legenda, fonte e são introduzidas no texto? | Sim           | Ótimo     |            |
 
 <div style="text-align: center;">
     Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Jefferson França, 2023)
@@ -58,11 +58,11 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 
 A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id="Tabela2"></a>
 
-<!-- | ID  | Conteúdo                                                          | Possui | Qualidade | Observação |
+| ID  | Conteúdo                                                          | Possui | Qualidade | Observação |
 | --- | ----------------------------------------------------------------- | ------ | --------- | ---------- |
-| 1   | O aplicativo apresenta uma documentação que permite o estudo?     | Sim    | Ótimo     |            |
-| 2   | Há motivação e critérios de escolha do app?                       | Sim    | Ótimo     |            |
-| 3   | O aplicativo não foi utilizado na disciplina em outros semestres? | Sim    | Ótimo     |            | -->
+| 1   | Existe uma lista de cada aplicativo que foi analisado pelo grupo? | Sim    | Ótimo     |            |
+| 2   | Há uma especificação de quem escolheu cada app?                   | Sim    | Ótimo     |            |
+| 3   | Os apps tem seus rich pictures feitos?                            | Sim    | Ótimo     |            |
 
 <div style="text-align: center;">
     Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Jefferson França, 2023)
@@ -84,8 +84,6 @@ Não há correções a serem feitas.
 
 > <a id="b" href="#bb">[2]</a> Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acessado em: 22 de novembro de 2023.
 
-> <a id="c" href="#cc">[3]</a> Aplicativo Escolhido do grupo 6 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/aplicativo_escolhido/>. Acesso em 22 novembro de 2023.
-
 > <a id="d" href="#dd">[4]</a> linhadecódigo, Técnicas de VV&T - Validação, Verificação e Teste. Dipsonível em: <http://www.linhadecodigo.com.br/artigo/492/tecnicas-de-vvampt-validacao-verificacao-e-teste.aspx/>. Acesso em 22 de novembro de 2023.
 
 ## Histórico de Versão
@@ -96,6 +94,6 @@ Não há correções a serem feitas.
 
 ### Revisão (V&V)
 
-| Data de Revisão | Cobertura de Versões | Técnica |                  Revisor(es)                  |
-| :-------------: | :------------------: | :-----: | :-------------------------------------------: |
+| Data de Revisão | Cobertura de Versões | Técnica |                      Revisor(es)                      |
+| :-------------: | :------------------: | :-----: | :---------------------------------------------------: |
 |   xx/xx/xxxx    |        `1.0`         |    -    | [Shaíne Oliveira](https://github.com/ShaineOliveira_) |

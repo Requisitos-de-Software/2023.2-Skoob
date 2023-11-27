@@ -22,7 +22,17 @@ A inspeção de Fagan é ilustrada na Figura 1 apresentada abaixo, demonstrando 
 
 ## Conteúdo esperado
 
-Espera-se que no artefato estejam presentes as padronizações esperadas, metodologia explicada e conteúdo relevante sobre o tema da entrevista.
+Espera-se que no artefato estejam presentes as padronizações esperadas, metodologia explicada e conteúdo relevante sobre o tema.
+
+## Gravação da verificação
+
+No vídeo 1, destacado abaixo, é realizada a verificação do artefato [cenários](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/cenarios/) conforme o checklist elaborado para tal. Foi realizada uma primeira gravação onde foi feito toda a verificação mas houve um problema técnico onde a tela ficou trava mas o vídeo está disponibilizado [aqui.](https://www.youtube.com/watch?v=HiIc8EIm994).
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/SwGFudXYecQ?si=o_y6iYuRr9HphhQ2" title="V&V - Cenários" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> 
+<div style="text-align: center">
+<p> Vídeo 1: Gravação da verificação dos Léxicos. (Fonte: Ana Rocha e Jefferson França, 2023).</p>
+</div>
 
 ### Verificação
 
@@ -44,12 +54,12 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a id="Tabela1"></a>
 
-| ID  | Conteúdo                                                 | Possui | Qualidade | Observação |
-| --- | -------------------------------------------------------- | ------ | --------- | ---------- |
-| 1   | Há histórico de versão padronizado?                      |        |           |            |
-| 2   | Há autor e revisor no artefato?                          |        |           |            |
-| 3   | Existem referências bibliográficas?                      |        |           |            |
-| 4   | Possui hiperlinks para outros artefatos caso necessário? |        |           |            |
+| ID  | Conteúdo                                                 | Possui | Qualidade | Observação                                                 |
+| --- | -------------------------------------------------------- | ------ | --------- | ---------------------------------------------------------- |
+| 1   | Há histórico de versão padronizado?                      | Sim    | Ótimo     |                                                            |
+| 2   | Há autor e revisor no artefato?                          | Sim    | Ótimo     | Quando colocar "Todos" colocar o nome de cada um do grupo. |
+| 3   | Existem referências bibliográficas?                      | Sim    | Ótimo     |                                                            |
+| 4   | Possui hiperlinks para outros artefatos caso necessário? | Sim    | Ótimo     |                                                            |
 
 <div style="text-align: center;">
     Tabela 1: Perguntas selecionadas: Formatação do artefato. (Fonte: Jefferson França, 2023)
@@ -57,13 +67,13 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 
 A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id="Tabela2"></a>
 
-| ID  | Conteúdo                                                                                                         | Possui | Qualidade | Observação |
-| --- | ---------------------------------------------------------------------------------------------------------------- | ------ | --------- | ---------- |
-| 1   | Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção?                  |        |           |            |
-| 2   | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto? |        |           |            |
-| 3   | A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema?               |        |           |            |
-| 4   | Os cenários são priorizadoes com base em sua importância, impacto e frequência de ocorrência?                    |        |           |            |
-| 5   | O cenário está associado a requisitos ou histórias de usuário específicas?                                       |        |           |            |
+| ID  | Conteúdo                                                                                                         | Possui | Qualidade     | Observação                                                                     |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ------ | ------------- | ------------------------------------------------------------------------------ |
+| 1   | Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, restrição e exceção?                 | Sim    | Ótimo         |                                                                                |
+| 2   | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto? | Sim    | Ótimo         |                                                                                |
+| 3   | A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema?               | Sim    | Ótimo         | No C07, verificar o requisito para definir quais são os sistemas operacionais. |
+| 4   | Os cenários são priorizadoes com base em sua importância, impacto e frequência de ocorrência?                    | Não    | Pode melhorar |                                                                                |
+| 5   | O cenário está associado a requisitos ou histórias de usuário específicas?                                       | Sim    | Bom           | Somente associado aos requisitos.                                              |
 
 <div style="text-align: center;">
     Tabela 2: Perguntas selecionadas: Conteúdo do artefato. (Fonte: Jefferson França, 2023)
@@ -73,12 +83,12 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 #### Referentes a tabela 1:
 
-- [5 - O vídeo possui legenda, fonte e é introduzido no texto?](#verificacao)
+Não há correções a serem feitas.
 
 #### Referentes a tabela 2:
 
-- [1 - O artefato possui um termo de consentimento do usuário observado?](#verificacao)
-- [4 - Um cronograma detalhando quem participou da técnica com data e horário?](#verificacao)
+- [4 - Os cenários são priorizadoes com base em sua importância, impacto e frequência de ocorrência? ](#verificacao)
+- [5 - O cenário está associado a requisitos ou histórias de usuário específicas?](#verificacao)
 
 ## Bibliografia
 
