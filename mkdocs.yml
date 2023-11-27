@@ -69,17 +69,21 @@ nav:
     - Revisões: verificacao/revisoes.md
     - Grupo 6:
       - Entrega 1:
+        - Aplicativo Escolhido: verificacao/grupo6/aplicativo_escolhido_6.md
+        - Aplicativos Analisados: verificacao/grupo6/aplicativo_analisados_6.md
         - Cronograma Planejado: verificacao/grupo6/cronograma_6.md
         - Cronograma Executado: verificacao/grupo6/cronograma_executado_6.md
         - Ferramentas: verificacao/grupo6/ferramentas_6.md
       - Entrega 2:
         - Requisitos Elicitados: verificacao/grupo6/requisitos_6.md
         - Brainstorming: verificacao/grupo6/brainstorming_6.md
+        - Observação: verificacao/grupo6/observacao_6.md
         - Introspecção: verificacao/grupo6/introspeccao_6.md
         - MoSCOW: verificacao/grupo6/moscow_6.md
         - Three-Level Scale: verificacao/grupo6/three_level_scale_6.md
       - Entrega 3:
         - Casos de Uso: verificacao/grupo6/casos_de_uso_6.md
+        - Cenários: verificacao/grupo6/cenarios_6.md
         - Lexicos: verificacao/grupo6/lexicos_6.md
         - NFR Framework: verificacao/grupo6/nfr_framework_6.md
       - Entrega 4:
