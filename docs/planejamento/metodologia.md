@@ -27,9 +27,11 @@ Contudo, os principais fundamentos e indicações que não serão implementadas 
 Do japonês, Kanban é literalmente traduzido como quadro de sinal ou sinal visual <a id="aa" href="#a">[2]</a>. Em engenharia de Software, Kanban é uma estratégia para otimizar o fluxo de valor para partes interessadas através de um processo que utiliza um sistema visual <a id="aa" href="#a">[3]</a>.
 
 A imagem 1 contém informações do Quadro Kanban utilizado pelo grupo. A ferramenta utilizada para sua elaboração 
-e o Trello, que está definida no artefato de [Ferramentas](/docs/planejamento/ferramentas.md)
+e o Trello, que está definida no artefato de [Ferramentas](/docs/planejamento/ferramentas.md) <br>
 
-![Imagem exemplo do Kanban](/docs/planejamento/img/kanban_exemplo.png)
+![Kanban](../planejamento/img/kanban_exemplo.png)
+
+<b>Quadro Kanban</b>: Trello. (Fonte: Yago, 2023)
 
 ## Políticas
 

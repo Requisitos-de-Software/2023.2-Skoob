@@ -70,16 +70,16 @@ O artefato foi bem elaborado e seguiu quase todos os checklists apresentados na 
 
 > [2] Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acessado em: 24 de novembro de 2023.
 
-> [3] Documento de ferramentas escolhidos do Grupo 6 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/ferramentas/>. Acesso em 24 novembro de 2023.
+> [3] Documento de metodologia escolhida pelo Grupo 6 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/metodologia/>. Acesso em 24 novembro de 2023.
 
 ## Histórico de Versão
 
 | Versão | Data de execução | Data prevista de revisão |      Descrição      |                  Autor(es)                  | Revisado |
 | :----: | :--------------: | :----------------------: | :-----------------: | :-----------------------------------------: | :------: |
-| `1.0`  |    24/11/2023    |        25/11/2023        | Criação do artefato | [Rafael Amancio](https://github.com/Rafael-gc) |          |
+| `1.0`  |    24/11/2023    |        25/11/2023        | Criação do artefato | [Rafael Amancio](https://github.com/Rafael-gc) |  <input type="checkbox" enabled checked />        |
 
 ### Revisão (V&V)
 
 | Data de Revisão | Cobertura de Versões | Técnica |                  Revisor(es)                   |
 | :-------------: | :------------------: | :-----: | :--------------------------------------------: |
-|   xx/xx/xxxx    |        `1.0`         |   --    | [Shaíne](https://github.com/ShaineOliveira) |
+|   28/11/2023    |        `1.0`         |   Revisão estática    | [Shaíne](https://github.com/ShaineOliveira) |
