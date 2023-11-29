@@ -27,54 +27,54 @@ Na tabela 1 contém a priorização dos requisitos seguindo a técnica de Moscow
 
 ### Legenda da tabela:
 
-- OB - Observação
-- IN - Introspecção
-- BS - Brainstorming
+- OB - [Observação](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/observacao/)
+- IN - [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)
+- BS - [Brainstorming](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)
 
 | Identificação |                                                    Descrição                                                     | Prioridade |
 | :-----------: | :--------------------------------------------------------------------------------------------------------------: | :--------: |
-|     OB01      |                                         Deve ser possível realizar login                                         |   Must     |
-|     OB02      |                                        Deve ser possível pesquisar livros                                        |   Must     |
-|     OB03      |             Deve ser possível marcar os livros como: Lido / Lendo / Quero ler / Abandonei / Relendo              |   Must     |
-|     OB04      |             Deve existir uma timeline onde é possível ver atualizações literárias de outros usuários.            |   Could    |
-|     OB05      |                                Deve ser possível adicionar comentários nos posts                                 |   Could    |
-|     OB06      |                                    Deve ser possível curtir posts da timeline                                    |   Could    |
-|     IN01      |                                       Deve ser possível realizar cadastro                                        |   Must     |
-|     IN02      |                                       Deve ser possível recuperar a senha                                        |   Must     |
-|     IN03      |                                       Deve ser possível cadastrar um livro                                       |   Must     |
-|     IN04      |                        Deve ser possível escrever resenhas dos livros marcados como lidos                        |   Should   |
-|     IN05      |                                 Deve ser possível dar notas aos livros lidos                                     |   Should   |
-|     IN06      |                 Deve ser possível contabilizar os dias lendo livros quando o status for relendo                  |   Should   |
-|     IN07      |                               Deve ser possível registrar o histórico de leitura                                 |   Should   |
-|     IN08      |                                   Deve ser possível adicionar livro a estante                                    |   Must     |
-|     IN09      |                                Deve ser possível criar lista de livros desejados                                 |   Could    |
-|     IN10      |                            Deve ser possível compartilhar a lista de livros desejados                            |   Would    |
-|     IN11      |                                   Deve ser possível pesquisar outros usuários                                    |   Could    |
-|     IN12      |                          Deve ser possível abrir e analisar o perfil de outros usuários                          |   Could    |
-|     IN13      |                              Deve ser possível adicionar outros usuários como amigo                              |   Could    |
-|     IN14      |                                    Deve ser possível filtrar livros por nota                                     |   Could    |
-|     IN15      |                                     Deve ser possível filtrar livros por categoria                                      |   Could    |
-|     IN16      |                A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial                |   Should   |
-|     IN17      |                      Deve ser possível fazer cadastro/login com as credenciais do facebook                       |   Should   |
-|     IN18      |                       Deve ser possível obter o aplicativo em qualquer sistema operacional                       |   Must     |
-|     BS01      |                                Deve ser possível Criar uma meta de leitura para o ano                            |   Should   |
-|     BS02      |            Deve ser possível sortear um livro cadastrado nas metas para o ano para a próxima leitura             |   Should   |
-|     BS03      |  Deve ser possível sortear um livro dentre os livros marcados como Quero ler para a próxima leitura do usuário   |   Should   |
-|     BS04      | Deve ser possível ver informações gerais de um livro cadastrado, como sinopse, autor, quantidade de páginas, etc |   Must     |
-|     BS05      |                                  Deve existir uma aba de lançamentos de livros                                   |   Should   |
-|     BS06      |                            Deve existir uma aba de notícias sobre editoras e autores                             |   Should   |
-|     BS07      |                          Deve existir um FAQ para guiar os usuários nas funcionalidades                          |   Should   |
-|     BS08      |                            Deve ser possível alterar o tema (escuro/claro/variantes)                             |   Could    |
-|     BS09      |             Deve ser possível visualizar um ranking semanal/mensal de livros mais bem classificados              |   Could    |
-|     BS10      |                 Deve ser possível visualizar um ranking semanal/mensal de livros mais lidos                      |   Could    |
-|     BS11      |                         Deve ser possível postar fotos e/ou vídeos em formato "stories"                          |   Could    |
-|     BS12      |                                     Deve ser possível compartilhar estantes                                      |   Could    |
-|     BS13      |                            Deve ser possível realizar desafios dentro da plataforma                              |   Could    |
-|     BS14      |                                  Deve ser possível criar desafios entre amigos                                   |   Could    |
-|     BS15      |                          Deve ser possível mandar mensagens diretas entre usuários                               |   Could    |
-|     BS16      |                         Deve ser possível conquistar prêmios e recompensas a partir de Desafios                  |   Would    |
-|     BS17      |                            Deve ser possível expor prêmios nos perfis e na TimeLine                              |   Would    |
-|     BS18      |   Deve ser possível receber recomendações de livros com base nas preferências literárias dos usuários            |   Could    |
+|     [OB01](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/observacao/)      |                                         Deve ser possível realizar login                                         |   Must     |
+|     [OB02](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/observacao/)      |                                        Deve ser possível pesquisar livros                                        |   Must     |
+|     [OB03](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/observacao/)      |             Deve ser possível marcar os livros como: Lido / Lendo / Quero ler / Abandonei / Relendo              |   Must     |
+|     [OB04](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/observacao/)      |             Deve existir uma timeline onde é possível ver atualizações literárias de outros usuários.            |   Could    |
+|     [OB05](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/observacao/)      |                                Deve ser possível adicionar comentários nos posts                                 |   Could    |
+|     [OB06](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/observacao/)      |                                    Deve ser possível curtir posts da timeline                                    |   Could    |
+|     [IN01](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                                       Deve ser possível realizar cadastro                                        |   Must     |
+|     [IN02](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                                       Deve ser possível recuperar a senha                                        |   Must     |
+|     [IN03](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                                       Deve ser possível cadastrar um livro                                       |   Must     |
+|     [IN04](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                        Deve ser possível escrever resenhas dos livros marcados como lidos                        |   Should   |
+|     [IN05](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                                 Deve ser possível dar notas aos livros lidos                                     |   Should   |
+|     [IN06](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                 Deve ser possível contabilizar os dias lendo livros quando o status for relendo                  |   Should   |
+|     [IN07](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                               Deve ser possível registrar o histórico de leitura                                 |   Should   |
+|     [IN08](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                                   Deve ser possível adicionar livro a estante                                    |   Must     |
+|     [IN09](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                                Deve ser possível criar lista de livros desejados                                 |   Could    |
+|     [IN10](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                            Deve ser possível compartilhar a lista de livros desejados                            |   Would    |
+|     [IN11](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                                   Deve ser possível pesquisar outros usuários                                    |   Could    |
+|     [IN12](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                          Deve ser possível abrir e analisar o perfil de outros usuários                          |   Could    |
+|     [IN13](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                              Deve ser possível adicionar outros usuários como amigo                              |   Could    |
+|     [IN14](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)     |                                    Deve ser possível filtrar livros por nota                                     |   Could    |
+|     [IN15](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                                     Deve ser possível filtrar livros por categoria                                      |   Could    |
+|     [IN16](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial                |   Should   |
+|     [IN17](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                      Deve ser possível fazer cadastro/login com as credenciais do facebook                       |   Should   |
+|     [IN18](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/)      |                       Deve ser possível obter o aplicativo em qualquer sistema operacional                       |   Must     |
+|     [BS01](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                                Deve ser possível Criar uma meta de leitura para o ano                            |   Should   |
+|     [BS02](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |            Deve ser possível sortear um livro cadastrado nas metas para o ano para a próxima leitura             |   Should   |
+|     [BS03](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |  Deve ser possível sortear um livro dentre os livros marcados como Quero ler para a próxima leitura do usuário   |   Should   |
+|     [BS04](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      | Deve ser possível ver informações gerais de um livro cadastrado, como sinopse, autor, quantidade de páginas, etc |   Must     |
+|     [BS05](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                                  Deve existir uma aba de lançamentos de livros                                   |   Should   |
+|     [BS06](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                            Deve existir uma aba de notícias sobre editoras e autores                             |   Should   |
+|     [BS07](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                          Deve existir um FAQ para guiar os usuários nas funcionalidades                          |   Should   |
+|     [BS08](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                            Deve ser possível alterar o tema (escuro/claro/variantes)                             |   Could    |
+|     [BS09](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |             Deve ser possível visualizar um ranking semanal/mensal de livros mais bem classificados              |   Could    |
+|     [BS10](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                 Deve ser possível visualizar um ranking semanal/mensal de livros mais lidos                      |   Could    |
+|     [BS11](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                         Deve ser possível postar fotos e/ou vídeos em formato "stories"                          |   Could    |
+|     [BS12](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                                     Deve ser possível compartilhar estantes                                      |   Could    |
+|     [BS13](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                            Deve ser possível realizar desafios dentro da plataforma                              |   Could    |
+|     [BS14](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                                  Deve ser possível criar desafios entre amigos                                   |   Could    |
+|     [BS15](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                          Deve ser possível mandar mensagens diretas entre usuários                               |   Could    |
+|     [BS16](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                         Deve ser possível conquistar prêmios e recompensas a partir de Desafios                  |   Would    |
+|     [BS17](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                            Deve ser possível expor prêmios nos perfis e na TimeLine                              |   Would    |
+|     [BS18](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |   Deve ser possível receber recomendações de livros com base nas preferências literárias dos usuários            |   Could    |
 
 
 <div style="text-align: center">
