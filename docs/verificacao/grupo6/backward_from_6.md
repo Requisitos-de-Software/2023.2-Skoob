@@ -65,7 +65,7 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 |     | Descrição do Critério | Possui | Qualidade | Observação |
 |-----|----------------------|---------------------------------|------------------------|----------|
 | 1   | A metodologia de rastreabilidade "backward-from" está detalhada e compreensível?                      |  Sim | Ótimo  |   |
-| 2   | Os quatro níveis e seis elos de rastreabilidade estão claramente apresentados??                       |  Sim | Ótimo  |   |
+| 2   | Os quatro níveis e seis elos de rastreabilidade estão claramente apresentados?                       |  Sim | Ótimo  |   |
 | 3   | Os elos entre os requisitos funcionais e não-funcionais estão corretamente identificados na Tabela 3? |  Sim | Ótimo  |  |
 | 4   | Os tipos de elos (Satisfação, Recurso, Agregação) estão aplicados de acordo com a metodologia?        |  Sim | Ótimo  |   |
 
@@ -98,4 +98,4 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo to
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   dd/mm/aaaa   |  `1.0`  |    [Revisão estática](../verificacao/revisoes.md)   |  [Shaíne Oliveira](https://github.com/ShaineOliveira_) |
+|   28/11/2023   |  `1.0`  |    [Revisão estática](../verificacao/revisoes.md)   |  [Shaíne Oliveira](https://github.com/ShaineOliveira_) |

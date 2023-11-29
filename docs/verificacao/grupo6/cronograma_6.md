@@ -106,12 +106,12 @@ Referentes à [Tabela 2](#Tabela2):
 
 | Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    22/11/2023    |   27/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch)    | <input type="checkbox" disabled checked /> |
-| `1.1`  |    23/11/2023    |   27/11/2023    | Execução da inspeção |   [Ana Rocha](https://github.com/anaaroch)    | <input type="checkbox" disabled checked /> |
+| `1.0`  |    22/11/2023    |   27/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch)    | <input type="checkbox" enabled checked /> |
+| `1.1`  |    23/11/2023    |   27/11/2023    | Execução da inspeção |   [Ana Rocha](https://github.com/anaaroch)    | <input type="checkbox" enabled checked /> |
 
 
 ### Revisão (V&V)
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   xx/xx/xxxx   |    `1.0`    |   -    |  [Shaíne](https://github.com/ShaineOliveira) |
+|   28/11/2023   |    `1.1`    |   Revisão estática    |  [Shaíne](https://github.com/ShaineOliveira) |
