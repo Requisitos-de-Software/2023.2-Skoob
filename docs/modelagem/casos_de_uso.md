@@ -164,6 +164,8 @@ Na Figura 2, é possível analisar o diagrama de casos de uso, no qual estão re
 | `1.0`  |    23/10/2023    |   24/10/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" enabled checked /> |
 | `1.1`  |    24/10/2023    |   24/10/2023    | Atualização das tabelas | [Jefferson França](https://github.com/Frans6)| <input type="checkbox" enabled checked /> |
 
+### Verificação
+
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |
 |   26/11/2023   |   Todas até a data desta revisão  |    [Revisão por Inspeção](../verificacao/grupo6/casos_de_uso_6.md)     |  [Yago Passos](https://github.com/yagompassos) |

@@ -123,6 +123,8 @@ nav:
         - NFR: verificacao/grupo7/nfr.md
         - Backlog do Produto: verificacao/grupo7/backlog.md
         - Histórias de Usuários: verificacao/grupo7/historias_usuarios.md
+  - Validação:
+    - Prototipagem: validacao/prototipagem.md
   - Pós-rastreabilidade:
     - Backward-From: pos_rastreabilidade/backward.md
     - Forward-From: pos_rastreabilidade/forward.md
