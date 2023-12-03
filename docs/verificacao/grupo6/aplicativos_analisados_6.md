@@ -84,7 +84,12 @@ Não há correções a serem feitas.
 
 > <a id="b" href="#bb">[2]</a> Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acessado em: 22 de novembro de 2023.
 
+> <a id="c" href="#cc">[3]</a> Aplicativos Analisados do Grupo 6 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/lista_de_aplicativos/>. Acesso em 22 novembro de 2023.
+
+
 > <a id="d" href="#dd">[4]</a> linhadecódigo, Técnicas de VV&T - Validação, Verificação e Teste. Dipsonível em: <http://www.linhadecodigo.com.br/artigo/492/tecnicas-de-vvampt-validacao-verificacao-e-teste.aspx/>. Acesso em 22 de novembro de 2023.
+
+
 
 ## Histórico de Versão
 
@@ -96,4 +101,4 @@ Não há correções a serem feitas.
 
 | Data de Revisão | Cobertura de Versões | Técnica |                      Revisor(es)                      |
 | :-------------: | :------------------: | :-----: | :---------------------------------------------------: |
-|   xx/xx/xxxx    |        `1.0`         |    -    | [Shaíne Oliveira](https://github.com/ShaineOliveira_) |
+|   03/12/2023    |        `1.0`         |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Shaíne Oliveira](https://github.com/ShaineOliveira_) |

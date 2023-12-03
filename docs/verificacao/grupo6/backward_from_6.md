@@ -98,4 +98,4 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo to
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   28/11/2023   |  `1.0`  |    [Revisão estática](../verificacao/revisoes.md)   |  [Shaíne Oliveira](https://github.com/ShaineOliveira_) |
+|   28/11/2023   |  `1.0`  |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)   |  [Shaíne Oliveira](https://github.com/ShaineOliveira_) |
