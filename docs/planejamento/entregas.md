@@ -65,12 +65,12 @@ encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 Nesta quinta entrega foi possível fazer correções da quarta entrega e elaborar todos os artefatos de verificação do [Grupo 7](https://requisitos-de-software.github.io/2023.2-DETRAN/).
 
 ### Vídeo de apresentação
-O Vídeo 5 corresponde a gravação da quinta entrega da disciplina. Nele, explicamos como foi feito os artefatos de verificação.
+O Vídeo 5.1 corresponde a gravação da primeira etapa da quinta entrega da disciplina. Nele, explicamos como foi feito os artefatos de verificação.
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Jk0PC6A4-Ow" title="Entrega 5.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div style="text-align: center">
-<p> Vídeo 5: Gravação da quinta apresentação. (Fonte: Grupo 6, 2023)..</p>
+<p> Vídeo 5.1: Gravação da apresentação 5.1. (Fonte: Grupo 6, 2023)..</p>
 </div>
 
 
@@ -86,6 +86,20 @@ O Vídeo 6 corresponde a gravação da sexta entrega da disciplina. Nele, explic
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div style="text-align: center">
 <p> Vídeo 6: Gravação da sexta apresentação. (Fonte: Grupo 6, 2023)..</p>
+</div>
+
+
+## Entrega 5.2 (04/12/2023)
+
+### Descrição: 
+Nesta entrega foi possível elaborar todos os artefatos de Verificação e Validação do [Skoob](https://requisitos-de-software.github.io/2023.2-Skoob/), incluindo protótipo de funcionalidade não implementadas.
+### Vídeo de apresentação
+O Vídeo 5.2 corresponde a gravação da segunda etapa da quinta entrega da disciplina. Nele, explicamos como foi feito os artefatos de Verificação e Validação.
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/pWep9zRWyC4" title="Entrega 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align: center">
+<p> Vídeo 5.2: Gravação da apresentação 5.2. (Fonte: Grupo 6, 2023)..</p>
 </div>
 
 
@@ -105,6 +119,7 @@ encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 | `1.4.1`  |13/11/2023| 18/11/2023 | Adicionando Vídeo 5| [Yago Passos](https://github.com/yagompassos)| <input type="checkbox" enabled checked /> |
 | `1.5`  |13/11/2023| 18/11/2023 | Entrega 6| [Shaíne Oliveira](https://github.com/ShaineOliveira)| <input type="checkbox" enabled checked /> |
 | `1.5.1`  |20/11/2023| 18/11/2023 | Adicionando Vídeo 6 | [Yago Passos](https://github.com/yagompassos)| <input type="checkbox" enabled checked /> |
+| `1.6`  |04/12/2023| 04/12/2023 | Entrega 5.2 | [Shaíne Oliveira](https://github.com/ShaineOliveira)| <input type="checkbox" enabled checked /> |
 
 ### Revisão
 | Data de Revisão | Cobertura de Versões |       Técnica        |                  Revisor(es)                  |
