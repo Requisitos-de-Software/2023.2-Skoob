@@ -59,8 +59,11 @@ Como dito na seção anterior, as tabelas 3 e 4 representam as atribuições fei
 | Casos de uso |  [Jefferson](https://github.com/Frans6) e [Yago](https://github.com/yagompassos) | Acertar legenda e outros | 
 | Cenários |  [Shaine](https://github.com/shaineOliveira) | - | 
 | Introspecao e Brainstorming |  [Rafael](https://github.com/Rafael-gc) | Adicionar link do ata da reuniao 3 para o video da execucao das tecnicas | 
-| Artefatos de priorização | [Ana](https://github.com/anaaroch) e [Yago](https://github.com/yagompassos) | Adicionar tabela de cronograma com dados
-das entrevistas na metodologia e linkar requisitos | 
+| Artefatos de priorização | [Ana](https://github.com/anaaroch) e [Yago](https://github.com/yagompassos) | Adicionar tabela de cronograma com dados das entrevistas na metodologia e linkar requisitos | 
+
+<div style="text-align: center">
+<p> Tabela 4: Atribuições das correções. (Fonte: Yago Passos, 2023).</p>
+</div>
 
 ## Dados da reunião
 ### Participantes
@@ -89,6 +92,13 @@ Abaixo, o vídeo 1, da gravação da reunião.
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
-| :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    31/10/2023    |   12/10/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |
+| Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
+| :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
+| `1.0`  |    31/10/2023    |   12/10/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    |    <input type="checkbox" enabled checked />      |
+| `1.1`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão e legenda da tabela 4 | [Ana Caroline](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
+
+### Revisão
+
+| Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
+| :-------------: | :------------------: | :-----: | :-----------------------------------------: |
+|   12/10/2023    |        `1.0`        |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6), [Rafael Fernandes](https://github.com/Rafael-gc) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |

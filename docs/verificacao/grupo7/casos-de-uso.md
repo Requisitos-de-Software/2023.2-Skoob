@@ -95,7 +95,7 @@ O artefato precisa de ajustes. Para isso, é recomendado fazer os ajustes seguin
 
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

@@ -88,7 +88,7 @@ O artefato apresenta algumas falhas que poderiam ser corrigidas seguindo as obse
 
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

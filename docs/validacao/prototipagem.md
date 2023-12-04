@@ -57,7 +57,7 @@ Abaixo, o vídeo 1, mostra como correu a validação do protótipo.
 | :----: | :--------------: | :-------------: | :------------------------: | :----------------: | :-----------: |
 | `1.0`  |    03/12/2023    |   03/12/2023    |   Elaboração inicial do Artefato   | [Yago Passos](https://github.com/yagompassos) |  |
 
-### Verificação
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |

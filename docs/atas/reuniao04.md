@@ -82,6 +82,13 @@ Abaixo, o vídeo 1, da gravação da reunião.
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
-| :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    09/10/2023    |   12/10/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    | Ana Caroline, Jefferson, Rafael e Shaíne |
+| Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
+| :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
+| `1.0`  |    09/10/2023    |   12/10/2023    | Criação da Ata |   [Yago Passos](https://github.com/yagompassos)    |    <input type="checkbox" enabled checked />      |
+| `1.1`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão | [Ana Caroline](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
+
+### Revisão
+
+| Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
+| :-------------: | :------------------: | :-----: | :-----------------------------------------: |
+|   12/10/2023    |        `1.0`        |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6), [Rafael Fernandes](https://github.com/Rafael-gc) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |

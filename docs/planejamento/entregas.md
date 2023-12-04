@@ -106,7 +106,7 @@ encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 | `1.5`  |13/11/2023| 18/11/2023 | Entrega 6| [Shaíne Oliveira](https://github.com/ShaineOliveira)| <input type="checkbox" enabled checked /> |
 | `1.5.1`  |20/11/2023| 18/11/2023 | Adicionando Vídeo 6 | [Yago Passos](https://github.com/yagompassos)| <input type="checkbox" enabled checked /> |
 
-### Revisão (V&V)
+### Revisão
 | Data de Revisão | Cobertura de Versões |       Técnica        |                  Revisor(es)                  |
 | :-------------: | :------------------: | :------------------: | :-------------------------------------------: |
 |   04/10/2023    |    `1.0` e `1.1`     | Revisão estática | [Yago Passos](https://github.com/yagompassos) |

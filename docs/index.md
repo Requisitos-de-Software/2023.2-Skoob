@@ -8,6 +8,8 @@ O Skoob é uma plataforma de mídia social dedicada aos amantes da leitura, perm
 
 ## Equipe
 
+A tabela 1 a seguir apresenta os integrantes da equipe.
+
 <center>
 <table style="margin-left: auto; margin-right: auto;">
 <tr>
@@ -51,10 +53,20 @@ O Skoob é uma plataforma de mídia social dedicada aos amantes da leitura, perm
   <p> Tabela 1: Equipe de trabalho (Fonte: Shaíne Oliveira, 2023).</p>
 </div>
 
-## Histórico de Versões
-| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| 07/09/2023 | `1.0`  | Versão inicial de documento | [Rafael Fernandes](https://github.com/Rafael-gc) | 15/09/2023 | [Shaíne Oliveira](https://github.com/ShaineOliveira) |
-| 15/09/2023 | `1.1`  | Atualização de documento | [Shaíne Oliveira](https://github.com/ShaineOliveira) | 17/09/2023 | [Ana Caroline](https://github.com/anaaroch) |
-| 18/09/2023 | `1.2`  | Atualizando nome do projeto | [Shaíne Oliveira](https://github.com/ShaineOliveira) | 18/09/2023 | [Ana Caroline](https://github.com/anaaroch) |
-| 18/09/2023 | `1.2.1`  | Correção do texto e adição da logo do Aplicativo | [Ana Caroline](https://github.com/anaaroch) | 18/09/2023 | [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+## Histórico de Versão
+
+| Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
+| :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
+| `1.0`  |    07/09/2023    |        15/09/2023        | Versão inicial de documento | [Rafael Fernandes](https://github.com/Rafael-gc) |    <input type="checkbox" enabled checked />      |
+| `1.1`  |    15/09/2023    |        17/09/2023        | Atualização de documento | [Shaíne Oliveira](https://github.com/ShaineOliveira) |    <input type="checkbox" enabled checked />      |
+| `1.2`  |    18/09/2023    |        18/09/2023        | Atualizando nome do projeto | [Shaíne Oliveira](https://github.com/ShaineOliveira) |    <input type="checkbox" enabled checked />      |
+| `1.2.1`  |    18/09/2023    |        18/09/2023        | Correção do texto e adição da logo do Aplicativo | [Ana Caroline](https://github.com/anaaroch) |    <input type="checkbox" enabled checked />      |
+| `1.3`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão | [Ana Caroline](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
+
+### Revisão
+
+| Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
+| :-------------: | :------------------: | :-----: | :-----------------------------------------: |
+|   15/09/2023    |        `1.0`         |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+|   18/09/2023    |        `1.1` e `1.2`         |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Ana Caroline](https://github.com/anaaroch) |
+|   18/09/2023    |        `1.2.1`         |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Shaíne Oliveira](https://github.com/ShaineOliveira) |

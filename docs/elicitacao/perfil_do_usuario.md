@@ -109,3 +109,17 @@ Após analisarmos as respostas, chegamos à conclusão de que o perfil do usuár
 | `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato |  [Ana Rocha](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
 | `1.1`  |    04/10/2023    |   04/10/2023    | Adicionando introdução |  [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
 
+## Histórico de Versão
+
+| Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
+| :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
+| `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato |  [Ana Rocha](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6)    |    <input type="checkbox" enabled checked />      |
+| `1.1`  |    04/10/2023    |   04/10/2023    | Adicionando introdução |  [Jefferson França](https://github.com/Frans6)    |    <input type="checkbox" enabled checked />      |
+| `1.2`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão | [Ana Caroline](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
+
+### Revisão
+
+| Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
+| :-------------: | :------------------: | :-----: | :-----------------------------------------: |
+|   04/10/2023    |        `1.0` e `1.1`         |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Yago Passos](https://github.com/yagompassos) |
+|   25/11/2023    |        `1.1`         |    [Revisão por inspeção](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Rafael Fernandes](https://github.com/Rafael-gc) |

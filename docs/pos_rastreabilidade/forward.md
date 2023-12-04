@@ -435,7 +435,7 @@ Em síntese, a abordagem "forward-from" de rastreabilidade desempenha um papel e
 | `1.1`  |    19/11/2023    |        20/11/2023        | Atualizando artefato | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" enabled checked /> |
 | `1.2`  |    20/11/2023    |        20/11/2023        | Atualizando tabelas de rastreabilidade | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
 
-### Verificação
+### Revisão
 
 | Data de Revisão | Cobertura de Versões |                         Técnica                              |   Revisor(es)   |
 | :-------------: | :------------------: | :---------------------------------------------------------: | :-------------: |

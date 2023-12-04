@@ -167,9 +167,7 @@ Em síntese, a aplicação da técnica de rastreabilidade "backward-from" no Sko
 | `1.0`  |    16/11/2023    |   17/11/2023    | Criação do artefato |    [Shaine](https://github.com/ShaineOliveira)   | <input type="checkbox" enabled checked /> |
 | `1.1`  |    16/11/2023    |   17/11/2023    | Evolução do artefato |    [Ana Caroline](https://github.com/anaaroch)   | <input type="checkbox" enabled checked />  |
 
-
-
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

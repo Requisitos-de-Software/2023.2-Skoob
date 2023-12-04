@@ -110,7 +110,7 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo pa
 | `1.1`  |    23/11/2023    |   25/11/2023    | Preenchimento do checklist |   [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)    | <input type="checkbox" disabled checked /> |
 | `1.2`  |    24/11/2023    |   25/11/2023    | Adicionando vídeo da inspeção |   [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" disabled checked /> |
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

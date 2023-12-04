@@ -104,7 +104,7 @@ Referentes à [Tabela 2](#Tabela2):
 | `1.0`  |    25/11/2023    |   27/11/2023    | Criação do artefato e execução da inspeção |   [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" disabled checked /> |
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |   Técnica  |    Revisor(es)    |
 | :-------------: | :-------------------: | :--------: |  :--------------: |

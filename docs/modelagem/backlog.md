@@ -189,10 +189,17 @@ A Tabela 5 a seguir relaciona os épicos definidos, as histórias de usuário e 
 <a id="aa" href="#a">[1]</a> SALES, André. Modelagem de Requisitos. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em 04 de novembro de 2023.<br>
 <a id="aa" href="#a">[2]</a> Equipe 2023.1-VLC . Disponível em: [Github](https://github.com/Requisitos-de-Software/2023.1-VLC). Acesso em 04 de novembro de 2023.<br>
 
-## Histórico de Versão
+## Histórico de versão
 
-| Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                 |           Revisor(es)                |
-| :----: | :--------------: | :-------------: | :------------------------------: | :--------------------------------------------------: | :--------------------------------: |
-| `1.0`  |    04/11/2023    |   04/11/2023    | Criação do artefato |   [Rafael Amancio](https://github.com/Rafael-gc)    | [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6) |
-| `1.1`  |    06/11/2023    |   06/11/2023    | Correções e adição do vídeo |   [Rafael Amancio](https://github.com/Rafael-gc)    | [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6) |
-| `1.2`  |    06/11/2023    |   06/11/2023    | Adicionada tabela 5 |   [Rafael Amancio](https://github.com/Rafael-gc)    | - |
+| Versão | Data | Data prevista de revisão | Descrição| Autor(es) | Revisado
+|--|--|--|--|--|--|
+| `1.0`  |    04/11/2023    |   04/11/2023    | Criação do artefato |   [Rafael Amancio](https://github.com/Rafael-gc)    | <input type="checkbox" enabled checked /> |
+| `1.1`  |    06/11/2023    |   06/11/2023    | Correções e adição do vídeo |   [Rafael Amancio](https://github.com/Rafael-gc)    |  <input type="checkbox" enabled checked />   |
+| `1.2`  |    06/11/2023    |   06/11/2023    | Adicionada tabela 5 |   [Rafael Amancio](https://github.com/Rafael-gc)    |  <input type="checkbox" enabled checked />   |
+| `1.3`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
+
+### Revisão
+| Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
+| :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
+|   06/11/2023   |    `1.1`    |    [Revisão estática](../verificacao/revisoes.md)   |  [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6) |
+|   22/11/2023   |    `1.2`    |    [Revisão por inspeção](../verificacao/revisoes.md)   |  [Shaíne](https://github.com/ShaineOliveira) |

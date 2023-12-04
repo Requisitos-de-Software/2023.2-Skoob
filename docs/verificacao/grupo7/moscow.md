@@ -96,7 +96,7 @@ Existem correções a serem feitas no documento; a priorização foi realizada, 
 | `1.0`  |    11/11/2023    |        12/11/2023        | Criação do artefato | [Jefferson França](https://github.com/Frans6) |          |
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
 | :-------------: | :------------------: | :-----: | :-----------------------------------------: |

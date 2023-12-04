@@ -61,6 +61,7 @@ Em resumo, essa técnica serviu de grande ajuda para o desenvolvimento inicial d
 | `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato  | [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked />  |
 | `1.1`  |    24/10/2023    |   25/10/2023    | Alterações na tabela | [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked />  |
 
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |
