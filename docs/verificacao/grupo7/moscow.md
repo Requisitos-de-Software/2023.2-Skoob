@@ -19,11 +19,11 @@ O processo será composto pelo "conteúdo esperado" onde foi realizado um checkl
 
 ## Conteúdo esperado
 
-Espera-se que no artefato encontre uma especificação suplementar no modelo FURPS+ com requisitos testáveis e rastreáveis.
+Espera-se que o artefato apresente a técnica MoSCoW.
 
 ### Verificação
 
-Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possui ou não o requisito apresentado nas perguntas e quanto a qualidade, baseada na seguinte classificação:
+Sendo assim, foi elaborada a tabela 1 e 2 abaixo relacionando as especificações ideais do artefato, se ele possui ou não o requisito apresentado nas perguntas e quanto a qualidade, baseada na seguinte classificação:
 
 **Possui**
 
@@ -86,18 +86,18 @@ Existem correções a serem feitas no documento; a priorização foi realizada, 
 
 > [2] Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acessado em: 11 de novembro de 2023.
 
-> [3] Análise de documentos do Grupo 7 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_3/especificacao_suplementar/>. Acesso em 11 novembro de 2023.
+> [3] Moscow do Grupo 7 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/moscow/>. Acesso em 11 novembro de 2023.
 
 
 ## Histórico de Versão
 
 | Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
 | :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
-| `1.0`  |    11/11/2023    |        12/11/2023        | Criação do artefato | [Jefferson França](https://github.com/Frans6) |          |
+| `1.0`  |    11/11/2023    |        12/11/2023        | Criação do artefato | [Jefferson França](https://github.com/Frans6) |   <input type="checkbox" enabled checked />       |
 
 
 ### Revisão
 
 | Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
 | :-------------: | :------------------: | :-----: | :-----------------------------------------: |
-|   xx/xx/xxxx    |          --          |   ---   | [Ana Caroline](https://github.com/anaaroch) |
+|   03/12/2023    |          `1.0`          |   [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)   | [Ana Caroline](https://github.com/anaaroch) |
