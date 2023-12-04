@@ -58,7 +58,7 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 | --- | -------------------------------------------------------- | ------ | --------- | ---------------------------------------------------------- |
 | 1   | Há histórico de versão padronizado?                      | Sim    | Ótimo     |                                                            |
 | 2   | Há autor e revisor no artefato?                          | Sim    | Ótimo     | Quando colocar "Todos" colocar o nome de cada um do grupo. |
-| 3   | Existem referências bibliográficas?                      | Sim    | Ótimo     |                                                            |
+| 3   | Existem referências bibliográficas?                      | Sim    | Bom     |  A referência 2 não é citada no texto   |
 | 4   | Possui hiperlinks para outros artefatos caso necessário? | Sim    | Ótimo     |                                                            |
 
 <div style="text-align: center;">
@@ -83,7 +83,8 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 #### Referentes a tabela 1:
 
-Não há correções a serem feitas.
+- [2 - Há autor e revisor no artefato?](#verificacao)
+- [3 - Existem referências bibliográficas?](#verificacao)
 
 #### Referentes a tabela 2:
 
@@ -102,10 +103,11 @@ Não há correções a serem feitas.
 
 | Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
 | :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
-| `1.0`  |    22/11/2023    |        27/11/2023        | Criação do artefato | [Jefferson França](https://github.com/Frans6) |          |
+| `1.0`  |    22/11/2023    |        27/11/2023        | Criação do artefato | [Jefferson França](https://github.com/Frans6) |     <input type="checkbox" enabled checked />      |
+| `1.1`  |    03/12/2023    |        04/12/2023        | Melhorando o ID3 da tabela 1 | [Ana Rocha](https://github.com/anaaroch_) |   <input type="checkbox" disabled checked />       |
 
 ### Revisão (V&V)
 
 | Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
 | :-------------: | :------------------: | :-----: | :-----------------------------------------: |
-|   xx/xx/xxxx    |        `1.0`         |    -    | [Ana Caroline](https://github.com/anaaroch) |
+|   03/12/2023    |        `1.0`         |  [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Ana Caroline](https://github.com/anaaroch) |
