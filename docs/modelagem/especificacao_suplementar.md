@@ -14,7 +14,7 @@ Esse método fundamenta-se nos seguintes critérios:
 
 ## Metodologia
 
-Com base no tópico anterior, o modelo adotado para este artefato é o FURPS+, uma metodologia que estabelece requisitos de um sistema dentro dos cinco critérios mencionados anteriormente.
+Com base no tópico anterior, o modelo adotado para este artefato é o FURPS+, uma metodologia que estabelece requisitos de um sistema dentro dos cinco critérios mencionados anteriormente. <a id="a" href="#aa">[1]</a>
 
 - __F - Functionality:__ Engloba os aspectos funcionais do sistema, detalhados nos casos de uso. Esses requisitos estão relacionados às funcionalidades específicas que o sistema deve oferecer para atender às necessidades dos usuários.
 - __U - Usability:__ Refere-se à facilidade com que os usuários podem interagir e realizar suas tarefas por meio do software. Isso inclui a interface do usuário, a navegabilidade e a experiência geral de uso.
@@ -111,8 +111,17 @@ Através desta Especificação Suplementar, foram identificados e detalhados alg
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
+| Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    23/10/2023    |   24/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch)    | [Rafael Amancio](https://github.com/Rafael-gc) |
-| `1.1`  |    25/10/2023    |   25/10/2023    | Adicionando a conclusão do artefato |   [Ana Rocha](https://github.com/anaaroch)    | Todos |
+| `1.0`  |    23/10/2023    |   24/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch)    | <input type="checkbox" enabled checked /> |
+| `1.1`  |    25/10/2023    |   25/10/2023    | Adicionando a conclusão do artefato |   [Ana Rocha](https://github.com/anaaroch)    | <input type="checkbox" enabled checked /> |
+
+
+### Revisão (V&V)
+
+| Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
+| :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
+|   25/10/2023   |  `1.0` e `1.1` |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)   | [Rafael Amancio](https://github.com/Rafael-gc) |
+|   25/11/2023   |  `1.1` |    [Revisão por inspeção](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)   | [Rafael Amancio](https://github.com/Rafael-gc) |
+
 

@@ -121,4 +121,4 @@ Abaixo, o vídeo 1, da gravação da Verificação.
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   dd/mm/aaaa   |  `1.0`  |    [Revisão estática](../verificacao/revisoes.md)   |  [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)  |
+|   03/12/2023   |  `1.0`  |    [Revisão estática](../verificacao/revisoes.md)   |  [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira_)  |

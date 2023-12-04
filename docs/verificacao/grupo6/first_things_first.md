@@ -82,10 +82,10 @@ O artefato foi muito bem elaborado e seguiu todos os checklists apresentados na 
 
 | Versão | Data de execução | Data prevista de revisão |      Descrição      |                  Autor(es)                  | Revisado |
 | :----: | :--------------: | :----------------------: | :-----------------: | :-----------------------------------------: | :------: |
-| `1.0`  |    24/11/2023    |        25/11/2023        | Criação do artefato | [Rafael Amancio](https://github.com/Rafael-gc) |          |
+| `1.0`  |    24/11/2023    |        25/11/2023        | Criação do artefato | [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked />  |
 
 ### Revisão (V&V)
 
 | Data de Revisão | Cobertura de Versões | Técnica |                  Revisor(es)                   |
 | :-------------: | :------------------: | :-----: | :--------------------------------------------: |
-|   xx/xx/xxxx    |        `1.0`         |   --    | [Ana Rocha](https://github.com/anaaroch) |
+|   03/12/2023    |        `1.0`         |   [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Ana Rocha](https://github.com/anaaroch) |

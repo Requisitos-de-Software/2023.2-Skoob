@@ -49,7 +49,7 @@ A Tabela 1 contém perguntas no que diz respeito à formatação do artefato. <a
 | 1   | Há histórico de versão padronizado?                      | Sim           | Ótimo     |            |
 | 2   | Há autor e revisor no artefato?                          | Sim           | Ótimo     |            |
 | 3   | Existem referências bibliográficas?                      | Sim           | Ótimo     |            |
-| 4   | Possui hiperlinks para outros artefatos caso necessário? | Sim           | Ótimo     |            |
+| 4   | Possui hiperlinks para outros artefatos caso necessário? | Não           | Bom     |      Pode incluir um hiperlink pro artefato de requisitos elicitados      |
 | 5   | O vídeo possui legenda, fonte e é introduzido no texto?  | Não           | Bom       |            |
 
 <div style="text-align: center;">
@@ -61,7 +61,7 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 | ID  | Conteúdo                                                                | Possui | Qualidade     | Observação                                                                                                                            |
 | --- | ----------------------------------------------------------------------- | ------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | O artefato possui um termo de consentimento do usuário observado?       | Não    | Pode Melhorar | Aparentemente a técnica foi realizada pela equipe, mas acredito que não tenha sido da maneira correta, usar uma persona ou um usuário |
-| 2   | O artefato apresenta uma tabela com os requisitos elicitados?           | Sim    | Ótimo         |                                                                                                                                       |
+| 2   | O artefato apresenta uma tabela com os requisitos elicitados?           | Sim    | Bom         |     A tabela não é introduzida no texto                                                                                                                                  |
 | 3   | O artefato apresenta a gravação da técnica com o voluntário?            | Sim    | Bom           |                                                                                                                                       |
 | 4   | Um cronograma detalhando quem participou da técnica com data e horário? | Não    | Pode Melhorar |                                                                                                                                       |
 
@@ -73,11 +73,13 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 #### Referentes a tabela 1:
 
+- [4 - Possui hiperlinks para outros artefatos caso necessário?](#verificacao)
 - [5 - O vídeo possui legenda, fonte e é introduzido no texto?](#verificacao)
 
 #### Referentes a tabela 2:
 
 - [1 - O artefato possui um termo de consentimento do usuário observado?](#verificacao)
+- [2 - O artefato apresenta uma tabela com os requisitos elicitados?](#verificacao)
 - [4 - Um cronograma detalhando quem participou da técnica com data e horário?](#verificacao)
 
 ## Bibliografia
@@ -92,10 +94,11 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 
 | Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
 | :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
-| `1.0`  |    22/11/2023    |        27/11/2023        | Criação do artefato | [Jefferson França](https://github.com/Frans6) |          |
+| `1.0`  |    22/11/2023    |        27/11/2023        | Criação do artefato | [Jefferson França](https://github.com/Frans6) |    <input type="checkbox" enabled checked />      |
+| `1.1`  |    03/12/2023    |        04/12/2023        | Melhorando o ID4 da tabela 1 e o ID2 da tabela 2 | [Ana Rocha](https://github.com/anaaroch_) |   <input type="checkbox" disabled checked />       |
 
 ### Revisão (V&V)
 
 | Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
 | :-------------: | :------------------: | :-----: | :-----------------------------------------: |
-|   xx/xx/xxxx    |        `1.0`         |    -    | [Ana Caroline](https://github.com/anaaroch) |
+|   03/12/2023    |        `1.0`         |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Ana Caroline](https://github.com/anaaroch) |
