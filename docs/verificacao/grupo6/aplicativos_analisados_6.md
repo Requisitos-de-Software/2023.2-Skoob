@@ -95,7 +95,7 @@ Não há correções a serem feitas.
 
 | Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
 | :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
-| `1.0`  |    22/11/2023    |        27/11/2023        | Criação do artefato | [Jefferson França](https://github.com/Frans6) |          |
+| `1.0`  |    22/11/2023    |        27/11/2023        | Criação do artefato | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" enabled checked /> |
 
 ### Revisão (V&V)
 

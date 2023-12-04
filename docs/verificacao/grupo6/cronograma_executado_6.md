@@ -109,4 +109,4 @@ Referentes à [Tabela 2](#Tabela2):
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   dd/mm/aaaa   |  `1.1` e `1.2` |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)   | [Ana Rocha](https://github.com/anaaroch) |
+|   27/11/2023   |  `1.1` e `1.2` |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)   | [Ana Rocha](https://github.com/anaaroch) |

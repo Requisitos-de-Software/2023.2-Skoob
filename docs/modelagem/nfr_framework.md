@@ -41,7 +41,7 @@ Além disso, cada um desses softgoals pode ser detalhado ou subdividido em sub-r
 
 - Priorização: Esta técnica envolve a subdivisão de um softgoal em outro softgoal do mesmo tipo e tópico, mas com uma prioridade associada, permitindo uma hierarquia de importância entre os requisitos. <a href="#aa">[1]</a>
 
-Esse refinamento são especificações dos softgoals e são contribuições e existe 10 tipos. Esses são: 
+Esse refinamento são especificações dos softgoals e são contribuições e existe 10 tipos, descritos na Tabela 2. Esses são: 
 
 | Contribuição       | Descrição  | Notação    |  
 | ------------------ | ---------- | ---------- |
@@ -64,6 +64,8 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 ### Softgoals
 
+A figura 1 mostra os tipos de softgoals.
+
 <div style="text-align: center;">
     <img src="../img/legenda_framework.png" alt="image" width="500"/>
 </div>
@@ -73,6 +75,8 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 </div>
 
 ### Rótulos
+
+A figura 2 mostra os tipos de rótulos.
 
 <div style="text-align: center;">
     <img src="../img/rotulos.png" alt="image" width="900"/>
@@ -98,6 +102,8 @@ Descrição: <a href="#aa">[1]</a>
 
 ### Requisito de Portabilidade
 
+A tabela 3 lista os requisitos não funcionais ligados à portabilidade.
+
 | ID  | Requisito |
 |-----|-----------|
 |RNF01| Deve ser possível obter o aplicativo em qualquer sistema operacional|
@@ -109,6 +115,8 @@ Descrição: <a href="#aa">[1]</a>
 
 ### Sem Propagação
 
+A figura 3 apresenta o SIG (Softgoal Interdependency Graph) de portabilidade sem propagação. <a href="#bb">[2]</a>
+
 <div style="text-align: center;">
     <img src="../img/portabilidade_semPropagacao.png" alt="image" width="500"/>
 </div>
@@ -119,6 +127,8 @@ Descrição: <a href="#aa">[1]</a>
 
 ### Com Propagação
 
+A figura 4 apresenta o SIG (Softgoal Interdependency Graph) de portabilidade com propagação. <a href="#bb">[2]</a>
+
 <div style="text-align: center;">
     <img src="../img/portabilidade_propagacao.png" alt="image" width="500"/>
 </div>
@@ -128,6 +138,8 @@ Descrição: <a href="#aa">[1]</a>
 </div>
 
 ### Cartões de Especificação
+
+As tabelas 4 e 5 apresentam o cartão de especificação dos requisitos não funcionais relacionados à portabilidade.
 
 | Classificação         | Multiplataforma / Portabilidade | 
 | ----------------------|--|
@@ -161,6 +173,8 @@ Tabela 5: Cartão de Especificação - Portabilidade, Autor(a): Ana, 2023
 
 ### Requisito de Interoperabilidade
 
+A tabela 6 lista os requisitos não funcionais ligados à interoperabilidade.
+
 | ID  | Requisito |
 |-----|-----------|
 |RNF02| Deve ser possível fazer cadastro/login com as credenciais do Facebook|
@@ -172,6 +186,8 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 
 ### Sem Propagação
 
+A figura 5 apresenta o SIG (Softgoal Interdependency Graph) de interoperabilidade sem propagação. <a href="#bb">[2]</a>
+
 <div style="text-align: center;">
     <img src="../img/interoperabilidade_semPropagacao.png" alt="image" width="500"/>
 </div>
@@ -182,6 +198,8 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 
 ### Com Propagação
 
+A figura 6 apresenta o SIG (Softgoal Interdependency Graph) de interoperabilidade com propagação. <a href="#bb">[2]</a>
+
 <div style="text-align: center;">
     <img src="../img/interoperabilidade_comPropagacao.png" alt="image" width="500"/>
 </div>
@@ -191,6 +209,8 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 </div>
 
 ### Cartões de Especificação
+
+As tabelas 7 e 8 apresentam o cartão de especificação dos requisitos não funcionais relacionados à interoperabilidade.
 
 | Classificação         | Interoperabilidade | 
 | ----------------------|--|
@@ -222,6 +242,8 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 
 ## NFR-3 Segurança
 
+A tabela 9 lista os requisitos não funcionais ligados à segurança.
+
 ### Requisito de Segurança
 
 | ID  | Requisito |
@@ -235,6 +257,8 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 
 ### Sem Propagação
 
+A figura 7 apresenta o SIG (Softgoal Interdependency Graph) de segurança sem propagação. <a href="#bb">[2]</a>
+
 <div style="text-align: center;">
     <img src="../img/seguranca_semPropagacao.png" alt="image" width="500"/>
 </div>
@@ -245,6 +269,8 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 
 ### Com Propagação
 
+A figura 7 apresenta o SIG (Softgoal Interdependency Graph) de segurança com propagação. <a href="#bb">[2]</a>
+
 <div style="text-align: center;">
     <img src="../img/seguranca_comPropagacao.png" alt="image" width="500"/>
 </div>
@@ -254,6 +280,8 @@ Tabela 6: Requisito de Interoperabilidade, Autor(a): Shaíne e Ana, 2023
 </div>
 
 ### Cartões de Especificação
+
+As tabelas 10 e 11 apresentam o cartão de especificação dos requisitos não funcionais relacionados à segurança.
 
 | Classificação         | Segurança | 
 | ----------------------|--|
@@ -290,7 +318,7 @@ Com a aplicação do NFR framework ao Skoob, através da análise dos softgoals,
 ## Referências
 
 <a id="aa" href="#a">[1]</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: [Aprender](https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf). Acesso em: 1 nov. 2023.</br>
-<a id="bb" href="#a">[2]</a> Requisitos Não-Funcionais. [s.l.: s.n., s.d.]. Disponível em: [Requirements Engineering Introduction](https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf). Acesso em: 1 nov. 2023.</br>
+<a id="bb" href="#b">[2]</a> Requisitos Não-Funcionais. [s.l.: s.n., s.d.]. Disponível em: [Requirements Engineering Introduction](https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf). Acesso em: 1 nov. 2023.</br>
 
 ## Histórico de versão
 
@@ -299,6 +327,7 @@ Com a aplicação do NFR framework ao Skoob, através da análise dos softgoals,
 |`1.0` | 01/11/2023 | 02/11/2023  | Criação da documentação| [Shaíne](https://github.com/ShaineOliveira) | <input type="checkbox" enabled checked /> |
 |`1.1` | 02/11/2023 | 03/11/2023  | Atualização e correção | [Ana Caroline](https://github.com/anaaroch) |  <input type="checkbox" enabled checked />   |
 |`1.2` | 04/11/2023 | 05/11/2023  | Incrementando o artefato | [Ana Caroline](https://github.com/anaaroch) |  <input type="checkbox" enabled checked />   |
+|`1.3` | 03/12/2023 | 04/12/2023  | Correções | [Ana Caroline](https://github.com/anaaroch) |  <input type="checkbox" disabled checked />   |
 
 ### Revisão (V&V)
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
