@@ -102,12 +102,12 @@ Para isso, é recomendado fazer os ajustes seguindo as observações:
 
 | Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
 | :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    07/11/2023    |   10/11/2023    | Criação do artefato |   [Shaíne](https://github.com/ShaineOliveira)   |:heavy_check_mark: |
-| `1.1`  |    11/11/2023    |   13/11/2023    | Correções no artefato |   [Shaíne](https://github.com/ShaineOliveira)   | :heavy_check_mark:|
+| `1.0`  |    07/11/2023    |   10/11/2023    | Criação do artefato |   [Shaíne](https://github.com/ShaineOliveira)   |<input type="checkbox" enabled checked /> |
+| `1.1`  |    11/11/2023    |   13/11/2023    | Correções no artefato |   [Shaíne](https://github.com/ShaineOliveira)   | <input type="checkbox" enabled checked />|
 | `1.1.1`  |    12/11/2023    |   13/11/2023    | Corrigindo padronização de legendas e referências bibliográficas | [Yago](https://github.com/yagompassos) |  | 
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

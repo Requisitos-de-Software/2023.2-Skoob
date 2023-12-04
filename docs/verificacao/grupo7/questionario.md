@@ -109,7 +109,7 @@ Referentes à [Tabela 2](#Tabela2):
 | `1.0`  |    08/11/2023    |   10/11/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch)    |  |
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

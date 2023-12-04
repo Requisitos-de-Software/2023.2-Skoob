@@ -62,14 +62,18 @@ Na tabela 1 é possível identificar todos os requisitos elicitados e na legenda
     <p> Tabela 1: Elicitação de Requisitos. (Fonte: Rafael e Shaíne, 2023).</p>
 </div>
 
-
-
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |      Descrição      |                                           Autor(es)                                            |                                                                  Revisor(es)                                                                   |
-| :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| `1.0`  |    18/10/2023    |   20/10/2023    | Criação do artefato | [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch),  e [Yago Passos](https://github.com/yagompassos) |
-| `1.1`  |    20/10/2023    |   20/10/2023    | Adição de hiperlinks e nova classificação | [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Rocha](https://github.com/anaaroch),  e [Yago Passos](https://github.com/yagompassos) |
-| `1.2`  |    24/10/2023    |   25/10/2023    | Alterações na tabela | [Rafael Amancio](https://github.com/Rafael-gc) | Todos |
+| Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
+| :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
+| `1.0`  |    18/10/2023    |   20/10/2023    | Criação do artefato | [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Rafael Amancio](https://github.com/Rafael-gc) |    <input type="checkbox" enabled checked />      |
+| `1.1`  |    20/10/2023    |   20/10/2023    | Adição de hiperlinks e nova classificação | [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Rafael Amancio](https://github.com/Rafael-gc) |    <input type="checkbox" enabled checked />      |
+| `1.2`  |    24/10/2023    |   25/10/2023    | Alterações na tabela | [Rafael Amancio](https://github.com/Rafael-gc) |    <input type="checkbox" enabled checked />      |
+| `1.3`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão | [Ana Caroline](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
 
+### Revisão
 
+| Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
+| :-------------: | :------------------: | :-----: | :-----------------------------------------: |
+|   20/10/2023    |        `1.0` e `1.1`         |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Ana Rocha](https://github.com/anaaroch),  e [Yago Passos](https://github.com/yagompassos) |
+|   22/11/2023    |        `1.2`         |    [Revisão por inspeção](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Shaíne Oliveira](https://github.com/ShaineOliveira) |

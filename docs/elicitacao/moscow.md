@@ -95,11 +95,9 @@ A priorização dos requisitos com os usuários do aplicativo Skoob, para fins d
 | `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato | [Shaíne](https://github.com/ShaineOliveira) | <input type="checkbox" enabled checked /> |
 | `1.1`  |    03/10/2023    |   04/10/2023    | Priorização de Requisitos | Todos | <input type="checkbox" enabled checked /> |
 | `1.2`  |    04/10/2023    |   04/10/2023    | Requisitos de outras técnicas adicionados |  [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked /> |
-| `1.3`  |    29/11/2023    |   30/11/2023    | Correções no artefato |  [Shaíne Oliveira](https://github.com/ShaineOliveira) |  |
+| `1.3`  |    29/11/2023    |   30/11/2023    | Correções no artefato |  [Shaíne Oliveira](https://github.com/ShaineOliveira) | <input type="checkbox" disabled checked /> |
 
-<input type="checkbox" disabled checked />
-
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |   Técnica  |    Revisor(es)    |
 | :-------------: | :-------------------: | :--------: |  :--------------: |

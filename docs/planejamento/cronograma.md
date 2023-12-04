@@ -179,7 +179,7 @@ As reuniões foram agendadas para todas as segundas-feiras às 21:30h, visando a
 | `1.3`  |    02/10/2023    |   03/10/2023    |    Atualização dos cronogramas      |                      [Shaíne](https://github.com/ShaineOliveira)                       |   <input type="checkbox" enabled checked />    | 
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |   Técnica  |    Revisor(es)    |
 | :-------------: | :-------------------: | :--------: |  :--------------: |

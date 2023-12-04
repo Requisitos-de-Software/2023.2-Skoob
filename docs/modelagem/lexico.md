@@ -80,7 +80,7 @@ O artefato apresentado destaca a importância da técnica de léxicos na engenha
 | `1.3`  |    26/10/2023    |   30/10/2023    |   Refatorando Léxicos e corrigindo léxico de usuários   | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> | 
 | `1.4`  |    31/10/2023    |   25/11/2023    |  Implementando novo sistema de revisão  | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> | 
 
-### Revisão (V&V)
+### Revisão
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
 |   24/10/2023   |    `1.0`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Ana Rocha](https://github.com/anaaroch) |

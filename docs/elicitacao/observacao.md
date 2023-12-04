@@ -43,7 +43,15 @@ Após efetivada a análise, foram definidas as principais funcionalidades e requ
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |      Descrição      |                 Autor(es)                      |                     Revisor(es)                        |
-| :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------: | :----------------------------------------------------: |
-| `1.0`  |    03/10/2023    |   04/10/2023    | Criação do artefato | [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
-| `1.1`  |    17/10/2023    |   18/10/2023    | Seção de Conclusão | [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+| Versão | Data de execução | Data de revisão |      Descrição      |                                           Autor(es)                                            |                                                                  Revisor(es)                                                                   |
+| :----: | :--------------: | :-------------: | :-----------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| `1.0`  |    03/10/2023    |   04/10/2023    | Criação do artefato | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+| `1.1`  |    17/10/2023    |   18/10/2023    | Seção de Conclusão | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+| `1.2`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
+
+### Revisão
+
+| Data de Revisão | Cobertura de Versões  |   Técnica  |    Revisor(es)    |
+| :-------------: | :-------------------: | :--------: |  :--------------: |
+|   18/10/2023   |    `1.0` e `1.1`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Ana Rocha](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+|   22/11/2023   |    `1.1`    |   [Revisão por inspeção](../verificacao/revisoes.md)    |  [Jefferson França](https://github.com/Frans6) |

@@ -9,7 +9,7 @@ Com o objetivo de facilitar a padronização dos artefatos, este documento foi c
 Esta seção representa o corpo do artefato, onde todo o conteúdo relevante deve ser inserido. Essa inclusão ocorrerá sempre após uma breve introdução.
 
 ### Exemplo de Tabela
-A seguir, apresentamos um exemplo de tabela. O conteúdo da tabela é flexível e fica a critério do autor, incluindo a quantidade de colunas e linhas.
+A seguir, na tabela 1, apresentamos um exemplo de tabela. O conteúdo da tabela é flexível e fica a critério do autor, incluindo a quantidade de colunas e linhas.
 
 Lembrando que após a inserção de tabela, imagem ou vídeo, o arquivo deve ser acompanhado por uma legenda e a respectiva fonte.
 
@@ -25,11 +25,11 @@ Lembrando que após a inserção de tabela, imagem ou vídeo, o arquivo deve ser
 
 ### Exemplo Imagem
 
-Uma pasta com o nome "img" foi criada para armazenar todos os arquivos de mídia necessários. Além disso, para cada módulo do projeto, será criada uma pasta correspondente, tornando a importação mais organizada e eficiente.
+Uma pasta com o nome "img" foi criada para armazenar todos os arquivos de mídia necessários. Além disso, para cada módulo do projeto, será criada uma pasta correspondente, tornando a importação mais organizada e eficiente. A figura 1 apresenta um exemplo de imagem:
 
 <a id="a" href="#aa">![image](img/imagem.png)</a>
 <div style="text-align: center">
-<p>Figura 1 - Exemplo de Imagem. (Fonte: Jefferson França. 2023)</p>
+<p>Figura 1 - Exemplo de Imagem. <a id="a" href="#aa">[1]</a> (Fonte: Jefferson França. 2023)</p>
 </div>
 
 ## Bibliografia
@@ -38,7 +38,13 @@ Uma pasta com o nome "img" foi criada para armazenar todos os arquivos de mídia
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
-| :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    05/09/2023    |   18/04/2023    | Adição do modelo base dos artefatos |   [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
+| Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
+| :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
+| `1.0`  |    05/09/2023    |   18/04/2023    | Adição do modelo base dos artefatos |   [Jefferson França](https://github.com/Frans6)    |    <input type="checkbox" enabled checked />      |
+| `1.1`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão, chamada da tabela/figura no texto e citação da referência | [Ana Caroline](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
 
+### Revisão
+
+| Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
+| :-------------: | :------------------: | :-----: | :-----------------------------------------: |
+|   18/04/2023    |        `1.0`         |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Yago Passos](https://github.com/yagompassos) |

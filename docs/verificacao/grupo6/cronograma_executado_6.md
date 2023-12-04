@@ -105,7 +105,7 @@ Referentes à [Tabela 2](#Tabela2):
 | `1.0`  |    23/11/2023    |   25/11/2023    | Elaboração do artefato |   [Yago Passos](https://github.com/yagompassos)   | <input type="checkbox" enabled checked /> |
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

@@ -111,7 +111,7 @@ Referentes à [Tabela 2](#Tabela2):
 | `1.1`  |    24/11/2023    |   27/11/2023    | Execução da inspeção |   [Ana Rocha](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6) | <input type="checkbox" disabled checked /> |
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |   Técnica  |    Revisor(es)    |
 | :-------------: | :-------------------: | :--------: |  :--------------: |

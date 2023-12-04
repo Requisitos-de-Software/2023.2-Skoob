@@ -127,7 +127,7 @@ A Tabela 7 mostra as atividades do Ponto de Controle 6 e as datas em que foram e
 | `1.5`  |    13/11/2023    |   13/11/2023    | Adicionando Tabela do ponto 5.1 | [Ana Rocha](https://github.com/anaaroch) |   <input type="checkbox" enabled checked />   |
 
 
-### Revisão (V&V)
+### Revisão
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
 |   04/10/2023   |    `1.1`    |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    |  [Rafael Amancio](https://github.com/yagompassos) |

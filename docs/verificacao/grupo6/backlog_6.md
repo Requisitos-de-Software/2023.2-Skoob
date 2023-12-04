@@ -98,7 +98,7 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 | :----: | :--------------: | :----------------------: | :-----------------: | :--------------------------------------------------: | :------: |
 | `1.0`  |    22/11/2023    |        25/11/2023        | Criação do artefato | [Shaíne Oliveira](https://github.com/ShaineOliveira) |          |
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões | Técnica |                  Revisor(es)                  |
 | :-------------: | :------------------: | :-----: | :-------------------------------------------: |

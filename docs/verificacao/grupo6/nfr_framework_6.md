@@ -117,7 +117,7 @@ Abaixo, o vídeo 1, da gravação da Verificação.
 | `1.0`  |    26/11/2023    |   26/11/2023    | Elaboração do artefato |   [Yago Passos](https://github.com/yagompassos) e [Rafael Amancio](https://github.com/Rafael-gc)   | <input type="checkbox" enabled checked /> |
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

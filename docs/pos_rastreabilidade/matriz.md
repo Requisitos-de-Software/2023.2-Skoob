@@ -60,7 +60,7 @@ A técnica da matriz de rastreabilidade emerge como uma ferramenta essencial no 
 | `1.0`  |    20/11/2023    |   20/11/2023    |  Elaboração do Artefato   | [Yago Passos](https://github.com/yagompassos) e [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked /> |
 
 
-### Verificação
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |

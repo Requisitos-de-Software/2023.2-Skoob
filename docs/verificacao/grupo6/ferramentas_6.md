@@ -87,7 +87,7 @@ Para isso, é recomendado fazer os ajustes seguindo as observações:
 | :----: | :--------------: | :----------------------: | :-----------------: | :-----------------------------------------: | :------: |
 | `1.0`  |    22/11/2023    |        25/11/2023        | Criação do artefato | [Shaíne](https://github.com/ShaineOliveira) |          |
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões | Técnica |                  Revisor(es)                   |
 | :-------------: | :------------------: | :-----: | :--------------------------------------------: |

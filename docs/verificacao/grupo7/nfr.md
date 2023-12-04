@@ -90,7 +90,7 @@ No geral, o artefato está condizente com o conteudo, mas precisa de pequenos aj
 | :----: | :--------------: | :-------------: | :------------------------: | :------------------------: | :------------------: |
 | `1.0`  |    12/11/2023    |   13/11/2023    | Criação do artefato |   [Yago Passos](https://github.com/yagompassos)    | <input type="checkbox" enabled checked /> |
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

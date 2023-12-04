@@ -35,7 +35,7 @@ A tabela 1 apresenta os aplicativos analisados por cada membro do grupo durante 
 | `1.1`  |    20/09/2023    |   20/09/2023    | Atualização do artefato |   [Ana Rocha](https://github.com/anaaroch)   | <input type="checkbox" enabled checked /> |
 | `1.2`  |    03/12/2023    |   04/12/2023    | Correções |   [Ana Rocha](https://github.com/anaaroch)   | <input type="checkbox" disabled checked /> |
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

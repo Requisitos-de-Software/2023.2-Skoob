@@ -59,12 +59,20 @@ Na figura 3, apresenta-se a legenda do rich picture do aplicativo escolhido para
 <a id="bb" href="#a">[2]</a> SKOOB ANDROID. Disponível em: [Google Play](https://play.google.com/store/apps/details?id=com.gaudium.skoob). Acesso em: 15 de Setembro de 2023.<br>
 <a id="cc" href="#a">[3]</a> SKOOB SITE. Disponível em: [Skoob](https://www.skoob.com.br/). Acesso em: 20 de Setembro de 2023.<br>
 
-
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |             Descrição             |                   Autor(es)                   |                  Revisor(es)                   |
-| :----: | :--------------: | :-------------: | :-------------------------------: | :-------------------------------------------: | :--------------------------------------------: |
-| `1.0`  |    15/09/2023    |   15/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) | [Rafael Amancio](https://github.com/Rafael-gc) |
-| `1.1`  |    20/09/2023    |   20/09/2023    | Adição de critérios de escolha do aplicativo | [Shaíne](https://github.com/ShaineOliveira) | [Ana Rocha](https://github.com/anaaroch) |
-| `1.2`  |    20/09/2023    |   20/09/2023    | Correções e adição do texto sobre o aplicativo | [Ana Rocha](https://github.com/anaaroch) |  [Shaíne](https://github.com/ShaineOliveira) |
+| Versão | Data de execução | Data prevista de revisão |             Descrição             |                      Autor(es)                       |                     Revisado                      |
+| :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
+| `1.0`  |    15/09/2023    |   15/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" enabled checked /> |
+| `1.1`  |    20/09/2023    |   20/09/2023    | Adição de critérios de escolha do aplicativo | [Shaíne](https://github.com/ShaineOliveira) | <input type="checkbox" enabled checked /> |
+| `1.2`  |    20/09/2023    |   20/09/2023    | Correções e adição do texto sobre o aplicativo | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" enabled checked /> |
+| `1.3`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
 
+### Revisão
+
+| Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
+| :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
+|   15/09/2023   |  `1.0` |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)   | [Rafael Amancio](https://github.com/Rafael-gc) |
+|   20/09/2023   |  `1.1` |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)   | [Ana Rocha](https://github.com/anaaroch) |
+|   20/09/2023   |  `1.2` |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)   | [Shaíne](https://github.com/ShaineOliveira) |
+|   22/11/2023   |  `1.2` |    [Revisão por inspeção](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)   | [Jefferson França](https://github.com/Frans6) |

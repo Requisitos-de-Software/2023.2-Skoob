@@ -54,7 +54,7 @@ A tabela 1 lista todas as ferramentas utilizadas no projeto.
 | `1.3`  |    03/12/2023    |   04/12/2023    | Correções |   [Ana Rocha](https://github.com/anaaroch)   | <input type="checkbox" disabled checked /> |
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

@@ -118,8 +118,8 @@ Abaixo, o vídeo 1, da gravação da Verificação.
 | `1.0`  |    26/11/2023    |   26/11/2023    | Elaboração do artefato |   [Yago Passos](https://github.com/yagompassos)   | <input type="checkbox" enabled checked /> |
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
-|   dd/mm/aaaa   |  `1.0`  |    [Revisão estática](../verificacao/revisoes.md)   |  [Jefferson França](https://github.com/Frans6) |
+|   28/11/2023   |  `1.0`  |    [Revisão estática](../verificacao/revisoes.md)   |  [Jefferson França](https://github.com/Frans6) |

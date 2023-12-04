@@ -119,9 +119,9 @@ Em resumo, a técnica de priorização "First Things First" se mostrou uma ferra
 | `1.1`  |    04/10/2023    |   04/10/2023    | Atualização do artefato |   [Ana Rocha](https://github.com/anaaroch)  | <input type="checkbox" enabled checked /> |
 | `1.2`  |    04/10/2023    |   04/10/2023    | Seção de Priorização |   [Yago Passos](https://github.com/yagompassos)    | <input type="checkbox" enabled checked /> |
 | `1.3`  |    16/10/2023    |   17/10/2023    | Elaboração da Conclusão | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" enabled checked /> |
-| `1.4`  |    02/11/2023    |   04/11/2023    | Adicionando Cronograma e implementando novo sistema de revisão | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" enabled checked /> |
+| `1.4`  |    02/11/2023    |   04/11/2023    | Adicionando cronograma e implementando novo sistema de revisão | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" enabled checked /> |
 
-### Revisão (V&V)
+### Revisão
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
 |   04/10/2023   |    `1.1`    |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    |  [Yago Passos](https://github.com/yagompassos) |

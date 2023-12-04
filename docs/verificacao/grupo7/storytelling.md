@@ -89,7 +89,7 @@ Para isso, é recomendado fazer os ajustes seguindo as observações:
 | :----: | :--------------: | :----------------------: | :-----------------: | :------------------------------------: | :------: |
 | `1.0`  |    13/11/2023    |        13/11/2023        | Criação do artefato | [Rafael](https://github.com/Rafael-gc) |          |
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões | Técnica |                  Revisor(es)                  |
 | :-------------: | :------------------: | :-----: | :-------------------------------------------: |

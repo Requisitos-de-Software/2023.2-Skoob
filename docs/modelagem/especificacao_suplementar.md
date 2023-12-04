@@ -116,8 +116,7 @@ Através desta Especificação Suplementar, foram identificados e detalhados alg
 | `1.0`  |    23/10/2023    |   24/10/2023    | Criação do artefato |   [Ana Rocha](https://github.com/anaaroch)    | <input type="checkbox" enabled checked /> |
 | `1.1`  |    25/10/2023    |   25/10/2023    | Adicionando a conclusão do artefato |   [Ana Rocha](https://github.com/anaaroch)    | <input type="checkbox" enabled checked /> |
 
-
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

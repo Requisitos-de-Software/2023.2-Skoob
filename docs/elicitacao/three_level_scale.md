@@ -130,6 +130,8 @@ A técnica de Three-Level Scale foi instrumental para priorizar os requisitos de
 | `1.2`  |    16/10/2023    |   17/10/2023    | Atualização da introdução | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" enabled checked /> |
 | `1.3`  |    17/10/2023    |   18/10/2023    | Seção de Conclusão | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
 
+### Revisão
+
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |
 |   16/10/2023   |    `1.0` e `1.1`   |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)     |  [Ana Rocha](https://github.com/anaaroch) |

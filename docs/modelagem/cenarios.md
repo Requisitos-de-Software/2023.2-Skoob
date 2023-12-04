@@ -250,11 +250,29 @@ Uma das principais vantagens dos cenários é a detecção antecipada de problem
 
 | Versão | Data       | Descrição                  | Autor(es)     | Revisor(es)     |
 | ------ | ---------- | --------------------       | ------------- | -------------   |
-| `1.0`  | 11/10/2023 | Criação do documento       | [Shaíne](https://github.com/ShaineOliveira)  | [Ana Caroline](https://github.com/anaaroch)        |
-| `1.1`  | 11/10/2023 | Adição de dois cenários       | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)         |
-| `1.2`  | 12/10/2023 | Adição dos cenários 04 e 05      | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)        |
-| `1.3`  | 16/10/2023 | Atualizando "contexto" dos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)          |
-| `1.4`  | 18/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | [Ana Caroline](https://github.com/anaaroch)          |
-| `1.5`  | 23/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   | Todos      |
+        |
 | `1.6`  | 23/10/2023 | Correção de cenários     | [Ana Caroline](https://github.com/anaaroch)   |   [Shaíne](https://github.com/ShaineOliveira)    |
 | `1.7`  | 24/10/2023 | Adiciona conclusão    |[Shaíne](https://github.com/ShaineOliveira)   |  Todos  |
+
+
+## Histórico de Versão
+
+| Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
+| :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
+| `1.0`  | 11/10/2023 | 12/10/2023 | Criação do documento       | [Shaíne](https://github.com/ShaineOliveira)  |    <input type="checkbox" enabled checked />      |
+| `1.1`  | 11/10/2023 |  12/10/2023 | Adição de dois cenários       | [Shaíne](https://github.com/ShaineOliveira)   |    <input type="checkbox" enabled checked />      |
+| `1.2`  | 12/10/2023 |  13/10/2023 | Adição dos cenários 04 e 05      | [Shaíne](https://github.com/ShaineOliveira)   |    <input type="checkbox" enabled checked />      |
+| `1.3`  | 16/10/2023 |  17/10/2023 | Atualizando "contexto" dos cenários     | [Shaíne](https://github.com/ShaineOliveira)   |    <input type="checkbox" enabled checked />      |
+| `1.4`  | 18/10/2023 |  19/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   |    <input type="checkbox" enabled checked />      |
+| `1.5`  | 23/10/2023 |  24/10/2023 | Adiciona novos cenários     | [Shaíne](https://github.com/ShaineOliveira)   |    <input type="checkbox" enabled checked />      |
+| `1.6`  | 23/10/2023 |  24/10/2023 | Correção de cenários     | [Ana Rocha](https://github.com/anaaroch)   |    <input type="checkbox" enabled checked />      |
+| `1.7`  | 24/10/2023 |  25/10/2023 | Adiciona conclusão    |[Shaíne](https://github.com/ShaineOliveira)   |    <input type="checkbox" enabled checked />      |
+| `1.8`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
+
+### Revisão
+
+| Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
+| :-------------: | :------------------: | :-----: | :-----------------------------------------: |
+|   23/10/2023    |        `1.5`         |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Ana Rocha](https://github.com/anaaroch) |
+|   23/10/2023    |        `1.6`         |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Shaíne](https://github.com/ShaineOliveira) |
+|   22/11/2023    |        `1.7`         |    [Revisão por inspeção](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    | [Jefferson França](https://github.com/Frans6) |

@@ -97,7 +97,7 @@ A Tabela 2 contém perguntas no que diz respeito ao conteúdo do artefato. <a id
 | `1.0`  |    22/11/2023    |        27/11/2023        | Criação do artefato | [Jefferson França](https://github.com/Frans6) |    <input type="checkbox" enabled checked />      |
 | `1.1`  |    03/12/2023    |        04/12/2023        | Melhorando o ID4 da tabela 1 e o ID2 da tabela 2 | [Ana Rocha](https://github.com/anaaroch_) |   <input type="checkbox" disabled checked />       |
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões | Técnica |                 Revisor(es)                 |
 | :-------------: | :------------------: | :-----: | :-----------------------------------------: |

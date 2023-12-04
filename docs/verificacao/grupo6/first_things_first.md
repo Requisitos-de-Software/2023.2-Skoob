@@ -84,7 +84,7 @@ O artefato foi muito bem elaborado e seguiu todos os checklists apresentados na 
 | :----: | :--------------: | :----------------------: | :-----------------: | :-----------------------------------------: | :------: |
 | `1.0`  |    24/11/2023    |        25/11/2023        | Criação do artefato | [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked />  |
 
-### Revisão (V&V)
+### Revisão 
 
 | Data de Revisão | Cobertura de Versões | Técnica |                  Revisor(es)                   |
 | :-------------: | :------------------: | :-----: | :--------------------------------------------: |

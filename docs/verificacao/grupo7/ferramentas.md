@@ -86,7 +86,7 @@ Para isso, é recomendado fazer os ajustes seguindo as observações:
 
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |

@@ -128,7 +128,7 @@ A aplicação do brainstorming no processo de elicitação de requisitos para o 
 | `1.3`  |    02/11/2023    |   04/11/2023    | Adicionando Conclusão | [Ana Rocha](https://github.com/anaaroch) | <input type="checkbox" enabled checked /> |
 
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |   Técnica  |    Revisor(es)    |
 | :-------------: | :-------------------: | :--------: |  :--------------: |

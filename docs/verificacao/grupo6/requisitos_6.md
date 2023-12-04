@@ -99,7 +99,7 @@ O artefato foi analisado com atenção aos checklists apresentados, atendendo pa
 | :----: | :--------------: | :----------------------: | :-----------------: | :-----------------------------------------: | :------: |
 | `1.0`  |    22/11/2023    |        25/11/2023        | Criação do artefato | [Shaíne](https://github.com/ShaineOliveira) |    <input type="checkbox" enabled checked />      |
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões | Técnica |                  Revisor(es)                   |
 | :-------------: | :------------------: | :-----: | :--------------------------------------------: |

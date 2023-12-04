@@ -104,7 +104,7 @@ Referentes à [Tabela 2](#Tabela2):
 
 <!-- Trocar o "disabled" do checkbox para "enabled" quando realizar a revisão -->
 
-### Revisão (V&V)
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
