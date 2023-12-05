@@ -9,10 +9,10 @@ Como previsto no artefato de [Ferramentas](../planejamento/ferramentas.md), a eq
 | Funcionalidade | Responsável |
 | :-------: | :-----: | 
 |  Seguir outro leitor   | [Yago Passos](https://github.com/yagompassos) |  
-| Pesquisar livro  |  |  
-| Ranking de livros  |    | 
-|  |    | 
-|  |    | 
+| Pesquisar livro  | [Jefferson França](https://github.com/Frans6) |  
+| Marcar livro com status relendo  |  [Jefferson França](https://github.com/Frans6)  | 
+| Adicionar histórico de leitura em livro com status relendo | [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos)  | 
+| Abrir Ranking de Livros |  [Rafael Amancio](https://github.com/Rafael-gc)  | 
 
 <div style="text-align: center">
 <p> Tabela 1: Relação de desenvolvimento de funcionalidades (Fonte: Yago Passos, 2023).</p>
@@ -29,10 +29,23 @@ Como previsto no artefato de [Ferramentas](../planejamento/ferramentas.md), a eq
 ## Validação do Protótipo
 Para a validação do protótipo, convidamos um usuário para percorrer as funcionalidades desenvolvidas e depois responder algumas perguntas que a equipe levantou para a validação. O Termo de consentimento foi entregue ao usuário, e sua assinatura está presente [aqui](). As perguntas à respeito da validação são:
 
-- Pergunta 1
-- Pergunta 2
-- Pergunta 3
-- Pergunta 4
+- Como você avaliaria a facilidade de adicionar um livro à sua lista de "Quero Ler"?
+- Durante o processo de adição de um livro à lista, você encontrou alguma dificuldade ou confusão?
+- O sistema de busca de livros atendeu às suas expectativas ao adicionar um novo livro à lista?
+
+- Como foi sua experiência ao tentar seguir outro leitor no aplicativo?
+- Você acha que as opções para interagir com outros leitores são intuitivas?
+- Conseguir seguir outro leitor acrescentou valor à sua experiência no Skoob?
+
+- A navegação até a lista de ranking de livros foi clara para você?
+- As categorias de ranking oferecem informações relevantes? Há algo que você gostaria de ver adicionado ou alterado nessa seção?
+
+- O processo de registrar o histórico de leitura de um livro foi direto e compreensível?
+- Você acredita que ter um registro de histórico de leitura é útil para acompanhar seu progresso como leitor?
+
+- Quais funcionalidades você considera mais essenciais no Skoob e por quê?
+- Consegue enxergar alguma melhoria no protótipo, ou em alguma funcionalidade? 
+- Em uma escala de 1 a 10, qual seria a sua classificação geral da experiência de uso do protótipo?
 
 Abaixo, o vídeo 1, mostra como correu a validação do protótipo.
 
@@ -43,6 +56,26 @@ Abaixo, o vídeo 1, mostra como correu a validação do protótipo.
 </div>
 
 ### Dados Coletados
+Como mostrado no vídeo, as respostas das perguntas foram:
+
+#### Adição de Livros à Lista
+- Como você avaliaria a facilidade de adicionar um livro à sua lista de "relendo"?
+- Durante o processo de adição de um livro à lista, você encontrou alguma dificuldade ou confusão?
+- O sistema de busca de livros atendeu às suas expectativas ao adicionar um novo livro à lista?
+
+#### Seguir Outro Leitor:
+- Como foi sua experiência ao tentar seguir outro leitor no aplicativo?
+- Você acha que as opções para interagir com outros leitores são intuitivas?
+- Conseguir seguir outro leitor acrescentou valor à sua experiência no Skoob?
+
+#### Registro de Histórico de Leitura
+- O processo de registrar o histórico de leitura de um livro foi direto e compreensível?
+- Você acredita que ter um registro de histórico de leitura é útil para acompanhar seu progresso como leitor?
+
+#### Geral
+- Quais funcionalidades você considera mais essenciais no Skoob e por quê?
+- Consegue enxergar alguma melhoria no protótipo, ou em alguma funcionalidade? 
+- Em uma escala de 1 a 10, qual seria a sua classificação geral da experiência de uso do protótipo?
 
 ## Conclusão
 
