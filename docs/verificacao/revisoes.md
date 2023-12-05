@@ -49,51 +49,64 @@ Nessa entrega, 100% das versões foram revisadas. A Tabela 3 mostra a relação 
 
 | Nome da técnica | Porcentagem | 
 | :----: | :--------------: | 
-| Revisão Estática |    71,4%   |  
-| Elaboração por Pares  |    0%    |  
-| Revisão por Inspeção |    0,28%    | 
+| Revisão Estática |    59%   |  
+| Elaboração por Pares  |    13%    |  
+| Revisão por Inspeção |    27%    | 
 
 <div style="text-align: center">
-<p> Tabela 3: Tabela das revisões. (Fonte: Yago Passos, 2023).</p>
+<p> Tabela 3: Utilização das técnicas de revisão da entrega 1. (Fonte: Yago Passos, 2023).</p>
 </div>
 
 ### Entrega 2
-Nessa entrega, 100% das versões foram revisadas. A Tabela 4 mostra a relação das técnicas utilizadas com a sua frequência de uso.
+Nessa entrega, 89,7% das versões foram revisadas. A Tabela 4 mostra a relação das técnicas utilizadas com a sua frequência de uso.
 
 | Nome da técnica | Porcentagem | 
 | :----: | :--------------: | 
-| Revisão Estática |    53,4%   |  
-| Elaboração por Pares  |    22,1%    |  
-| Revisão por Inspeção |    24,5%    | 
+| Revisão Estática |    48,2%   |  
+| Elaboração por Pares  |    13,7%    |  
+| Revisão por Inspeção |    27,5%    | 
 
 <div style="text-align: center">
-<p> Tabela 4: Tabela das revisões. (Fonte: Yago Passos, 2023).</p>
+<p> Tabela 4: Utilização das técnicas de revisão da entrega 2. (Fonte: Yago Passos, 2023).</p>
 </div>
 
 ### Entrega 3
-Nessa entrega, 94,5% das versões foram revisadas. A Tabela 5 mostra a relação das técnicas utilizadas com a sua frequência de uso.
+Nessa entrega, 100% das versões foram revisadas. A Tabela 5 mostra a relação das técnicas utilizadas com a sua frequência de uso.
 
 | Nome da técnica | Porcentagem | 
 | :----: | :--------------: | 
-| Revisão Estática |    50,0%   |  
-| Elaboração por Pares  |    22,2%    |  
-| Revisão por Inspeção |    2,28%    | 
+| Revisão Estática |    54,5%   |  
+| Elaboração por Pares  |    9%    |  
+| Revisão por Inspeção |    36,3%    | 
 
 <div style="text-align: center">
-<p> Tabela 5: Tabela das revisões. (Fonte: Yago Passos, 2023).</p>
+<p> Tabela 5: Utilização das técnicas de revisão da entrega 3. (Fonte: Yago Passos, 2023).</p>
 </div>
 
 ### Entrega 4
-Nessa entrega, 100% das versões foram revisadas. A Tabela 6 mostra a relação das técnicas utilizadas com a sua frequência de uso.
+Nessa entrega, 81,82% das versões foram revisadas. A Tabela 6 mostra a relação das técnicas utilizadas com a sua frequência de uso.
 
 | Nome da técnica | Porcentagem | 
 | :----: | :--------------: | 
-| Revisão Estática |    71,4%   |  
-| Elaboração por Pares  |    0%    |  
-| Revisão por Inspeção |    0,28%    | 
+| Revisão Estática |    27,27%   |  
+| Elaboração por Pares  |    27,27%   |  
+| Revisão por Inspeção |   27,27%    | 
 
 <div style="text-align: center">
-<p> Tabela 6: Tabela das revisões. (Fonte: Yago Passos, 2023).</p>
+<p> Tabela 6: Utilização das técnicas de revisão da entrega 4. (Fonte: Yago Passos, 2023).</p>
+</div>
+
+### Entrega 6
+Nessa entrega, 100% das versões foram revisadas. A Tabela 7 mostra a relação das técnicas utilizadas com a sua frequência de uso.
+
+| Nome da técnica | Porcentagem | 
+| :----: | :--------------: | 
+| Revisão Estática |    55,5%   |  
+| Elaboração por Pares  |    11,11%   |  
+| Revisão por Inspeção |   33,3%    | 
+
+<div style="text-align: center">
+<p> Tabela 7: Utilização das técnicas de revisão da entrega 6. (Fonte: Yago Passos, 2023).</p>
 </div>
 
 ## Conclusão

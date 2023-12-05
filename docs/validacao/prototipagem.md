@@ -27,7 +27,7 @@ Como previsto no artefato de [Ferramentas](../planejamento/ferramentas.md), a eq
 </div>
 
 ## Validação do Protótipo
-Para a validação do protótipo, convidamos um usuário para percorrer as funcionalidades desenvolvidas e depois responder algumas perguntas que a equipe levantou para a validação. O Termo de consentimento foi entregue ao usuário, e sua assinatura está presente [aqui](). As perguntas à respeito da validação são:
+Para a validação do protótipo, convidamos um usuário para percorrer as funcionalidades desenvolvidas e depois responder algumas perguntas que a equipe levantou para a validação. O Termo de consentimento foi entregue ao usuário, e sua assinatura está presente [aqui](./assets/TERMO%20DE%20AUTORIZAÇÃO%20DE%20USO%20DE%20IMAGEM_Yuri.pdf). As perguntas à respeito da validação são:
 
 
 #### Adição de Livros à Lista
