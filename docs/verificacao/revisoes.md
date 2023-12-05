@@ -40,6 +40,62 @@ A segunda técnica: (**revisão estática**) consiste na revisão padrão do art
 
 A terceira técnica (**revisão por inspeção**), porém, consiste na execução da [quinta entrega](#verificação), da verificação e validação. Utilizando de uma metodologia criada por Fagan, a equipe analisa os artefatos a partir de uma checklist, criada pelos próprios membros do grupo <a id="b" href="#bb">[2]</a>. As checklists estão descritas em cada artefato de verificação da etapa de [verificação](#verificação).
 
+## Resultados
+
+Após implementada essa mudança, fica muito mais fácil de ver como a equipe seguiu com as revisões dos artefatos. Como uma forma de rastreabilidade, analisamos a porcentagem de revisão dos artefatos de cada entrega. Também temos os dados de quais técnicas foram mais utilizadas, o que nos proporcionou as seguintes relações:
+
+### Entrega 1
+Nessa entrega, 100% das versões foram revisadas. A Tabela 3 mostra a relação das técnicas utilizadas com a sua frequência de uso.
+
+| Nome da técnica | Porcentagem | 
+| :----: | :--------------: | 
+| Revisão Estática |    71,4%   |  
+| Elaboração por Pares  |    0%    |  
+| Revisão por Inspeção |    0,28%    | 
+
+<div style="text-align: center">
+<p> Tabela 3: Tabela das revisões. (Fonte: Yago Passos, 2023).</p>
+</div>
+
+### Entrega 2
+Nessa entrega, 100% das versões foram revisadas. A Tabela 4 mostra a relação das técnicas utilizadas com a sua frequência de uso.
+
+| Nome da técnica | Porcentagem | 
+| :----: | :--------------: | 
+| Revisão Estática |    53,4%   |  
+| Elaboração por Pares  |    22,1%    |  
+| Revisão por Inspeção |    24,5%    | 
+
+<div style="text-align: center">
+<p> Tabela 4: Tabela das revisões. (Fonte: Yago Passos, 2023).</p>
+</div>
+
+### Entrega 3
+Nessa entrega, 94,5% das versões foram revisadas. A Tabela 5 mostra a relação das técnicas utilizadas com a sua frequência de uso.
+
+| Nome da técnica | Porcentagem | 
+| :----: | :--------------: | 
+| Revisão Estática |    50,0%   |  
+| Elaboração por Pares  |    22,2%    |  
+| Revisão por Inspeção |    2,28%    | 
+
+<div style="text-align: center">
+<p> Tabela 5: Tabela das revisões. (Fonte: Yago Passos, 2023).</p>
+</div>
+
+### Entrega 4
+Nessa entrega, 100% das versões foram revisadas. A Tabela 6 mostra a relação das técnicas utilizadas com a sua frequência de uso.
+
+| Nome da técnica | Porcentagem | 
+| :----: | :--------------: | 
+| Revisão Estática |    71,4%   |  
+| Elaboração por Pares  |    0%    |  
+| Revisão por Inspeção |    0,28%    | 
+
+<div style="text-align: center">
+<p> Tabela 6: Tabela das revisões. (Fonte: Yago Passos, 2023).</p>
+</div>
+
 ## Conclusão
 
 A adoção de revisões no processo de desenvolvimento do projeto Skoob revela-se essencial para garantir a consistência e qualidade dos artefatos. A padronização do histórico de versionamento, exemplificada nas Tabelas 1 e 2, proporciona uma visão clara do progresso, reduzindo a propagação de erros e minimizando retrabalhos. As técnicas de revisão, como a elaboração por pares, revisão estática e revisão por inspeção, oferecem abordagens distintas, enriquecendo a qualidade do produto final. Este artefato delineia as escolhas da equipe para a verificação e validação, refletindo nosso comprometimento com a excelência e a transparência ao longo do ciclo de desenvolvimento.
@@ -55,6 +111,7 @@ A adoção de revisões no processo de desenvolvimento do projeto Skoob revela-s
 | Versão | Data de execução | Data prevista de revisão |       Descrição      |         Autor(es)      |       Revisado          |
 | :----: | :--------------: | :-------------: | :------------------------: | :----------------: | :-----------: |
 | `1.0`  |    12/11/2023    |   13/11/2023    |   Elaboração do artefato    | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+| `1.1`  |    04/11/2023    |   04/12/2023    |  Resultados    | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
 
 ### Verificação
 
