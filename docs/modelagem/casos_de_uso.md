@@ -9,7 +9,7 @@ Diagramas de casos de uso descrevem o que o sistema faz do ponto de vista do usu
 Utilizando o software de diagramação LucidChart, elaboramos os diagramas de casos de uso. Para uma melhor compreensão dos diagramas apresentados neste artefato, foi desenvolvida uma legenda, Figura 1, que esclarece o significado de cada elemento presente nos diagramas.
 
 <p align="center">
-  <img src="../img/legenda.jpeg" alt="Legenda">
+  <img src="../img/legenda.png" alt="Legenda">
 </p>
 <div style="text-align: center">
 <p>Figura 1 - Legenda diagramas. (Fonte: Jefferson França. 2023)</p>
