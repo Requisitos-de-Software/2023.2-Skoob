@@ -81,6 +81,7 @@ Como mostrado no vídeo, as respostas das perguntas foram:
 
 ## Conclusão
 
+A fase de prototipagem do aplicativo Skoob foi conduzida com sucesso. Durante a validação com um usuário, as respostas indicaram uma boa usabilidade, destacando a facilidade de adicionar livros, seguir outros leitores e registrar o histórico de leitura. No entanto, foi identificada uma área de melhoria na clareza da aba de ranking. O usuário atribuiu uma nota geral de 8.5 à experiência do protótipo, fornecendo valiosas sugestões para refinamentos futuros. Essa abordagem de prototipagem e validação demonstra o compromisso da equipe em aprimorar a usabilidade do Skoob antes da implementação final.
 
 ## Bibliografia
 
