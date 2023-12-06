@@ -207,6 +207,7 @@ A tabela _ mostra a relação dos vídeos das apresentações de cada etapa (9) 
 | `1.2`  |    05/12/2023    |   06/12/2023   |   Adiciona tabela de artefatos e técnicas     | [Shaíne Oliveira](https://github.com/ShaineOliveira) |  |
 | `1.3`  |    05/12/2023    |   06/12/2023    |   Seção de Ferramentas    | [Ana Caroline](https://github.com/anaaroch_)  |  |
 | `1.4`  |    06/12/2023    |   06/12/2023    |   Seção de Recursos    | [Ana Caroline](https://github.com/anaaroch_)  |  |
+| `1.5`  |    06/12/2023    |   06/12/2023    |   Seção de Métodos de V&V   | [Yago Passos](https://github.com/yagompassos)  |  |
 
 ### Revisão
 
