@@ -18,7 +18,9 @@ A tabela 1 lista todas as ferramentas utilizadas no projeto.
 |   <img src="../img/logos/logo_trello.png" alt="Trello" width="80"/>   |  Trello <a id="f" href="#ff">[6]</a> | O Trello é uma aplicação de gestão de projetos online. <a id="n" href="#nn">[14]</a> | Usado para a organização pessoal da equipe em relação às tarefas e demandas ao longo do projeto.  |
 |   <img src="../img/logos/logo_vscode.png" alt="VSCode" width="80"/>   |  VSCode <a id="g" href="#gg">[7]</a> | O Visual Studio Code é um editor de código-fonte. <a id="o" href="#oo">[15]</a> | Programa usado para desenvolver e administrar as modificações na GitPage do projeto.  |
 |  <img src="../img/logos/logo_whatsapp.png" alt="WhatsApp" width="80"/>  |  WhatsApp <a id="h" href="#hh">[8]</a> | O WhatsApp é um aplicativo de mensagens instantâneas e chamadas de voz para smartphones. <a id="p" href="#pp">[16]</a> | Usado para facilitar a comunicação constante entre os integrantes do grupo. |
-|   <img src="../img/logos/logo_youtube.png" alt="YouTube" width="80"/>   |  YouTube <a id="i" href="#ii">[9]</a> | O YouTube é uma plataforma de compartilhamento de vídeos. <a id="q" href="#qq">[7]</a> | Usado para hospedar as gravações do projeto.  |
+|   <img src="../img/logos/logo_youtube.png" alt="YouTube" width="80"/>   |  YouTube <a id="i" href="#ii">[9]</a> | O YouTube é uma plataforma de compartilhamento de vídeos. <a id="q" href="#qq">[17]</a> | Usado para hospedar as gravações do projeto.  |
+|   <img src="../../planejamento/img/logos/logo_sheets.png" alt="Google Sheets" width="60"/>   |  Google Sheets <a id="r" href="#rr">[18]</a> | O Google Sheets é um editor de planilhas. <a id="s" href="#ss">[19]</a> | Usado para criar tabelas auxiliares para o projeto.  |
+|   <img src="../../planejamento/img/logos/logo_forms.png" alt="Google Forms" width="60"/>   |  Google Forms <a id="t" href="#tt">[20]</a> | Google Forms é um aplicativo de gerenciamento de pesquisas,para coletar informações sobre outras pessoas. <a id="u" href="#uu">[21]</a> | Utilizado para criar e acompanhar a coleta de dados de questionários. |
 
 <div style="text-align: center">
 <p> Tabela 1: Descrição das ferramentas do projeto. (Fonte: Ana Rocha, 2023).</p>
@@ -43,6 +45,10 @@ A tabela 1 lista todas as ferramentas utilizadas no projeto.
 <a id="oo" href="#o">[15]</a> VSCODE. Disponível em: [Wikipédia](https://pt.wikipedia.org/wiki/Visual_Studio_Code). Acesso em: 03 de Dezembro de 2023.<br>
 <a id="pp" href="#p">[16]</a> WHATSAPP. Disponível em: [Wikipédia](https://pt.wikipedia.org/wiki/WhatsApp). Acesso em: 03 de Dezembro de 2023.<br>
 <a id="qq" href="#q">[17]</a> YOUTUBE. Disponível em: [Wikipédia](https://pt.wikipedia.org/wiki/YouTube). Acesso em: 03 de Dezembro de 2023.<br>
+<a id="rr" href="#r">[18]</a> GOOGLE SHEETS. Disponível em: [Google Sheets](https://docs.google.com/spreadsheets). Acesso em: 05 de Dezembro de 2023.<br>
+<a id="ss" href="#s">[19]</a> GOOGLE SHEETS. Disponível em: [Wikipédia](https://pt.wikipedia.org/wiki/Google_Sheets). Acesso em: 05 de Dezembro de 2023.<br>
+<a id="tt" href="#t">[20]</a> GOOGLE FORMS. Disponível em: [Google Forms](https://www.google.com/forms/about/). Acesso em: 05 de Dezembro de 2023.<br>
+<a id="uu" href="#u">[21]</a> GOOGLE FORMS. Disponível em: [Wikipédia](https://pt.wikipedia.org/wiki/Google_Forms). Acesso em: 05 de Dezembro de 2023.<br>
     
 ## Histórico de Versão
 
