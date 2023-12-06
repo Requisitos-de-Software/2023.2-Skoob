@@ -229,7 +229,7 @@ A tabela 4 mostra a relação das ferramentas e onde elas foram utilizadas em ca
 
 A tabela ... apresenta a relação dos vídeos correspondentes a cada etapa das apresentações, destacando também os nomes dos participantes do grupo envolvidos nas gravações.
 
-| Ponto de Controle | Membros | Gravação |
+<!-- | Ponto de Controle | Membros | Gravação |
 | :----------: | :------ | :------: |
 | 1 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/DsT5NLfh2j8" title="Entrega 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
 | 2 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/UWR8LdWP37k" title="Entrega 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
@@ -238,7 +238,7 @@ A tabela ... apresenta a relação dos vídeos correspondentes a cada etapa das 
 | 5.1 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/Jk0PC6A4-Ow" title="Entrega 5.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
 | 5.2 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/pWep9zRWyC4" title="Entrega 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
 | 6 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/wtrUfmWIC78" title="Entrega 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
-| 7 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. |  |
+| 7 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. |  | -->
 <p><b>Tabela ...</b>: Relações de apresentações (Fonte: Jefferson França, 2023).</p></div></p>
 
 ## Facilidades e Dificuldades
