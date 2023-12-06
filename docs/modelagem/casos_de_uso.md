@@ -15,37 +15,30 @@ Utilizando o software de diagramação LucidChart, elaboramos os diagramas de ca
 <p>Figura 1 - Legenda diagramas. (Fonte: Jefferson França. 2023)</p>
 </div>
 
-
-
-### Atores
-
-Em um diagrama de casos de uso, "atores" são entidades externas (como usuários ou sistemas) que interagem com o sistema para realizar ações específicas. Eles ajudam a identificar as interações essenciais entre o sistema e seu ambiente.
-
-### Cenário
-
-Em um diagrama de casos de uso, um "cenário" descreve uma sequência de eventos que ilustra como um ou mais casos de uso específicos são executados. Os cenários fornecem detalhes sobre como os atores interagem com o sistema e o que acontece em diferentes etapas de uma funcionalidade, ajudando a compreender o comportamento do sistema a partir da perspectiva do usuário.
-
-No contexto de um diagrama de casos de uso, é essencial que todos os casos de uso descritos estejam incluídos nos cenários. Caso contrário, esses casos de uso serão considerados fora do escopo do sistema
-
-### Comunicação
-
-Em um diagrama de casos de uso, "comunicação" se refere à forma como os casos de uso interagem.
-
-- "Extend" (estender) descreve cenários opcionais que ampliam um caso de uso base em circunstâncias específicas.
-- "Include" (incluir) representa funcionalidades compartilhadas por vários casos de uso, evitando duplicação.
-  
-Essas relações ajudam a organizar e tornar os diagramas mais eficientes.
+## Definição de cada ícone na legenda
 
 ### Caso de Uso
 
-Em um diagrama de casos de uso, um "caso de uso" representa uma funcionalidade ou interação específica que o sistema oferece aos usuários ou atores externos. Ele descreve o que o sistema faz, sem entrar em detalhes técnicos, e foca nas ações e interações que os atores têm com o sistema. Os casos de uso ajudam a definir os requisitos funcionais do sistema e a documentar as principais funcionalidades que o sistema deve suportar.
+Descreve uma operação ou função específica que um ator pode desempenhar no sistema. Todo caso de uso possui um título que descreve a ação que ele representa.
+
+### Atores
+
+Representam os tipos de usuários externos que interagem com o sistema. Pode ser reconhecido por um usuário, sistema ou qualquer outro componente externo no contexto da aplicação.
+
+### Sistema
+
+Descreve o sistema proposto, que é constituído por casos de uso e relações em seu contexto interno, bem como por atores em seu contexto externo.
+
+### Comunicação
+
+Representam as interações entre atores e casos de uso no sistema. Essas conexões são visualmente expressas por linhas de associação, frequentemente na forma de setas, que conectam atores aos casos de uso ou estabelecem relações entre diferentes casos de uso.
 
 ## Casos de Uso
 
 Na Figura 2, é possível analisar o diagrama de casos de uso, no qual estão representadas as atividades mais relevantes e essenciais do aplicativo. As especificações detalhadas dos casos de uso podem ser encontradas nas tabelas de 1 a 5, apresentadas logo abaixo.
 
 <p align="center">
-  <img src="../img/casos_de_uso.jpeg" alt="Casos de Uso">
+  <img src="../img/caso_de_uso.png" alt="Casos de Uso">
 </p>
 <div style="text-align: center">
 <p>Figura 2 - Diagrama de casos de uso. (Fonte: Jefferson França. 2023)</p>
