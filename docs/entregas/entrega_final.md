@@ -172,6 +172,23 @@ A tabela _ mostra a relação dos vídeos das apresentações de cada etapa (9) 
 <p> Tabela _: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
 </div>
 
+## Facilidades e Dificuldades
+
+### Shaíne Oliveira
+
+Os semestres sempre tem sido um grande desafio, em relação a esse e em específico a matéria de Requisitos de Software, as facilidades que apresentei durante o disciplina/projeto foram:
+
+- Versionamento dos artefatos e manutenabilidade do GitPages
+- Organização individual e coletiva
+- Fácil comunicação entre os integrantes do grupo
+- Grupo dedicado e ágil
+
+Em relação as dificuldades:
+
+- Gerência de tempo
+- Comunicação com cliente
+- Muitas entregas (artefatos)
+
 
 ## Bibliografia
 
