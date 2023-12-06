@@ -225,6 +225,7 @@ Em relação as dificuldades:
 | `1.3`  |    05/12/2023    |   06/12/2023    |   Seção de Ferramentas    | [Ana Caroline](https://github.com/anaaroch_)  |  |
 | `1.4`  |    06/12/2023    |   06/12/2023    |   Seção de Recursos    | [Ana Caroline](https://github.com/anaaroch_)  |  |
 | `1.5`  |    06/12/2023    |   06/12/2023    |   Seção de Métodos de V&V   | [Yago Passos](https://github.com/yagompassos)  |  |
+| `1.6`  |    06/12/2023    |   06/12/2023    |   Seção de Facilidades e Dificuldades   | [Shaíne Oliveira](https://github.com/ShaineOliveira)  |  |
 
 ### Revisão
 
