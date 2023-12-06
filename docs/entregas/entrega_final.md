@@ -7,6 +7,9 @@
 ## Introdução 
 
 ## Aplicativo Escolhido <!-- (1) -->
+O Skoob é uma rede social voltada para leitores no Brasil, que permite que o usuário organize os livros, classificando-os como "para ler", "em leitura", "lidos", "relendo" e "abandonados", de tal forma a criar uma estante virtual personalizada. O usuário também tem a possibilidade de estabelecer metas de leitura, registrar seu histórico de leitura, escrever resenhas detalhadas e atribuir avaliações aos livros, entre outras funcionalidades. Atualmente, o Skoob conta com mais de 8 milhões de usuários cadastrados, sendo disponibilizado gratuitamente para IOS e Android, além de ser acessível através do site.
+
+
 
 ## Planejamento de recursos (Cronogramas) <!-- (2) -->
 
@@ -118,7 +121,7 @@ Esse conjunto abrangente de artefatos representa o esforço coletivo do grupo ao
 ## Rewind do Projeto 
 
 ### Técnicas utilizadas na execução do projeto <!-- (5) em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas) -->
-A tabela 3 mostra a relação das técnicas foram utilizadas na execução do projeto em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada um das técnicas
+A tabela 3 mostra a relação das técnicas foram utilizadas na execução do projeto em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas:
 
 | Entrega | Artefato | Técnicas | Autores | Revisores |
 | :-----: | :------: | :------: | :-----: | :-------: |
@@ -154,16 +157,37 @@ A tabela 3 mostra a relação das técnicas foram utilizadas na execução do pr
 
 
 ### Artefatos criados no projeto <!--  (6) com revisor e autor -->
-A tabela _ mostra a relação 
+A tabela 4 mostra a relação dos artefatos criados em cada etapa do projeto com o(s) nome(s) do(s) autor(es) e revisor(es):
 
-| Atividade | Entrega | Revisão | Autor(es) | Revisor(es) |
-| :-------: | :-----: | :-----: | :-------: | :---------: |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
+| Entrega | Artefato | Autores | Revisores |
+| :-----: | :------: | :-----: | :-------: |
+| Planejamento | [Cronograma Planejado](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma/) | [Jefferson França](https://github.com/Frans6), [Shaíne Oliveira](https://github.com/ShaineOliveira), [Yago Passos](https://github.com/yagompassos) | [Rafael Amancio](https://github.com/Rafael-gc), [Ana Caroline](https://github.com/anaaroch) |
+| Planejamento | [Cronograma Executado](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma_executado/) |  [Jefferson França](https://github.com/Frans6) e [Shaíne Oliveira](https://github.com/ShaineOliveira) | [Rafael Amancio](https://github.com/Rafael-gc), [Ana Caroline](https://github.com/anaaroch), [Yago Passos](https://github.com/yagompassos) |
+| Planejamento | [Ferramentas](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/ferramentas/) | [Ana Caroline](https://github.com/anaaroch) | [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) |
+| Planejamento | [Metodologia](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/metodologia/) |  [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) | [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Rafael Amancio](https://github.com/Rafael-gc) |
+| Pré-Rastreabilidade | [Aplicativos Analisados](https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/lista_de_aplicativos/) | [Ana Caroline](https://github.com/anaaroch) | [Jefferson França](https://github.com/Frans6), [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) |
+| Pré-Rastreabilidade | [Aplicativo Escolhido](https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/aplicativo_escolhido/) |  [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Shaíne Oliveira](https://github.com/ShaineOliveira) | [Rafael Amancio](https://github.com/Rafael-gc) |
+| Elicitação de Requisitos | [Requisitos Elicitados](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/requisitos/) |  [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos | [Brainstorming](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/) |  [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos | [Observação](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/observacao/) | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+| Elicitação de Requisitos | [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/) | [Rafael Amancio](https://github.com/Rafael-gc) |[Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos (Priorização) | [First Thing First](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/first_things_first/) | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos (Priorização) | [Moscow](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/moscow/) |  [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos (Priorização) | [Three-level Scale](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/three_level_scale/) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos | [Perfil do Usuário](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/perfil_do_usuario/) |  [Ana Caroline](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6) | [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
+| Modelagem | [Cenários](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/cenarios/) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Shaíne Oliveira](https://github.com/ShaineOliveira) | [Ana Caroline](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+| Modelagem | [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/casos_de_uso/) | [Jefferson França](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
+| Modelagem | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/especificacao_suplementar/) | [Ana Caroline](https://github.com/anaaroch) | [Rafael Amancio](https://github.com/Rafael-gc) |
+| Modelagem | [Léxicos](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/lexico/) |  [Ana Caroline](https://github.com/anaaroch), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) |
+| Modelagem | [NFR Framework](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/nfr_framework/) | [Ana Caroline](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) | [Ana Caroline](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
+| Modelagem | [Backlog](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/backlog/) | [Ana Caroline](https://github.com/anaaroch) e [Rafael Amancio](https://github.com/Rafael-gc) | [Jefferson França](https://github.com/Frans6), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+| Modelagem | [Histórias de Usuários](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/user_story/) | [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) | [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) |
+| Pós-Rastreabilidade | [Backward From](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/backward/) | [Ana Caroline](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) | [Ana Caroline](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+| Pós-Rastreabilidade | [Forward From](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/forward/) | [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+| Pós-Rastreabilidade | [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/matriz/) | [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) | [Jefferson França](https://github.com/Frans6), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
 
 <div style="text-align: center">
-<p> Tabela _: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
+<p> Tabela 4: Artefatos e seus autores e revisores. (Fonte: Rafael Amancio, 2023).</p>
 </div>
 
 ### Métodos de verificação e validação dos artefatos <!--  (7) com revisor e autor -->
