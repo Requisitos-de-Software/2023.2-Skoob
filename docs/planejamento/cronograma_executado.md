@@ -126,6 +126,7 @@ A Tabela 7 mostra as atividades do Ponto de Controle 6 e as datas em que foram e
 | `1.3`  |    02/11/2023    |   04/11/2023    | Corrigindo tabela do ponto 3 e adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |  <input type="checkbox" enabled checked />    |
 | `1.4`  |    06/11/2023    |   06/11/2023    | Adicionando Tabela do ponto 4 | [Ana Rocha](https://github.com/anaaroch) |   <input type="checkbox" enabled checked />   |
 | `1.5`  |    13/11/2023    |   13/11/2023    | Adicionando Tabela do ponto 5.1 | [Ana Rocha](https://github.com/anaaroch) |   <input type="checkbox" enabled checked />   |
+| `1.6`  |    06/12/2023    |   06/12/2023    | Correção do Ponto de Controle 1 | [Ana Rocha](https://github.com/anaaroch) |   <input type="checkbox" disabled checked />   |
 
 
 ### Revisão
