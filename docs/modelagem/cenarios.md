@@ -1,7 +1,7 @@
 # Cenários
 
 ## Introdução
-Cenários são como histórias em evolução que descrevem o que acontece em um ambiente específico, destacando as interações entre as pessoas envolvidas. Geralmente, essas interações envolvem o sistema em desenvolvimento e os participantes externos, como usuários ou outros sistemas. A característica mais importante de um cenário é que ele fornece uma representação concreta de uma atividade que os usuários executam ao realizar uma tarefa específica.
+Cenários são como histórias em evolução que descrevem o que acontece em um ambiente específico, destacando as interações entre as pessoas envolvidas. Geralmente, essas interações envolvem o sistema em desenvolvimento e os participantes externos, como usuários ou outros sistemas. A característica mais importante de um cenário é que ele fornece uma representação concreta de uma atividade que os usuários executam ao realizar uma tarefa específica.<a id="a" href="#aa">[2]</a>.
 
 Esses cenários desempenham um papel crucial na fase de levantamento de requisitos de sistemas de software. Eles são usados para descrever como os usuários irão utilizar o sistema e como o sistema se conecta com outros sistemas externos. Isso ajuda a entender e identificar novos requisitos de forma eficaz.<a id="a" href="#aa">[1]</a>.
 
@@ -246,14 +246,6 @@ Uma das principais vantagens dos cenários é a detecção antecipada de problem
 <a id="aa" href="#a">[1]</a> CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. <br>
 <a id="bb" href="#a">[2]</a> VLC. Cenários. Grupo VLC da disciplina Requisitos de Software, disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios. Acesso em: 16 de outubro de 2023.
 
-## Histórico de Versão
-
-| Versão | Data       | Descrição                  | Autor(es)     | Revisor(es)     |
-| ------ | ---------- | --------------------       | ------------- | -------------   |
-        |
-| `1.6`  | 23/10/2023 | Correção de cenários     | [Ana Caroline](https://github.com/anaaroch)   |   [Shaíne](https://github.com/ShaineOliveira)    |
-| `1.7`  | 24/10/2023 | Adiciona conclusão    |[Shaíne](https://github.com/ShaineOliveira)   |  Todos  |
-
 
 ## Histórico de Versão
 
@@ -268,6 +260,8 @@ Uma das principais vantagens dos cenários é a detecção antecipada de problem
 | `1.6`  | 23/10/2023 |  24/10/2023 | Correção de cenários     | [Ana Rocha](https://github.com/anaaroch)   |    <input type="checkbox" enabled checked />      |
 | `1.7`  | 24/10/2023 |  25/10/2023 | Adiciona conclusão    |[Shaíne](https://github.com/ShaineOliveira)   |    <input type="checkbox" enabled checked />      |
 | `1.8`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
+| `1.9`  |    05/12/2023    |        06/12/2023        | Correções de formatação | [Shaíne Oliveira](https://github.com/ShaineOliveira) |    <input type="checkbox" disabled checked />      |
+
 
 ### Revisão
 
