@@ -20,9 +20,6 @@ A fase de **Modelagem**, por ser mais longa, foi dividida em 2 entregas. Na prim
 
 ### Técnicas foram utilizadas na execução do projeto <!-- (5) em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas) -->
 A tabela 3 mostra a relação das técnicas foram utilizadas na execução do projeto em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada um das técnicas
-<details>
-
-<summary>Tabela 3 </summary>
 
 | Entrega | Artefato | Técnicas | Autores | Revisores |
 | :-----: | :------: | :------: | :-----: | :-------: |
@@ -35,7 +32,7 @@ A tabela 3 mostra a relação das técnicas foram utilizadas na execução do pr
 | Elicitação de Requisitos | [Requisitos Elicitados](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/requisitos/) | Brainstorming, Introspecção e Observação | [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) |
 | Elicitação de Requisitos | [Brainstorming](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/) | Brainstorming | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
 | Elicitação de Requisitos | [Observação](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/observacao/) | Observação | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
-| Elicitação de Requisitos | [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/) | Introspecção | [Rafael Amancio](https://github.com/Rafael-gc) | Giovanni Alvissus, [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos | [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/) | Introspecção | [Rafael Amancio](https://github.com/Rafael-gc) |[Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
 | Elicitação de Requisitos (Priorização) | [First Thing First](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/first_things_first/) | First Thing First | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
 | Elicitação de Requisitos (Priorização) | [Moscow](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/moscow/) | Moscow | [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
 | Elicitação de Requisitos (Priorização) | [Three-level Scale](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/three_level_scale/) | Three-level Scale | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) |
@@ -53,8 +50,7 @@ A tabela 3 mostra a relação das técnicas foram utilizadas na execução do pr
 
 
 <div><p>Tabela 3 - Artefatos e Técnicas. (Shaíne Oliveira, 2023).</p></div>
-</details>
-<br>
+
 
 
 ### Artefatos criados no projeto <!--  (6) com revisor e autor -->
