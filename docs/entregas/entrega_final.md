@@ -48,8 +48,9 @@ A tabela 3 mostra a relação das técnicas foram utilizadas na execução do pr
 | Pós-Rastreabilidade | [Forward From](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/forward/) | Forward-From | [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
 | Pós-Rastreabilidade | [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/matriz/) | Matriz de Rastreabilidade | [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) | [Jefferson França](https://github.com/Frans6), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
 
-
-<div><p>Tabela 3 - Artefatos e Técnicas. (Shaíne Oliveira, 2023).</p></div>
+<div style="text-align: center">
+<p> Tabela 3 - Artefatos e Técnicas. (Shaíne Oliveira, 2023).</p>
+</div>
 
 
 
