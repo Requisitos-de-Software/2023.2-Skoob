@@ -10,20 +10,21 @@ Este artefato foi criado com o intuito de ser atualizado à medida que o projeto
 
 Na Tabela 1, podemos analisar como as tarefas foram distribuídas para a primeira entrega. O cronograma realizado e o planejado foram alinhados durante esta fase inicial, explicando por que eles estão iguais. Isso demonstra a eficácia do planejamento e sua implementação bem-sucedida nesta etapa inicial do projeto.
 
-|            Atividade             | Entrega | Revisão |                   Autor(es)                    |                  Revisor(es)                   |
+|            Atividade             | Início | Fim |                   Autor(es)                    |                  Revisor(es)                   |
 | :------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------------------------------------------: |
-|          Apresentações           |  17/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-|               Atas               |  17/09  |  18/09  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-|            Cronograma            |  17/09  |  18/09  |            Jefferson, Shaíne e Yago            |                  Ana Caroline                  |
-|       Cronograma Realizado       |  17/09  |  18/09  |               Jefferson e Shaíne               |                     Rafael                     |
-|              Equipe              |  17/09  |  18/09  |                Rafael Fernandes                |                   Jefferson                    |
-|           Ferramentas            |  17/09  |  18/09  |                  Ana Caroline                  |                     Shaíne                     |
-|             GitPage              |  17/09  |  18/09  |                     Rafael                     | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-|             Heatmap              |  17/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
-|   Modelo Padrão para Artefatos   |  17/09  |  18/09  |                   Jefferson                    |                     Shaíne                     |
-| Metodologia e Política de Commit |  17/09  |  18/09  |                Jefferson e Yago                |                   Jefferson                    |
-|  Rich Pictures dos Integrantes   |  17/09  |  18/09  |                  Ana e Rafael                  |                      Yago                      |
-|      Vídeo de apresentação       |  18/09  |  18/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|          Apresentações           |  18/09  |  20/09  | Shaíne e Yago | Yago |
+|               Atas               |  06/09  |  12/09  |                      Yago                      | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|            Cronograma            |  11/09  |  20/09  |            Jefferson, Shaíne e Yago            |                  Rafael                  |
+|       Cronograma Realizado       |  15/09  |  15/09  |               Jefferson e Shaíne               |                     Rafael                     |
+|              Equipe              |  07/09  |  18/09  |               Ana, Rafael e Shaíne                |                   Ana e Shaíne                    |
+|           Ferramentas            |  15/09  |  18/09  |                  Ana Caroline                  |                     Rafael e Shaíne                     |
+|             GitPage              |  06/09  |  12/09  |                     Jefferson                     | Ana Caroline, Rafael, Shaíne e Yago |
+|             Heatmap              |  06/09  |  10/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|   Modelo Padrão para Artefatos   |  05/09  |  05/09  |                   Jefferson                    |                     Yago                     |
+| Metodologia e Política de Commit |  18/09  |  29/09  |                Jefferson e Yago                |                   Shaine e Yago                    |
+|  Rich Pictures dos Integrantes   |  15/09  |  15/09  |                  Ana                  |                      Rafael e Shaine                      |
+|      Vídeo de apresentação       |  20/09  |  20/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
+|      Correções da Entrega 1       |  22/09  |  26/09  | Ana Caroline, Jefferson, Rafael, Shaíne e Yago | Ana Caroline, Jefferson, Rafael, Shaíne e Yago |
 
 <div style="text-align: center">
 <p> Tabela 1: Cronograma detalhado da primeira entrega. (Autor: Jefferson França e Shaíne, 2023).</p>
