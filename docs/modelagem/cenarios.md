@@ -260,6 +260,8 @@ Uma das principais vantagens dos cenários é a detecção antecipada de problem
 | `1.6`  | 23/10/2023 |  24/10/2023 | Correção de cenários     | [Ana Rocha](https://github.com/anaaroch)   |    <input type="checkbox" enabled checked />      |
 | `1.7`  | 24/10/2023 |  25/10/2023 | Adiciona conclusão    |[Shaíne](https://github.com/ShaineOliveira)   |    <input type="checkbox" enabled checked />      |
 | `1.8`  |    03/12/2023    |        04/12/2023        | Adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |    <input type="checkbox" disabled checked />      |
+| `1.9`  |    05/12/2023    |        06/12/2023        | Correções de formatação | [Shaíne Oliveira](https://github.com/ShaineOliveira) |    <input type="checkbox" disabled checked />      |
+
 
 ### Revisão
 
