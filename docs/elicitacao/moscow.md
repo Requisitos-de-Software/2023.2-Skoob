@@ -5,10 +5,17 @@
 A técnica de priorização MoSCoW é uma abordagem que categoriza requisitos ou tarefas em quatro grupos principais: Must-have (Deve Ter), Should-have (Deveria Ter), Could-have (Poderia Ter) e Won't-have (Não Deve Ter). Ela ajuda as equipes a identificar e priorizar o que é essencial, importante, opcional e o que não será incluído em um projeto, garantindo uma alocação eficiente de recursos e a entrega de resultados alinhados com as expectativas dos stakeholders.
 
 ## Metodologia
+Para a execução da técnica, o integrante [Yago Passos](https://github.com/yagompassos), juntamente do entrevistado Arthur Lauton, se reuniram no dia 28/11/2023 na plataforma *Discord*. A gravação da reunião está presente no vídeo 1. Aqui encontra-se o [termo de consentimento](./img/TERMO%20DE%20AUTORIZAÇÃO%20DE%20USO%20DE%20IMAGEM_Arthur.pdf) assinado pelo entrevistado.
+
+<iframe width="1000vw" height="650vh" src="https://youtube.com/embed/Ihx9GRKHKC4" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div style="text-align: center">
+<p> Vídeo 1: Gravação da execução da técnica. (Fonte: Yago Passos. 2023).</p>
+</div>
 
 ### Must-have
 
-São os requisitos prioritários/críticos para o negócio, como: normativas da bolsa de valores, informações que afetam a credibilidade da empresa, entre outros. Dessa forma, se um desses itens não for concluído, o projeto não pode ser considerado como finalizado com sucesso.
+São os requisitos prioritários/críticos para o negócio, como: normativas da bolsa de valores, informações que afetam a credibilidade da empresa, entre outros. Dessa forma, se um desses itens não for concluído, o projeto não pode ser considerado como finalizado com sucesso. 
 
 ### Should-have
 
@@ -75,11 +82,13 @@ Na tabela 1 contém a priorização dos requisitos seguindo a técnica de Moscow
 |     [BS16](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                         Deve ser possível conquistar prêmios e recompensas a partir de Desafios                  |   Would    |
 |     [BS17](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |                            Deve ser possível expor prêmios nos perfis e na TimeLine                              |   Would    |
 |     [BS18](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |   Deve ser possível receber recomendações de livros com base nas preferências literárias dos usuários            |   Could    |
+|     [BS19](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/)      |  O Skoob deve ser capaz de interoperar com outras plataformas de redes sociais, permitindo aos usuários compartilhar conteúdo.            |   Should    |
 
 
 <div style="text-align: center">
     <p> Tabela 1: Levantamento de requisitos Moscow. (Fonte: Rafael e Shaíne, 2023).</p>
 </div>
+
 
 ## Conclusão
 A priorização dos requisitos com os usuários do aplicativo Skoob, para fins de documentação, conclui que esse processo é essencial para criar uma documentação clara e eficaz, refletindo as prioridades dos usuários. Essa documentação servirá como uma valiosa referência, garantindo um alinhamento constante com as necessidades dos usuários.
@@ -95,7 +104,9 @@ A priorização dos requisitos com os usuários do aplicativo Skoob, para fins d
 | `1.0`  |    02/10/2023    |   03/10/2023    | Criação do artefato | [Shaíne](https://github.com/ShaineOliveira) | <input type="checkbox" enabled checked /> |
 | `1.1`  |    03/10/2023    |   04/10/2023    | Priorização de Requisitos | Todos | <input type="checkbox" enabled checked /> |
 | `1.2`  |    04/10/2023    |   04/10/2023    | Requisitos de outras técnicas adicionados |  [Rafael Amancio](https://github.com/Rafael-gc) | <input type="checkbox" enabled checked /> |
-| `1.3`  |    29/11/2023    |   30/11/2023    | Correções no artefato |  [Shaíne Oliveira](https://github.com/ShaineOliveira) | <input type="checkbox" disabled checked /> |
+| `1.3`  |    25/11/2023    |   28/11/2023    | Adicionando gravação da técnica |  [Yago Passos](https://github.com/yagompassos) |   <input type="checkbox" enabled checked />    |
+| `1.4`  |    29/11/2023    |   30/11/2023    | Correções no artefato |  [Shaíne Oliveira](https://github.com/ShaineOliveira) |   <input type="checkbox" enabled checked />    |
+| `1.5`  |    05/12/2023    |   06/12/2023    | Correção da tabela, adicao do bs19 |  [Yago Passos](https://github.com/yagompassos) |     |
 
 ### Revisão
 
@@ -104,3 +115,6 @@ A priorização dos requisitos com os usuários do aplicativo Skoob, para fins d
 |   03/10/2023   |    `1.0`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Rafael Amancio](https://github.com/Rafael-gc) |
 |   04/10/2023   |    `1.2`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Shaíne](https://github.com/ShaineOliveira) |
 |   24/11/2023   |    `1.2`    |   [Revisão por inspeção](../verificacao/revisoes.md)    |  [Ana Rocha](https://github.com/anaaroch) |
+|   05/12/2023   |    `1.3`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Shaíne](https://github.com/ShaineOliveira) |
+|   05/12/2023   |    `1.4`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Yago Passos](https://github.com/yagompassos) |
+
