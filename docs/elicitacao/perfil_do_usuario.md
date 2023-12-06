@@ -104,13 +104,6 @@ Após analisarmos as respostas, chegamos à conclusão de que o perfil do usuár
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |             Descrição             |                      Autor(es)                       |                     Revisor(es)                      |
-| :----: | :--------------: | :-------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato |  [Ana Rocha](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
-| `1.1`  |    04/10/2023    |   04/10/2023    | Adicionando introdução |  [Jefferson França](https://github.com/Frans6)    | [Yago Passos](https://github.com/yagompassos) |
-
-## Histórico de Versão
-
 | Versão | Data de execução | Data prevista de revisão |      Descrição      |                   Autor(es)                   | Revisado |
 | :----: | :--------------: | :----------------------: | :-----------------: | :-------------------------------------------: | :------: |
 | `1.0`  |    04/10/2023    |   04/10/2023    | Criação do artefato |  [Ana Rocha](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6)    |    <input type="checkbox" enabled checked />      |
