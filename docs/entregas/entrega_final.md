@@ -117,9 +117,9 @@ A tabela _ mostra a relação dos vídeos das apresentações de cada etapa (9) 
 
 | Versão | Data de execução | Data prevista de revisão |       Descrição      |         Autor(es)      |       Revisado          |
 | :----: | :--------------: | :-------------: | :------------------------: | :----------------: | :-----------: |
-| `1.0`  |    05/12/2023    |   dd/mm/aaaa    |   Criação do Artefato    | [Yago Passos](https://github.com/yagompassos)  |  |
-| `1.1`  |    05/12/2023    |   dd/mm/aaaa    |   Seção de Etapas    | [Yago Passos](https://github.com/yagompassos) |  |
-| `1.2`  |    dd/mm/aaaa    |   dd/mm/aaaa    |   Descrição do que foi feito    | Nome do Autor |  |
+| `1.0`  |    05/12/2023    |   06/12/2023      |   Criação do Artefato    | [Yago Passos](https://github.com/yagompassos)  |  |
+| `1.1`  |    05/12/2023    |   06/12/2023      |   Seção de Etapas    | [Yago Passos](https://github.com/yagompassos) |  |
+| `1.2`  |    05/12/2023    |   06/12/2023   |   Adiciona tabela de artefatos e técnicas     | [Shaíne Oliveira](https://github.com/ShaineOliveira) |  |
 
 ### Verificação
 
