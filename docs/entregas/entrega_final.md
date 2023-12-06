@@ -253,7 +253,7 @@ A tabela 4 mostra a relação das ferramentas e onde elas foram utilizadas em ca
 
 A tabela ... apresenta a relação dos vídeos correspondentes a cada etapa das apresentações, destacando também os nomes dos participantes do grupo envolvidos nas gravações.
 
-<!-- | Ponto de Controle | Membros | Gravação |
+| Ponto de Controle | Membros | Gravação |
 | :----------: | :------ | :------: |
 | 1 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/DsT5NLfh2j8" title="Entrega 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
 | 2 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/UWR8LdWP37k" title="Entrega 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
@@ -262,8 +262,11 @@ A tabela ... apresenta a relação dos vídeos correspondentes a cada etapa das 
 | 5.1 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/Jk0PC6A4-Ow" title="Entrega 5.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
 | 5.2 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/pWep9zRWyC4" title="Entrega 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
 | 6 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/wtrUfmWIC78" title="Entrega 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
-| 7 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. |  | -->
-<p><b>Tabela ...</b>: Relações de apresentações (Fonte: Jefferson França, 2023).</p></div></p>
+| 7 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. |  |
+
+<div style="text-align: center">
+<p> Tabela ...: Relações de apresentações (Fonte: Jefferson França, 2023).</p>
+</div>
 
 ## Facilidades e Dificuldades
 
@@ -283,7 +286,7 @@ Em relação as dificuldades:
 - Muitas entregas (artefatos)
 
 
-## Bibliografia
+<!-- ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> FIGMA. Disponível em: [Figma](https://www.figma.com/). Acesso em: 18 de Setembro de 2023.<br>
 <a id="bb" href="#b">[2]</a> GITHUB. Disponível em: [GitHub](https://github.com/). Acesso em: 15 de Setembro de 2023.<br>
@@ -319,7 +322,7 @@ Em relação as dificuldades:
 | `1.4`  |    06/12/2023    |   06/12/2023    |   Seção de Recursos    | [Ana Caroline](https://github.com/anaaroch_)  |  |
 | `1.5`  |    06/12/2023    |   06/12/2023    |   Seção de Métodos de V&V   | [Yago Passos](https://github.com/yagompassos)  |  |
 | `1.6`  |    06/12/2023    |   06/12/2023    |   Seção de Facilidades e Dificuldades   | [Shaíne Oliveira](https://github.com/ShaineOliveira)  |  |
-| `1.7`  |    06/12/2023    |   06/12/2023    |   Seção de Resultados alcançados e Tabela com os vídeos das apresentações   | [Jefferson França](https://github.com/Frans6)  |  |
+| `1.7`  |    06/12/2023    |   06/12/2023    |   Seção de Resultados alcançados e Tabela com os vídeos das apresentações   | [Jefferson França](https://github.com/Frans6)  |  | -->
 
 ### Revisão
 
