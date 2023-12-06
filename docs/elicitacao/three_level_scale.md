@@ -51,7 +51,7 @@ Vídeo 1, da gravação:
 
 Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-Level Scale.
 
-# Backlog de Funcionalidades (BS)
+## Backlog de Funcionalidades (BS)
 
 |  Id   |                                                    Descrição                                                     | Tipo  | Prioridade |
 | :---: | :--------------------------------------------------------------------------------------------------------------: | :---: | :--------: |
@@ -134,6 +134,8 @@ A técnica de Three-Level Scale foi instrumental para priorizar os requisitos de
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |
+|   16/10/2023   |    `1.0`   |    [Elaboração por Pares](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)     |  [Rafael Amancio](https://github.com/Rafael-gc) |
+|   16/10/2023   |     `1.1`   |    [Elaboração por Pares](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)     |  [Jefferson França](https://github.com/Frans6) e |
 |   16/10/2023   |    `1.0` e `1.1`   |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)     |  [Ana Rocha](https://github.com/anaaroch) |
 |   16/10/2023   |    `1.2`   |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)     |  [Yago Passos](https://github.com/yagompassos) |
 |  26/11/2023   |  Todas até a data desta revisão  |  [Revisão por inspeção](../verificacao/grupo6/three_level_scale_6.md)   | [Yago Passos](https://github.com/yagompassos) |

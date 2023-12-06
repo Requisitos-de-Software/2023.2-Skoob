@@ -294,7 +294,8 @@ Ao implementar as histórias de usuário identificadas neste artefato, espera-se
 ### Revisão
 | Data de Revisão | Cobertura de Versões |       Técnica        |                  Revisor(es)                  |
 | :-------------: | :------------------: | :------------------: | :-------------------------------------------: |
-|   04/11/2023    |        `1.0`         | Revisão por inspeção | [Yago Passos](https://github.com/yagompassos) |
-|   04/11/2023    |        `1.1`         | Elaboração em pares  | [Yago Passos](https://github.com/yagompassos) |
-|   04/11/2023    |        `1.2`         | Elaboração em pares  | [Jefferson França](https://github.com/Frans6) |
-|   04/11/2023    |        `1.3`         | Elaboração em pares  | [Jefferson França](https://github.com/Frans6) |
+|   04/11/2023    |        `1.0`         | [Revisão por inspeção](../verificacao/revisoes.md) | [Yago Passos](https://github.com/yagompassos) |
+|   04/11/2023    |        `1.1`         | [Elaboração em pares](../verificacao/revisoes.md)  | [Yago Passos](https://github.com/yagompassos) |
+|   04/11/2023    |        `1.2`         | [Elaboração em pares](../verificacao/revisoes.md)  | [Jefferson França](https://github.com/Frans6) |
+|   04/11/2023    |        `1.3`         | [Elaboração em pares](../verificacao/revisoes.md)  | [Jefferson França](https://github.com/Frans6) |
+|   25/11/2023    |      Todas até a data de revisão         | [Revisão por Inspeção](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/grupo6/historias_usuario/)  | [Rafael Amancio](https://github.com/Rafael-gc) |

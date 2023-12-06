@@ -66,3 +66,4 @@ A técnica da matriz de rastreabilidade emerge como uma ferramenta essencial no 
 | :------------: | :-------------: | :--------------------------: |  :---------------: |
 |  20/11/2023   |    `1.0`   |    [Elaboração em pares](../verificacao/revisoes.md)      | [Yago Passos](https://github.com/yagompassos) e [Rafael Amancio](https://github.com/Rafael-gc) |
 |  20/11/2023   |    `1.0`   |    [Revisão estática](../verificacao/revisoes.md)      | [Jefferson França](https://github.com/Frans6) |
+|  23/11/2023   |   Todas até a data desta revisão  |  [Revisão por inspeção](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/grupo6/matriz_6/)    | [Shaíne](https://github.com/ShaineOliveira) |

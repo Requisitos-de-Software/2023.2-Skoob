@@ -38,7 +38,7 @@ A primeira técnica, **elaboração por pares**, tem origem na técnica de verif
 
 A segunda técnica: (**revisão estática**) consiste na revisão padrão do artefato, procurando defeitos ou inconsistências, é a forma padrão proposta pelo professor André no início do semestre, utilizada por todos os demais grupos da matéria de Requisitos.
 
-A terceira técnica (**revisão por inspeção**), porém, consiste na execução da [quinta entrega](#verificação), da verificação e validação. Utilizando de uma metodologia criada por Fagan, a equipe analisa os artefatos a partir de uma checklist, criada pelos próprios membros do grupo <a id="b" href="#bb">[2]</a>. As checklists estão descritas em cada artefato de verificação da etapa de [verificação](#verificação).
+A terceira técnica (**revisão por inspeção**), porém, consiste na execução da [quinta entrega](#verificação), da verificação e validação. Utilizando de uma metodologia criada por Fagan, a equipe analisa os artefatos a partir de uma checklist, criada pelos próprios membros do grupo <a id="b" href="#bb">[2]</a>. As checklists estão descritas em cada artefato de verificação da etapa de [verificação](#Revisão).
 
 ## Resultados
 
@@ -124,9 +124,9 @@ A adoção de revisões no processo de desenvolvimento do projeto Skoob revela-s
 | Versão | Data de execução | Data prevista de revisão |       Descrição      |         Autor(es)      |       Revisado          |
 | :----: | :--------------: | :-------------: | :------------------------: | :----------------: | :-----------: |
 | `1.0`  |    12/11/2023    |   13/11/2023    |   Elaboração do artefato    | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
-| `1.1`  |    04/11/2023    |   04/12/2023    |  Resultados    | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
+| `1.1`  |    04/11/2023    |   04/12/2023    |  Resultados    | [Yago Passos](https://github.com/yagompassos) |  |
 
-### Verificação
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |

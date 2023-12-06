@@ -83,12 +83,17 @@ A segunda etapa: do **desenvolvimento** do projeto, se estendeu do final do plan
 
 A fase de **Modelagem**, por ser mais longa, foi dividida em 2 entregas. Na primeira, utilizamos os requisitos elicitados para modelar técnicas para melhorar a visualização do aplicativo e suas funcionalidades. Aqui foram desenvolvidos os artefatos de [Cenários](../../planejamento/docs/modelagem/cenarios.md), [Léxicos](../../planejamento/docs/modelagem/lexico.md), [Use Case](../../planejamento/docs/modelagem/casos_de_uso.md) e [Especificação Suplementar](../../planejamento/docs/modelagem/especificacao_suplementar.md). Na sub-etapa de modelagem Ágil, referente a entrega 4, surgiram os artefatos [História de Usuário](../../planejamento/docs/modelagem/user_story.md), [Backlog](../../planejamento/docs/modelagem/backlog.md) e [NFR Framework](../../planejamento/docs/modelagem/nfr_framework.md). Todas essas 2 entregas perduraram do dia 09/10 até 06/11.
 
+Na próxima etapa, denominada de **Verificação e Validação**, os integrantes da equipe 6 ficaram responsáveis por revisar todos os artefatos desenvolvidos até então pela nossa própria [equipe](../verificacao/grupo6/aplicativo_escolhido_6.md), bem como os da [equipe 7](../verificacao/grupo7/richpicture.md). Para isso, foi utilizado um método de Inspeção de Fagan. Porém, essa fase foi separada pela próxima fase, de **pós-rastreabilidade**, referente a entrega 6. Antes dessa entrega num período que durou entre os dias 07/11 até o dia 13/11, o grupo desenvolveu [20 artefatos](../verificacao/grupo7/richpicture.md), que verificavam todo o conteúdo das 4 primeiras entregas do [grupo 7](../verificacao/grupo7/richpicture.md). Após ela, retomamos a fase de V&V durante o período entre 20/11 até 04/12 e desenvolvemos [24 artefatos](../verificacao/grupo6/aplicativo_escolhido_6.md) que verificavam as entregas de 1 a 4, bem como a entrega 6, entregues pelo nosso grupo. Além disso, também desenvolvemos o [protótipo](../validacao/prototipagem.md) que adicionava alguns de nossos requisitos elicitados ao aplicativo Skoob e fizemos sua validação com um usuário.
+
+A última fase do projeto, da **Pós-Rastreabilidade** como posto no parágrafo anterior, perdurou entre 13/11 até 20/11. Nela, desenvolvemos os artefatos que linkavam os requisitos com suas fontes e com outros artefatos desenvolvidos com base neles. Essa etapa nos rendeu 3 artefatos, são eles: [Backwars-From](../pos_rastreabilidade/backward.md), [Forward-From](../pos_rastreabilidade/forward.md) e a [Matriz de Rastreabilidade](../pos_rastreabilidade/matriz.md).
+
+Após isso, o grupo se atentou as sugestões elaboradas na fase de elaboração entre o período 20/11 até 04/12 e se pôs a corrigir os erros existentes nos artefatos. Então, esse artefato foi desenvolvido para sumarizar todo o projeto e dar fim ao estudo da disciplina de Requisitos de Software.
 
 ## Os resultados alcançados <!-- (4) -->
 
 ## Rewind do Projeto 
 
-### Técnicas foram utilizadas na execução do projeto <!-- (5) em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas) -->
+### Técnicas utilizadas na execução do projeto <!-- (5) em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas) -->
 A tabela 3 mostra a relação das técnicas foram utilizadas na execução do projeto em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada um das técnicas
 
 | Entrega | Artefato | Técnicas | Autores | Revisores |
@@ -137,18 +142,42 @@ A tabela _ mostra a relação
 <p> Tabela _: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
 </div>
 
-### Método de verificação e validação dos artefatos <!--  (7) com revisor e autor -->
-A tabela _ mostra a relação
+### Métodos de verificação e validação dos artefatos <!--  (7) com revisor e autor -->
+A tabela 5 mostra os responsáveis pela aplicação das 3 téncicas de verificação, descrita no artefato de [revisões](../verificacao/revisoes.md), em cada artefato do projeto.
 
-| Atividade | Entrega | Revisão | Autor(es) | Revisor(es) |
-| :-------: | :-----: | :-----: | :-------: | :---------: |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
+| Artefato | Revisão estática |  Elaboração por pares  | Inspeção de Fagan |
+| :------: | :--------------: | :--------------: | :------------------: | 
+| [Cronograma Planejado](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma/) | [Rafael Amancio](https://github.com/Rafael-gc) | [Shaíne](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch) |
+| [Cronograma Executado](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma_executado/) | [Rafael Amancio](https://github.com/Rafael-gc) e [Ana Rocha](https://github.com/anaaroch) | [Jefferson França](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
+| [Ferramentas](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/ferramentas/) | [Rafael Amancio](https://github.com/Rafael-gc) e [Shaíne](https://github.com/ShaineOliveira) | - | [Shaíne](https://github.com/ShaineOliveira) |
+| [Metodologia](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/metodologia/) | [Shaíne](https://github.com/ShaineOliveira), [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6) | - | [Rafael Amancio](https://github.com/Rafael-gc)|
+| [Aplicativos Analisados](https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/lista_de_aplicativos/) | [Rafael Amancio](https://github.com/Rafael-gc) e [Shaíne](https://github.com/ShaineOliveira)  | - | [Jefferson França](https://github.com/Frans6) |
+| [Aplicativo Escolhido](https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/aplicativo_escolhido/) | [Rafael Amancio](https://github.com/Rafael-gc), [Shaíne](https://github.com/ShaineOliveira) e [Ana Rocha](https://github.com/anaaroch)  | - | [Jefferson França](https://github.com/Frans6) |
+| [Requisitos Elicitados](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/requisitos/) | [Ana Rocha](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) | - | [Shaíne](https://github.com/ShaineOliveira) |
+| [Brainstorming](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/) | [Yago Passos](https://github.com/yagompassos) e [Rafael Amancio](https://github.com/Rafael-gc) | - | [Ana Rocha](https://github.com/anaaroch) |
+| [Observação](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/observacao/) | [Ana Rocha](https://github.com/anaaroch) e [Shaíne](https://github.com/ShaineOliveira) | - | [Jefferson França](https://github.com/Frans6) |
+| [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/) | [Shaíne](https://github.com/ShaineOliveira) | - | [Yago Passos](https://github.com/yagompassos) |
+| [First Thing First](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/first_things_first/) | [Ana Rocha](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) | - | [Rafael Amancio](https://github.com/Rafael-gc) |
+| [Moscow](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/moscow/) | [Rafael Amancio](https://github.com/Rafael-gc), [Shaíne](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos)| - | [Ana Rocha](https://github.com/anaaroch) |
+| [Three-level Scale](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/three_level_scale/) | [Ana Rocha](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) | [Rafael Amancio](https://github.com/Rafael-gc) e [Jefferson França](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
+| [Perfil do Usuário](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/perfil_do_usuario/) | [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch) | [Rafael Amancio](https://github.com/Rafael-gc) |
+| [Cenários](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/cenarios/) | [Ana Rocha](https://github.com/anaaroch) e [Shaíne](https://github.com/ShaineOliveira) | - | [Jefferson França](https://github.com/Frans6) |
+| [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/casos_de_uso/) | - | - | [Yago Passos](https://github.com/yagompassos) |
+| [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/especificacao_suplementar/) | [Rafael Amancio](https://github.com/Rafael-gc) | - | [Rafael Amancio](https://github.com/Rafael-gc) |
+| [Léxicos](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/lexico/) | [Ana Rocha](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) | [Yago Passos](https://github.com/yagompassos) | [Ana Rocha](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6) |
+| [NFR Framework](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/nfr_framework/) | [Ana Rocha](https://github.com/anaaroch) e [Shaíne](https://github.com/ShaineOliveira) | - | [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
+| [Backlog](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/backlog/) | [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6) | - | [Shaíne](https://github.com/ShaineOliveira) |
+| [Histórias de Usuários](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/user_story/) | [Yago Passos](https://github.com/yagompassos) | [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6) | [Rafael Amancio](https://github.com/Rafael-gc) |
+| [Backward From](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/backward/) | [Ana Rocha](https://github.com/anaaroch) e [Shaíne](https://github.com/ShaineOliveira) | - | [Yago Passos](https://github.com/yagompassos) |
+| [Forward From](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/forward/) | [Yago Passos](https://github.com/yagompassos) e [Jefferson França](https://github.com/Frans6) | - | [Ana Rocha](https://github.com/anaaroch) e [Shaíne](https://github.com/ShaineOliveira) |
+| [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/matriz/) | [Jefferson França](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) e [Rafael Amancio](https://github.com/Rafael-gc) | [Shaíne](https://github.com/ShaineOliveira) |
+
 
 <div style="text-align: center">
-<p> Tabela _: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
+<p> Tabela 5: Artefatos e reponsáveis por cada técnica de sua verificação. (Fonte: Yago Passos, 2023).</p>
 </div>
+
+A tabela 6 mostra as técnicas de validação usadas pela equipe ao longo do projeto
 
 ### Ferramentas  <!-- (8)-->
 
@@ -185,6 +214,23 @@ A tabela _ mostra a relação dos vídeos das apresentações de cada etapa (9) 
 <p> Tabela _: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
 </div>
 
+## Facilidades e Dificuldades
+
+### Shaíne Oliveira
+
+Os semestres sempre tem sido um grande desafio, em relação a esse e em específico a matéria de Requisitos de Software, as facilidades que apresentei durante o disciplina/projeto foram:
+
+- Versionamento dos artefatos e manutenabilidade do GitPages
+- Organização individual e coletiva
+- Fácil comunicação entre os integrantes do grupo
+- Grupo dedicado e ágil
+
+Em relação as dificuldades:
+
+- Gerência de tempo
+- Comunicação com cliente
+- Muitas entregas (artefatos)
+
 
 ## Bibliografia
 
@@ -209,6 +255,7 @@ A tabela _ mostra a relação dos vídeos das apresentações de cada etapa (9) 
 <a id="ss" href="#s">[19]</a> GOOGLE SHEETS. Disponível em: [Wikipédia](https://pt.wikipedia.org/wiki/Google_Sheets). Acesso em: 05 de Dezembro de 2023.<br>
 <a id="tt" href="#t">[20]</a> GOOGLE FORMS. Disponível em: [Google Forms](https://www.google.com/forms/about/). Acesso em: 05 de Dezembro de 2023.<br>
 <a id="uu" href="#u">[21]</a> GOOGLE FORMS. Disponível em: [Wikipédia](https://pt.wikipedia.org/wiki/Google_Forms). Acesso em: 05 de Dezembro de 2023.<br>
+<a id="vv" href="#v">[22]</a> Plano de Ensino da Disciplina. Diponível em: [Aprender3](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf). Acesso em 04 de Dezembro de 2023.<br>
 
 ## Histórico de Versão
 
@@ -219,9 +266,10 @@ A tabela _ mostra a relação dos vídeos das apresentações de cada etapa (9) 
 | `1.2`  |    05/12/2023    |   06/12/2023   |   Adiciona tabela de artefatos e técnicas     | [Shaíne Oliveira](https://github.com/ShaineOliveira) |  |
 | `1.3`  |    05/12/2023    |   06/12/2023    |   Seção de Ferramentas    | [Ana Caroline](https://github.com/anaaroch_)  |  |
 | `1.4`  |    06/12/2023    |   06/12/2023    |   Seção de Recursos    | [Ana Caroline](https://github.com/anaaroch_)  |  |
-| `1.5`  |    dd/mm/aaaa    |   dd/mm/aaaa    |   Descrição do que foi feito    | Nome do Autor |  |
+| `1.5`  |    06/12/2023    |   06/12/2023    |   Seção de Métodos de V&V   | [Yago Passos](https://github.com/yagompassos)  |  |
+| `1.6`  |    06/12/2023    |   06/12/2023    |   Seção de Facilidades e Dificuldades   | [Shaíne Oliveira](https://github.com/ShaineOliveira)  |  |
 
-### Verificação
+### Revisão
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |
