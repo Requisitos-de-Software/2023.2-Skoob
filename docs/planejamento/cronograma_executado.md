@@ -119,7 +119,7 @@ A Tabela 7 mostra as atividades do Ponto de Controle 6 e as datas em que foram e
 
 | Versão | Data de execução | Data prevista de revisão |      Descrição      |                                          Autor(es)                                          | Revisado |
 | :----: | :--------------: | :-------------: | :-----------------: | :-----------------------------------------------------------------------------------------: | :---------: |
-| `1.0`  |    15/09/2023    |   16/09/2023    | Criação do artefato | [Jefferson França](https://github.com/Frans6) e [Shaíne](https://github.com/ShaineOliveira) |  <input type="checkbox" enabled checked />   | 
+| `1.0`  |    15/09/2023    |   16/09/2023    | Criação do artefato | [Shaíne](https://github.com/ShaineOliveira) |  <input type="checkbox" enabled checked />   | 
 | `1.1`  |    02/10/2023    |   04/10/2023    | Atualização do cronograma executado | [Shaíne](https://github.com/ShaineOliveira) |   <input type="checkbox" enabled checked />    |
 | `1.2`  |    17/10/2023    |   18/10/2023    | Adicionando Tabelas do ponto 2 e 3 | [Yago](https://github.com/yagompassos) |   <input type="checkbox" enabled checked />    |
 | `1.3`  |    02/11/2023    |   04/11/2023    | Corrigindo tabela do ponto 3 e adicionando tabela de revisão | [Ana Rocha](https://github.com/anaaroch) |  <input type="checkbox" enabled checked />    |
@@ -130,6 +130,7 @@ A Tabela 7 mostra as atividades do Ponto de Controle 6 e as datas em que foram e
 ### Revisão
 | Data de Revisão | Cobertura de Versões  |          Técnica         |                  Revisor(es)                  |
 | :------------: | :-------------: | :--------------------------: |  :----------------------------------------: |
+|   15/09/2023   |    `1.0`    |    [Elaboração por Pares](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)  |  [Jefferson França](https://github.com/Frans6) |
 |   04/10/2023   |    `1.1`    |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    |  [Rafael Amancio](https://github.com/yagompassos) |
 |   02/11/2023   |    `1.2`    |    [Revisão estática](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/revisoes/)    |  [Ana Rocha](https://github.com/anaaroch) |
 |   26/11/2023   |    Todas até a data desta revisão   |    [Revisão por inspeção](../verificacao/grupo6/cronograma_executado_6.md)    |  [Yago Passos](https://github.com/yagompassos) |

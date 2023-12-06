@@ -172,7 +172,7 @@ As reuniões foram agendadas para todas as segundas-feiras às 21:30h, visando a
 
 | Versão | Data de execução | Data prevista de revisão | Descrição  |   Autor(es)    |  Revisado  |
 | :----: | :--------------: | :----------------------: | :--------: | :------------: | :---------:|
-| `1.0`  |    11/09/2023    |   16/09/2023    |                  Criação do artefato                   | [Jefferson França](https://github.com/Frans6), [Shaíne](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked />    |
+| `1.0`  |    11/09/2023    |   16/09/2023    |                  Criação do artefato                   | [Jefferson França](https://github.com/Frans6) | <input type="checkbox" enabled checked />    |
 | `1.1`  |    12/09/2023    |   16/09/2023    | Atualização dos cronogramas de ponto de controle 3 e 6 |                                                [Shaíne](https://github.com/ShaineOliveira)                                                 |    <input type="checkbox" enabled checked />   |
 | `1.2`  |    15/09/2023    |   16/09/2023    |    Atualização dos cronogramas e adição do heatmap     |                       [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos)                        |   <input type="checkbox" enabled checked />    |
 | `1.2.1`  |    20/09/2023    |   20/09/2023    |    Atualização dos cronogramas      |                      [Shaíne](https://github.com/ShaineOliveira)                       |   <input type="checkbox" enabled checked />    |
@@ -183,7 +183,8 @@ As reuniões foram agendadas para todas as segundas-feiras às 21:30h, visando a
 
 | Data de Revisão | Cobertura de Versões  |   Técnica  |    Revisor(es)    |
 | :-------------: | :-------------------: | :--------: |  :--------------: |
-|   16/09/2023   |    `1.2`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Rafael Amancio](https://github.com/Rafael-gc) |
+|   16/09/2023   |    `1.0`    |   [Elaboração por Pares](../verificacao/revisoes.md)    |  [Shaíne](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+|   16/09/2023   |    `1.1` e `1.2`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Rafael Amancio](https://github.com/Rafael-gc) |
 |   20/09/2023   |    `1.2.1`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Rafael Amancio](https://github.com/Rafael-gc) |
 |   03/10/2023   |    `1.3`    |   [Revisão estática](../verificacao/revisoes.md)    |  [Rafael Amancio](https://github.com/Rafael-gc) |
 |   23/11/2023   |    `1.3`    |   [Revisão por inspeção](../verificacao/revisoes.md)    |  [Ana Rocha](https://github.com/anaaroch) |
