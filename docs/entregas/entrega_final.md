@@ -94,6 +94,30 @@ Após isso, o grupo se atentou as sugestões elaboradas na fase de elaboração 
 
 ## Os resultados alcançados <!-- (4) -->
 
+O propósito fundamental do projeto foi proporcionar uma ampliação do nosso conhecimento em requisitos de software. Todo o percurso de aprendizado foi desafiador, porém, ao final, revelou-se gratificante, pois nos tornamos mais bem preparados para nos tornar engenheiros de software.
+
+Inicialmente, passamos por uma fase crucial de planejamento, na qual tomamos decisões fundamentais, como a escolha do aplicativo que seria objeto do nosso trabalho, a definição das ferramentas a serem empregadas, a elaboração de um cronograma detalhado para garantir a fluidez do projeto, e, por último, concentrar nossos esforços no desenvolvimento do projeto.
+
+Ao longo do semestre, fomos desafiados a aplicar na prática os conhecimentos adquiridos em sala de aula, abordando aspectos como elicitação, priorização de requisitos e modelagem. Cada uma dessas etapas resultou na produção de diversos artefatos, proporcionando não apenas a assimilação dos conceitos, mas também um aprendizado significativo sobre como documentar.
+
+Na etapa final, foi imperativo conduzir uma verificação e validação abrangentes de todo o trabalho realizado. Retrocedemos em cada fase, meticulosamente analisando nossos documentos, e avaliando se estavam alinhados com os princípios que nos foram ensinados. Como um acréscimo valioso, desenvolvemos um protótipo, incorporando melhorias sugeridas pelo grupo para o aplicativo.
+
+No decorrer do projeto, nosso grupo gerou um total de 77 artefatos, distribuídos da seguinte forma:
+
+- 8 atas de reunião
+- 8 artefatos relacionados à elicitação, sendo 3 de - elicitação pura, 3 de priorização, 1 perfil do usuário e 1 abrangendo todos os requisitos
+- 1 artefato que consolidava todas as entregas
+- 1 artefato resultante da entrega final
+- 7 artefatos gerados durante o processo de modelagem
+- 5 artefatos elaborados no âmbito do planejamento
+- 2 artefatos dedicados ao aplicativo, sendo 1 voltado ao Skoob e outro abordando os aplicativos analisados
+- 24 arquivos relativos à verificação do nosso grupo
+- 16 arquivos referentes à verificação do grupo 7
+- 2 arquivos de validação
+- 3 arquivos relativos à pós-rastreabilidade
+
+Esse conjunto abrangente de artefatos representa o esforço coletivo do grupo ao longo do projeto.
+
 ## Rewind do Projeto 
 
 ### Técnicas utilizadas na execução do projeto <!-- (5) em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas) -->
@@ -226,17 +250,20 @@ A tabela 4 mostra a relação das ferramentas e onde elas foram utilizadas em ca
 </div>
 
 ### Vídeos das apresentações de cada etapa <!-- (9) com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações). -->
-A tabela _ mostra a relação dos vídeos das apresentações de cada etapa (9) com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações.
 
-| Atividade | Entrega | Revisão | Autor(es) | Revisor(es) |
-| :-------: | :-----: | :-----: | :-------: | :---------: |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
+A tabela ... apresenta a relação dos vídeos correspondentes a cada etapa das apresentações, destacando também os nomes dos participantes do grupo envolvidos nas gravações.
 
-<div style="text-align: center">
-<p> Tabela _: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
-</div>
+| Ponto de Controle | Membros | Gravação |
+| :----------: | :------ | :------: |
+| 1 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/DsT5NLfh2j8" title="Entrega 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 2 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/UWR8LdWP37k" title="Entrega 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 3 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/kDwwvS5LHeU" title="Entrega 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 4 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/jIFQEJKzOzw" title="Entrega 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 5.1 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/Jk0PC6A4-Ow" title="Entrega 5.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 5.2 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/pWep9zRWyC4" title="Entrega 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 6 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/wtrUfmWIC78" title="Entrega 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 7 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. |  |
+<p><b>Tabela ...</b>: Relações de apresentações (Fonte: Jefferson França, 2023).</p></div></p>
 
 ## Facilidades e Dificuldades
 
@@ -292,6 +319,7 @@ Em relação as dificuldades:
 | `1.4`  |    06/12/2023    |   06/12/2023    |   Seção de Recursos    | [Ana Caroline](https://github.com/anaaroch_)  |  |
 | `1.5`  |    06/12/2023    |   06/12/2023    |   Seção de Métodos de V&V   | [Yago Passos](https://github.com/yagompassos)  |  |
 | `1.6`  |    06/12/2023    |   06/12/2023    |   Seção de Facilidades e Dificuldades   | [Shaíne Oliveira](https://github.com/ShaineOliveira)  |  |
+| `1.7`  |    06/12/2023    |   06/12/2023    |   Seção de Resultados alcançados e Tabela com os vídeos das apresentações   | [Jefferson França](https://github.com/Frans6)  |  |
 
 ### Revisão
 
