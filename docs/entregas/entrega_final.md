@@ -1,11 +1,10 @@
 # Projeto Final
 
 ## Introdução 
+Após um longo semestre, a equipe 6 conclui seu projeto de forma satisfatória. Esse artefato sumariza todo o trabalho empenhado pelo grupo, na forma de textos e tabelas. As datas, artefatos e conteúdos foram baseados no que foi planejado pelo Professor André, e estão disponíveis no plano de ensino <a id="v" href="#vv">[22]</a> da disciplina.
 
 ## Aplicativo Escolhido <!-- (1) -->
 O Skoob é uma rede social voltada para leitores no Brasil, que permite que o usuário organize os livros, classificando-os como "para ler", "em leitura", "lidos", "relendo" e "abandonados", de tal forma a criar uma estante virtual personalizada. O usuário também tem a possibilidade de estabelecer metas de leitura, registrar seu histórico de leitura, escrever resenhas detalhadas e atribuir avaliações aos livros, entre outras funcionalidades. Atualmente, o Skoob conta com mais de 8 milhões de usuários cadastrados, sendo disponibilizado gratuitamente para IOS e Android, além de ser acessível através do site.
-
-
 
 ## Planejamento de recursos (Cronogramas) <!-- (2) -->
 
@@ -343,11 +342,14 @@ A disciplina demanda muito esforço e energia dos alunos para desenvolver um bom
 - Grupo se identificou, construímos uma amizade e isso ajudou no projeto
 - Grupo dedicado e ágil
 
-Em relação as dificuldades:
+As dificuldades:
 
 - Entregar as atividades de lista de exercícios enquanto foca no projeto.
 - Comunicação com usuários e com a empresa do aplicativo Skoob
 - Muitas demanda dos estudantes (muitas minuciosidades para levar em conta, além dos diversos artefatos)
+
+## Conclusão
+Em conclusão, o projeto da equipe 6 na disciplina de Requisitos de Software foi uma jornada de aprendizado prático e colaborativo. Enfrentamos desafios, mas a dedicação e adaptação às ferramentas resultaram em um trabalho satisfatório. As técnicas e ferramentas utilizadas proporcionaram uma experiência valiosa na análise e aprimoramento do aplicativo Skoob.
 
 ## Bibliografia
 
