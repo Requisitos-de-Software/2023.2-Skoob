@@ -45,8 +45,7 @@ A terceira técnica (**revisão por inspeção**), porém, consiste na execuçã
 Após implementada essa mudança, fica muito mais fácil de ver como a equipe seguiu com as revisões dos artefatos. Como uma forma de rastreabilidade, analisamos a porcentagem de revisão dos artefatos de cada entrega. Também temos os dados de quais técnicas foram mais utilizadas, o que nos proporcionou as seguintes relações:
 
 ### Entrega 1
-Nessa entrega, 100% das versões foram revisadas. A Tabela 3 mostra a relação das técnicas utilizadas com a sua frequência de uso.
-
+Nessa entrega, 92.6% das versões foram revisadas. A Tabela 3 mostra a relação das técnicas utilizadas com a sua frequência de uso.
 | Nome da técnica | Porcentagem | 
 | :----: | :--------------: | 
 | Revisão Estática |    59%   |  
@@ -109,6 +108,24 @@ Nessa entrega, 100% das versões foram revisadas. A Tabela 7 mostra a relação 
 <p> Tabela 7: Utilização das técnicas de revisão da entrega 6. (Fonte: Yago Passos, 2023).</p>
 </div>
 
+### Geral
+
+Com as novas tabelas de revisão, podemos obter os resultados do projeto referente a verificação dos artefatos: No todo, foram desenvolvidas 97 versões de artefatos durante as etapas 1, 2, 3, 4 e 6. Além disso, foram feitas um total de 80 revisões nessas etapas. (Vale lembrar que a etapa 5 não está sendo contada aqui, pois ela é uma das etapas que geraram boa parte dessas revisões). A tabela 8 demonstra a relação das datas de revisões com suas datas previstas:
+
+| Critério | Porcentagem |
+| :-------: | :-----: | 
+| Total de versões revisadas  | 89,6% (87 de 97)|
+| Revisões em dia | 43,6% |
+| Revisões Adiantadas | 8,04% |
+| Revisões Atrasadas | 48,2% |
+| Revisões estáticas | 57,5% |
+| Revisões por elaboração em pares | 12,5% |
+| Revisões por Inspeção de Fagan | 30% |
+
+<div style="text-align: center">
+<p> Tabela 8: Relação das versões e técnicas de revisão. (Fonte: Yago Passos, 2023).</p>
+</div>
+
 ## Conclusão
 
 A adoção de revisões no processo de desenvolvimento do projeto Skoob revela-se essencial para garantir a consistência e qualidade dos artefatos. A padronização do histórico de versionamento, exemplificada nas Tabelas 1 e 2, proporciona uma visão clara do progresso, reduzindo a propagação de erros e minimizando retrabalhos. As técnicas de revisão, como a elaboração por pares, revisão estática e revisão por inspeção, oferecem abordagens distintas, enriquecendo a qualidade do produto final. Este artefato delineia as escolhas da equipe para a verificação e validação, refletindo nosso comprometimento com a excelência e a transparência ao longo do ciclo de desenvolvimento.
@@ -125,6 +142,8 @@ A adoção de revisões no processo de desenvolvimento do projeto Skoob revela-s
 | :----: | :--------------: | :-------------: | :------------------------: | :----------------: | :-----------: |
 | `1.0`  |    12/11/2023    |   13/11/2023    |   Elaboração do artefato    | [Yago Passos](https://github.com/yagompassos) | <input type="checkbox" enabled checked /> |
 | `1.1`  |    04/11/2023    |   04/12/2023    |  Resultados    | [Yago Passos](https://github.com/yagompassos) |  |
+| `1.2`  |    07/12/2023    |   07/12/2023    |  Concluindo resultados de revisões | [Yago Passos](https://github.com/yagompassos)  |  |
+
 
 ### Revisão
 

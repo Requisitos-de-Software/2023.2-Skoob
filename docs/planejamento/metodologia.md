@@ -74,7 +74,7 @@ A adaptação da metodologia Scrum para o nosso projeto é uma escolha estratég
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |
-|   01/09/2023   |  `1.0` e `1.1`  |     [Revisão estática](../verificacao/revisoes.md)       | [Shaíne](https://github.com/ShaineOliveira) |
+|   01/10/2023   |  `1.0` e `1.1`  |     [Revisão estática](../verificacao/revisoes.md)       | [Shaíne](https://github.com/ShaineOliveira) |
 |   03/10/2023   |      `1.2`      |     [Revisão estática](../verificacao/revisoes.md)       | [Yago Passos](https://github.com/yagompassos) |
 |   10/10/2023   |      `1.3`      |     [Revisão estática](../verificacao/revisoes.md)       | [Jefferson França](https://github.com/Frans6) |
 |   24/11/2023   |      `1.4`      |     [Revisão por inspeção](../verificacao/revisoes.md)       | [Rafael Fernandes](https://github.com/Rafael-gc) |

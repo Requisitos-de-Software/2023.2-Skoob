@@ -3,6 +3,15 @@
 ## Introdução 
 Após um longo semestre, a equipe 6 conclui seu projeto de forma satisfatória. Esse artefato sumariza todo o trabalho empenhado pelo grupo, na forma de textos e tabelas. As datas, artefatos e conteúdos foram baseados no que foi planejado pelo Professor André, e estão disponíveis no plano de ensino <a id="v" href="#vv">[22]</a> da disciplina.
 
+## Apresentação da Entrega final
+No vídeo 1, a apresentação desse artefato, que corresponde a entrega final da disciplina.
+
+<iframe width="1000vw" height="650vh" src="https://youtube.com/embed/eb01bImeM7s" title="Apresentação Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div style="text-align: center">
+<p> Vídeo 1: Apresentação Final. (Fonte: Grupo 6. 2023).</p>
+</div>
+
 ## Aplicativo Escolhido <!-- (1) -->
 O Skoob é uma rede social voltada para leitores no Brasil, que permite que o usuário organize os livros, classificando-os como "para ler", "em leitura", "lidos", "relendo" e "abandonados", de tal forma a criar uma estante virtual personalizada. O usuário também tem a possibilidade de estabelecer metas de leitura, registrar seu histórico de leitura, escrever resenhas detalhadas e atribuir avaliações aos livros, entre outras funcionalidades. Atualmente, o Skoob conta com mais de 8 milhões de usuários cadastrados, sendo disponibilizado gratuitamente para IOS e Android, além de ser acessível através do site.
 
@@ -185,7 +194,23 @@ A tabela 3 mostra os responsáveis pela aplicação das 3 téncicas de verifica�
 <p> Tabela 3: Artefatos e reponsáveis por cada técnica de sua verificação. (Fonte: Yago Passos, 2023).</p>
 </div>
 
-Abaixo, a tabela 4 mostra quais técnicas de validação o grupo utilizou no projeto, e em quais artefatos elas se encontram.
+Com as novas tabelas de revisão, podemos obter os resultados do projeto referente a verificação dos artefatos: No todo, foram desenvolvidas 97 versões de artefatos durante as etapas 1, 2, 3, 4 e 6. Além disso, foram feitas um total de 80 revisões nessas etapas. (Vale lembrar que a etapa 5 não está sendo contada aqui, pois ela é uma das etapas que geraram boa parte dessas revisões). A tabela 4 demonstra a relação das datas de revisões com suas datas previstas:
+
+| Critério | Porcentagem |
+| :-------: | :-----: | 
+| Total de versões revisadas  | 89,6% (87 de 97)|
+| Revisões em dia | 43,6% |
+| Revisões Adiantadas | 8,04% |
+| Revisões Atrasadas | 48,2% |
+| Revisões estáticas | 57,5% |
+| Revisões por elaboração em pares | 12,5% |
+| Revisões por Inspeção de Fagan | 30% |
+
+<div style="text-align: center">
+<p> Tabela 4: Relação das versões e técnicas de revisão. (Fonte: Yago Passos, 2023).</p>
+</div>
+
+Abaixo, a tabela 5 mostra quais técnicas de validação o grupo utilizou no projeto, e em quais artefatos elas se encontram.
 
 | Artefato | Técnica |  Responsável(eis) | Revisor(es) |
 | :-------: | :-----: | :-------: | :---------: |
@@ -197,13 +222,13 @@ Abaixo, a tabela 4 mostra quais técnicas de validação o grupo utilizou no pro
 |  [Prototipagem](../validacao/prototipagem.md) |  Entrevista com usuário |  [Yago Passos](https://github.com/yagompassos)   |   [Ana Rocha](https://github.com/anaaroch)    |
 
 <div style="text-align: center">
-<p> Tabela 4: Técnicas de Validação utilizadas. (Fonte: Yago Passos, 2023).</p>
+<p> Tabela 5: Técnicas de Validação utilizadas. (Fonte: Yago Passos, 2023).</p>
 </div>
 
 
 ### Ferramentas  <!-- (8)-->
 
-A tabela 5 mostra a relação das ferramentas e onde elas foram utilizadas em cada etapa do projeto.
+A tabela 6 mostra a relação das ferramentas e onde elas foram utilizadas em cada etapa do projeto.
 
 |  Logo  |  Nome da Ferramenta  |  Descrição  |  Finalidade  | Etapa |
 |  :--:  |  :----------------:  |  :-------:  |  :--------:  | :---: |
@@ -220,12 +245,12 @@ A tabela 5 mostra a relação das ferramentas e onde elas foram utilizadas em ca
 |   <img src="../../planejamento/img/logos/logo_forms.png" alt="Google Forms" width="60"/>   |  Google Forms <a id="t" href="#tt">[20]</a> | Google Forms é um aplicativo de gerenciamento de pesquisas,para coletar informações sobre outras pessoas. <a id="u" href="#uu">[21]</a> | Utilizado para criar e acompanhar a coleta de dados do questionário para a elaboração do ṕerfil de usuários. | [2: Elicitação](../elicitacao/perfil_do_usuario.md) |
 
 <div style="text-align: center">
-<p> Tabela 5: Descrição das ferramentas do projeto. (Fonte: Ana Rocha, 2023).</p>
+<p> Tabela 6: Descrição das ferramentas do projeto. (Fonte: Ana Rocha, 2023).</p>
 </div>
 
 ### Vídeos das apresentações de cada etapa <!-- (9) com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações). -->
 
-A tabela 6 apresenta a relação dos vídeos correspondentes a cada etapa das apresentações, destacando também os nomes dos participantes do grupo envolvidos nas gravações.
+A tabela 7 apresenta a relação dos vídeos correspondentes a cada etapa das apresentações, destacando também os nomes dos participantes do grupo envolvidos nas gravações.
 
 | Ponto de Controle | Membros | Gravação |
 | :----------: | :------ | :------: |
@@ -239,7 +264,7 @@ A tabela 6 apresenta a relação dos vídeos correspondentes a cada etapa das ap
 | 7 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. |  |
 
 <div style="text-align: center">
-<p> Tabela 6: Relações de apresentações (Fonte: Jefferson França, 2023).</p>
+<p> Tabela 7: Relações de apresentações (Fonte: Jefferson França, 2023).</p>
 </div>
 
 ## Facilidades e Dificuldades
@@ -356,6 +381,7 @@ Em conclusão, o projeto da equipe 6 na disciplina de Requisitos de Software foi
 | `1.7`  |    06/12/2023    |   06/12/2023    |   Seção de Resultados alcançados e Tabela com os vídeos das apresentações   | [Jefferson França](https://github.com/Frans6)  | <input type="checkbox" enabled checked /> |
 | `1.7.1`  |    06/12/2023    |   06/12/2023    |  Correções Finais | [Yago Passos](https://github.com/yagompassos)  | <input type="checkbox" enabled checked /> |
 | `1.7.2`  |    06/12/2023    |   06/12/2023    |  Adicionando link para artefatos na seção de Recursos | [Ana Caroline](https://github.com/anaaroch_)  |  |
+| `1.8`  |    07/12/2023    |   07/12/2023    |  Concluindo resultados de revisões | [Yago Passos](https://github.com/yagompassos)  |  |
 
 ### Revisão
 

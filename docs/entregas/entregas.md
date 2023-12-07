@@ -125,9 +125,9 @@ encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 ### Revisão
 | Data de Revisão | Cobertura de Versões |       Técnica        |                  Revisor(es)                  |
 | :-------------: | :------------------: | :------------------: | :-------------------------------------------: |
-|   04/10/2023    |    `1.0` e `1.1`     | Revisão estática | [Yago Passos](https://github.com/yagompassos) |
-|   04/11/2023    |        `1.2`         | Revisão estática | [Yago Passos](https://github.com/yagompassos) |
-|   06/11/2023    |        `1.3`         | Revisão estática | [Yago Passos](https://github.com/yagompassos) |
-|   13/11/2023    |        `1.4`         | Revisão estática | [Yago Passos](https://github.com/yagompassos) |
-|   20/11/2023    |        `1.5`         | Revisão estática | [Yago Passos](https://github.com/yagompassos) |
-|   04/12/2023    |        `1.6`         | Revisão estática | [Yago Passos](https://github.com/yagompassos) |
+|   04/10/2023    |    `1.0` e `1.1`     | [Revisão estática](../verificacao/revisoes.md) | [Yago Passos](https://github.com/yagompassos) |
+|   04/11/2023    |        `1.2`         | [Revisão estática](../verificacao/revisoes.md) | [Yago Passos](https://github.com/yagompassos) |
+|   06/11/2023    |        `1.3`         | [Revisão estática](../verificacao/revisoes.md) | [Yago Passos](https://github.com/yagompassos) |
+|   13/11/2023    |        `1.4`         | [Revisão estática](../verificacao/revisoes.md) | [Yago Passos](https://github.com/yagompassos) |
+|   20/11/2023    |        `1.5`         | [Revisão estática](../verificacao/revisoes.md) | [Yago Passos](https://github.com/yagompassos) |
+|   04/12/2023    |        `1.6`         | [Revisão estática](../verificacao/revisoes.md) | [Yago Passos](https://github.com/yagompassos) |
