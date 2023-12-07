@@ -39,7 +39,7 @@ Por fim, foram atribuídos ID's únicos para cada requisito, funcional e não fu
 |     IN15      |                                     Deve ser possível filtrar livros por categoria                                      |       RF       |
 |     IN16      |                A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial                |       RNF      |
 |     IN17      |                      Deve ser possível fazer cadastro/login com as credenciais do facebook                       |       RNF      |
-|     IN18      |                       Deve ser possível obter o aplicativo em qualquer sistema operacional                       |       RNF      |
+|     IN18      |                       Deve ser possível obter o aplicativo em sistemas IOS e Android                       |       RNF      |
 |     IN19    |                       Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos                       |   RNF  |
 |     IN20    |           O Skoob deve ser capaz de se adaptar a diferentes tamanhos de tela e resoluções                        |     RNF  |
 

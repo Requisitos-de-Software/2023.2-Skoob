@@ -400,7 +400,7 @@ As tabelas de número 3 a 24, contém informações sobre a pós rastreabilidade
 <p>Tabela 24 - Rastreabilidade do IN16. (Fonte: Jefferson França. 2023)</p>
 </div>
 
-|          IN18           |                         Deve ser possível obter o aplicativo em qualquer sistema operacional                         |
+|          IN18           |                         Deve ser possível obter o aplicativo em sistemas IOS e Android                         |
 | :---------------------: | :------------------------------------------------------------------------------------------------------------------: |
 |          Épico          | [Épico 5 - Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md) |
 |          Tema           |      [Autenticação](https://github.com/Requisitos-de-Software/2023.2-Skoob/blob/main/docs/modelagem/backlog.md)      |

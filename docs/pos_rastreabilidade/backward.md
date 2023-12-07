@@ -91,7 +91,7 @@ A Tabela 2 engloba todos os [Requisitos Não-Funcionais Elicitados](./../elicita
 | :------:| :-------: | :-------------: | :----------: |
 |  RNF01  | A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial | [IN16](./../elicitacao/introspeccao.md#requisitos-elicitados)  | Não |
 |  RNF02  | Deve ser possível fazer cadastro/login com as credenciais do facebook | [IN17](./../elicitacao/introspeccao.md#requisitos-elicitados) | Sim |
-|  RNF03  | Deve ser possível obter o aplicativo em qualquer sistema operacional | [IN18](./../elicitacao/introspeccao.md#requisitos-elicitados) | Sim |
+|  RNF03  | Deve ser possível obter o aplicativo em sistemas IOS e Android | [IN18](./../elicitacao/introspeccao.md#requisitos-elicitados) | Sim |
 |  RNF04  | Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos | [IN19](./../elicitacao/introspeccao.md#requisitos-elicitados) | Sim |
 |  RNF05  | O Skoob deve ser capaz de se adaptar a diferentes tamanhos de tela e resoluções | [IN20](./../elicitacao/introspeccao.md#requisitos-elicitados) | Sim |
 |  RNF06  | O Skoob deve ser capaz de interoperar com outras plataformas de redes sociais, permitindo aos usuários compartilhar conteúdo | [BS19](./../elicitacao/brainstorming.md#Tabela2) | Sim |

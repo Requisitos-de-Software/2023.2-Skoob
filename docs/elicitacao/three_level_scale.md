@@ -103,7 +103,7 @@ Na tabela 2, temos os requisitos já priorizados de acordo com a técnica Three-
 | IN15  |                                     Deve ser possível filtrar livros por categoria                               | RF15  |   Média    |
 | IN16  |               A senha deve conter no mínimo um número, uma letra maiúscula e um caractere especial               | RNF01 |    Alta    |
 | IN17  |                      Deve ser possível fazer cadastro/login com as credenciais do Facebook                       | RNF02 |   Média    |
-| IN18  |                       Deve ser possível obter o aplicativo em qualquer sistema operacional                       | RNF03 |    Alta    |
+| IN18  |                       Deve ser possível obter o aplicativo em sistemas IOS e Android                       | RNF03 |    Alta    |
 | IN19  |      Os dados do usuário devem ser guardados de forma eficaz, impendindo o vazamento dos mesmos                  |   RNF04   |  Alta    |   
 | IN20  |              O Skoob deve ser capaz de se adaptar a diferentes tamanhos de tela e resoluções                       |   RNF06  |  Média    |  
 

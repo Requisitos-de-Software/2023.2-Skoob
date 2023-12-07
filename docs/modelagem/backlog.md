@@ -53,7 +53,7 @@
 | IN02 | Deve ser possível recuperar a senha                                                 | [IN](../elicitacao/introspeccao.md)       |
 | IN16 | A senha deve conter no mínimo um número uma letra maiúscula e um caracter especial  | [IN](../elicitacao/introspeccao.md)       |
 | IN17 | Deve ser possível fazer cadastro/login com as credenciais do facebook               | [IN](../elicitacao/introspeccao.md)       |
-| IN18 | Deve ser possível obter o aplicativo em qualquer sistema operacional                | [IN](../elicitacao/introspeccao.md)       |
+| IN18 | Deve ser possível obter o aplicativo em sistemas IOS e Android                | [IN](../elicitacao/introspeccao.md)       |
 | BS07 | Deve existir um FAQ para guiar os usuários nas funcionalidades                | [BS](../elicitacao/brainstorming.md)      |
 | BS08 | Deve ser possível alterar o tema (escuro/claro/variantes)               | [BS](../elicitacao/brainstorming.md)      |
 
