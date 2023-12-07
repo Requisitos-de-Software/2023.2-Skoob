@@ -290,7 +290,7 @@ Já em relação às dificuldades, enfrentei alguns obstáculos, tais como:
 - Conciliar as demandas da disciplina com outras responsabilidades.
 - Coordenação de tarefas das últimas etapas, para garantir o cumprimento dos prazos.
 
-## Jefferson França
+### Jefferson França
 
 A disciplina foi bastante proveitosa, proporcionando um significativo aprendizado e um notável progresso em minha jornada rumo à carreira de engenheiro de software. Como em qualquer coisa na vida, enfrentei alguns desafios, mas também encontrei aspectos positivos que me deixaram satisfeito, tais como:
 
