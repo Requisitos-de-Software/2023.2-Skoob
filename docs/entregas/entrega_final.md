@@ -320,6 +320,21 @@ Em relação as dificuldades:
 - Comunicação com cliente
 - Muitas entregas (artefatos)
 
+### Rafael Amancio
+
+Facilidades:
+
+- Conhecimento prévio sobre a disciplina
+- Já realizei outro projeto como esse
+- O grupo é produtivo e divertido, tornando o semestre mais leve
+
+Dificuldades:
+
+- Me matriculei em muitas disciplinas, pretendo não repetir essa carga nos próximos semestres
+- Gestão de tempo
+- Muitas entregas em curtos intervalos
+
+
 ### Yago Passos
 
 A disciplina demanda muito esforço e energia dos alunos para desenvolver um bom projeto, as facilidades que tive:
