@@ -285,6 +285,9 @@ Em relação as dificuldades:
 - Comunicação com cliente
 - Muitas entregas (artefatos)
 
+### Rafael Amancio
+Por já ter feito essa disciplina eu tinha conhecimento prévio do que seria pedido no projeto, isso foi um grande facilitador. Porém, o semestre curto somado com a grande quantidade de disciplinas que peguei resultaram em uma dificuldade de gestão de tempo. Nas semanas mais difíceis, com altas demandas de diferentes disciplinas, o apoio e o planejamento do grupo foram essenciais. Portanto, agradeço imensamente a todos meus companheiros de equipe.
+
 
 <!-- ## Bibliografia
 
