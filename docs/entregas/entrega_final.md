@@ -291,6 +291,20 @@ Já em relação às dificuldades, enfrentei alguns obstáculos, tais como:
 - Conciliar as demandas da disciplina com outras responsabilidades.
 - Coordenação de tarefas das últimas etapas, para garantir o cumprimento dos prazos.
 
+## Jefferson França
+
+A disciplina foi bastante proveitosa, proporcionando um significativo aprendizado e um notável progresso em minha jornada rumo à carreira de engenheiro de software. Como em qualquer coisa na vida, enfrentei alguns desafios, mas também encontrei aspectos positivos que me deixaram satisfeito, tais como:
+
+- Uma equipe entusiasmada e dedicada.
+- Conteúdo envolvente e divertido.
+- Um esforço coletivo notável por parte de todos os membros do grupo.
+
+Quanto às dificuldades, destaco:
+
+- O número reduzido de integrantes, o que se mostrou desafiador para um projeto extenso e exigente.
+- A dificuldade em conciliar as demandas do trabalho com as responsabilidades acadêmicas, uma tarefa que, sem dúvida, não é fácil.
+- A corrida diária para cumprir prazos e entregar todas as tarefas exigiu um esforço adicional.
+
 ### Shaíne Oliveira
 
 Os semestres sempre tem sido um grande desafio, em relação a esse e em específico a matéria de Requisitos de Software, as facilidades que apresentei durante o disciplina/projeto foram:
@@ -320,7 +334,7 @@ Em relação as dificuldades:
 - Comunicação com usuários e com a empresa do aplicativo Skoob
 - Muitas demanda dos estudantes (muitas minuciosidades para levar em conta, além dos diversos artefatos)
 
-<!-- ## Bibliografia
+## Bibliografia
 
 <a id="aa" href="#a">[1]</a> FIGMA. Disponível em: [Figma](https://www.figma.com/). Acesso em: 18 de Setembro de 2023.<br>
 <a id="bb" href="#b">[2]</a> GITHUB. Disponível em: [GitHub](https://github.com/). Acesso em: 15 de Setembro de 2023.<br>
@@ -356,7 +370,7 @@ Em relação as dificuldades:
 | `1.4`  |    06/12/2023    |   06/12/2023    |   Seção de Recursos    | [Ana Caroline](https://github.com/anaaroch_)  |  |
 | `1.5`  |    06/12/2023    |   06/12/2023    |   Seção de Métodos de V&V   | [Yago Passos](https://github.com/yagompassos)  |  |
 | `1.6`  |    06/12/2023    |   06/12/2023    |   Seção de Facilidades e Dificuldades   | [Shaíne Oliveira](https://github.com/ShaineOliveira)  |  |
-| `1.7`  |    06/12/2023    |   06/12/2023    |   Seção de Resultados alcançados e Tabela com os vídeos das apresentações   | [Jefferson França](https://github.com/Frans6)  |  | -->
+| `1.7`  |    06/12/2023    |   06/12/2023    |   Seção de Resultados alcançados e Tabela com os vídeos das apresentações   | [Jefferson França](https://github.com/Frans6)  |  |
 
 ### Revisão
 
