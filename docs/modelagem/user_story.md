@@ -260,7 +260,7 @@ Após a especificação de cada história, o avaliador Yago se reuniu com o usu�
     - Os temas selecionados devem ser aplicados consistentemente em todas as telas e páginas do aplicativo.
   - **Validez:** Validado pelo usuário
 
-### Validação das histórias de usuário
+## Validação das histórias de usuário
 
 O Vídeo 1, presente a seguir, contém o conteúdo da reunião de validação com o usuário Thales Vieira, que leu e consentiu com o [termo de consentimento e uso de imagem](./img/TERMO%20DE%20AUTORIZAÇÃO%20DE%20USO%20DE%20IMAGEM%20THALES.pdf)
 
@@ -297,5 +297,4 @@ Ao implementar as histórias de usuário identificadas neste artefato, espera-se
 |   04/11/2023    |        `1.0`         | [Revisão por inspeção](../verificacao/revisoes.md) | [Yago Passos](https://github.com/yagompassos) |
 |   04/11/2023    |        `1.1`         | [Elaboração em pares](../verificacao/revisoes.md)  | [Yago Passos](https://github.com/yagompassos) |
 |   04/11/2023    |        `1.2`         | [Elaboração em pares](../verificacao/revisoes.md)  | [Jefferson França](https://github.com/Frans6) |
-|   04/11/2023    |        `1.3`         | [Elaboração em pares](../verificacao/revisoes.md)  | [Jefferson França](https://github.com/Frans6) |
 |   25/11/2023    |      Todas até a data de revisão         | [Revisão por Inspeção](https://requisitos-de-software.github.io/2023.2-Skoob/verificacao/grupo6/historias_usuario/)  | [Rafael Amancio](https://github.com/Rafael-gc) |
