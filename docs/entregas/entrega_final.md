@@ -99,7 +99,7 @@ Na etapa final, foi imperativo conduzir uma verificação e validação abrangen
 
 No decorrer do projeto, nosso grupo gerou um total de 77 artefatos, distribuídos da seguinte forma:
 
-- 8 atas de reunião
+- 9 atas de reunião
 - 8 artefatos relacionados à elicitação, sendo 3 de - elicitação pura, 3 de priorização, 1 perfil do usuário e 1 abrangendo todos os requisitos
 - 1 artefato que consolidava todas as entregas
 - 1 artefato resultante da entrega final
@@ -107,7 +107,7 @@ No decorrer do projeto, nosso grupo gerou um total de 77 artefatos, distribuído
 - 5 artefatos elaborados no âmbito do planejamento
 - 2 artefatos dedicados ao aplicativo, sendo 1 voltado ao Skoob e outro abordando os aplicativos analisados
 - 24 arquivos relativos à verificação do nosso grupo
-- 16 arquivos referentes à verificação do grupo 7
+- 20 arquivos referentes à verificação do grupo 7
 - 2 arquivos de validação
 - 3 arquivos relativos à pós-rastreabilidade
 
