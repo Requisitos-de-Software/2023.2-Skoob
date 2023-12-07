@@ -1,7 +1,3 @@
-<!-- 
-[Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6), [Rafael Amancio](https://github.com/Rafael-gc), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos)
--->
-
 # Projeto Final
 
 ## Introdução 
@@ -269,6 +265,18 @@ A tabela ... apresenta a relação dos vídeos correspondentes a cada etapa das 
 </div>
 
 ## Facilidades e Dificuldades
+
+### Ana Rocha
+
+Durante a disciplina de Requisitos de Software, encontrei diferentes facilidades e desafios. Entre as facilidades, posso destacar:
+
+- Colaboração eficiente entre os membros do grupo.
+- Boa adaptação ao uso das ferramentas de documentação, utilizada na Git Pages.
+
+Já em relação às dificuldades, enfrentei alguns obstáculos, tais como:
+
+- Conciliar as demandas da disciplina com outras responsabilidades.
+- Coordenação de tarefas das últimas etapas, para garantir o cumprimento dos prazos.
 
 ### Shaíne Oliveira
 
