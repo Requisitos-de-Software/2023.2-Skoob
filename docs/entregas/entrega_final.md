@@ -1,12 +1,11 @@
-<!-- 
-[Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6), [Rafael Amancio](https://github.com/Rafael-gc), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos)
--->
-
 # Projeto Final
 
 ## Introdução 
 
 ## Aplicativo Escolhido <!-- (1) -->
+O Skoob é uma rede social voltada para leitores no Brasil, que permite que o usuário organize os livros, classificando-os como "para ler", "em leitura", "lidos", "relendo" e "abandonados", de tal forma a criar uma estante virtual personalizada. O usuário também tem a possibilidade de estabelecer metas de leitura, registrar seu histórico de leitura, escrever resenhas detalhadas e atribuir avaliações aos livros, entre outras funcionalidades. Atualmente, o Skoob conta com mais de 8 milhões de usuários cadastrados, sendo disponibilizado gratuitamente para IOS e Android, além de ser acessível através do site.
+
+
 
 ## Planejamento de recursos (Cronogramas) <!-- (2) -->
 
@@ -91,10 +90,34 @@ Após isso, o grupo se atentou as sugestões elaboradas na fase de elaboração 
 
 ## Os resultados alcançados <!-- (4) -->
 
+O propósito fundamental do projeto foi proporcionar uma ampliação do nosso conhecimento em requisitos de software. Todo o percurso de aprendizado foi desafiador, porém, ao final, revelou-se gratificante, pois nos tornamos mais bem preparados para nos tornar engenheiros de software.
+
+Inicialmente, passamos por uma fase crucial de planejamento, na qual tomamos decisões fundamentais, como a escolha do aplicativo que seria objeto do nosso trabalho, a definição das ferramentas a serem empregadas, a elaboração de um cronograma detalhado para garantir a fluidez do projeto, e, por último, concentrar nossos esforços no desenvolvimento do projeto.
+
+Ao longo do semestre, fomos desafiados a aplicar na prática os conhecimentos adquiridos em sala de aula, abordando aspectos como elicitação, priorização de requisitos e modelagem. Cada uma dessas etapas resultou na produção de diversos artefatos, proporcionando não apenas a assimilação dos conceitos, mas também um aprendizado significativo sobre como documentar.
+
+Na etapa final, foi imperativo conduzir uma verificação e validação abrangentes de todo o trabalho realizado. Retrocedemos em cada fase, meticulosamente analisando nossos documentos, e avaliando se estavam alinhados com os princípios que nos foram ensinados. Como um acréscimo valioso, desenvolvemos um protótipo, incorporando melhorias sugeridas pelo grupo para o aplicativo.
+
+No decorrer do projeto, nosso grupo gerou um total de 77 artefatos, distribuídos da seguinte forma:
+
+- 8 atas de reunião
+- 8 artefatos relacionados à elicitação, sendo 3 de - elicitação pura, 3 de priorização, 1 perfil do usuário e 1 abrangendo todos os requisitos
+- 1 artefato que consolidava todas as entregas
+- 1 artefato resultante da entrega final
+- 7 artefatos gerados durante o processo de modelagem
+- 5 artefatos elaborados no âmbito do planejamento
+- 2 artefatos dedicados ao aplicativo, sendo 1 voltado ao Skoob e outro abordando os aplicativos analisados
+- 24 arquivos relativos à verificação do nosso grupo
+- 16 arquivos referentes à verificação do grupo 7
+- 2 arquivos de validação
+- 3 arquivos relativos à pós-rastreabilidade
+
+Esse conjunto abrangente de artefatos representa o esforço coletivo do grupo ao longo do projeto.
+
 ## Rewind do Projeto 
 
 ### Técnicas utilizadas na execução do projeto <!-- (5) em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas) -->
-A tabela 3 mostra a relação das técnicas foram utilizadas na execução do projeto em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada um das técnicas
+A tabela 3 mostra a relação das técnicas foram utilizadas na execução do projeto em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas:
 
 | Entrega | Artefato | Técnicas | Autores | Revisores |
 | :-----: | :------: | :------: | :-----: | :-------: |
@@ -129,16 +152,37 @@ A tabela 3 mostra a relação das técnicas foram utilizadas na execução do pr
 
 
 ### Artefatos criados no projeto <!--  (6) com revisor e autor -->
-A tabela _ mostra a relação 
+A tabela 4 mostra a relação dos artefatos criados em cada etapa do projeto com o(s) nome(s) do(s) autor(es) e revisor(es):
 
-| Atividade | Entrega | Revisão | Autor(es) | Revisor(es) |
-| :-------: | :-----: | :-----: | :-------: | :---------: |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
+| Entrega | Artefato | Autores | Revisores |
+| :-----: | :------: | :-----: | :-------: |
+| Planejamento | [Cronograma Planejado](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma/) | [Jefferson França](https://github.com/Frans6), [Shaíne Oliveira](https://github.com/ShaineOliveira), [Yago Passos](https://github.com/yagompassos) | [Rafael Amancio](https://github.com/Rafael-gc), [Ana Caroline](https://github.com/anaaroch) |
+| Planejamento | [Cronograma Executado](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/cronograma_executado/) |  [Jefferson França](https://github.com/Frans6) e [Shaíne Oliveira](https://github.com/ShaineOliveira) | [Rafael Amancio](https://github.com/Rafael-gc), [Ana Caroline](https://github.com/anaaroch), [Yago Passos](https://github.com/yagompassos) |
+| Planejamento | [Ferramentas](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/ferramentas/) | [Ana Caroline](https://github.com/anaaroch) | [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) |
+| Planejamento | [Metodologia](https://requisitos-de-software.github.io/2023.2-Skoob/planejamento/metodologia/) |  [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) | [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Rafael Amancio](https://github.com/Rafael-gc) |
+| Pré-Rastreabilidade | [Aplicativos Analisados](https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/lista_de_aplicativos/) | [Ana Caroline](https://github.com/anaaroch) | [Jefferson França](https://github.com/Frans6), [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) |
+| Pré-Rastreabilidade | [Aplicativo Escolhido](https://requisitos-de-software.github.io/2023.2-Skoob/pre_rastreabilidade/aplicativo_escolhido/) |  [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Shaíne Oliveira](https://github.com/ShaineOliveira) | [Rafael Amancio](https://github.com/Rafael-gc) |
+| Elicitação de Requisitos | [Requisitos Elicitados](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/requisitos/) |  [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos | [Brainstorming](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/brainstorming/) |  [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos | [Observação](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/observacao/) | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+| Elicitação de Requisitos | [Introspecção](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/introspeccao/) | [Rafael Amancio](https://github.com/Rafael-gc) |[Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos (Priorização) | [First Thing First](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/first_things_first/) | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos (Priorização) | [Moscow](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/moscow/) |  [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos (Priorização) | [Three-level Scale](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/three_level_scale/) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Rafael Amancio](https://github.com/Rafael-gc) | [Ana Caroline](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos) |
+| Elicitação de Requisitos | [Perfil do Usuário](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/perfil_do_usuario/) |  [Ana Caroline](https://github.com/anaaroch) e [Jefferson França](https://github.com/Frans6) | [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
+| Modelagem | [Cenários](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/cenarios/) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Shaíne Oliveira](https://github.com/ShaineOliveira) | [Ana Caroline](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+| Modelagem | [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/casos_de_uso/) | [Jefferson França](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
+| Modelagem | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/especificacao_suplementar/) | [Ana Caroline](https://github.com/anaaroch) | [Rafael Amancio](https://github.com/Rafael-gc) |
+| Modelagem | [Léxicos](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/lexico/) |  [Ana Caroline](https://github.com/anaaroch), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) |
+| Modelagem | [NFR Framework](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/nfr_framework/) | [Ana Caroline](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) | [Ana Caroline](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
+| Modelagem | [Backlog](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/backlog/) | [Ana Caroline](https://github.com/anaaroch) e [Rafael Amancio](https://github.com/Rafael-gc) | [Jefferson França](https://github.com/Frans6), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+| Modelagem | [Histórias de Usuários](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/user_story/) | [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) | [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) |
+| Pós-Rastreabilidade | [Backward From](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/backward/) | [Ana Caroline](https://github.com/anaaroch) e [Shaíne Oliveira](https://github.com/ShaineOliveira) | [Ana Caroline](https://github.com/anaaroch), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+| Pós-Rastreabilidade | [Forward From](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/forward/) | [Jefferson França](https://github.com/Frans6) e [Yago Passos](https://github.com/yagompassos) | [Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos) |
+| Pós-Rastreabilidade | [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-Skoob/pos_rastreabilidade/matriz/) | [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) | [Jefferson França](https://github.com/Frans6), [Rafael Amancio](https://github.com/Rafael-gc) e [Yago Passos](https://github.com/yagompassos) |
 
 <div style="text-align: center">
-<p> Tabela _: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
+<p> Tabela 4: Artefatos e seus autores e revisores. (Fonte: Rafael Amancio, 2023).</p>
 </div>
 
 ### Métodos de verificação e validação dos artefatos <!--  (7) com revisor e autor -->
@@ -215,19 +259,37 @@ A tabela 4 mostra a relação das ferramentas e onde elas foram utilizadas em ca
 </div>
 
 ### Vídeos das apresentações de cada etapa <!-- (9) com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações). -->
-A tabela _ mostra a relação dos vídeos das apresentações de cada etapa (9) com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações.
 
-| Atividade | Entrega | Revisão | Autor(es) | Revisor(es) |
-| :-------: | :-----: | :-----: | :-------: | :---------: |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
-|   texto   |  texto  |  texto  |   texto   |    texto    |
+A tabela ... apresenta a relação dos vídeos correspondentes a cada etapa das apresentações, destacando também os nomes dos participantes do grupo envolvidos nas gravações.
+
+| Ponto de Controle | Membros | Gravação |
+| :----------: | :------ | :------: |
+| 1 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/DsT5NLfh2j8" title="Entrega 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 2 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/UWR8LdWP37k" title="Entrega 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 3 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/kDwwvS5LHeU" title="Entrega 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 4 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/jIFQEJKzOzw" title="Entrega 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 5.1 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/Jk0PC6A4-Ow" title="Entrega 5.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 5.2 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/pWep9zRWyC4" title="Entrega 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 6 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. | <iframe width="300vw" height="200vh" src="https://www.youtube.com/embed/wtrUfmWIC78" title="Entrega 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> |
+| 7 | Ana Caroline, Jefferson França, Rafael Fernandes, Shaíne Oliveira, Yago Passos. |  |
 
 <div style="text-align: center">
-<p> Tabela _: Exemplo de Tabela. (Fonte: Jefferson França, 2023).</p>
+<p> Tabela ...: Relações de apresentações (Fonte: Jefferson França, 2023).</p>
 </div>
 
 ## Facilidades e Dificuldades
+
+### Ana Rocha
+
+Durante a disciplina de Requisitos de Software, encontrei diferentes facilidades e desafios. Entre as facilidades, posso destacar:
+
+- Colaboração eficiente entre os membros do grupo.
+- Boa adaptação ao uso das ferramentas de documentação, utilizada na Git Pages.
+
+Já em relação às dificuldades, enfrentei alguns obstáculos, tais como:
+
+- Conciliar as demandas da disciplina com outras responsabilidades.
+- Coordenação de tarefas das últimas etapas, para garantir o cumprimento dos prazos.
 
 ### Shaíne Oliveira
 
@@ -258,7 +320,7 @@ Em relação as dificuldades:
 - Comunicação com usuários e com a empresa do aplicativo Skoob
 - Muitas demanda dos estudantes (muitas minuciosidades para levar em conta, além dos diversos artefatos)
 
-## Bibliografia
+<!-- ## Bibliografia
 
 <a id="aa" href="#a">[1]</a> FIGMA. Disponível em: [Figma](https://www.figma.com/). Acesso em: 18 de Setembro de 2023.<br>
 <a id="bb" href="#b">[2]</a> GITHUB. Disponível em: [GitHub](https://github.com/). Acesso em: 15 de Setembro de 2023.<br>
@@ -294,6 +356,7 @@ Em relação as dificuldades:
 | `1.4`  |    06/12/2023    |   06/12/2023    |   Seção de Recursos    | [Ana Caroline](https://github.com/anaaroch_)  |  |
 | `1.5`  |    06/12/2023    |   06/12/2023    |   Seção de Métodos de V&V   | [Yago Passos](https://github.com/yagompassos)  |  |
 | `1.6`  |    06/12/2023    |   06/12/2023    |   Seção de Facilidades e Dificuldades   | [Shaíne Oliveira](https://github.com/ShaineOliveira)  |  |
+| `1.7`  |    06/12/2023    |   06/12/2023    |   Seção de Resultados alcançados e Tabela com os vídeos das apresentações   | [Jefferson França](https://github.com/Frans6)  |  | -->
 
 ### Revisão
 
