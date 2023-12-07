@@ -388,6 +388,7 @@ Em conclusão, o projeto da equipe 6 na disciplina de Requisitos de Software foi
 | `1.5`  |    06/12/2023    |   06/12/2023    |   Seção de Métodos de V&V   | [Yago Passos](https://github.com/yagompassos)  |  |
 | `1.6`  |    06/12/2023    |   06/12/2023    |   Seção de Facilidades e Dificuldades   | [Shaíne Oliveira](https://github.com/ShaineOliveira)  |  |
 | `1.7`  |    06/12/2023    |   06/12/2023    |   Seção de Resultados alcançados e Tabela com os vídeos das apresentações   | [Jefferson França](https://github.com/Frans6)  |  |
+| `1.7.1`  |    06/12/2023    |   06/12/2023    |  Correções Finais | [Yago Passos](https://github.com/yagompassos)  |  |
 
 ### Revisão
 
