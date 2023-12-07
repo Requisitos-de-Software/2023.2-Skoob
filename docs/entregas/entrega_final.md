@@ -1,7 +1,3 @@
-<!-- 
-[Ana Caroline](https://github.com/anaaroch), [Jefferson França](https://github.com/Frans6), [Rafael Amancio](https://github.com/Rafael-gc), [Shaíne Oliveira](https://github.com/ShaineOliveira) e [Yago Passos](https://github.com/yagompassos)
--->
-
 # Projeto Final
 
 ## Introdução 
@@ -155,7 +151,6 @@ A tabela 3 mostra a relação das técnicas foram utilizadas na execução do pr
 </div>
 
 
-
 ### Artefatos criados no projeto <!--  (6) com revisor e autor -->
 A tabela 4 mostra a relação dos artefatos criados em cada etapa do projeto com o(s) nome(s) do(s) autor(es) e revisor(es):
 
@@ -191,7 +186,7 @@ A tabela 4 mostra a relação dos artefatos criados em cada etapa do projeto com
 </div>
 
 ### Métodos de verificação e validação dos artefatos <!--  (7) com revisor e autor -->
-A tabela 5 mostra os responsáveis pela aplicação das 3 téncicas de verificação, descrita no artefato de [revisões](../verificacao/revisoes.md), em cada artefato do projeto.
+A tabela 5 mostra os responsáveis pela aplicação das 3 téncicas de verificação, descrita no artefato de [revisões](../verificacao/revisoes.md), em cada artefato do projeto. Vale lembrar que os responsáveis pelas inspeções de Fagan também foram os responsáveis pela criação da própria checklist que utilizaram para efetuar a técnica.
 
 | Artefato | Revisão estática |  Elaboração por pares  | Inspeção de Fagan |
 | :------: | :--------------: | :--------------: | :------------------: | 
@@ -225,7 +220,21 @@ A tabela 5 mostra os responsáveis pela aplicação das 3 téncicas de verifica�
 <p> Tabela 5: Artefatos e reponsáveis por cada técnica de sua verificação. (Fonte: Yago Passos, 2023).</p>
 </div>
 
-A tabela 6 mostra as técnicas de validação usadas pela equipe ao longo do projeto
+Abaixo, a tabela 6 mostra quais técnicas de validação o grupo utilizou no projeto, e em quais artefatos elas se encontram.
+
+| Artefato | Técnica |  Responsável(eis) | Revisor(es) |
+| :-------: | :-----: | :-------: | :---------: |
+|  [Brainstorming](../elicitacao/brainstorming.md)  | Entrevista com usuário |  [Ana Rocha](https://github.com/anaaroch) e [Yago Passos](https://github.com/yagompassos)   |   [Rafael Amancio](https://github.com/Rafael-gc)    |
+|  [First Thing First](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/first_things_first/)  | Entrevista com usuário|  [Ana Rocha](https://github.com/anaaroch)  |  [Jefferson França](https://github.com/Frans6) e [Shaíne](https://github.com/ShaineOliveira)  |
+|  [Moscow](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/moscow/)  |  Entrevista com usuário |  [Yago Passos](https://github.com/yagompassos)  |   [Shaíne](https://github.com/ShaineOliveira)    |
+|  [Three-level Scale](https://requisitos-de-software.github.io/2023.2-Skoob/elicitacao/three_level_scale/) | Entrevista com usuário | [Jefferson França](https://github.com/Frans6) e [Shaíne](https://github.com/ShaineOliveira)  |    [Ana Rocha](https://github.com/anaaroch)   |
+|  [Histórias de Usuários](https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/user_story/) |  Entrevista com usuário | [Yago Passos](https://github.com/yagompassos)  |   [Rafael Amancio](https://github.com/Rafael-gc)  |
+|  [Prototipagem](../validacao/prototipagem.md) |  Entrevista com usuário |  [Yago Passos](https://github.com/yagompassos)   |   [Ana Rocha](https://github.com/anaaroch)    |
+
+<div style="text-align: center">
+<p> Tabela 6: Técnicas de Validação utilizadas. (Fonte: Yago Passos, 2023).</p>
+</div>
+
 
 ### Ferramentas  <!-- (8)-->
 
@@ -270,6 +279,18 @@ A tabela ... apresenta a relação dos vídeos correspondentes a cada etapa das 
 
 ## Facilidades e Dificuldades
 
+### Ana Rocha
+
+Durante a disciplina de Requisitos de Software, encontrei diferentes facilidades e desafios. Entre as facilidades, posso destacar:
+
+- Colaboração eficiente entre os membros do grupo.
+- Boa adaptação ao uso das ferramentas de documentação, utilizada na Git Pages.
+
+Já em relação às dificuldades, enfrentei alguns obstáculos, tais como:
+
+- Conciliar as demandas da disciplina com outras responsabilidades.
+- Coordenação de tarefas das últimas etapas, para garantir o cumprimento dos prazos.
+
 ### Shaíne Oliveira
 
 Os semestres sempre tem sido um grande desafio, em relação a esse e em específico a matéria de Requisitos de Software, as facilidades que apresentei durante o disciplina/projeto foram:
@@ -286,8 +307,33 @@ Em relação as dificuldades:
 - Muitas entregas (artefatos)
 
 ### Rafael Amancio
-Por já ter feito essa disciplina eu tinha conhecimento prévio do que seria pedido no projeto, isso foi um grande facilitador. Porém, o semestre curto somado com a grande quantidade de disciplinas que peguei resultaram em uma dificuldade de gestão de tempo. Nas semanas mais difíceis, com altas demandas de diferentes disciplinas, o apoio e o planejamento do grupo foram essenciais. Portanto, agradeço imensamente a todos meus companheiros de equipe.
 
+Facilidades:
+
+- Conhecimento prévio sobre a disciplina
+- Já realizei outro projeto como esse
+- O grupo é produtivo e divertido, tornando o semestre mais leve
+
+Dificuldades:
+
+- Me matriculei em muitas disciplinas, pretendo não repetir essa carga nos próximos semestres
+- Gestão de tempo
+- Muitas entregas em curtos intervalos
+
+
+### Yago Passos
+
+A disciplina demanda muito esforço e energia dos alunos para desenvolver um bom projeto, as facilidades que tive:
+
+- Padronização parecida com disciplina de IHC
+- Grupo se identificou, construímos uma amizade e isso ajudou no projeto
+- Grupo dedicado e ágil
+
+Em relação as dificuldades:
+
+- Entregar as atividades de lista de exercícios enquanto foca no projeto.
+- Comunicação com usuários e com a empresa do aplicativo Skoob
+- Muitas demanda dos estudantes (muitas minuciosidades para levar em conta, além dos diversos artefatos)
 
 <!-- ## Bibliografia
 
@@ -331,4 +377,7 @@ Por já ter feito essa disciplina eu tinha conhecimento prévio do que seria ped
 
 | Data de Revisão | Cobertura de Versões  |          Técnica         |     Revisor(es)    |
 | :------------: | :-------------: | :--------------------------: |  :---------------: |
-<!-- |   dd/mm/aaaa   |    `1.0`   |    [Elaboração em pares](../verificacao/revisoes.md)      |  Nome do Revisor | -->
+|   05/12/2023   |    `1.0` e `1.1`   |    [Revisão estática](../verificacao/revisoes.md)      |  [Shaíne Oliveira](https://github.com/ShaineOliveira) |
+|   05/12/2023   |    `1.2`   |    [Revisão estática](../verificacao/revisoes.md)      |  [Ana Caroline](https://github.com/anaaroch_) |
+|   06/12/2023   |    `1.3` e `1.4`   |    [Revisão estática](../verificacao/revisoes.md)      |  [Yago Passos](https://github.com/yagompassos) |
+|   05/12/2023   |    `1.5`   |    [Revisão estática](../verificacao/revisoes.md)      |  [Shaíne Oliveira](https://github.com/ShaineOliveira) |
